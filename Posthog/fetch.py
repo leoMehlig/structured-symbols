@@ -22,6 +22,7 @@ def fetch_events(day: datetime.date) -> dict:
     headers = {'Authorization': 'Bearer {}'.format(api_key)}
 
     url = '{}/api/event?event=Icon%20Selected&after={}&before={}'.format(posthog_scheme_and_host, day.date().isoformat(), (day + timedelta(days=1)).date().isoformat())
+    print(url)
 
     while 1:
         query = urlparse(url).query
@@ -36,9 +37,12 @@ def fetch_events(day: datetime.date) -> dict:
             j_res = res.json()
             _data = j_res['results']
 
-            yield _data
-            
-            if 'next' in j_res:
+            if len(_data) > 0:
+                yield _data
+            else:
+                break
+
+            if 'next' in j_res and not j_res['next'] is None:
                 url = j_res['next']
             else:
                 break
@@ -77,6 +81,7 @@ class TaskQueue(Queue):
 # %%
 def run(day):
     path = 'data/{}.csv'.format(day.date().isoformat())
+    print(path)
     for data in fetch_events(day):
         df = pandas.DataFrame(pandas.json_normalize(data))
         events = df[["properties.title", "properties.$language", "properties.icon", "id", "timestamp"]]
@@ -92,9 +97,12 @@ start_date = datetime(2022, 5, 16)
 
 for offset in range(30):
     day = start_date - timedelta(days=offset)
-    queue.add_task(run, day)
+    if day.day not in [7, 9, 13, 15]:
+        queue.add_task(run, day)
 
 
 
+queue.join()
 
+print("Done!")
 # %%
