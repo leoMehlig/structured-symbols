@@ -12,6 +12,7 @@ import pandas
 import requests
 from threading import Thread
 from queue import Queue 
+import os
 
 # %%
 posthog_scheme_and_host = 'https://posthog.structured.app'
@@ -22,7 +23,6 @@ def fetch_events(day: datetime.date) -> dict:
     headers = {'Authorization': 'Bearer {}'.format(api_key)}
 
     url = '{}/api/event?event=Icon%20Selected&after={}&before={}'.format(posthog_scheme_and_host, day.date().isoformat(), (day + timedelta(days=1)).date().isoformat())
-    print(url)
 
     while 1:
         query = urlparse(url).query
@@ -36,7 +36,7 @@ def fetch_events(day: datetime.date) -> dict:
         if res.status_code == 200:
             j_res = res.json()
             _data = j_res['results']
-
+            print("Loaded {} for {} ({})".format(len(_data), day.date().isoformat(), urlparse(url).query))
             if len(_data) > 0:
                 yield _data
             else:
@@ -81,24 +81,28 @@ class TaskQueue(Queue):
 # %%
 def run(day):
     path = 'data/{}.csv'.format(day.date().isoformat())
-    print(path)
-    for data in fetch_events(day):
-        df = pandas.DataFrame(pandas.json_normalize(data))
-        events = df[["properties.title", "properties.$language", "properties.icon", "id", "timestamp"]]
-        print('Loaded {} events on {}'.format(len(events), day.date().isoformat()))
-        events.to_csv(path, mode='a', index=False, header=False)
+    if os.path.exists(path):
+        print("Skipping", day.date().isoformat())
+    else:
+        print("Starting", day.date().isoformat())
+        for data in fetch_events(day):
+            df = pandas.DataFrame(pandas.json_normalize(data))
+            events = df[["properties.title", "properties.$language", "properties.icon", "id", "timestamp"]]
+            # print('Loaded {} events on {}'.format(len(events), day.date().isoformat()))
+            events.to_csv(path, mode='a', index=False, header=False)
+        print("Finished", day.date().isoformat())
 
 
 # %%
 
-queue = TaskQueue(num_workers=5)
+queue = TaskQueue(num_workers=3)
 
 start_date = datetime(2022, 5, 16)
 
 for offset in range(30):
     day = start_date - timedelta(days=offset)
-    if day.day not in [7, 9, 13, 15]:
-        queue.add_task(run, day)
+    print("Adding", day.date().isoformat())
+    queue.add_task(run, day)
 
 
 
