@@ -8,13 +8,13 @@ struct Entry: Codable {
 //    let languages: [String]?
 }
 
-let url = URL(fileURLWithPath: "/Users/leo/Developer/Today/today-analytics/Icons/predefined_icons_learn.json")
+let url = URL(fileURLWithPath: "/Users/leo/Developer/Today/structured-symbols/Prepare/predefined_icons_learn.json")
 
 let data = try! Data(contentsOf: url)
 
 
 
-let url2 = URL(fileURLWithPath: "/Users/leo/Developer/Today/today-analytics/Icons/user_icons_learn.json")
+let url2 = URL(fileURLWithPath: "/Users/leo/Developer/Today/structured-symbols/Prepare/user_icons_learn.json")
 
 let data2 = try! Data(contentsOf: url2)
 
@@ -77,7 +77,7 @@ for (language, data) in trainingData {
     print("\(icons.count) data points for \(language.rawValue)")
 
 
-    let url =  URL(fileURLWithPath: "/Users/leo/Developer/Today/today-analytics/IconModel\(language.rawValue.uppercased()).mlmodel")
+    let url =  URL(fileURLWithPath: "/Users/leo/Developer/Today/structured-symbols/IconModel\(language.rawValue.uppercased()).mlmodel")
 
     let model = try! MLWordEmbedding(dictionary: icons)
     try! model.write(to: url)

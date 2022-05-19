@@ -1,4 +1,5 @@
 # %%
+from ast import arg
 import copy
 from datetime import datetime
 from datetime import timedelta
@@ -73,33 +74,32 @@ class TaskQueue(Queue):
 
     def worker(self):
         while True:
-            tupl = self.get()
             item, args, kwargs = self.get()
-            item(*args, **kwargs)  
+            item(*args, **kwargs)
             self.task_done()
 
 # %%
 def run(day):
     path = 'data/{}.csv'.format(day.date().isoformat())
-    if os.path.exists(path):
-        print("Skipping", day.date().isoformat())
-    else:
-        print("Starting", day.date().isoformat())
-        for data in fetch_events(day):
-            df = pandas.DataFrame(pandas.json_normalize(data))
-            events = df[["properties.title", "properties.$language", "properties.icon", "id", "timestamp"]]
-            # print('Loaded {} events on {}'.format(len(events), day.date().isoformat()))
-            events.to_csv(path, mode='a', index=False, header=False)
-        print("Finished", day.date().isoformat())
+    # if os.path.exists(path):
+    #     print("Skipping", day.date().isoformat())
+    # else:
+    #     print("Starting", day.date().isoformat())
+    for data in fetch_events(day):
+        df = pandas.DataFrame(pandas.json_normalize(data))
+        events = df[["properties.title", "properties.$language", "properties.icon", "id", "timestamp"]]
+        # print('Loaded {} events on {}'.format(len(events), day.date().isoformat()))
+        events.to_csv(path, mode='a', index=False, header=False)
+    print("Finished", day.date().isoformat())
 
 
 # %%
 
 queue = TaskQueue(num_workers=3)
 
-start_date = datetime(2022, 5, 16)
+start_date = datetime(2022, 1, 27)
 
-for offset in range(30):
+for offset in range(1):
     day = start_date - timedelta(days=offset)
     print("Adding", day.date().isoformat())
     queue.add_task(run, day)
