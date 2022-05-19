@@ -37,6 +37,7 @@ alarm.fill,ᴍᴏʀɴɪɴɢ ♡
 alarm.fill,☀️
 alarm.fill,一节生理
 alarm.fill,上堂
+alarm.fill,交作业
 alarm.fill,出發
 alarm.fill,出門了！
 alarm.fill,出門倒數
@@ -794,6 +795,7 @@ book.fill,read
 book.fill,read position paper
 book.fill,reading
 book.fill,recite words
+book.fill,report
 book.fill,review u2
 book.fill,ss find resourses + intro
 book.fill,stoic&studyplan
@@ -1164,6 +1166,7 @@ book.fill,学英语
 book.fill,学语法
 book.fill,學今天想學的
 book.fill,學校
+book.fill,學習
 book.fill,學習英文拼音
 book.fill,學習英文拼音 （1.5小時）
 book.fill,學術討論
@@ -1198,6 +1201,7 @@ book.fill,小红薯🍠更新
 book.fill,小考
 book.fill,工作
 book.fill,工作加油
+book.fill,工作💻
 book.fill,巫鸿《武梁祠》
 book.fill,师弟为何那样
 book.fill,常识
@@ -1907,6 +1911,7 @@ book.fill,预习BUS303 L6
 book.fill,预习K24
 book.fill,预习呼吸系统疾病
 book.fill,预习政治第一课
+book.fill,预习数学
 book.fill,预习新一课
 book.fill,预习语文
 book.fill,预习金融法
@@ -2156,6 +2161,7 @@ calendar,上课
 calendar,今天事項確認、明日事項排入（TT、固定、項目、零碎）、反思與自我照顧、晚間維他命確認、娛樂
 calendar,关注CATTI报名
 calendar,养老账户归并的通知
+calendar,写日记日程
 calendar,写计划
 calendar,初三：吕思翰
 calendar,初三：林雯星
@@ -2462,6 +2468,7 @@ chevron.left.slash.chevron.right,Leetcode
 chevron.left.slash.chevron.right,Master Draft Plan
 chevron.left.slash.chevron.right,Performance enhancement
 chevron.left.slash.chevron.right,Program Learning [C++]
+chevron.left.slash.chevron.right,Python
 chevron.left.slash.chevron.right,[SP] Check Related ASIN
 chevron.left.slash.chevron.right,[SP] Check User#756 Velocity
 chevron.left.slash.chevron.right,to Do List 程式碼練習
@@ -3243,6 +3250,7 @@ custom.hairdryer,刑诉
 custom.hairdryer,午睡
 custom.hairdryer,吹头
 custom.hairdryer,吹头发
+custom.hairdryer,吹頭護髮
 custom.hairdryer,吹頭髮
 custom.hairdryer,吹頭髮+腳
 custom.hairdryer,工作
@@ -3558,6 +3566,7 @@ custom.shower,刷牙洗脸
 custom.shower,剪头发
 custom.shower,吃药+洗漱+给猫喂饭
 custom.shower,吃饭&洗澡
+custom.shower,回家洗澡
 custom.shower,回家洗澡換衣服
 custom.shower,快啲去沖涼啊！
 custom.shower,护肤
@@ -3752,6 +3761,7 @@ custom.sit,設備基礎
 custom.sit,課前集會
 custom.sit,走走
 custom.sit,针灸甲乙经
+custom.sit,開始課堂
 custom.sit,静心
 custom.sit,马列新闻观
 custom.toothbrush,Doing houseworks
@@ -4073,6 +4083,7 @@ desktopcomputer,看新闻
 desktopcomputer,看日报
 desktopcomputer,看电影
 desktopcomputer,看电视
+desktopcomputer,看电视&吃午饭
 desktopcomputer,看电视（学习历史）
 desktopcomputer,看纪录片
 desktopcomputer,看自主學習影片
@@ -4892,6 +4903,7 @@ figure.walk,做运动
 figure.walk,做運動
 figure.walk,健身
 figure.walk,健身30min
+figure.walk,備齊 耳機、出發
 figure.walk,全真-藍波
 figure.walk,减肥
 figure.walk,出去玩
@@ -5369,6 +5381,7 @@ globe,复习地理
 globe,夏日一線☀️會議
 globe,外国文学史
 globe,大综合
+globe,学习10个六下单词
 globe,学习地理知识
 globe,学习编程知识
 globe,學習數據分析
@@ -6567,6 +6580,7 @@ mdi.bus,公車Time睡覺或背單字
 mdi.bus,出发
 mdi.bus,出发去医院
 mdi.bus,出門
+mdi.bus,出门
 mdi.bus,去万象城
 mdi.bus,去机场
 mdi.bus,回家
@@ -7223,6 +7237,8 @@ mdi.school,初数-空间几何体
 mdi.school,初数-空间解析几何整理错题
 mdi.school,初数-空间解析几何练习➕整理错题
 mdi.school,初数-空间解析几何跟课小测
+mdi.school,初数-第三章不等式
+mdi.school,初数-第三章测试卷
 mdi.school,初数-第三章测试卷整理
 mdi.school,初数-等差数列2、3
 mdi.school,初数-等差数列练习
@@ -7310,6 +7326,7 @@ mdi.school,学业能量注入⏳
 mdi.school,学业能量注入🏫
 mdi.school,学习
 mdi.school,学习 （看数学）
+mdi.school,学习&写寒假作业
 mdi.school,学习+ 宵夜
 mdi.school,学习MS
 mdi.school,学习catti
@@ -7767,6 +7784,7 @@ mdi.twitter,跳舞啦
 mdi.twitter,运动
 mdi.twitter,逛推
 mdi.wheelchair,B: 晚饭
+mdi.wheelchair,中班
 mdi.wheelchair,南屯拜土地公
 mdi.wheelchair,噗噗
 mdi.wheelchair,干饭人冲鸭
@@ -8200,6 +8218,7 @@ newspaper.fill,文概（六）
 newspaper.fill,文献
 newspaper.fill,文献检索作业
 newspaper.fill,早自习
+newspaper.fill,早读
 newspaper.fill,时事新闻
 newspaper.fill,晚自习
 newspaper.fill,更新 blog 學員心得
@@ -9435,6 +9454,7 @@ pencil.and.outline,经济法基础-第六章练习整理
 pencil.and.outline,经济法基础-第四章
 pencil.and.outline,经济法基础-第四章第san节
 pencil.and.outline,经济法基础-第四章第一节
+pencil.and.outline,经济法基础-第四章第三节
 pencil.and.outline,经济法基础-第四章第三节消费税1
 pencil.and.outline,经济法基础-第四章第三节消费税2
 pencil.and.outline,经济法基础-第四章第二节
@@ -10026,6 +10046,7 @@ play.rectangle.fill,教资科二
 play.rectangle.fill,新闻学概论
 play.rectangle.fill,明偵
 play.rectangle.fill,曼達洛人 S2
+play.rectangle.fill,服裝 拍攝OF
 play.rectangle.fill,毒梟：墨西哥
 play.rectangle.fill,毒梟：墨西哥 S3
 play.rectangle.fill,毛中特
@@ -11026,6 +11047,7 @@ tag.fill,背单词
 tag.fill,自习室
 tag.fill,自由安排
 tag.fill,英语六级刷题
+tag.fill,补数理化《同类题手册》➕笔记📒
 tag.fill,記帳
 tag.fill,購物
 tag.fill,预防题库
@@ -11168,6 +11190,7 @@ text.badge.checkmark,背词条
 text.badge.checkmark,腰、肩颈、腿
 text.badge.checkmark,自主学习
 text.badge.checkmark,自修室
+text.badge.checkmark,自由
 text.badge.checkmark,自由时间
 text.badge.checkmark,英文paper 1
 text.badge.checkmark,英语3
@@ -11751,6 +11774,7 @@ wand.and.stars,拖地
 wand.and.stars,拿甲片
 wand.and.stars,提醒Magen TBC BB RT 優惠
 wand.and.stars,收拾房间
+wand.and.stars,整理及消毒教具
 wand.and.stars,整理房间
 wand.and.stars,整甲
 wand.and.stars,敷面膜
@@ -11792,6 +11816,7 @@ wand.and.stars,稿
 wand.and.stars,纹样设计
 wand.and.stars,练习手绘
 wand.and.stars,绘画握笔姿势总结
+wand.and.stars,美甲
 wand.and.stars,背单词
 wand.and.stars,脱毛
 wand.and.stars,臉臉

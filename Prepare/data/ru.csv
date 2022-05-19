@@ -109,6 +109,7 @@ atom,Домашнее задание
 atom,Йога
 atom,Лимфо прыжки
 atom,Медитация
+atom,Медитация вечер
 atom,Наука
 atom,Отдых от гаджетов
 atom,Пересмотреть урок по химии «Химическая связь. Кристаллические решётки»
@@ -244,6 +245,7 @@ book.fill,Informatik üben +lernen + alles wiederholen
 book.fill,Linq на почте и буссу англ посмотреть
 book.fill,Read
 book.fill,Read book
+book.fill,Reading
 book.fill,Reading & yoga
 book.fill,Reading book
 book.fill,School
@@ -579,6 +581,7 @@ cart.fill,сходить за продуктами
 chart.bar.fill,Excel
 chart.bar.fill,MPSTAT
 chart.bar.fill,Поделать задачки
+chart.bar.fill,Работа
 chart.bar.fill,Свободное время
 chart.bar.fill,Спортпит
 chart.bar.fill,ТУЛГА ПЕРВЫЙ ТУР
@@ -842,6 +845,7 @@ custom.dumbbell,workout
 custom.dumbbell,Аня
 custom.dumbbell,Бассейн
 custom.dumbbell,"Валик, зарядка для спины, йога."
+custom.dumbbell,Гимнастика
 custom.dumbbell,Две тренировки
 custom.dumbbell,Жаттығу жасау
 custom.dumbbell,Зал
@@ -1247,6 +1251,7 @@ desktopcomputer,Sql exercises 20
 desktopcomputer,Tris
 desktopcomputer,Zennoposter
 desktopcomputer,gilmore girls
+desktopcomputer,hm - um inf - 4
 desktopcomputer,stream
 desktopcomputer,Геншин
 desktopcomputer,Дз по мировой экономике
@@ -1850,6 +1855,7 @@ heart.fill,Ламинирование ресниц
 heart.fill,Мамочка
 heart.fill,Маникюр
 heart.fill,Маникюр 💅🏻 14.30
+heart.fill,Маска
 heart.fill,Массаж 💆🏻‍♀️
 heart.fill,Массаж.
 heart.fill,Медитация
@@ -2318,6 +2324,7 @@ mdi.running,Утренние упражнения
 mdi.running,Утренняя зарядка
 mdi.running,Физические упражнения
 mdi.running,Эрик - Ice Fights
+mdi.running,выйти и не опоздать
 mdi.running,гонка
 mdi.running,план работы crouqant
 mdi.running,разминка и йога
@@ -3566,6 +3573,7 @@ tv.fill,Подготовка к ЕНТ 📑📚📘🥺
 tv.fill,Поиграть в комп
 tv.fill,Посмотреть фильм
 tv.fill,Посмотреть фильм «Патерсон»
+tv.fill,Просмотр сериала
 tv.fill,Просмотр фильма
 tv.fill,Работа
 tv.fill,Работа в колледже

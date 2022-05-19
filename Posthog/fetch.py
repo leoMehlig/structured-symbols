@@ -97,9 +97,9 @@ def run(day):
 
 queue = TaskQueue(num_workers=3)
 
-start_date = datetime(2022, 1, 27)
+start_date = datetime(2021, 10, 30)
 
-for offset in range(1):
+for offset in range(90):
     day = start_date - timedelta(days=offset)
     print("Adding", day.date().isoformat())
     queue.add_task(run, day)

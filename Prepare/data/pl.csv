@@ -165,6 +165,7 @@ atom,angielski
 atom,bio układy książka 3
 atom,biochemia -wykład
 atom,biologia
+atom,chemia - zadanie domowe korki
 atom,chemia zadania maturalne
 atom,finanse 🧠
 atom,fizyka
@@ -453,6 +454,7 @@ book.fill,Hiszpański na kartkówkę
 book.fill,Hot Girl Study 👩🏼‍💻
 book.fill,Immunologia
 book.fill,Inny świat
+book.fill,J.polski
 book.fill,Japoński nauka
 book.fill,Jeśli wystarczy czasu to matematyka
 book.fill,Język angielski
@@ -1414,6 +1416,7 @@ custom.chemistry,biologia
 custom.chemistry,chemia
 custom.chemistry,chemia - zadanie z matur UJ
 custom.chemistry,laby
+custom.chemistry,liczby kwantowe - powtórka
 custom.chemistry,nauka
 custom.chemistry,nauka biochemii
 custom.chemistry,nauka na chemię
@@ -1835,6 +1838,7 @@ custom.lipstick,Get ready
 custom.lipstick,Kosmetyczka
 custom.lipstick,Krem
 custom.lipstick,Laminacja brwi
+custom.lipstick,Magda rzesy
 custom.lipstick,Make up
 custom.lipstick,Make up i włosy
 custom.lipstick,Makeup
@@ -2563,6 +2567,7 @@ figure.walk,Bieganko
 figure.walk,Bieżnia
 figure.walk,Biwak
 figure.walk,Cardio
+figure.walk,Do auchan
 figure.walk,Droga
 figure.walk,Droga do pracy
 figure.walk,Droga do szkoły
@@ -2710,6 +2715,7 @@ film.fill,Zanieść klisze do fotografa
 film.fill,film
 film.fill,kino
 film.fill,netflix time
+flag.fill,Angielski
 flag.fill,Dzień Flagi Rzeczypospolitej Polskiej
 flag.fill,Golf
 flag.fill,Historia
@@ -2751,6 +2757,7 @@ gamecontroller.fill,Granie
 gamecontroller.fill,Granie w gry
 gamecontroller.fill,Granie 🪐❤️‍🔥
 gamecontroller.fill,Gry
+gamecontroller.fill,Gry z Frankiem
 gamecontroller.fill,Odbierz postać
 gamecontroller.fill,Odpocznij
 gamecontroller.fill,Odpoczynek
@@ -2769,6 +2776,7 @@ gamecontroller.fill,granie
 gamecontroller.fill,gry
 gamecontroller.fill,przerwa
 gamecontroller.fill,simsy
+gamecontroller.fill,trening koni
 gearshape.2.fill,Aparat na zęby
 gearshape.2.fill,Meble
 gearshape.2.fill,Odkurzyć pokój
@@ -2946,6 +2954,7 @@ heart.fill,Mama
 heart.fill,Masaż twarzy
 heart.fill,Mateusz
 heart.fill,Medytacja
+heart.fill,Michał
 heart.fill,Miesięcznica
 heart.fill,Mistrzostwa Okręgu
 heart.fill,Modlitwa
@@ -2967,6 +2976,7 @@ heart.fill,Piotrek nocka
 heart.fill,Piotrek szkoła
 heart.fill,Poczytaj książkę
 heart.fill,Posprzątaj pokój
+heart.fill,Posprzątaj w kuchni
 heart.fill,Posprzątać mieszkanie
 heart.fill,Powitać dzień
 heart.fill,Powiększanie ust
@@ -3303,6 +3313,7 @@ leaf.fill,przygotować się
 leaf.fill,spakowac sie
 leaf.fill,Śniadanie
 lightbulb.fill,Inwokacja
+lightbulb.fill,Michał 2 zmiana
 lightbulb.fill,Nauka angielskiego
 lightbulb.fill,Search for a course
 lightbulb.fill,Uczelnia
@@ -3528,6 +3539,7 @@ mdi.relax,Czas wolny
 mdi.relax,Czytanie Książki
 mdi.relax,Domowe spa
 mdi.relax,Face routine
+mdi.relax,Fizjoterapia
 mdi.relax,Geografia turystyczna
 mdi.relax,Joga
 mdi.relax,Joga + toaleta
@@ -3776,6 +3788,7 @@ mdi.school,Matma poprawa
 mdi.school,Matura
 mdi.school,Matura próbna
 mdi.school,Mały książę przypomnienie
+mdi.school,Mitologia
 mdi.school,Motywy z przypowieści
 mdi.school,NAUKA
 mdi.school,"Nadrobić studia, seminarium itd."
@@ -3888,6 +3901,7 @@ mdi.school,Słuchanie muzyki i uczenie się
 mdi.school,Słówka angielski
 mdi.school,TEDy
 mdi.school,Talenty
+mdi.school,Teams z Dedą
 mdi.school,Technologie informacyjne
 mdi.school,Termin zaliczenia inicjowanie i prowadzenie gosp
 mdi.school,Terminy zaliczeń
@@ -4139,6 +4153,8 @@ music.note,Studio
 music.note,Szkoła muzyczna
 music.note,Taniec
 music.note,Tik tok
+music.note,Toro y Moi Mahal
+music.note,Warpaint Radiate like this
 music.note,gitara
 music.note,muzyka
 music.note,pianino
@@ -4247,6 +4263,7 @@ newspaper.fill,quiz vocab - nauka
 newspaper.fill,trening
 newspaper.fill,uczyć się na chemię!
 newspaper.fill,zadanie z polskiego 5/171
+newspaper.fill,zrób wniosek na uczelnie
 noun.coffee,2 śniadanie
 noun.coffee,Breakfast
 noun.coffee,Chill
@@ -4611,6 +4628,7 @@ paintbrush.pointed.fill,Wizaż Karolina
 paintbrush.pointed.fill,Wizytówki Kasia
 paintbrush.pointed.fill,Zakreślacz
 paintbrush.pointed.fill,Zrobić prace z plastyki
+paintbrush.pointed.fill,Zrobić sobie paznokcie
 paintbrush.pointed.fill,biologia rys
 paintbrush.pointed.fill,brwi
 paintbrush.pointed.fill,makijaż
@@ -4753,6 +4771,7 @@ pencil.and.outline,matematyka - filmik
 pencil.and.outline,matma przepis zeszyt
 pencil.and.outline,nauka
 pencil.and.outline,niemiecki
+pencil.and.outline,notatka z polskiego
 pencil.and.outline,odrób dodatkowy angielski
 pencil.and.outline,ogarnij zeszyt z matmy
 pencil.and.outline,planowanie
@@ -5503,6 +5522,7 @@ text.badge.checkmark,Pozałatwiać sprawy
 text.badge.checkmark,Praca
 text.badge.checkmark,Praca domowa
 text.badge.checkmark,Przejrzeć ciuchy Kubusia
+text.badge.checkmark,Przejrzyj zadania do wykonania
 text.badge.checkmark,Przejrzyj zadania w Structured
 text.badge.checkmark,Przerobić arkusze z matematyki
 text.badge.checkmark,Przygotować listę prac żłobkowych na styczeń 2022 👩‍🎨
@@ -5536,6 +5556,7 @@ text.badge.checkmark,Zaplanuj dzień
 text.badge.checkmark,Zaplanuj kolejny dzień
 text.badge.checkmark,Zaplanuj tydzień
 text.badge.checkmark,Zapłacić za bal
+text.badge.checkmark,Zrobić i wysłać zadanie z Komunikacji w klasie szkolnej
 text.badge.checkmark,Zrobić notatkę na historie
 text.badge.checkmark,Zrobić plan na odchudzanie
 text.badge.checkmark,Zrób czasy na angielski
@@ -5661,6 +5682,7 @@ tv.fill,Mecz Barcelony
 tv.fill,Nagraj filmik
 tv.fill,Nocna zmiana
 tv.fill,Obejrzeć film
+tv.fill,Obejrzyj TV
 tv.fill,Obejrzyj film
 tv.fill,Odpoczynek
 tv.fill,Oglądanie
@@ -5882,6 +5904,7 @@ x.squareroot,Ekonomia notatki filmik v2 wolny rynek
 x.squareroot,Ekonomia notatki v4
 x.squareroot,Extra math lesson
 x.squareroot,Korepetycje
+x.squareroot,Korepetycje (mata)
 x.squareroot,Korki
 x.squareroot,Korki z matmy
 x.squareroot,Lekcje

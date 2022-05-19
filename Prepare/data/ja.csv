@@ -517,6 +517,7 @@ briefcase.fill,データサイエンス演習
 briefcase.fill,バイト
 briefcase.fill,バイト準備
 briefcase.fill,上志津原
+briefcase.fill,事務
 briefcase.fill,仕事
 briefcase.fill,会社への持参物＆準備
 briefcase.fill,入り
@@ -1918,6 +1919,7 @@ figure.walk,神戸女学院
 figure.walk,移動
 figure.walk,筋トレ
 figure.walk,職場最寄駅→職場
+figure.walk,腹筋、踏み台昇降
 figure.walk,自宅～中河原
 figure.walk,諏訪大社 下社 秋宮
 figure.walk,買い出し
@@ -2176,6 +2178,7 @@ hare.fill,初等A
 hare.fill,力学A
 hare.fill,家事
 hare.fill,昼休み
+hare.fill,朝の世話ルーティン
 hare.fill,物理学演習
 hare.fill,物質の物理
 hare.fill,移動
@@ -3082,6 +3085,7 @@ moon.zzz.fill,寝る支度
 moon.zzz.fill,寝る準備
 moon.zzz.fill,就寝
 moon.zzz.fill,就寝準備
+moon.zzz.fill,昼の寝かしつけ
 moon.zzz.fill,昼寝
 moon.zzz.fill,睡眠
 moon.zzz.fill,睡眠時間
@@ -3807,6 +3811,7 @@ person.fill,伊藤咲
 person.fill,到着
 person.fill,渡邉先生・今村先生・成岡先生の所に行く
 person.fill,着替え
+person.fill,着替える
 person.fill,談笑
 person.fill,起きる
 person.fill,面接
@@ -4134,6 +4139,7 @@ smiley.fill,自由
 smiley.fill,自由時間
 smiley.fill,追いコン
 smiley.fill,送り
+smiley.fill,遊ぶタスク
 smiley.fill,配信
 smiley.fill,降園片付け
 smiley.fill,顔

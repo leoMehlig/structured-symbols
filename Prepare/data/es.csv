@@ -3,6 +3,7 @@ airplane,Abrir examen
 airplane,Aeropuerto
 airplane,Alistar maleta
 airplane,BCN - MAD
+airplane,BCN - MAD (IB3015)
 airplane,Break
 airplane,Deshacer maleta
 airplane,Disney
@@ -12,8 +13,10 @@ airplane,Hacer itinerario de viaje
 airplane,Inactividad Móvil
 airplane,Ines aeropuerto
 airplane,Ir al aeropuerto
+airplane,LIM - TPP (Vuelo)
 airplane,Levar Brasil
 airplane,Llamar a aerolínea
+airplane,MAD - LIM
 airplane,MAD - LIM (IB6659)
 airplane,MAD-ALC
 airplane,MALETA
@@ -131,6 +134,7 @@ ant.fill,Tirar basura
 archivebox.fill,Acomodar cuarto
 archivebox.fill,Arreglar ropa
 archivebox.fill,Biblioteca
+archivebox.fill,Buhardilla
 archivebox.fill,Clínica
 archivebox.fill,Cobertura ANDINA
 archivebox.fill,Compras
@@ -185,6 +189,7 @@ arrow.3.trianglepath,cambiar sábanas y toallas
 arrow.3.trianglepath,ir a dejar plástico
 arrow.merge,Exportar mapas a Memory
 arrow.merge,Física
+arrow.merge,Lancha al Hotel Sauce Resort
 arrow.merge,Logros y aprendizajes
 arrow.merge,Meditar y Estiramientos
 arrow.merge,ROBA
@@ -459,11 +464,13 @@ bed.double.fill,Hotel Banana’s (check in)
 bed.double.fill,Hotel Belford
 bed.double.fill,Hotel Cd Mx.
 bed.double.fill,Hotel Flamante
+bed.double.fill,Hotel Flamante y Suite (check-in)
 bed.double.fill,Hotel Flamante y Suite (check-out)
 bed.double.fill,Hotel Grand Rex reserva 0004990
 bed.double.fill,Hotel Mirador Center (check-in)
 bed.double.fill,Hotel Mirador Center (check-out)
 bed.double.fill,Hotel Sauce Resort (check-in)
+bed.double.fill,Hotel Sauce Resort (check-out)
 bed.double.fill,Hotel Sosa House
 bed.double.fill,Hotel Suisui / Río Dulce (check-in)
 bed.double.fill,Hotel Suisui / Río Dulce (check-out)
@@ -481,6 +488,7 @@ bed.double.fill,Montar colchón
 bed.double.fill,Nigth Routine
 bed.double.fill,Orden y mini limpieza
 bed.double.fill,Ordenar
+bed.double.fill,Ordenar Habitación
 bed.double.fill,Ordenar armarios
 bed.double.fill,Ordenar cuarto
 bed.double.fill,Ordenar cuarto pt 1
@@ -920,6 +928,7 @@ book.fill,Lenguaje
 book.fill,Librería anticuaria
 book.fill,Libro
 book.fill,Libro / Podcast
+book.fill,Libro castellano
 book.fill,Libro de aprender a escribir
 book.fill,Libros
 book.fill,Libros leer
@@ -1538,6 +1547,8 @@ car.fill,Salir para el curso
 car.fill,Subir cosas al carro
 car.fill,Subir todo al coche
 car.fill,Sènia
+car.fill,Taller
+car.fill,Taxi a Barranco
 car.fill,Taxi a Ittsa
 car.fill,Taxi a Nuevo Chimbote
 car.fill,Taxi a la Huaca del Sol y la Luna
@@ -1866,6 +1877,8 @@ comb.fill,Corte de pelo
 comb.fill,Cámbiate y arréglate
 comb.fill,Depilació Làser
 comb.fill,Dress
+comb.fill,Echarse  Crema
+comb.fill,Fernanda
 comb.fill,Get Ready
 comb.fill,Get ready
 comb.fill,Lavar el pelo
@@ -2077,6 +2090,7 @@ custom.chemistry,Revise
 custom.chemistry,Senasa / Lanaseve
 custom.chemistry,Tarea biología
 custom.chemistry,Tarea de química
+custom.chemistry,Tarea química
 custom.chemistry,Tareas y guías química
 custom.chemistry,Trabaja como nunca nena
 custom.chemistry,Trabajo RCMC
@@ -2110,6 +2124,7 @@ custom.cooking,Cenar
 custom.cooking,Cocina
 custom.cooking,Cocinar
 custom.cooking,Cocinar almuerzo
+custom.cooking,Cocinar comida lunes
 custom.cooking,Cocinar la merienda
 custom.cooking,Cocinar mole
 custom.cooking,Cocinar para la semana
@@ -2307,6 +2322,7 @@ custom.dog,care for butta girl
 custom.dog,nueva camita scott
 custom.dog,pasear a gordo
 custom.dog,pasear al perro
+custom.dog,paseo coco y cleo
 custom.dog,sacar a Suka🐶
 custom.dog,sacar a coco 🐶
 custom.dog,sacar al perro
@@ -2650,6 +2666,7 @@ custom.language,Instagram al día
 custom.language,Japanese - G by Shinobu Nagashima
 custom.language,Japanese Classes
 custom.language,Koreano
+custom.language,Language learning
 custom.language,Lengua meta
 custom.language,Lenguaje
 custom.language,Lenguaje ruso
@@ -2795,6 +2812,7 @@ custom.razor,Cuchilla
 custom.razor,Depilación
 custom.razor,Depilar brazos
 custom.razor,Depilarme
+custom.razor,Depilarse
 custom.razor,Exfoliar y afeitar
 custom.razor,Foto depilación
 custom.razor,Láser
@@ -3132,6 +3150,7 @@ desktopcomputer,Charla
 desktopcomputer,Cibeles: Correo seguimiento
 desktopcomputer,Clase
 desktopcomputer,Clase Cámara Comercio
+desktopcomputer,Clases
 desktopcomputer,Clases Contabilidad
 desktopcomputer,Clases Métodos III
 desktopcomputer,Comentario VIDO
@@ -3248,6 +3267,7 @@ desktopcomputer,Ver serie/videojuego
 desktopcomputer,Ver una peli
 desktopcomputer,Ver una película
 desktopcomputer,Ver una serie
+desktopcomputer,Ver video bioquímica 2 y 3
 desktopcomputer,Work
 desktopcomputer,Work interns
 desktopcomputer,Work interns 4h
@@ -3261,6 +3281,7 @@ desktopcomputer,hacer ilu TPGII
 desktopcomputer,hacer la visita virtual del tech y las forms
 desktopcomputer,hacer pdf significado
 desktopcomputer,hacer personaje TPGII
+desktopcomputer,hacer surf application
 desktopcomputer,hacer tipografía módulos
 desktopcomputer,hacer trabajo final TPGII
 desktopcomputer,hacer trabajo tipo pareja
@@ -3366,6 +3387,7 @@ doc.fill,Intro.arte
 doc.fill,Inversion
 doc.fill,Journaling
 doc.fill,La década moderada
+doc.fill,Leer capítulo 1 histología
 doc.fill,Leer libro conducción
 doc.fill,Leer tesis
 doc.fill,Lista de niños
@@ -3441,6 +3463,7 @@ doc.fill,hacer
 doc.fill,hacer esquemas C11 y C12
 doc.fill,hacer esquemas C13
 doc.fill,hacer esquemas C13 y C14
+doc.fill,"hacer esquemas C13, C14 y C15"
 doc.fill,hacer esquemas C14
 doc.fill,"hacer esquemas C14, C15, C16 y C17"
 doc.fill,hacer esquemas C15 y C16
@@ -4082,6 +4105,7 @@ flame.fill,"Pesarme, Licuado, Limpiar"
 flame.fill,Ponerme ropa de ejercicio
 flame.fill,Sport
 flame.fill,Start making food
+flame.fill,Tabaco
 flame.fill,Tinder
 flame.fill,Trabajo adelantar
 flame.fill,Workout
@@ -4198,6 +4222,7 @@ gearshape.2.fill,🚠 Teleférico a Kuélap
 gift.fill,Adrian Gartenstuhl
 gift.fill,Baby shower
 gift.fill,Buscar mazo tarot
+gift.fill,Cena
 gift.fill,Comprar regalo
 gift.fill,Comprar regalos
 gift.fill,Cumple Mari
@@ -4631,6 +4656,7 @@ heart.fill,nanny & graggy <3
 heart.fill,nanny & graggy’s
 heart.fill,orar
 heart.fill,paint your nails
+heart.fill,paint your nails & sort your photos
 heart.fill,paint your nails (little hearts)
 heart.fill,paseo
 heart.fill,reflect on day
@@ -4746,6 +4772,7 @@ house.fill,Hacer el quehacer
 house.fill,Hacer la colada
 house.fill,Home
 house.fill,Iglesia
+house.fill,Inmueble Mamita
 house.fill,Ir a casa
 house.fill,Ir a casa y comer
 house.fill,Ir al mall
@@ -5036,6 +5063,7 @@ lightbulb.fill,weekly clean
 link,Enviar a christophe OVH
 link,GEOM - Anotar teoremas e imprimir
 link,QUIM - Repasar teoría ''Estructura atómica’'
+link,Recoger edredón
 link,Tecnologías de la información
 link,Trabajar
 location.fill,Barcelona 🏙
@@ -5146,6 +5174,7 @@ mdi.birthday,22🥳
 mdi.birthday,Aniversari papa
 mdi.birthday,Carta a Dani
 mdi.birthday,Chuches
+mdi.birthday,Cocinaaar 👩🏼‍🍳
 mdi.birthday,Comer pastel
 mdi.birthday,Comprar velas
 mdi.birthday,Cumple Mery Moon
@@ -5211,6 +5240,7 @@ mdi.bus,Ir a Villahermosa
 mdi.bus,Ir a la uni
 mdi.bus,Metropolitano
 mdi.bus,Micro
+mdi.bus,Mía se va a la escuelita
 mdi.bus,N. Cajamarca → Cocachimba
 mdi.bus,Recargar tarjeta MB
 mdi.bus,Recoger a Joshua
@@ -5276,13 +5306,16 @@ mdi.instagram,Boutique LASH
 mdi.instagram,CANAIMA
 mdi.instagram,Capilla Nuestra Señora de Fátima
 mdi.instagram,Catarata Ahuashiyacu
+mdi.instagram,Circuito Mágico del Agua
 mdi.instagram,Crear contenido
 mdi.instagram,Cóndor
 mdi.instagram,Descanso
+mdi.instagram,Estrategia ADS
 mdi.instagram,Grabar tiktok y subir publis
 mdi.instagram,Huaca del Sol y la Luna
 mdi.instagram,Instagram
 mdi.instagram,Instagram story
+mdi.instagram,La Costa Verde
 mdi.instagram,"Lavar pecheras, collares y correas"
 mdi.instagram,Lavar ropa
 mdi.instagram,Llamada
@@ -5293,10 +5326,12 @@ mdi.instagram,Pasear y hacerse fotos por el lugar
 mdi.instagram,Planificar publicación
 mdi.instagram,Playa Punta Sal
 mdi.instagram,Plaza de Armas de Chachapoyas
+mdi.instagram,Plaza de armas y Chabuca Granda
 mdi.instagram,Publicar
 mdi.instagram,Publicar en Arauzdraw
 mdi.instagram,Publicar post del día
 mdi.instagram,Pueblo de Chachapoyas
+mdi.instagram,Puente de los Suspiros
 mdi.instagram,Redes
 mdi.instagram,Redes Sociales
 mdi.instagram,Redes sociales
@@ -5311,6 +5346,7 @@ mdi.instagram,Tour Laguna 69 / Paron
 mdi.instagram,Trekking Catarata Pucayacu
 mdi.instagram,Ver redes sociales
 mdi.instagram,Ver si la produ se puede hacer en las torres maui
+mdi.instagram,free time
 mdi.instagram,inspiress
 mdi.instagram,mirar el móvil
 mdi.instagram,pinterest y playlist
@@ -5994,6 +6030,7 @@ mdi.school,Solicitar informe pericial en topografía
 mdi.school,Study
 mdi.school,Study ML
 mdi.school,TALLER NÚMEROS
+mdi.school,TASCA FINAL prácticas
 mdi.school,TFG
 mdi.school,TFG: Redacción del apartado de implementación de una GAN
 mdi.school,TFM
@@ -6230,6 +6267,7 @@ moon.zzz.fill,Hotel
 moon.zzz.fill,Hotel Flamante & Suite
 moon.zzz.fill,Hotel Gocta Andes Lodge
 moon.zzz.fill,Hotel Mirador Center
+moon.zzz.fill,Hotel Sauce Resort
 moon.zzz.fill,Mimir
 moon.zzz.fill,Mimir🧸
 moon.zzz.fill,Night Routine
@@ -6260,6 +6298,7 @@ music.mic,Presentación catedra
 music.mic,Red Bull Internacional
 music.mic,S’entraîner nouvelles chansons grp de musique
 music.mic,Telegram
+music.mic,grabar regalo pia
 music.mic,grabar sos más
 music.mic,práctica canto
 music.note,Baile
@@ -6339,6 +6378,7 @@ newspaper.fill,Artículo Paget
 newspaper.fill,Avanzar con el trabajo de inglés “Societies and human rights“
 newspaper.fill,Ayuntamiento
 newspaper.fill,Bases caricatura sanjosesina
+newspaper.fill,Bioquímica
 newspaper.fill,Bullet
 newspaper.fill,CONTROL ESTUDIOS ECO
 newspaper.fill,Cambio de menú
@@ -6383,6 +6423,7 @@ newspaper.fill,LIBRO GALEGO
 newspaper.fill,Lectura
 newspaper.fill,Leer
 newspaper.fill,Leer 7mo cap de Bioquímica
+newspaper.fill,Leer huesos del cráneo
 newspaper.fill,Lengua
 newspaper.fill,Lenguaje
 newspaper.fill,Libro artículo mujeres
@@ -6426,6 +6467,7 @@ newspaper.fill,Taller
 newspaper.fill,Tarea
 newspaper.fill,Tarea :)
 newspaper.fill,Tarea educación ciudadana
+newspaper.fill,Tareas
 newspaper.fill,Tareas de la mañana
 newspaper.fill,Ticket bombillos
 newspaper.fill,Tiempo de estudio de Meteorología
@@ -6469,6 +6511,7 @@ newspaper.fill,maquetar apuntes arts
 newspaper.fill,pasar minialfabeto a papel
 newspaper.fill,producto tes
 newspaper.fill,revelar fotos cristobal
+newspaper.fill,revisar caste parcial
 newspaper.fill,terminar cartel tipográfico
 noun.coffee,(C) COMIDA
 noun.coffee,(C) DESAYUNO
@@ -6562,6 +6605,7 @@ noun.coffee,"Levantar, alistar y que desayune Liam"
 noun.coffee,Lonches aprender
 noun.coffee,Manzanilla con miel D
 noun.coffee,Mate
+noun.coffee,Me tomaré un té y descansaré
 noun.coffee,Media mañana
 noun.coffee,Mema
 noun.coffee,Mercadillo de Tarapoto
@@ -6579,6 +6623,7 @@ noun.coffee,Once / snack
 noun.coffee,Ordenar/comprar (comida)
 noun.coffee,Palomita
 noun.coffee,Pasatiempo
+noun.coffee,Pastelería Jimmy’s
 noun.coffee,Paulita Domi & Baeta
 noun.coffee,Pausa
 noun.coffee,Pijamada
@@ -7038,6 +7083,7 @@ paintbrush.pointed.fill,Écrire Nouvelle (Concours)
 paperclip,"Acero, criterios Estructurales y constructivos"
 paperclip,Alistar maleta
 paperclip,Applications
+paperclip,Apuntes embriología cap 1 y 2 a mano
 paperclip,Bulletjournal
 paperclip,Enviar paquete
 paperclip,Estudiar
@@ -7612,6 +7658,7 @@ pills.fill,Psiquiatra
 pills.fill,Píldora anticonceptiva
 pills.fill,Quinta Clase (Salud y Sociedad)
 pills.fill,Recordarle a mi novia tomar su medicamento💗
+pills.fill,Releer capítulo 2 embriología
 pills.fill,Remedios
 pills.fill,Resonancia
 pills.fill,Rivotril/ Paracetamol/ Furosemida/ Buscapina
@@ -8309,6 +8356,7 @@ sun.max.fill,MEDITAR 🧘🏽‍♀️
 sun.max.fill,Mataró
 sun.max.fill,Mañana
 sun.max.fill,Me arreglo visto y festejo
+sun.max.fill,Meditación rápida
 sun.max.fill,Meditar
 sun.max.fill,Mercadona + GV2 + casa avis
 sun.max.fill,Morning Routine
@@ -8423,6 +8471,7 @@ sunset.fill,Kitchen Day
 sunset.fill,Low Carb 18.00hrs
 sunset.fill,Night prep.
 sunset.fill,Noon routine✨
+sunset.fill,Pijama
 sunset.fill,Recollir roba seca
 sunset.fill,Rutina de Noche
 sunset.fill,Rutina de mañana
@@ -8456,6 +8505,7 @@ tag.fill,Real Plaza de Cajamarca
 tag.fill,Recoger costurera
 tag.fill,Revisar contenido Bake
 tag.fill,Supermercado
+tag.fill,Uniforme
 tag.fill,Vestirme
 tag.fill,tender ropa
 tag.fill,vestirse
@@ -8546,6 +8596,7 @@ text.badge.checkmark,Leer sociología
 text.badge.checkmark,Libreta prácticas (M3 i M7)
 text.badge.checkmark,Limpiar
 text.badge.checkmark,Limpiar cocina
+text.badge.checkmark,Limpiar cuarto
 text.badge.checkmark,Limpiar el coche
 text.badge.checkmark,Limpiar habitación Nahia
 text.badge.checkmark,Limpiar habitación niños
@@ -8846,6 +8897,7 @@ tv.fill,Ver TV
 tv.fill,Ver clase ByF
 tv.fill,Ver documental
 tv.fill,Ver la TV
+tv.fill,Ver película
 tv.fill,Ver serie
 tv.fill,"Ver series, películas o Tv"
 tv.fill,Ver una peli
@@ -9009,6 +9061,7 @@ wand.and.stars,Limpieza de casa
 wand.and.stars,Limpieza semanal
 wand.and.stars,Manifestar
 wand.and.stars,Maquillaje
+wand.and.stars,Maquillarse
 wand.and.stars,Meditación
 wand.and.stars,Meditar
 wand.and.stars,Momento de Autoestima

@@ -217,6 +217,7 @@ alarm.fill,Neue Spange! 🦷
 alarm.fill,Opstoen!
 alarm.fill,PKL
 alarm.fill,Pause
+alarm.fill,Presber anrufen Angebot Spiegel
 alarm.fill,Puffer/DWYW
 alarm.fill,Rise and shine motherfucker
 alarm.fill,START
@@ -402,6 +403,7 @@ archivebox.fill,Inneren Schreibtisch aufräumen
 archivebox.fill,Inventur BS Freie Strasse
 archivebox.fill,JI KK ZR
 archivebox.fill,Jacken usw. weg räumen
+archivebox.fill,Jogginghose entscheiden
 archivebox.fill,Jura
 archivebox.fill,K
 archivebox.fill,KLAGK
@@ -563,6 +565,7 @@ archivebox.fill,Wäsche einräumen
 archivebox.fill,Wäsche falten
 archivebox.fill,Wäsche holen
 archivebox.fill,Wäsche in den Schrank
+archivebox.fill,Wäsche in den Trockner
 archivebox.fill,Wäsche in trockner
 archivebox.fill,Wäsche machen
 archivebox.fill,Wäsche runterbringen
@@ -908,6 +911,7 @@ at,Research
 at,Ruheraum Mails schreiben
 at,Sabine schreiben wegen Wall-Box
 at,Schreibtischarbeit
+at,Schuhe shoppen
 at,Schule
 at,Sunrise ummelden mit Papi
 at,Telefonat Dorothee Wolfs
@@ -997,6 +1001,7 @@ atom,Freizeit
 atom,Friseur Termin
 atom,Für Physik Arbeit lernen
 atom,Füße
+atom,Geburtstag Silvan
 atom,Gedanken ❤️💬
 atom,Geschichte lernen
 atom,Glühweintrinken &Grillen bei Uwe&Regina beu
@@ -1979,6 +1984,7 @@ bolt.fill,Protein Shake
 bolt.fill,Prüfungsvorbereitung
 bolt.fill,Ready machen und go
 bolt.fill,Religion reingucken
+bolt.fill,SAP
 bolt.fill,SWM
 bolt.fill,Sauna Eisbad Duschen
 bolt.fill,Schreiben
@@ -2630,6 +2636,7 @@ book.fill,Gilbert Theorie Zusammenfassung
 book.fill,Gina proposal
 book.fill,Gk Zusammenfassen
 book.fill,Glasscheiben berechnen
+book.fill,Gliederung abschicken
 book.fill,GoodNotes Einstellungen angleichen
 book.fill,Gpb lernen
 book.fill,Grundkurs vorbereiten
@@ -3189,6 +3196,7 @@ book.fill,PoWi&Geschi
 book.fill,Podcast/Reading 📖🕯
 book.fill,PolR
 book.fill,Politik
+book.fill,Politik Klausur
 book.fill,Politik lernen
 book.fill,Politische Theorie ASYNCHRON
 book.fill,Politische Theorie ASYNCHRON + PRÄSENZ
@@ -4174,6 +4182,7 @@ briefcase.fill,Geld & Notizen einpacken
 briefcase.fill,Geld in Kuverts & Monatsabrechnung
 briefcase.fill,Get ready
 briefcase.fill,Get your shit done
+briefcase.fill,Google Ads
 briefcase.fill,HHLA Zeug
 briefcase.fill,HS und NS T2 +SK
 briefcase.fill,Hacer mochila
@@ -4472,6 +4481,7 @@ bubble.left.fill,Erdkunde Vortrag
 bubble.left.fill,Etsy anschreiben
 bubble.left.fill,Feedback abgegeben
 bubble.left.fill,"Fichte - LS Einzug zum 15. machen, Siehe WhatsApp"
+bubble.left.fill,Flyer an Cord schicken
 bubble.left.fill,Französisch
 bubble.left.fill,Französisch Präsentation
 bubble.left.fill,Französisch im Park
@@ -4523,6 +4533,7 @@ bubble.left.fill,Papa Bescheid sagen
 bubble.left.fill,Pascal
 bubble.left.fill,Pause.
 bubble.left.fill,Politik Präsentationen vorbereiten
+bubble.left.fill,Portfolios fertig
 bubble.left.fill,Powi
 bubble.left.fill,Powi Vorbereitungen
 bubble.left.fill,Präsentation üben
@@ -5293,6 +5304,7 @@ car.fill,Heimfahren
 car.fill,Heimfahrt
 car.fill,Heimfahrt Arbeit
 car.fill,Heimweg
+car.fill,Hibu fahren
 car.fill,Hin fahren
 car.fill,Hinfahren
 car.fill,Hinfahrt
@@ -5478,6 +5490,7 @@ car.fill,Rückweg
 car.fill,STUTTGART WASEN
 car.fill,Sachen einladen & zur UK fahren
 car.fill,Sachen ins Auto laden
+car.fill,Sachsenheim
 car.fill,Scheibenwischer kaufen
 car.fill,Scheinwerfer kaufen
 car.fill,Schneeberg
@@ -5587,6 +5600,7 @@ car.fill,Zu Jana fahren
 car.fill,Zu Mama
 car.fill,Zu Mama fahren
 car.fill,Zu Mama+Papa fahren
+car.fill,Zu Mami fahren und gratulieren
 car.fill,Zu Oma
 car.fill,Zu Oma fahren
 car.fill,Zu Oma und Opa
@@ -5869,6 +5883,7 @@ cart.fill,Einkaufen mit Mama
 cart.fill,Einkaufen mit Victoria
 cart.fill,Einkaufen und Corona-Test
 cart.fill,Einkaufen und wegräumen
+cart.fill,Einkaufen 🚼⛄️
 cart.fill,Einkaufen 🛍
 cart.fill,Einkaufen 🛒
 cart.fill,Einkaufen 🛒 (SA)
@@ -5942,6 +5957,7 @@ cart.fill,Ikea Shopping
 cart.fill,Ikea bestellen
 cart.fill,Ikeaeinkauf
 cart.fill,Im Coop einkaufen
+cart.fill,In die Stadt
 cart.fill,In stadt
 cart.fill,Intersport
 cart.fill,Jeggings bestellen
@@ -6757,6 +6773,7 @@ creditcard.fill,Budget: Mallorca
 creditcard.fill,C&A Kleider abholen (Tshirts und Hemli)
 creditcard.fill,C&a Bestellung
 creditcard.fill,Can 60€ Für tank überweisen
+creditcard.fill,DKB Kündigen
 creditcard.fill,DKB-Karte anmelden!
 creditcard.fill,Dauerauftrag Netflix ändern
 creditcard.fill,Deichmann
@@ -7222,6 +7239,7 @@ custom.chemistry,Creatina
 custom.chemistry,Creatine - Banane.
 custom.chemistry,Durchführung/Ergebnis
 custom.chemistry,Duschkopf entkalken
+custom.chemistry,Einheit 8
 custom.chemistry,Einleitung/Theorieteil/Materialien/Durchführung
 custom.chemistry,Entkalken
 custom.chemistry,Fermenter in die Eudiometer schütten
@@ -7296,6 +7314,7 @@ custom.chemistry,chemie
 custom.chemistry,chemie lernen
 custom.chemistry,chemie lernzettel
 custom.chemistry,chemie wiederholen
+custom.chemistry,feiern gehen
 custom.chemistry,print chemistry
 custom.chemistry,proben aus trockenschrank für pH einwiegen
 custom.chemistry,"replikation (meselson&stahl,abläufe)"
@@ -7381,6 +7400,7 @@ custom.cooking,Einkaufen und essen
 custom.cooking,"Erdbeerkuchen backen, Pizzateig"
 custom.cooking,Erdbeermilch
 custom.cooking,Erdnuss Tofu bowl
+custom.cooking,Ernährung Plakat
 custom.cooking,Ernährungsplan
 custom.cooking,Ernährungsplan eintragen
 custom.cooking,Essen
@@ -8744,6 +8764,7 @@ custom.dumbbell,Unterkörper
 custom.dumbbell,Unterkörper Training!
 custom.dumbbell,Unterricht
 custom.dumbbell,Volleyball
+custom.dumbbell,Volti
 custom.dumbbell,Volti Training
 custom.dumbbell,Vorbereitung aufs Workout
 custom.dumbbell,WOF
@@ -9224,6 +9245,7 @@ custom.lipstick,Fertig machen und Haushalt
 custom.lipstick,Fertig machen und packen
 custom.lipstick,Fertig machen 🧸🔓
 custom.lipstick,Fertigmachen
+custom.lipstick,Fetig machen
 custom.lipstick,Fresh machen
 custom.lipstick,Frischmachen
 custom.lipstick,Friseur
@@ -9332,6 +9354,7 @@ custom.lipstick,Picbe Business
 custom.lipstick,Picbe Business/Foto bearbeiten
 custom.lipstick,Picbe Business/Insta/Fotos
 custom.lipstick,Piercing
+custom.lipstick,Ready for work
 custom.lipstick,Ready machen
 custom.lipstick,Readyyy
 custom.lipstick,Reisekosmetik planen
@@ -9633,6 +9656,7 @@ custom.shower,Duschen und anziehen
 custom.shower,Duschen und co
 custom.shower,Duschen und fertig machen
 custom.shower,Duschen und rasieren
+custom.shower,Duschen und richten
 custom.shower,Duschen und so
 custom.shower,Duschen | Rasieren
 custom.shower,Duschen …
@@ -9879,6 +9903,7 @@ custom.shower,duschezeug sauber ausmisten
 custom.shower,face and shower
 custom.shower,fertig machen
 custom.shower,fertig machen+Duschen
+custom.shower,"fertig machen, anziehen"
 custom.shower,get bed ready
 custom.shower,get ready
 custom.shower,get ready for the day
@@ -10407,6 +10432,7 @@ desktopcomputer,Arbeiten
 desktopcomputer,Arbeiten 40 Min.
 desktopcomputer,Arbeitsauftrag Frau Wolf wegschicken
 desktopcomputer,Arbeitsauftrag mit Video wegschicken
+desktopcomputer,Arbeitsblock
 desktopcomputer,Arbeitskonzept
 desktopcomputer,Arbeitstag
 desktopcomputer,Arbeitszeugnis Frau Arnold erstellen
@@ -10737,6 +10763,7 @@ desktopcomputer,LexOffice Februar
 desktopcomputer,Liam ps4
 desktopcomputer,Liebesbotschaft
 desktopcomputer,Linguistik
+desktopcomputer,Linked in
 desktopcomputer,LinkedIN Social Media Marekting Expertin werden
 desktopcomputer,LinkedIn
 desktopcomputer,LinkedIn einrichten
@@ -10964,6 +10991,7 @@ desktopcomputer,Strafrecht überarbeiten
 desktopcomputer,Struktur Software
 desktopcomputer,Study
 desktopcomputer,Study M & I
+desktopcomputer,Surface
 desktopcomputer,T&A
 desktopcomputer,TUT HVS
 desktopcomputer,TV: Bachelor
@@ -11556,6 +11584,7 @@ doc.richtext,Duolingo
 doc.richtext,Englisch
 doc.richtext,Englisch Essay
 doc.richtext,Englisch HA
+doc.richtext,Englisch Karteikarten lernen
 doc.richtext,Englisch Kommunikationsprüfung
 doc.richtext,Englisch Larissa
 doc.richtext,Englisch Prsäentation
@@ -11900,6 +11929,7 @@ dollarsign.circle.fill,Neue Hose + Parfüm kaufen
 dollarsign.circle.fill,Nintendo Online
 dollarsign.circle.fill,Oma Essen
 dollarsign.circle.fill,Online Banking
+dollarsign.circle.fill,Otto bezahlen
 dollarsign.circle.fill,Otto überweisen
 dollarsign.circle.fill,PVM lernen
 dollarsign.circle.fill,Papa Geld für Küche 1790 €
@@ -11929,6 +11959,7 @@ dollarsign.circle.fill,Rechnungswesen lernen
 dollarsign.circle.fill,Registrierung ZAK
 dollarsign.circle.fill,Reisekosten u Trennungsgeld
 dollarsign.circle.fill,Robert
+dollarsign.circle.fill,Rémunération
 dollarsign.circle.fill,SQ MARIA
 dollarsign.circle.fill,STEUER  Überweisung
 dollarsign.circle.fill,"Saturn Rechnung (400,00€) und Spotify bezahlen"
@@ -11942,12 +11973,14 @@ dollarsign.circle.fill,Side Hustle
 dollarsign.circle.fill,Snipes
 dollarsign.circle.fill,Sparkasse
 dollarsign.circle.fill,Sparkasse Kleingeld wechseln
+dollarsign.circle.fill,Sparkasse Termin mit Perso
 dollarsign.circle.fill,Spielbank Stuttgart
 dollarsign.circle.fill,Spielgruppe
 dollarsign.circle.fill,Spiken Geld
 dollarsign.circle.fill,Sponsoring Status
 dollarsign.circle.fill,Stadtsparkasse
 dollarsign.circle.fill,Stallmiete
+dollarsign.circle.fill,Steffen Geld zurückgeben
 dollarsign.circle.fill,Steuer
 dollarsign.circle.fill,Steuer erledigen
 dollarsign.circle.fill,Steuer überweisen + Digitalisieren
@@ -12328,6 +12361,7 @@ envelope.fill,Brief Ammi Mondher
 envelope.fill,Brief BG ETEM
 envelope.fill,Brief Elterngeldbescheid
 envelope.fill,Brief Finanzamt verschicken
+envelope.fill,Brief Monika
 envelope.fill,Brief Mrs Saunders
 envelope.fill,Brief abgeben
 envelope.fill,Brief abschicken
@@ -12336,6 +12370,7 @@ envelope.fill,Brief einstecken
 envelope.fill,Brief losschicken
 envelope.fill,Brief schreiben
 envelope.fill,Brief verschicken
+envelope.fill,Brief weg bringen/einkaufen
 envelope.fill,Brief wegbringen
 envelope.fill,Brief zur Post bringen
 envelope.fill,Brief zur Post!
@@ -12388,8 +12423,10 @@ envelope.fill,Email an Markus (Aluca Rechnung
 envelope.fill,Email an PKU
 envelope.fill,Email jakub
 envelope.fill,Email schreiben
+envelope.fill,Email von Mama
 envelope.fill,Email: Sport Entschuldigung
 envelope.fill,Emails
+envelope.fill,Emails Fragen KlinPsy
 envelope.fill,Emails GF nachhalten - Siehe OneNote Dienst
 envelope.fill,Emails Schreiben
 envelope.fill,Emails beantworten
@@ -12421,6 +12458,7 @@ envelope.fill,HQ Briefkasten beschriften
 envelope.fill,Handyhülle zurück schicken
 envelope.fill,Helm verschicken
 envelope.fill,Herr Brossmer schreiben
+envelope.fill,Herr Burger schreiben
 envelope.fill,Herr Lietz zahlen beantragen
 envelope.fill,Herr Pöhler E-Mail
 envelope.fill,Hose versenden Kleinanzeigen
@@ -13009,6 +13047,7 @@ figure.walk,Auf zur Arbeit
 figure.walk,Aufbrechen
 figure.walk,Aufstehen
 figure.walk,Ausflug
+figure.walk,Ausflug machen
 figure.walk,Bajar
 figure.walk,Ballett
 figure.walk,Bank gehen
@@ -13157,6 +13196,7 @@ figure.walk,Mit Jana zur Schule
 figure.walk,Mit Jasmin die City unsicher machen
 figure.walk,Mit Jesse spazieren
 figure.walk,Mit Mama laufen
+figure.walk,Mit Petra
 figure.walk,Mitnehmen/Get ready
 figure.walk,Mittagspause
 figure.walk,Mittagsrunde
@@ -13396,6 +13436,7 @@ figure.walk,Zur Arbeit laufen
 figure.walk,Zur Arbeit laufen + Umziehen
 figure.walk,Zur BANK laufen
 figure.walk,Zur Location gehen
+figure.walk,"Zur Post, Bank & Stadt gehen"
 figure.walk,Zur Schule
 figure.walk,Zur Schule fahren
 figure.walk,Zur Schule gehen
@@ -13719,6 +13760,7 @@ flag.fill,Allike Store wegen Schlüsseln
 flag.fill,Anja Geburtstag
 flag.fill,Aufräumen
 flag.fill,Beutel fertig nähen
+flag.fill,Chinesisch Zahlen Wiederholen
 flag.fill,Feierabend
 flag.fill,Feinzielplanung
 flag.fill,Frei😍
@@ -13799,6 +13841,7 @@ flame.fill,GYM
 flame.fill,Gesundheit-Coach ausfüllen
 flame.fill,Grillen
 flame.fill,Gym
+flame.fill,Heimspiel Volleyball
 flame.fill,Hexenfeuer
 flame.fill,Hilda Suliba megy 🌸
 flame.fill,Holz hacken
@@ -13986,6 +14029,7 @@ folder.fill,TMS Dateien ordnen
 folder.fill,Tischvorlage Studentenbewegung
 folder.fill,To Do Liste
 folder.fill,Unregelmäßige Verben
+folder.fill,Unterlagen für Finanzamt fertig machen
 folder.fill,VWL lernen
 folder.fill,Vokabeln auf Quizlet stellen
 folder.fill,Vokabeln lernen
@@ -14507,6 +14551,7 @@ gift.fill,Wunschliste
 gift.fill,Zoes Geburtstag
 gift.fill,Zu Chris
 gift.fill,geschenk für arik besorgen
+gift.fill,geschenk kaufen
 gift.fill,mamama 80i
 gift.fill,papas geschenk
 gift.fill,prepare b-day present
@@ -14819,6 +14864,7 @@ hammer.fill,Schubladen einbauen
 hammer.fill,Schubladen f. Regal zusammenbauen
 hammer.fill,Schuhe
 hammer.fill,Sitzung planen Schichtplan veröffentlichten
+hammer.fill,Sofa reparieren
 hammer.fill,Spachteln
 hammer.fill,Spiegel-Bereich Schlafzimmer
 hammer.fill,Spielzeug abbauen
@@ -15016,6 +15062,7 @@ hand.thumbsup.fill,Beten
 hand.thumbsup.fill,Bewertung Hotel
 hand.thumbsup.fill,Celebrate yourself
 hand.thumbsup.fill,Check Look
+hand.thumbsup.fill,Check cry
 hand.thumbsup.fill,Checken ob alle Aufgaben erledigt sind
 hand.thumbsup.fill,Chia pudding❤️❤️
 hand.thumbsup.fill,Chillen
@@ -15742,6 +15789,7 @@ heart.fill,Marcus ❤️
 heart.fill,Maren schreiben
 heart.fill,Maria
 heart.fill,Maria kommt
+heart.fill,Marie
 heart.fill,Mark
 heart.fill,Markus
 heart.fill,Maske
@@ -16652,6 +16700,7 @@ house.fill,Küche Umräumen
 house.fill,Küche Wozi saugen/wischen
 house.fill,Küche abstauben & Oberflächen wischen
 house.fill,Küche aufräumen
+house.fill,Küche aufräumen & Essen kochen & Essen
 house.fill,Küche aufräumen und Geschirr waschen
 house.fill,Küche aufräumen/ Putzen
 house.fill,Küche aussuchen??
@@ -16681,6 +16730,7 @@ house.fill,"Lessive sac a dos, lacet, tee d oreiller, Jacke…"
 house.fill,Lichterkette aufhängen
 house.fill,Liegestuhl waschen
 house.fill,Living room
+house.fill,LÜFTEN
 house.fill,Lärchenhof
 house.fill,Läähnnen
 house.fill,Lüften + Aufräumen
@@ -16886,6 +16936,7 @@ house.fill,Stiefel eincremen
 house.fill,Stromzähler!!!
 house.fill,Stube
 house.fill,Stube aufräumen
+house.fill,Stöbi anrufen
 house.fill,Sven kommt
 house.fill,TLS Dachfenster email
 house.fill,TODY
@@ -17759,6 +17810,7 @@ lightbulb.fill,Logarythmen Wiederholung
 lightbulb.fill,MUN Meeting
 lightbulb.fill,Mathe
 lightbulb.fill,Mathe Lernen
+lightbulb.fill,Meditieren
 lightbulb.fill,Miroboard- Idee für Film
 lightbulb.fill,Mush
 lightbulb.fill,Neuer Plan
@@ -18633,6 +18685,7 @@ mdi.birthday,Weihnachten
 mdi.birthday,Wolfgang
 mdi.birthday,david
 mdi.birthday,essen
+mdi.birthday,kuchen backen (louis)
 mdi.birthday,mein Geburtstag
 mdi.birthday,pancakes
 mdi.birthday,papi
@@ -18655,6 +18708,7 @@ mdi.buggy,Babywalz
 mdi.buggy,Ben zum kindergarten bringen
 mdi.buggy,Benni in den KiGa bringen
 mdi.buggy,Besuch bei Steffi & Valentin
+mdi.buggy,Bäuerchen & Pampers
 mdi.buggy,Daria wickeln
 mdi.buggy,Flaschen abwaschen
 mdi.buggy,Flaschen von der Nacht sauber machen
@@ -18676,6 +18730,7 @@ mdi.buggy,Lina aus der Kita abholen
 mdi.buggy,Luana Babysitten
 mdi.buggy,Meggie spielen
 mdi.buggy,Mia Kindergarten
+mdi.buggy,Milch abstellen & Abwasch & Nase putzen
 mdi.buggy,Mira abholen
 mdi.buggy,Mit Oma raus
 mdi.buggy,Miyuan zu Mila bringen
@@ -18705,7 +18760,10 @@ mdi.buggy,Windeln bestellen
 mdi.buggy,Wünsche Geburt aufschreiben
 mdi.buggy,Zu Jessica 👶🏼
 mdi.buggy,nach 62/68 gucken
+mdi.buggy,🍼Kianchen füttern
+mdi.buggy,🍼Milch vorbereiten
 mdi.buggy,🍼👶🏻Kianchen füttern
+mdi.buggy,🍼👶🏻Kianchen füttern {tracken}
 mdi.buggy,👶🏻
 mdi.bus,121
 mdi.bus,260 ➡️ Köln Hbf U S Breslauer Platz
@@ -18877,6 +18935,7 @@ mdi.bus,Zum münsterplatz
 mdi.bus,Zum shooting fahren
 mdi.bus,Zur Arbeit
 mdi.bus,Zur Arbeit fahren
+mdi.bus,Zur Arbeit gehen
 mdi.bus,Zur Arbeit mit dem Bus
 mdi.bus,Zur Hochschule fahren
 mdi.bus,Zur Schule
@@ -18980,6 +19039,7 @@ mdi.couch,Lesen + Spiele
 mdi.couch,"Lesen,lernen etc."
 mdi.couch,Lezen
 mdi.couch,Me-Time
+mdi.couch,Mittagspause
 mdi.couch,Nachhause
 mdi.couch,Netflix
 mdi.couch,Nicole
@@ -19141,6 +19201,7 @@ mdi.instagram,Reel Brotdose D4K
 mdi.instagram,Reel posten
 mdi.instagram,Snack und Social Media
 mdi.instagram,Snapchat
+mdi.instagram,Snappen
 mdi.instagram,Social Media
 mdi.instagram,Social Media Update
 mdi.instagram,Social Media Zeit
@@ -19247,6 +19308,7 @@ mdi.pharmacy,Arzt Termin
 mdi.pharmacy,Arzt anrufen
 mdi.pharmacy,Arzt anrufen wegen Ergebnisse
 mdi.pharmacy,Arzt opa
+mdi.pharmacy,Arztbescheinung holen
 mdi.pharmacy,Arzttermin
 mdi.pharmacy,Arzttermin Wiegen
 mdi.pharmacy,Arzttermin machen
@@ -19269,6 +19331,7 @@ mdi.pharmacy,Blut abnehmen
 mdi.pharmacy,Blutdruck
 mdi.pharmacy,Blutdrucksenker einnehmen
 mdi.pharmacy,Blutspende
+mdi.pharmacy,Booster
 mdi.pharmacy,Booster Impfung
 mdi.pharmacy,Cannabis Rezept
 mdi.pharmacy,Charline Booster-Impfung
@@ -20264,6 +20327,7 @@ mdi.school,AGSP Aufgaben
 mdi.school,AGT Schmidt
 mdi.school,AJB HA korrigieren
 mdi.school,AM 11
+mdi.school,AM 11 - Kapitel 1 schreiben
 mdi.school,AM 11 - Kapitel 3 schreiben
 mdi.school,AM 11 planen
 mdi.school,AMIKV
@@ -20275,6 +20339,7 @@ mdi.school,AWL lernen
 mdi.school,AWP
 mdi.school,Abformung machen
 mdi.school,Abfragen
+mdi.school,Abgabe Baukonstruktion
 mdi.school,Abgabe wochenprotokoll
 mdi.school,Abi
 mdi.school,Abi Aufgaben
@@ -20500,6 +20565,7 @@ mdi.school,Bibliografie (Formalia) korrigieren
 mdi.school,Bibliothek
 mdi.school,Biegen
 mdi.school,Big Data & Smart Data
+mdi.school,Bilanz
 mdi.school,Bilanzierung
 mdi.school,Bildungs und Sozialpolitik Texte!
 mdi.school,Bildungstheorien
@@ -20700,6 +20766,7 @@ mdi.school,Deutsch weiter
 mdi.school,Deutsch üben
 mdi.school,Deutsch: Lernzettel
 mdi.school,Deutsch: Reinfuchsen
+mdi.school,Deutsch: Satz finden
 mdi.school,Deutsch; 4 Gedichte
 mdi.school,Deutschabitur
 mdi.school,Deutscharbeit
@@ -21516,6 +21583,7 @@ mdi.school,Leseauftrag Pädagogisches Seminar
 mdi.school,Lesen
 mdi.school,Lesen/Uni
 mdi.school,Lesetagebuch
+mdi.school,Letzter Schultag
 mdi.school,LinO Vorl 3
 mdi.school,Linguistics
 mdi.school,Linguistics nacharbeiten
@@ -21688,6 +21756,7 @@ mdi.school,Methoden d. Prozessoptimierung WPF
 mdi.school,Methoden der Neurobiologie
 mdi.school,Methodenteil aufschreiben
 mdi.school,Methodenteil: Data and Prior models
+mdi.school,Methodenteil: Prior models
 mdi.school,Meyer
 mdi.school,MiBi
 mdi.school,Mikro
@@ -21978,6 +22047,7 @@ mdi.school,Public & Nonprofit Management
 mdi.school,Päda
 mdi.school,Päda Klausur
 mdi.school,Päda Lernzettel
+mdi.school,Päda Vortrag
 mdi.school,Päda lernen
 mdi.school,Pädagogik
 mdi.school,Pädagogik Hausaufgaben
@@ -22425,6 +22495,7 @@ mdi.school,Tm 1
 mdi.school,ToDos
 mdi.school,Tour de France Präsentation
 mdi.school,Trading Lernen
+mdi.school,Transkription Test
 mdi.school,Treffen ESE
 mdi.school,Treffen mit Fr. Lindner
 mdi.school,"Treffen nachbereiten: Notizen ordnen, Remindermail"
@@ -22654,6 +22725,7 @@ mdi.school,WR zusammenschreiben
 mdi.school,WR: lesen im Fuchs S.199 -> Beispiele machen mit Schema der 3 Kreise
 mdi.school,WT Mail einbauen
 mdi.school,WWP lernen
+mdi.school,Wachstum und Ertrag
 mdi.school,Wagensoner
 mdi.school,Wahlbogen ausfüllen
 mdi.school,Wanikani
@@ -23145,6 +23217,7 @@ moon.fill,Chillen
 moon.fill,Day Reflection ✨
 moon.fill,Dors bien !
 moon.fill,Eincremen
+moon.fill,Einschlafen
 moon.fill,Ende
 moon.fill,Essen und Ausruhen
 moon.fill,Evening Routine
@@ -23370,10 +23443,12 @@ moon.zzz.fill,Сън
 moon.zzz.fill,𝑈𝑁𝑊𝐼𝑁𝐷
 moon.zzz.fill,👩‍👦💤
 moon.zzz.fill,👩‍👦💤 Tracken
+moon.zzz.fill,👩‍👦💤досыпаем
 moon.zzz.fill,👶🏻Kian
 music.mic,Audios
 music.mic,Bandprobe
 music.mic,Barabend
+music.mic,Beckley / KR
 music.mic,Brauseboys Google Termine aktualisieren /Beschreibungstext+Gäste)
 music.mic,Bürgerversammlung Hofgarten
 music.mic,Chor
@@ -24560,6 +24635,7 @@ noun.coffee,☕️ +🍴+ Frühstücksfernsehen
 noun.coffee,𝑏𝑟𝑒𝑎𝑘𝑓𝑎𝑠𝑡
 noun.coffee,👩‍👦Mami Treff
 noun.coffee,👩‍👦💕im Wohnzimmer
+noun.coffee,🙋🏼‍♀️Frühstück
 noun.coffee,🥑Breakfast🥑
 noun.meal,(Essen)
 noun.meal,1 Brot+ Apfel/ Banane
@@ -24773,6 +24849,7 @@ noun.meal,Essen mit Mama
 noun.meal,Essen mit Markus
 noun.meal,Essen mit Noémie
 noun.meal,Essen mit Oma
+noun.meal,Essen mit Papa
 noun.meal,Essen mit Schatz
 noun.meal,Essen mit 🐭
 noun.meal,Essen mitnehmen
@@ -25914,6 +25991,7 @@ paintbrush.pointed.fill,Notizen Vorstellungsgespräch machen
 paintbrush.pointed.fill,Nägel
 paintbrush.pointed.fill,Nägel lackieren
 paintbrush.pointed.fill,Nägel machen
+paintbrush.pointed.fill,Nägel neu
 paintbrush.pointed.fill,Obi
 paintbrush.pointed.fill,Offenes Atelier
 paintbrush.pointed.fill,Orchesterbestuhlung
@@ -26363,6 +26441,7 @@ pencil.and.outline,Geschichte schreiben
 pencil.and.outline,Geschichte: Erklärungen für Fachbegriffe
 pencil.and.outline,Gina schreiben
 pencil.and.outline,Glas
+pencil.and.outline,Gliederung ESA an Dozentin
 pencil.and.outline,Grafik erstellen
 pencil.and.outline,Grundsicherung - Mama
 pencil.and.outline,Gruppenstunde vorbereiten
@@ -26917,6 +26996,7 @@ person.2.fill,Lisi
 person.2.fill,Logopädie
 person.2.fill,Loreen
 person.2.fill,Luca
+person.2.fill,Luise nach Buch fragen
 person.2.fill,Lulu
 person.2.fill,Lunaaaaa
 person.2.fill,Luzi
@@ -27140,6 +27220,7 @@ person.2.fill,Utku treffen @Edward‘s Coffee
 person.2.fill,Vapiano mit den Mädels
 person.2.fill,Verabschiedung Gatzweiler
 person.2.fill,Verfügung
+person.2.fill,Vero
 person.2.fill,Vespa
 person.2.fill,Vivi
 person.2.fill,Vorbereitig MA Gspröch
@@ -27894,6 +27975,7 @@ person.fill,Julix FaceTime
 person.fill,Kaste
 person.fill,Klamotten ( testen ) und Maske für Schule rauslegen
 person.fill,Kleider bereit legen
+person.fill,Kleiderschrank
 person.fill,Kleidung vorbereiten
 person.fill,Konrad
 person.fill,Körper und Geist
@@ -28634,6 +28716,7 @@ pills.fill,Gepar Douze
 pills.fill,Get pill recipe
 pills.fill,Glutathion informieren und Vitamin C Therapie
 pills.fill,Hannah Instahelp
+pills.fill,Heilerde
 pills.fill,Heuschnupfen
 pills.fill,Heute Vitamin D einnehmen!!!
 pills.fill,Husten saft
@@ -28803,6 +28886,7 @@ pills.fill,Test machen
 pills.fill,Testen
 pills.fill,Thyroxin
 pills.fill,Tomar antialérgico
+pills.fill,Toni Referat
 pills.fill,Torasemid
 pills.fill,Tropfen geben
 pills.fill,Urologe Strauinger
@@ -29075,6 +29159,7 @@ play.rectangle.fill,TikTok’s drehen
 play.rectangle.fill,Tiktok
 play.rectangle.fill,Tiktoks drehen
 play.rectangle.fill,Tv / Hörbuch
+play.rectangle.fill,Ultimate breakthrough 2022
 play.rectangle.fill,VL Visuelle Anthropologie schauen
 play.rectangle.fill,Vaaz
 play.rectangle.fill,Verena Clack (37)
@@ -29639,6 +29724,7 @@ shippingbox.fill,Pakete weg bringen
 shippingbox.fill,Pakete wegbringen
 shippingbox.fill,Pakete wegschicken
 shippingbox.fill,Pakete zur Post
+shippingbox.fill,Pakete zurück
 shippingbox.fill,Pakete zurück bringen
 shippingbox.fill,"Pakete zurück, hermes abholen"
 shippingbox.fill,Pakete zurückgeben
@@ -29816,6 +29902,7 @@ signature,Nüggi Handy KV
 signature,Pahl
 signature,Penny unterlagen senden
 signature,Perlenschmuck machen
+signature,Physik SA naja
 signature,Post verarbeiten
 signature,Praktikum Kick Off
 signature,Päda Blatt
@@ -30000,6 +30087,7 @@ smiley.fill,Kieferorthopäde
 smiley.fill,Kieferorthopäden
 smiley.fill,Kiel
 smiley.fill,Kinder fertig machen
+smiley.fill,Kindergarten
 smiley.fill,Kirche
 smiley.fill,Klamotten
 smiley.fill,Kleiderschrank aussortieren
@@ -31442,6 +31530,7 @@ sunrise.fill,wakeee
 sunrise.fill,~wakey wakey~
 sunrise.fill,Καλημέρα Νίκο
 sunrise.fill,￼ wake up￼
+sunrise.fill,👨‍👦💕
 sunrise.fill,💜
 sunrise.fill,💨 🦷 💧 🥑
 sunset,Schlaf gut!
@@ -31497,6 +31586,7 @@ sunset.fill,Positiv& entspann dich!♥️☀️
 sunset.fill,Ruhe
 sunset.fill,Runterkommen
 sunset.fill,Schlaf gut!
+sunset.fill,Schlafanzug
 sunset.fill,Schlafanzug anziehen👚🩲
 sunset.fill,Schlafen
 sunset.fill,Schlafen ❤️😴
@@ -32068,6 +32158,7 @@ text.badge.checkmark,Kühlschrank befüllen
 text.badge.checkmark,Kühlschrank sauber machen
 text.badge.checkmark,Kündigung schreiben
 text.badge.checkmark,Kündigungen
+text.badge.checkmark,Kürzel Osteopathie recherchieren
 text.badge.checkmark,LSW Zähler ablesen
 text.badge.checkmark,LZK 5 ausformulieren
 text.badge.checkmark,LZK A
@@ -32244,6 +32335,7 @@ text.badge.checkmark,Pakete fertig machen
 text.badge.checkmark,Pakete wegbringen
 text.badge.checkmark,Pan-European Seal Traineeship Programme
 text.badge.checkmark,Papa Schlüssel holen
+text.badge.checkmark,Papa: Swica Rechnungen
 text.badge.checkmark,Paper fertig überarbeiten und Mütter Daten ergänzen
 text.badge.checkmark,Papiere aufräumen
 text.badge.checkmark,Papiere sortieren
@@ -33294,6 +33386,7 @@ trash.fill,Clean my room
 trash.fill,Cleaning
 trash.fill,Cleaning the workplace
 trash.fill,Collect trash
+trash.fill,DRUCKEN BAD
 trash.fill,Dateien leeren
 trash.fill,Ecke aufräumen
 trash.fill,Entsorgen
@@ -33307,6 +33400,7 @@ trash.fill,Gelber Sack
 trash.fill,Geschenk für Schrottwichteln
 trash.fill,Graue Tonne
 trash.fill,Haushalt
+trash.fill,Hausmüll
 trash.fill,Heizungsraum
 trash.fill,Heutonne auffüllen
 trash.fill,Hundehaufen
@@ -33575,6 +33669,7 @@ tv.fill,IP SE checken
 tv.fill,IPad einrichten
 tv.fill,Info-Veranstaltung zum THSG nachbereiten
 tv.fill,Informatik
+tv.fill,Informatik Eintrag machen
 tv.fill,Ins Studio gehen: Bürokram erledigen
 tv.fill,Internet
 tv.fill,Internet: Kindesunterhalt für Lukas per 01.04.22  überweisen
@@ -34028,6 +34123,7 @@ wand.and.stars,Accessories
 wand.and.stars,Adventskalender
 wand.and.stars,Adventskalender aufhängen
 wand.and.stars,Air Force sauber machen
+wand.and.stars,AirPods machen
 wand.and.stars,Alles gut aufräumen
 wand.and.stars,Altglas
 wand.and.stars,Amelie hat Zeugnisausgabe
@@ -34116,6 +34212,7 @@ wand.and.stars,Boden wischen
 wand.and.stars,Boostern
 wand.and.stars,Brief an Julia🧡
 wand.and.stars,Brüche
+wand.and.stars,Bullet Journal Februar
 wand.and.stars,Bäder putzen
 wand.and.stars,Bäder und Küche putzen
 wand.and.stars,Bügeln
@@ -34174,6 +34271,7 @@ wand.and.stars,"E-Medien(object1,2,3) #859,860,861,862,863,864"
 wand.and.stars,"E-Medien(object1,2,3) ~#"
 wand.and.stars,"E-Medien(object1,2,3,4) #783,784,785,786"
 wand.and.stars,Eincremen
+wand.and.stars,Einkaufen und Pfand wegbringen
 wand.and.stars,Einsprühen
 wand.and.stars,Elfen Ring verkaufen
 wand.and.stars,Elisabeth Text lernen
@@ -35168,6 +35266,7 @@ x.squareroot,Mathematik
 x.squareroot,Mathematik Abi lernen
 x.squareroot,Mathematik Fördern
 x.squareroot,Mathematik Hausaufgaben
+x.squareroot,Mathematik Klausur
 x.squareroot,Mathematik für Informatik 2
 x.squareroot,Mathematik lernen
 x.squareroot,Mathematik-Zusammenfassung
@@ -35216,6 +35315,7 @@ x.squareroot,Topo vorb.
 x.squareroot,Tutorium LinA
 x.squareroot,Tutorium Mathematik II
 x.squareroot,Twl aufschreiben
+x.squareroot,Umrechnungen Mathe
 x.squareroot,Uni
 x.squareroot,Uniplan
 x.squareroot,Unterricht durchgehen

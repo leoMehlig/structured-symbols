@@ -437,6 +437,7 @@ book.fill,Matemática
 book.fill,Meditar em Jó
 book.fill,Momento com Deus
 book.fill,Momento de Leitura
+book.fill,Monitoria de Filosofia
 book.fill,Método questiona
 book.fill,Nervos do tórax e plexo lombar
 book.fill,Novo Ebook
@@ -882,6 +883,7 @@ custom.cat,Rotina do Naruto
 custom.cat,Sasori
 custom.cat,Tareco
 custom.cat,Trocar filtro do Gatolas
+custom.cat,Veternário
 custom.cat,boa noite
 custom.cat,comida do mingau
 custom.cat,descanso
@@ -1179,6 +1181,7 @@ custom.hairdryer,Teste de mecha
 custom.hairdryer,Teste de mecha e pintar
 custom.hairdryer,Tomar banho
 custom.hairdryer,Tomar o pequeno-almoço
+custom.hairdryer,Trocar de roupa
 custom.hairdryer,Unha tay
 custom.hairdryer,Unhas
 custom.hairdryer,dress up
@@ -1369,6 +1372,7 @@ custom.shower,shower
 custom.shower,skincare
 custom.shower,tomar banho
 custom.shower,Água sanitária no banheiro
+custom.sit,Almoçar
 custom.sit,Almoço
 custom.sit,Alongamento
 custom.sit,Aula
@@ -1540,6 +1544,7 @@ desktopcomputer,🍿 Harry Potter - De Volta a Hogwarts (1h:45min) : HBO
 desktopcomputer,🍿 O Espião Inglês
 doc.fill,Aula Tarde
 doc.fill,BIBLIOTECA
+doc.fill,Braga- uber juan
 doc.fill,Contrato ITAÚ - pronampe ANA
 doc.fill,Conversar com Vanessa
 doc.fill,Enviar 50 espontâneas
@@ -1795,6 +1800,7 @@ figure.walk,Preparar me para a escola
 figure.walk,Sair
 figure.walk,Sair de casa
 figure.walk,Sair para gym
+figure.walk,Treinar
 figure.walk,Treino
 figure.walk,"Vestir, fazer bolsa (pc, iPad, carregadores, fones)"
 figure.walk,Viagem para universidade
@@ -2348,6 +2354,7 @@ mdi.birthday,Aniversário Chris
 mdi.birthday,Aniversário Pai
 mdi.birthday,Aniversário vó Romilda
 mdi.birthday,Fabio
+mdi.birthday,Fazer Cupcake
 mdi.birthday,Feliz aniversário
 mdi.birthday,Ir a festa da Deisi
 mdi.birthday,Lanche
@@ -3088,6 +3095,7 @@ noun.meal,Lavar louça
 noun.meal,Lunch
 noun.meal,Mercado
 noun.meal,Nhomes
+noun.meal,Nutricionista
 noun.meal,Pequeno Almoço
 noun.meal,Pequeno Almoço Clean
 noun.meal,Pequeno almoço
@@ -3185,6 +3193,7 @@ paintbrush.pointed.fill,Blocagem carro mocinho bonitão corrida maluca maluca
 paintbrush.pointed.fill,Blocagem casinha  paccrypto
 paintbrush.pointed.fill,Blocagem mocinho bonitão corrida maluca
 paintbrush.pointed.fill,Cartões explicativos encomendas com QR code música
+paintbrush.pointed.fill,Coleção Aurea
 paintbrush.pointed.fill,Commissions! 🖌
 paintbrush.pointed.fill,"Container, Taça e Pódios"
 paintbrush.pointed.fill,Continuar o bordado
@@ -3574,6 +3583,7 @@ shippingbox.fill,Organizar para amanhã
 shippingbox.fill,Receber correio
 shippingbox.fill,compras
 shippingbox.fill,organizar ambiente
+signature,Arrumar as coisas do karatê
 signature,Assembleia
 signature,Aula extra
 signature,Escrever um novo texto / conto
@@ -3775,6 +3785,7 @@ sun.max.fill,Tomar sol
 sun.max.fill,acordar
 sun.max.fill,hora de acordar!
 sun.max.fill,milagre da manhã
+sun.max.fill,praia
 sun.max.fill,protetor solar
 sun.max.fill,rotina matinal
 sun.max.fill,tomar sol
@@ -4094,6 +4105,7 @@ wand.and.stars,Arrumar a casa
 wand.and.stars,Arrumar a casa/ Janta
 wand.and.stars,Arrumar o quarto
 wand.and.stars,Arrumar quarto
+wand.and.stars,Arrume-se!
 wand.and.stars,Aula
 wand.and.stars,Beauty
 wand.and.stars,Bossa
@@ -4251,6 +4263,7 @@ zzz,Soneca Gabriel 1
 zzz,Ver séries
 zzz,Wake up
 zzz,deitar pra dormir cedo
+zzz,descansar
 zzz,descanso
 zzz,dormir
 zzz,hora de dormir!
