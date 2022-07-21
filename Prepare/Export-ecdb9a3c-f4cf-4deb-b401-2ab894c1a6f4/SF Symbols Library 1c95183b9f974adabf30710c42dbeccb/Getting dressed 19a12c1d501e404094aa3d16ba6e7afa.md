@@ -1,3 +1,0 @@
-# Getting dressed
-
-Status: Requested

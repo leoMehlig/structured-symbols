@@ -1,4 +1,5 @@
 label,text
+airplane,Boka resa till Uppsala
 airplane,FRANKRIKE
 airplane,Göteborg
 alarm.fill,"Fascial, Dusch, Frukost"
@@ -6,6 +7,7 @@ alarm.fill,God morgon
 alarm.fill,God morgon Inas
 alarm.fill,God morgon!
 alarm.fill,God morgon! Medicin🌸
+alarm.fill,God morgon. Idag förtjänar du en bra dag!
 alarm.fill,God morgon❤️
 alarm.fill,Godmorgon!
 alarm.fill,Gå upp
@@ -60,6 +62,7 @@ atom,Laktosuppgift
 atom,No
 atom,Plugga psykologi
 atom,Psykologi prov
+atom,Religion
 atom,Skola
 atom,Tvätta
 atom,fysik
@@ -68,6 +71,7 @@ bag.fill,Handla
 bag.fill,Handlar
 bag.fill,Hämta tappade saker
 bag.fill,Jobb
+bag.fill,Jobb C-tur
 bag.fill,Jobba
 bag.fill,Kläder
 bag.fill,Marknadsföra - WCN
@@ -75,6 +79,7 @@ bag.fill,Packa
 bag.fill,Packa MD
 bag.fill,Packa allting
 bag.fill,Packa idrottskläder
+bag.fill,Packa till Daniel
 bag.fill,Packa upp väska
 bag.fill,Shoppa
 bag.fill,Utleverera produkter
@@ -103,6 +108,7 @@ bed.double.fill,Bädda Sängen
 bed.double.fill,Bädda säng
 bed.double.fill,Bädda sängen
 bed.double.fill,Bädda sängen🛏
+bed.double.fill,Dammtorka mitt rum
 bed.double.fill,GÖRA SÄNGEN
 bed.double.fill,I säng
 bed.double.fill,Läggdags
@@ -125,6 +131,7 @@ bolt.fill,Avslappning
 bolt.fill,Barrfix
 bolt.fill,Blanda EAA till gympasset
 bolt.fill,Deadline
+bolt.fill,Jobb
 bolt.fill,Städa garderob
 bolt.fill,"Städa kylen, frysen och skafferiet"
 bolt.fill,Städa köket
@@ -152,6 +159,7 @@ book.fill,Grupparbete
 book.fill,Gör kompletteringsuppgift
 book.fill,Göra klart svenskan
 book.fill,Göra vinterprat
+book.fill,Historia medeltid
 book.fill,Innovation
 book.fill,Instaread
 book.fill,Jägarexamen
@@ -161,6 +169,7 @@ book.fill,Krönika
 book.fill,Köp kurslitteratur
 book.fill,Lektion
 book.fill,Lämna in böcker
+book.fill,Lämna skolböcker
 book.fill,Läs
 book.fill,Läs Emma
 book.fill,Läs bok
@@ -182,6 +191,7 @@ book.fill,Läsa/lyssna på något
 book.fill,Läsa> In To The Wild
 book.fill,Läsa} Into The Wild
 book.fill,Läsning
+book.fill,Läxor
 book.fill,Matte
 book.fill,Matteprov
 book.fill,Miljörätt
@@ -201,6 +211,7 @@ book.fill,Plugga📘
 book.fill,Psykolog
 book.fill,Read Book
 book.fill,Read literature
+book.fill,Religion slutuppgift
 book.fill,Rättegång I kap 2-3
 book.fill,SO provet
 book.fill,Samiska
@@ -257,6 +268,7 @@ briefcase.fill,HULLY jobba 👩🏽‍⚕️
 briefcase.fill,Jobb
 briefcase.fill,Jobba
 briefcase.fill,Jobba Alvik
+briefcase.fill,Jobbsök
 briefcase.fill,Möte jobbet
 briefcase.fill,Noela
 briefcase.fill,Packa
@@ -265,6 +277,7 @@ briefcase.fill,Packa bussen
 briefcase.fill,Packa inför resan
 briefcase.fill,Packa till Åbo
 briefcase.fill,Packa upp
+briefcase.fill,Packa väska
 briefcase.fill,Packa väska pennor + sudd + dricka
 briefcase.fill,Packa väskan
 briefcase.fill,Packa väskan och byt om
@@ -316,6 +329,7 @@ calendar,𝖩𝗈𝖻𝖻 𝖧𝗒𝗅𝗍𝖾𝗇𝖺
 calendar,𝘑𝘰𝘣𝘣𝘢
 calendar,📌 Planera
 calendar,📑faktur på KIVRA överförning pengar till Lena
+camera.fill,Damma mitt rum
 camera.fill,FOTA KROPPEN
 camera.fill,Fota kroppen
 camera.fill,Ta bilder med Thiago
@@ -328,13 +342,16 @@ car.fill,Besiktningsprotokoll
 car.fill,Bilen
 car.fill,Byt däck
 car.fill,Göteborg och cebe
+car.fill,Handla
 car.fill,Hämta LillyMo
+car.fill,Hämta barnen
 car.fill,Hämta mamma
 car.fill,Introduktion körkort
 car.fill,Kör hem
 car.fill,Köra
 car.fill,Köra Meliss
 car.fill,Köra hem
+car.fill,Köra hem från Jobb
 car.fill,Köra till hem
 car.fill,Köra till jobb
 car.fill,Köra till skolan
@@ -365,6 +382,8 @@ car.fill,Åka till jobbet
 car.fill,Åka till rosemhill
 car.fill,Åka till salongen
 car.fill,Åka till skolan
+car.fill,Åka till stallet
+car.fill,Åka till träning
 car.fill,Åka till träningen
 car.fill,Åker till stan 😌
 car.fill,Övningskör
@@ -395,9 +414,12 @@ cart.fill,Lidl Ernesto rostfri skål 149kr
 cart.fill,Lidl trädgårdshandskar 2pack 39.90kr
 cart.fill,Online shoppa
 cart.fill,Packa till Rörvik
+cart.fill,Rörmontering offert
 cart.fill,SECONDHAND SHOPPING
 cart.fill,SHOPPA
+cart.fill,Shein
 cart.fill,Shoppa
+cart.fill,Shoppa + hämta dator
 cart.fill,Sickla
 cart.fill,Systemet & ICA
 cart.fill,Till Mobilia
@@ -413,6 +435,7 @@ chart.bar.fill,Forex
 chart.bar.fill,Jobba
 chart.bar.fill,Mammas kvitton
 chart.pie.fill,Matte
+chart.pie.fill,Mellanmål
 chart.pie.fill,Svenska
 chevron.left.slash.chevron.right,Javascript
 chevron.left.slash.chevron.right,KUF
@@ -447,6 +470,7 @@ comb.fill,Fixa håret
 comb.fill,Fixa mig
 comb.fill,Fixa mitt hår
 comb.fill,FÄRGA HÅRET
+comb.fill,Färga hår och bryn
 comb.fill,Färga hår och ögonbryn
 comb.fill,Göra mig i ordning
 comb.fill,Hår
@@ -454,6 +478,7 @@ comb.fill,Hår💇🏽‍♀️
 comb.fill,Klä på mig
 comb.fill,Kläder + Smink + Örhängen
 comb.fill,Platta hår
+creditcard.fill,Abrechnung machen
 creditcard.fill,Alina
 creditcard.fill,Beställa calm
 creditcard.fill,Betala hyran
@@ -508,6 +533,7 @@ custom.cooking,Laga pastasallad med kyckling
 custom.cooking,Lunch
 custom.cooking,Mat
 custom.cooking,Middag
+custom.cooking,Morgonrutin
 custom.cooking,Pepparkakshus
 custom.cooking,"Pepparkakshus, telefon & middag"
 custom.cooking,Pizza
@@ -570,23 +596,27 @@ custom.dumbbell,Crosstraining
 custom.dumbbell,Dans
 custom.dumbbell,Dansa lite
 custom.dumbbell,FETTFRYSNING 16:30-18:30
+custom.dumbbell,FlexMo & Core
 custom.dumbbell,GYMMA
 custom.dumbbell,GYMMA INNAN
 custom.dumbbell,Gym
 custom.dumbbell,Gym - Back & Biceps
 custom.dumbbell,Gym - Chest
 custom.dumbbell,Gym - Chest & Triceps
+custom.dumbbell,Gym - Full Body
 custom.dumbbell,Gym - Legs
 custom.dumbbell,Gym - Shoulders
 custom.dumbbell,Gym m Herre
 custom.dumbbell,Gym 🏋🏼‍♂️
 custom.dumbbell,Gymma
+custom.dumbbell,"Gymma (rygg, mage, armar)"
 custom.dumbbell,Gymma ben
 custom.dumbbell,Gymmet
 custom.dumbbell,Gymträning
 custom.dumbbell,Gå till gymmet
 custom.dumbbell,Idrott
 custom.dumbbell,Innebandyträning
+custom.dumbbell,Kickboxning
 custom.dumbbell,Löpning
 custom.dumbbell,Night Workout
 custom.dumbbell,Nikepass muskelgrupp
@@ -632,6 +662,7 @@ custom.hairdryer,Get Ready for the Day
 custom.hairdryer,Hudvård
 custom.hairdryer,Hår
 custom.hairdryer,Klippa håret?
+custom.hairdryer,Klippa håret💇🏻‍♀️
 custom.hairdryer,Tvätta håret
 custom.language,Engelska
 custom.language,Franska
@@ -641,6 +672,7 @@ custom.language,Svenska 3
 custom.lipstick,Böja fransarna
 custom.lipstick,Fixa dig
 custom.lipstick,Fixa mig
+custom.lipstick,Färga ögonbrynen
 custom.lipstick,Hallarna
 custom.lipstick,Kynnet💕
 custom.lipstick,Måla naglarna
@@ -648,6 +680,7 @@ custom.lipstick,NOPPA ÖGONBRYNEN
 custom.lipstick,SKINCARE
 custom.lipstick,Skincare
 custom.lipstick,Smink & kläder
+custom.lipstick,Sminka
 custom.lipstick,Sminka dig
 custom.lipstick,Sminka mig
 custom.lipstick,Sminka mig & Äta frukost
@@ -667,6 +700,7 @@ custom.shower,Dusc & Groom
 custom.shower,Dusch
 custom.shower,Dusch.
 custom.shower,Duscha
+custom.shower,Duscha + packa kläder & smink
 custom.shower,Duscha kroppen
 custom.shower,Duscha och tvätta håret
 custom.shower,Duscha of fixa till mig snabbt
@@ -744,12 +778,14 @@ desktopcomputer,Data/mobil en stund’
 desktopcomputer,Episever
 desktopcomputer,Estetisk
 desktopcomputer,Exjobb
+desktopcomputer,Fixa hemsida + bröllopsplåtningar
 desktopcomputer,Företag
 desktopcomputer,Graf
 desktopcomputer,Göra Teknik presentation
 desktopcomputer,Hawkay
 desktopcomputer,Jobb
 desktopcomputer,Jobba
+desktopcomputer,Kolla Clark
 desktopcomputer,Kolla Wahlgrens värld
 desktopcomputer,Kolla klart på avsnittet😁
 desktopcomputer,Kolla på Moon Knight
@@ -761,6 +797,7 @@ desktopcomputer,När BankID fungerar
 desktopcomputer,Organisera elektronik
 desktopcomputer,Plugga
 desktopcomputer,Plugga bygg
+desktopcomputer,Plugga statestik
 desktopcomputer,Prodda
 desktopcomputer,Produktutveckling
 desktopcomputer,Projektarb
@@ -790,6 +827,7 @@ doc.fill,SO läxförhör
 doc.fill,SV/EN Presentation
 doc.fill,Skattekort
 doc.fill,Skolan börjar
+doc.fill,Studiehandledning
 doc.fill,Unity.
 doc.fill,göra färdigt matten
 doc.fill,göra matte ( funktioner )
@@ -797,10 +835,12 @@ doc.fill,skriv praktikuppgiften
 doc.richtext,Good Task
 doc.richtext,Göra klart Onesheet
 doc.richtext,Np svenska
+doc.richtext,Object 1
 doc.richtext,Plugga lite SO
 doc.richtext,Skriv idrottsprojekt
 doc.richtext,Ta med matte- och so mappen hem
 doc.richtext,"Tarot, mitt budskap i dag"
+doc.richtext,UPH
 dollarsign.circle.fill,Arbetstid idag
 dollarsign.circle.fill,Bankmöte
 dollarsign.circle.fill,Betala faktura Ellos
@@ -816,6 +856,7 @@ dollarsign.circle.fill,STUDIEBIDRAG
 dollarsign.circle.fill,Skövde
 dollarsign.circle.fill,Sollentuna Centrum?
 dollarsign.circle.fill,Starta arbetsdagen
+dollarsign.circle.fill,Sälj inlämning
 dollarsign.circle.fill,Sälja kakor
 dollarsign.circle.fill,Söka arbete
 dollarsign.circle.fill,iGenius
@@ -835,6 +876,7 @@ drop.fill,Skincare
 drop.fill,Städa
 drop.fill,Tvätta
 drop.fill,Tvätta ansikte
+drop.fill,Tvätta kläder
 drop.fill,Tvätta underkläder
 drop.fill,Vatten
 drop.fill,hygien rutin
@@ -878,6 +920,7 @@ figure.walk,Gym
 figure.walk,Gå
 figure.walk,Gå en promenad
 figure.walk,Gå hem
+figure.walk,Gå hem från jobbet
 figure.walk,Gå till bussen
 figure.walk,Gå till gymmet
 figure.walk,Gå till jobbet
@@ -891,6 +934,7 @@ figure.walk,Hämta Noah
 figure.walk,Hämta barnen
 figure.walk,INGE GYM — PROMENAD
 figure.walk,Intag och fodring
+figure.walk,Jobba
 figure.walk,LÅNGPROMENAD 60 MIN
 figure.walk,OMW
 figure.walk,Promenad
@@ -912,11 +956,13 @@ figure.walk,Träna
 figure.walk,Träning:ben
 figure.walk,Walk
 figure.walk,gå till buss
+figure.walk,promenad
 figure.walk,"promenad med mamma, 2 km"
 figure.walk,"promenad, 2 km"
 figure.walk,"promenad, 4 km"
 figure.walk,promenera
 figure.walk,🤍Gå ut med Svante🤍
+figure.wave,Avsluta jobb
 figure.wave,Besök på kontor - förbered
 figure.wave,Byta om👕
 figure.wave,Hantverkare
@@ -928,11 +974,14 @@ figure.wave,Ta på dig kläder för dagen! 😚
 figure.wave,Välj kläder👗
 figure.wave,byt om + ta med gymkkläder
 film.fill,Bio
+film.fill,Film
 film.fill,Julkalendern
 flag.fill,Påminnelse
+flag.fill,ToDo snart
 flame.fill,Gå till gymmet
 flame.fill,LAUDES (inom 5-8)
 flame.fill,MORGON RUTIN - fokus: exfoliering💥
+flame.fill,Meditera
 flame.fill,Ridning
 flame.fill,Träna
 folder.fill,Highlighta allt det viktiga i anteckningarna
@@ -962,6 +1011,7 @@ gift.fill,Mamma fyller år
 gift.fill,Present till Esther 💜
 gift.fill,Slå in paket
 gift.fill,julklappar
+gift.fill,mors dag
 gift.fill,övningsköra/chilla?
 globe,"Be ella, axel och jocke om sami"
 globe,Lägg ut Vela inlägg
@@ -970,6 +1020,7 @@ guitars,Mixuppgift
 guitars,Musik
 hammer.fill,Beijer Bygg Köp Plywoodskiva!
 hammer.fill,Beijer Taklist Plywoodskiva?
+hammer.fill,Klipp gräsmattan
 hammer.fill,Kvälls kurs
 hammer.fill,Skruva upp tavlor
 hammer.fill,Slöjd
@@ -982,6 +1033,7 @@ hand.raised.fill,Smink!!
 hand.raised.fill,Städa badrummet
 hand.thumbsdown.fill,Diska
 hand.thumbsdown.fill,Göra iordning papper för mötet med Soc på tis
+hand.thumbsup.fill,Dammtorka hallen
 hand.thumbsup.fill,Dylan hand lotion🧒🏼🧴✌🏻
 hand.thumbsup.fill,För över pengar till AVI
 hand.thumbsup.fill,Jobba
@@ -996,14 +1048,18 @@ hare.fill,Lunch
 hare.fill,Mata kaniner
 hare.fill,Påskafton
 hare.fill,Påsklov
+hare.fill,T
 hare.fill,påskafton
 hare.fill,påskdagen
 headphones,Chilla
 headphones,Jobba mello
+headphones,Lyssna på musik
 headphones,Mix mot förlaga
+headphones,Mixa
 headphones,Podd
 headphones,Skicka trust me till emilia
 headphones,Träningspass
+headphones,Vänta
 heart.fill,5 VECKOR KVAR
 heart.fill,6 VECKOR KVAR
 heart.fill,Alla hjärtans dag
@@ -1021,16 +1077,19 @@ heart.fill,Friskvårdscheck
 heart.fill,Frukost
 heart.fill,Gå till stallet
 heart.fill,HUR KÄNNS DET?
+heart.fill,Hem till Liam❤️
 heart.fill,Hudvårdsrutin morgon
 heart.fill,Hämta Daniel från bussen
 heart.fill,Hålla kontakten
 heart.fill,Kläder
 heart.fill,"Kurera mera! Vila Bara göra det du orkar, när du orkar, ingen stress eller press❤️"
 heart.fill,Kvällsrutin
+heart.fill,Lashlift
 heart.fill,Lägg fram löshår osv
 heart.fill,Lämna Felicia i skolan
 heart.fill,MathildaMys I Beverly Hills MIG MIG MIG
 heart.fill,Medicin + dricka vatten
+heart.fill,Meditera
 heart.fill,Mental Exercises
 heart.fill,"Mer vila, Me-time, slappna av o.mysa"
 heart.fill,Midsommar på Tögen
@@ -1069,6 +1128,7 @@ heart.fill,boka tider
 heart.fill,fix my basketball bag
 heart.fill,fixish mig
 heart.fill,hudvårdsrutin
+heart.fill,mors dag
 heart.fill,skriva till annika att ringa mig
 heart.fill,ÄR DU REDO?
 heart.fill,Äta frukost
@@ -1081,6 +1141,7 @@ hourglass,Fixa mig till träning
 hourglass,Förmiddag rutin
 hourglass,Kolla och ev ansök till ving och Apollo
 hourglass,Meditera
+hourglass,Skoldag
 hourglass,SÖNDAGSFIX
 hourglass,ÄR DU REDO?
 house.fill,"Bygghemma plissegardin 125,6x184"
@@ -1088,12 +1149,15 @@ house.fill,Dammsuga
 house.fill,Deklaration
 house.fill,Diska
 house.fill,Familjebehandlare kommer
+house.fill,Fixa
 house.fill,Fixa garderob
 house.fill,Flytta över saker
 house.fill,Fri tid
 house.fill,Förbereda mig på att åka hemifrån
 house.fill,Förbereda tvättmaskin
 house.fill,Förbereda tvättmaskin till onsdag (imorgon)
+house.fill,God morgon!
+house.fill,Handla saker till lägenheten
 house.fill,Hem
 house.fill,Hemmafix
 house.fill,Home | Morgon
@@ -1101,6 +1165,8 @@ house.fill,Hushållssysslor
 house.fill,Inomhuspyssel
 house.fill,Kom hem
 house.fill,Kulturkvarteret
+house.fill,Kyrka
+house.fill,Laga mat
 house.fill,Lämna Lovisa & Nellie
 house.fill,Nattrutin
 house.fill,Packa upp
@@ -1123,15 +1189,18 @@ house.fill,TVÄTTA
 house.fill,Ta hand om disken
 house.fill,Tapetsera ventiler
 house.fill,Tvätta
+house.fill,Tvätta byke
 house.fill,Tvätta fönster
 house.fill,Tvätta lakan
 house.fill,Tvätta!
 house.fill,Töm Diskmaskinen
 house.fill,Tömma diskmaskinen
+house.fill,Vattna nedre
 house.fill,Vika tvätt
 house.fill,Visning
 house.fill,Åka hem
 house.fill,Åka till stugan
+house.fill,Årsstämma + konstituerande möte
 icloud.and.arrow.up.fill,Jobb
 key.fill,Lägenhet
 key.fill,Lägenhet!
@@ -1158,6 +1227,7 @@ leaf.fill,Lunch
 leaf.fill,Mellis
 leaf.fill,Morgonritual
 leaf.fill,Plugga natur
+leaf.fill,Psykolog
 leaf.fill,Skriv om miljömål
 leaf.fill,Städa
 leaf.fill,Städa altan
@@ -1182,6 +1252,7 @@ map.fill,FJÄLLEN
 map.fill,So
 mdi.airplane.landing,Bologna
 mdi.airplane.landing,Eftermiddag rutin
+mdi.airplane.takeoff,American Passport Documents
 mdi.airplane.takeoff,Jersey - London LHR BRITISH AIRWAYS
 mdi.airplane.takeoff,Mamma boka plastikkirurgi
 mdi.airplane.takeoff,Moscow SVO - Murmansk AEOROFLOT
@@ -1250,6 +1321,7 @@ mdi.bus,Buss hem
 mdi.bus,Buss hem tisdag
 mdi.bus,Buss till skolan
 mdi.bus,Bussen till Tanumshede centrum 08:30
+mdi.bus,Busskort
 mdi.bus,Get home
 mdi.bus,Gå till bussen
 mdi.bus,Pendel
@@ -1308,6 +1380,7 @@ mdi.relax,Biologi
 mdi.relax,D-Droppar Franz
 mdi.relax,Don’t touch skin
 mdi.relax,Förbered foder till veckan
+mdi.relax,Förberedelser
 mdi.relax,Klä mig
 mdi.relax,Ledig
 mdi.relax,MEDITERA
@@ -1327,6 +1400,7 @@ mdi.relax,Strech
 mdi.relax,Stretcha
 mdi.relax,Sträck på benen
 mdi.relax,Ta på mig lounge set
+mdi.relax,Tvätta
 mdi.relax,Tvätta ansikte
 mdi.relax,Tvätta kläder
 mdi.relax,Vattna blommor
@@ -1362,7 +1436,9 @@ mdi.running,Plocka undan kläder
 mdi.running,Practice
 mdi.running,Promenad
 mdi.running,På systembolaget
+mdi.running,Spinning
 mdi.running,Springa
+mdi.running,Stretcha
 mdi.running,Ta en löptur!
 mdi.running,Ta en spring tur
 mdi.running,Träna
@@ -1377,6 +1453,7 @@ mdi.school,Arbetslagsmöte
 mdi.school,Coachtids läxa
 mdi.school,Engelska
 mdi.school,Examensarbete
+mdi.school,Fakta & Kunskap
 mdi.school,Filosofi kunskap/vetenskap
 mdi.school,Finans
 mdi.school,Fortsätt med flashcards
@@ -1403,12 +1480,14 @@ mdi.school,Komplettera kurs
 mdi.school,Kriminologi
 mdi.school,Kunskapsprov
 mdi.school,Lektion
+mdi.school,Lämna in uppgift
 mdi.school,Läs och besvara kring ny kursplan
 mdi.school,Läs texthäfte
 mdi.school,Läxa KBT
 mdi.school,Market PRO
 mdi.school,Matte
 mdi.school,Mentorstid
+mdi.school,Minnestävling
 mdi.school,Montera pannå
 mdi.school,Möte på zoom 12:30
 mdi.school,Naturkunskap
@@ -1434,6 +1513,8 @@ mdi.school,Seminarium
 mdi.school,Skola
 mdi.school,Skola (3h)
 mdi.school,Skola onsdag
+mdi.school,Skoldag
+mdi.school,Sommarkursen
 mdi.school,Spanska
 mdi.school,Spanska 1
 mdi.school,Spanska uppgift
@@ -1444,6 +1525,7 @@ mdi.school,Svenska
 mdi.school,Svenska NP ❤️❤️
 mdi.school,TME275. Mekanik
 mdi.school,Tenta
+mdi.school,Tentafrågor
 mdi.school,Träffa study Buddy
 mdi.school,Träna på ASL
 mdi.school,University research
@@ -1471,6 +1553,7 @@ mdi.subway,Åka till Stockholm
 mdi.subway,Åka till jobbet
 mdi.subway,Åka till skolan
 mdi.subway,Åka tunnelbanan
+mdi.ticket,Bio
 mdi.twitter,Sociala medier
 mdi.twitter,Springa
 mdi.wheelchair,Chilla eller så har du vaknat sent så in i helvete så du har ingen hävla paus?!👍🏻
@@ -1478,6 +1561,7 @@ mdi.wheelchair,Jobba
 mic.fill,Podda med Lisa?
 mic.fill,Ring Bup
 moon.fill,Barnen sova
+moon.fill,Dormez bien !
 moon.fill,God natt
 moon.fill,God natt!
 moon.fill,Godnatt!
@@ -1500,6 +1584,7 @@ moon.zzz.fill,Mental Exercises
 moon.zzz.fill,Natta Noora
 moon.zzz.fill,Sov
 moon.zzz.fill,Sova
+moon.zzz.fill,Vila
 music.mic,Dans o. musik-party!
 music.mic,Eurovision
 music.mic,Ladda ner filer från helle
@@ -1529,6 +1614,7 @@ newspaper.fill,Classics Exam
 newspaper.fill,Diktanalys
 newspaper.fill,Financial log
 newspaper.fill,Fondansökningar
+newspaper.fill,Jobb
 newspaper.fill,Läxor!
 newspaper.fill,Matte
 newspaper.fill,MÖTE
@@ -1540,19 +1626,23 @@ newspaper.fill,Organisk kemi Protecting groups in organic synthesis
 newspaper.fill,Planera imorgon
 newspaper.fill,Plugga
 newspaper.fill,Prov i ekonomi
+newspaper.fill,Script
 newspaper.fill,Skola
 newspaper.fill,Skriva klart F-skatt
 newspaper.fill,So
 newspaper.fill,Study
 newspaper.fill,SuperOffice
+newspaper.fill,Tentafrågor
 newspaper.fill,Uppdatera behandlingsplan
 newspaper.fill,svensklektion
 noun.coffee,Afternoon Caffeine
 noun.coffee,Afternoon ☕️ Pick-me-up
+noun.coffee,Breakfast
 noun.coffee,Brunch med Emma
 noun.coffee,Brunch med Ronina
 noun.coffee,Do Tea
 noun.coffee,Drick vatten
+noun.coffee,Dricka Te och Pulver
 noun.coffee,Espresso House
 noun.coffee,Fika
 noun.coffee,Frukost
@@ -1578,6 +1668,7 @@ noun.coffee,Mellanmål
 noun.coffee,Mellis
 noun.coffee,Middag
 noun.coffee,Morgon rutin
+noun.coffee,Morgonaktiviteter
 noun.coffee,Morgonbestyr
 noun.coffee,Paus
 noun.coffee,Rast
@@ -1676,6 +1767,7 @@ paintbrush.fill,Dammtorka
 paintbrush.fill,Damsuga
 paintbrush.fill,Finish painting :)
 paintbrush.fill,Hushåll (/Random)
+paintbrush.fill,Måla
 paintbrush.fill,"Rusta lackfärg,yatzy, hundbädd,madrass"
 paintbrush.fill,Städa
 paintbrush.fill,𝐌𝐚̊𝐥𝐚 | 𝐅𝐫𝐚̈𝐬𝐜𝐡𝐚 𝐮𝐩𝐩
@@ -1685,6 +1777,7 @@ paintbrush.pointed.fill,Göra naglar
 paintbrush.pointed.fill,Måla
 paintbrush.pointed.fill,Måla Hans
 paintbrush.pointed.fill,Måla klart skiss
+paintbrush.pointed.fill,Måla naglarna
 paintbrush.pointed.fill,Planera krokicirkeln
 paintbrush.pointed.fill,Rita arrendekarta
 paperplane.fill,Försäkringskassan
@@ -1715,10 +1808,12 @@ person.2.fill,Emelie
 person.2.fill,Fixa inför fjällen
 person.2.fill,Gym
 person.2.fill,Handla kläder
+person.2.fill,IKEA & Lunch
 person.2.fill,KP-samtal
 person.2.fill,Lektion
 person.2.fill,Mentorstid
 person.2.fill,Middag hos dajo
+person.2.fill,Mormor
 person.2.fill,Möte
 person.2.fill,"Paus- städa, promenad, dansa, äta"
 person.2.fill,Slöjd
@@ -1734,6 +1829,7 @@ person.3.fill,Bowling
 person.3.fill,Cernredovisning
 person.3.fill,Dans
 person.3.fill,Föreläsning
+person.3.fill,Gäster
 person.3.fill,Gör iordning barnen
 person.3.fill,Hadith
 person.3.fill,Handledning
@@ -1745,7 +1841,9 @@ person.3.fill,Mentorat
 person.3.fill,Micke och barnen kommer på eftermiddags/ kvällsfika
 person.3.fill,Middag & koncert
 person.3.fill,Möte
+person.3.fill,NP för de som missat
 person.3.fill,Resurstid
+person.3.fill,Seminarium
 person.3.fill,Soc möte
 person.3.fill,Socialisera
 person.3.fill,Tränings rutin
@@ -1758,6 +1856,7 @@ person.fill,Evelina
 person.fill,Jag
 person.fill,Jenny
 person.fill,KONSULTATION
+person.fill,Klä på Algot
 person.fill,Klä på mig
 person.fill,Klä på sig
 person.fill,Kläder
@@ -1783,10 +1882,12 @@ phone.fill,Ring Skoda
 phone.fill,Ring Vattenfall
 phone.fill,Ring csn om sommarkurs
 phone.fill,Ring försäkringskassan
+phone.fill,Ring försäkringskassan ‼️
 phone.fill,Ring gyn
 phone.fill,Ring mamma
 phone.fill,Ring morsan
 phone.fill,Ring tandläkare
+phone.fill,Ringa farfar
 phone.fill,Ringa kommunal
 phone.fill,Ringa mamma
 phone.fill,Ringa samtal
@@ -1807,6 +1908,8 @@ pills.fill,2 litium batterier
 pills.fill,Apoteket
 pills.fill,Bernhard
 pills.fill,Bling
+pills.fill,Fixa miniapotek
+pills.fill,Förnya recept
 pills.fill,Hämta medicin
 pills.fill,Hämta meds
 pills.fill,Järntablett
@@ -1838,13 +1941,16 @@ pills.fill,Vitaminer
 pills.fill,frukost
 pills.fill,kosttillskott
 pills.fill,ta melatonin
+pills.fill,ta omega 3
 pills.fill,Ät vitaminer
 pills.fill,💊!!
 pin.fill,Kolla försäkringskassan om ersättning
 pin.fill,Planera och reflektera
+pin.fill,Viktigt ToDo
 play.rectangle.fill,Chilla
 play.rectangle.fill,Film/ serie/ tv spel
 play.rectangle.fill,Kolla mobilen
+play.rectangle.fill,Kolla på Clark
 play.rectangle.fill,Serie
 play.rectangle.fill,Titta på TV
 play.rectangle.fill,YouTube
@@ -1853,6 +1959,7 @@ power,Sova
 power,Tvätta
 printer.fill,OM-grupp uppstart prepp
 printer.fill,Orderhantering
+printer.fill,Skanna in kvitton
 printer.fill,Skjutsstationen prepp
 questionmark,
 questionmark,FETTFRYSNINGEN IMORGON
@@ -1886,6 +1993,8 @@ scissors,Klipptid
 scissors,Knivar till Emma
 scissors,Laga kläder
 scissors,Trimma hår
+scissors,Unik
+shield.fill,Reddit Moderator Gift
 shippingbox.fill,Företag
 shippingbox.fill,Gå igenom paket
 shippingbox.fill,Hämta CO-paket
@@ -1894,6 +2003,7 @@ shippingbox.fill,Hämta paket
 shippingbox.fill,Hämta paket på Hemköp
 shippingbox.fill,Hämta post
 shippingbox.fill,Insamling
+shippingbox.fill,Lämna paket
 shippingbox.fill,Lämna paket hos Gudrun + gå ut till Nacka Forum
 shippingbox.fill,Lämna retur
 shippingbox.fill,Packa
@@ -1941,6 +2051,7 @@ smiley.fill,Skincare routine
 smiley.fill,Tvätta + smörj in ansiktet
 smiley.fill,Västerås!
 smiley.fill,fixa väska !basket ryggan!
+smiley.fill,"planera kväll, fritid"
 smiley.fill,🧸 Self-care
 speedometer,Köp gravidtest
 speedometer,Skriv upp tvättid🧺
@@ -1957,6 +2068,7 @@ sportscourt.fill,Träning - Fagerås BK Seniorlag Damer
 sportscourt.fill,Volleyboll🏐
 star.fill,3 V.I.P
 star.fill,Ansök komvux!!!
+star.fill,BE
 star.fill,Belöning
 star.fill,Beställa Snus
 star.fill,Clean room
@@ -1985,7 +2097,9 @@ stethoscope,Boxning
 stethoscope,Doktor ringer
 stethoscope,FETTFRYSNING 12:00-14:00
 stethoscope,FILLERS 11:00
+stethoscope,Fota helkropp - bak och fram
 stethoscope,Jobba
+stethoscope,Läkaren
 stethoscope,Läkartid
 stethoscope,Milton BVC
 stethoscope,Modul 1
@@ -2006,6 +2120,7 @@ stopwatch.fill,"STARTVIKT 57,3"
 stopwatch.fill,VIKT -
 sun.max.fill,Be
 sun.max.fill,Bön Fajr
+sun.max.fill,Elsa!
 sun.max.fill,Frukost
 sun.max.fill,God morgon!
 sun.max.fill,Godmorgon
@@ -2024,6 +2139,7 @@ sun.max.fill,Pågående småprojekt
 sun.max.fill,SOLA SOLARIUM
 sun.max.fill,Semester?
 sun.max.fill,Sola
+sun.max.fill,Sola 👙
 sun.max.fill,Sommartid
 sun.max.fill,Vakna
 sun.max.fill,Önskelista helg
@@ -2041,6 +2157,7 @@ sunrise.fill,"Mörkt, Mysigt, Murrigt, Vakna lugn och stilla…"
 sunrise.fill,NyvakenTid m. Fruar i Beverly Hills o. lek o.mys!
 sunrise.fill,Ring in
 sunrise.fill,Rise and Shine!
+sunrise.fill,Rise n’ Grind
 sunrise.fill,"Tvätta ansiktet, bädda sängen"
 sunrise.fill,Vakna
 sunrise.fill,Vakna i lugn och ro I Beverly Hills med fruar och Pucko!
@@ -2051,6 +2168,7 @@ sunset.fill,Godmorgon!
 sunset.fill,Kommunen om solceller
 sunset.fill,Kvälls rutin
 sunset.fill,Kvällsrutin
+sunset.fill,Kvällssysslor
 sunset.fill,Läs
 sunset.fill,Varva ner
 sunset.fill,Varva ner inför natten Mysa Ta det Lugnt I Beverly Hills
@@ -2067,6 +2185,7 @@ text.badge.checkmark,Frågorona i LedOrg boken
 text.badge.checkmark,Göra Säljtråd?
 text.badge.checkmark,Göra mig iordning
 text.badge.checkmark,ID06
+text.badge.checkmark,Inte brådskande
 text.badge.checkmark,Jobba på kontoret
 text.badge.checkmark,Jobb…
 text.badge.checkmark,Kontoret
@@ -2117,6 +2236,8 @@ tram.fill,Tåg till Stockholm
 tram.fill,Tåg till Sundsvall
 tram.fill,Tåg till stan
 tram.fill,Tåg!
+tram.fill,Tåget
+tram.fill,göteborg
 tram.fill,Åk hem
 tram.fill,Åk till stan
 tram.fill,Åk till tåget
@@ -2146,6 +2267,7 @@ tv.fill,Serie
 tv.fill,"Serie, film, baka"
 tv.fill,Sso
 tv.fill,Strama
+tv.fill,Titta på TV
 tv.fill,Tv
 tv.fill,fysik plugg
 tv.fill,kolla på greys anatomy
@@ -2154,6 +2276,7 @@ video.fill,Call
 video.fill,Tiktok’s
 wand.and.stars,Ansiktsbehandling
 wand.and.stars,BUS
+wand.and.stars,Byta om
 wand.and.stars,Dammsuga nere
 wand.and.stars,Diska
 wand.and.stars,Fixa för fredag
@@ -2198,6 +2321,7 @@ wand.and.stars,Tidy
 wand.and.stars,Tvätta
 wand.and.stars,Tvätta ansiktet
 wand.and.stars,"Tvätta inkl. egentid, ”umgås m. mig”, ”bara vara”, min typ av mitt jul-stök!"
+wand.and.stars,Ut med saker
 wand.and.stars,morgonrutin
 wand.and.stars,🧹Städa
 wind,Klä på sig/packa väska
@@ -2207,6 +2331,7 @@ wind,meditera 🧘🏻‍♀️📿
 wrench.fill,Clas Ohlson lådmatta
 wrench.fill,Clas Ohlson lådmatta använd 10% rabatt
 wrench.fill,Fixa mig i ordning till imorn
+wrench.fill,Kakel/fogning
 wrench.fill,No
 wrench.fill,Sätta upp gröna häng växter
 wrench.fill,Termostat i Edvins rum

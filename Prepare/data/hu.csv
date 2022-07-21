@@ -1,51 +1,103 @@
 label,text
 alarm.fill,Jó reggelt!
+alarm.fill,Kelés
 alarm.fill,Reggeli
 alarm.fill,Wake up!
 atom,Pszichológus (múlthétre+előttre is igazolást kérni!!+ vinni a tabletet!!)
+atom,meditate🧘‍♀️
+bolt.car.fill,Vezetés
+book.fill,Finalise LIT217 essay choice
+book.fill,Haematológia tételezés
 book.fill,Olvasás
+book.fill,Tanulás
 book.fill,nyelvtan
 car.fill,go home🏡🚙💨
 cart.fill,Bevásárlás
+custom.cat,Kutyu reggeli
+custom.cat,Kutyu vacsi
 custom.chemistry,Tanulás
 custom.cooking,Ebéd
 custom.cooking,Reggeli
+custom.dog,Kutyu séta
 custom.dumbbell,Edzés
 custom.dumbbell,Edzés (abs) (1 h)
+custom.dumbbell,Edzés (abs) (26 min)
 custom.dumbbell,Edzés (abs) (31 min)
+custom.dumbbell,Edzés (abs) (38 min)
+custom.dumbbell,"Edzés (cardio, abs) (1 h, 16 min)"
+custom.dumbbell,"Edzés (cardio, abs) (1 h, 32 min)"
+custom.dumbbell,"Edzés (cardio, abs) (1 h, 8 min)"
 custom.dumbbell,"Edzés (cardio, abs) (56 min)"
+custom.dumbbell,"Edzés (cardio, abs, booty) (1 h, 23 min)"
+custom.dumbbell,"Edzés (cardio, abs, booty) (1 h, 33 min)"
+custom.dumbbell,"Edzés (cardio, abs, booty) (1 h, 5 min)"
 custom.dumbbell,"Edzés (cardio, abs, booty) (1 h, 52 min)"
 custom.dumbbell,"Edzés (cardio, abs, booty) (1 h, 53 min)"
+custom.dumbbell,"Edzés (cardio, abs, booty) (1 h, 56 min)"
+custom.dumbbell,"Edzés (cardio, abs, booty) (2 h)"
 custom.dumbbell,"Edzés (cardio, abs, booty) (2h)"
+custom.dumbbell,"Edzés (cardio, leg, booty, abs, waist) (1h, 56 min)"
+custom.dumbbell,Futás
 custom.hairdryer,Hajmosás
 custom.language,Spanyol
+custom.lipstick,"Szauna, tusi"
+custom.shower,"Fürcsi, esti rutin"
 custom.shower,Fürdés
+custom.shower,Mosogatás
+custom.toothbrush,"Fogmosás, arcápolás"
 dollarsign.circle.fill,Laptopot eladni
+film.fill,Mozifilm
+gamecontroller.fill,Bowling
 hourglass,Szabadidő
 house.fill,Mosogatógépet indítani
 house.fill,Takarítás
 house.fill,do chores🧹
+leaf.fill,Meaning of forest in le guin
+leaf.fill,Watch Avatar
 lightbulb.fill,Ismeretek
+mdi.alcohol,Málta nyaralás
 mdi.bike,Bringa edzés
 mdi.bike,Bringázás
+mdi.bus,Busz
+mdi.couch,Pihi
 mdi.pharmacy,Fogászat
 mdi.relax,Növényeket meglocsolni
 mdi.school,Németezni
+mdi.school,Tanulni
+mdi.school,Írásbeli feladatok
 moon.fill,Jó éjt!
 moon.zzz.fill,sleep💤
+noun.coffee,Kávézás
 noun.coffee,Reggeli
+noun.meal,Dinner
 noun.meal,Ebéd
 noun.meal,Ebéd ()
+noun.meal,Ebéd (almás-fahéjas rizskása)
+noun.meal,Ebéd szünet
 noun.meal,Kávé
+noun.meal,Lunch
+noun.meal,Reggeli
 noun.meal,Vacsi (
+noun.meal,"Vacsi (1 banán, sali, 1 retek, 1 pari)"
+noun.meal,"Vacsi (6 sajtos abonett, csokis brownies 20g proteines zabszelet)"
 noun.meal,Vacsi (kakaós-fahéjas barna rizskása)
+noun.meal,Vacsi (rizskása)
 noun.party,Bajusz buli
+noun.party,Szabad progi
+paintbrush.pointed.fill,Smink
+person.3.fill,Gyomaendrőd az osztállyal
 person.3.fill,School
+photo.fill,Lányoknak fényképek
 pills.fill,Taking meds
 pills.fill,Vitaminok
+play.rectangle.fill,TikTok📱
+scanner.fill,Finish German Summer Camp application
 scissors,Hajvágás
+text.badge.checkmark,Pszichologia kurzus
 text.badge.checkmark,Study
+text.badge.checkmark,Vázlat pótlás
 tram.fill,Vonat
 tv.fill,Sorozat epizód
 wand.and.stars,Ruhákat elrendezni
+wrench.fill,Gyakszi
 zzz,Szieszta

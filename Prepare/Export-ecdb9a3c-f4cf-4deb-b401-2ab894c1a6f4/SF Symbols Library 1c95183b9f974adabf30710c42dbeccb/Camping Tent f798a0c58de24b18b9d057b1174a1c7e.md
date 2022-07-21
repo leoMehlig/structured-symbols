@@ -1,3 +1,0 @@
-# Camping / Tent
-
-Status: Requested

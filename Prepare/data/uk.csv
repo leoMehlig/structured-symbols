@@ -9,6 +9,7 @@ alarm.fill,Прокинулася
 alarm.fill,прокинутися
 arrow.3.trianglepath,Домашнє завдання
 arrow.3.trianglepath,Нікайон
+at,Йога
 bag.fill,Військовий магазин
 bag.fill,Урок Христина
 bandage.fill,Укол
@@ -30,10 +31,18 @@ book.fill,English 8.2 Bonk
 book.fill,English 8.3 Bonk
 book.fill,English 8.4 Bonk
 book.fill,English 8.5 Bonk
+book.fill,English 9.2 Bonk
+book.fill,English 9.3 Bonk
+book.fill,English 9.4 Bonk
+book.fill,English 9.5 Bonk
+book.fill,English 9.6 Bonk
+book.fill,English 9.8 Bonk
 book.fill,English Bonk
 book.fill,Історія України
 book.fill,Дз
+book.fill,Книга
 book.fill,Навчання🤓
+book.fill,Пара з вікової психології
 book.fill,Підготовка до ЗНО
 book.fill,Підготовка до зібрання
 book.fill,Підготувати проєкт
@@ -41,14 +50,18 @@ book.fill,Читання
 book.fill,Читати
 book.fill,Шаббат
 book.fill,читання
+bookmark.fill,Поиграть в геншин!
 briefcase.fill,Артур
 briefcase.fill,Робота
+briefcase.fill,Тетяна
 briefcase.fill,Христина
 briefcase.fill,Челентано з 15
 briefcase.fill,відправити карти
 bubble.left.fill,start go the solidarity corps training
+calendar,Марафону з розминки
 calendar,Планування з TL ELIO
 calendar,Планування з TL Kitchen
+calendar,Скласти план щодо марафону з розтяжки
 calendar,📜СПВ с 362 Возняк
 camera.fill,Пост у стріт фото акаунт
 camera.fill,Фотосесія
@@ -59,6 +72,8 @@ cart.fill,Магазин
 cart.fill,Покупки
 cart.fill,сходити в канцелярський магазин
 chart.bar.fill,Уроки
+chevron.left.slash.chevron.right,Frontend
+chevron.left.slash.chevron.right,Встановити Wordpress
 chevron.left.slash.chevron.right,Проект
 clock.fill,коледж
 comb.fill,cleaning my coat
@@ -76,9 +91,12 @@ custom.cooking,Борщ
 custom.cooking,ГВ
 custom.cooking,Гречка з куркою
 custom.cooking,Гречка зі свининою
+custom.cooking,Завтрак
+custom.cooking,Зварити суп
 custom.cooking,Обід
 custom.cooking,Паста з соусом
 custom.cooking,Приготувати вечерю
+custom.cooking,Приготувати обід
 custom.cooking,Приготувати сніданок
 custom.cooking,Сніданок
 custom.cooking,Суп
@@ -98,13 +116,16 @@ custom.dumbbell,Тренування день 4
 custom.dumbbell,Фітнес
 custom.dumbbell,тренування
 custom.hairdryer,Водні процедури
+custom.language,Італійська
 custom.language,Англійська
 custom.language,Англійська мова
 custom.language,Зробити домашнє завдання з сучасного мистецтва
 custom.language,Німецька мова 🇩🇪
+custom.language,Повчитись
 custom.language,Урок Юля
 custom.language,зробити уроки
 custom.language,чешська
+custom.lipstick,створити образи
 custom.shower,Self care routine
 custom.shower,Ванна
 custom.shower,Водні процедури
@@ -119,9 +140,12 @@ custom.shower,ранкова рутина
 custom.sit,Work
 custom.sit,Нічого не робимо
 custom.sit,перерва
+custom.toothbrush,Evening routine
+custom.toothbrush,Morning routine
 custom.toothbrush,Утренний уход
 custom.toothbrush,вмитися
 desktopcomputer,Work&Study
+desktopcomputer,mock exam listening
 desktopcomputer,practice on EQ
 desktopcomputer,sit in social networks
 desktopcomputer,watching the course (Udemy)
@@ -135,13 +159,16 @@ doc.richtext,economics re
 doc.richtext,work on cw3 draft
 doc.richtext,Завдання в універ 🥇
 doc.richtext,Новости 📰
+doc.richtext,ОБЯЗАТЕЛЬНО!!!!
 doc.richtext,домашнє завдання із всесвітньої історії
 doc.richtext,домашнє завдання із історії України
 dollarsign.circle.fill,Pay taxes
 dollarsign.circle.fill,Заробіток
 dollarsign.circle.fill,Навчання заробітку
+dollarsign.circle.fill,Робота
 drop.fill,Ліки (каплі 1 )
 drop.fill,Ліки (каплі 1 2 3 )
+drop.fill,Помити рибку
 drop.fill,Стакан води
 envelope.fill,Домашка до бехти
 envelope.fill,Зробити основи перекладу
@@ -172,6 +199,8 @@ headphones,Медитація
 heart.fill,Вільний час
 heart.fill,Маска з білої глини🧖🏻‍♀️
 house.fill,Home
+house.fill,Витерти пил в себе
+house.fill,"Помити дзеркала, протерти меблі"
 house.fill,Помити плиту
 house.fill,"Попилососити підлогу всюди, помити в кухні i ванній"
 house.fill,"Попилососити підлогу всюди, помити в кухні, ванній і коридорі"
@@ -179,6 +208,7 @@ house.fill,Попилососити і помити підлогу на кухн
 house.fill,Попилососити і помити підлогу підлогу всюди
 house.fill,Прибирання
 house.fill,Прибрати офіс Вадіма
+house.fill,Хатня робота
 house.fill,требухів
 keyboard,practice with JS
 keyboard,Робота ранок
@@ -194,6 +224,7 @@ lightbulb.fill,НМТ(мова)
 lightbulb.fill,НМТ(історія)
 lightbulb.fill,Тести по інноваційному менеджм.
 mdi.alcohol,Вода з лимоном
+mdi.bike,Велотренажер 🚴🏻‍♀️
 mdi.bus,Подорож
 mdi.bus,Поїздка
 mdi.bus,Роздрукувати квитки
@@ -209,12 +240,15 @@ mdi.relax,сімейний час
 mdi.running,Атлетика
 mdi.running,До роботи. До Марка та Енн
 mdi.running,Згоняти за квитками
+mdi.running,Спорт
+mdi.running,Тренування
 mdi.school,Biochemie
 mdi.school,Fyziola
 mdi.school,Kmenové buňky
 mdi.school,Zajęcia dla rodziny Mokotów
 mdi.school,Історія
 mdi.school,Завдання в універ 🥇
+mdi.school,Зробити лабу
 mdi.school,Курси в  Genius
 mdi.school,Курс📚
 mdi.school,Математика
@@ -224,9 +258,11 @@ mdi.school,Пари 📒
 mdi.school,Уроки
 mdi.school,Школа
 mdi.school,презентація англійська
+mdi.ticket,Серіал
 mic.fill,Теоретичні основи нім. мови (лекція)
 moon.fill,Good night!
 moon.fill,Night Routine
+moon.fill,Sleep Well!
 moon.fill,create a story about yourself
 moon.fill,Добраніч!
 moon.fill,Надобраніч!
@@ -235,6 +271,7 @@ moon.zzz.fill,Добраніч!
 moon.zzz.fill,Подготовка ко сну
 moon.zzz.fill,Сон
 moon.zzz.fill,лягти спати
+mustache.fill,Пойти помыться!
 newspaper.fill,1 урок
 newspaper.fill,3 урок
 newspaper.fill,4 урок
@@ -243,6 +280,7 @@ newspaper.fill,Домашні завдання
 newspaper.fill,Книга
 newspaper.fill,Підготувати звіт про виконання за квітень
 newspaper.fill,Рецепція світової літератури (практична)
+newspaper.fill,Сходити отримати тимчасовий захист
 noun.coffee,Breakfast
 noun.coffee,drinking a glass of warm water
 noun.coffee,Вечеря
@@ -275,6 +313,7 @@ paintbrush.pointed.fill,Малювання
 paintbrush.pointed.fill,Піти на художку
 paintbrush.pointed.fill,пофарбуватися
 paintbrush.pointed.fill,почати картину Олі
+paperclip,Підготовка до захисту курсової
 pencil.and.outline,Tattoo
 pencil.and.outline,Замовлення
 pencil.and.outline,Записати книжку
@@ -287,6 +326,7 @@ person.2.fill,Репетитор
 person.3.fill,Зустріч з дівчатами
 person.3.fill,Публічка
 person.fill,Зустріч д/с
+phone.fill,подзвонити близьким
 photo.fill,Відзняти картини
 pills.fill,Випити цетрин
 pills.fill,Вітаміни

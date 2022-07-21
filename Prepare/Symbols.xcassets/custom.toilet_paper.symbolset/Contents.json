@@ -1,0 +1,12 @@
+{
+    "info": {
+        "author": "xcode",
+        "version": 1
+    },
+    "symbols": [
+        {
+            "filename": "custom.toilet_paper.svg",
+            "idiom": "universal"
+        }
+    ]
+}

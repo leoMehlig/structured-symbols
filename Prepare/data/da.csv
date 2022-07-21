@@ -7,15 +7,19 @@ alarm.fill,Jacob op og gøres klar
 alarm.fill,Morgenrutine
 alarm.fill,Oppeliop
 alarm.fill,Stå op
+alarm.fill,Stå op!
 alarm.fill,Så det op☀️
 alarm.fill,Vågn op
 alarm.fill,Vågn op!
 alarm.fill,Vågn op! + Morgen rutine
+alarm.fill,"Vågn op, bad, bisser"
 alarm.fill,Vågne
 alarm.fill,Wake up
 alarm.fill,Wake up!
+alarm.fill,Wake up🌞
 alarm.fill,wake up
 alarm.fill,wake up and make bed
+archivebox.fill,Arbejde
 archivebox.fill,Hæng tøj op
 archivebox.fill,Lægge tøj sammen
 archivebox.fill,Pak indrætstøj
@@ -36,12 +40,14 @@ bag.fill,Arbejde
 bag.fill,Arbejde Little Fluffy
 bag.fill,Brugsen
 bag.fill,Dragør+kræmmergården
+bag.fill,Formiddagsmad
 bag.fill,Gå i Rema
 bag.fill,Gå på indkøb
 bag.fill,Handle
 bag.fill,Handle ind
 bag.fill,Hent pakke
 bag.fill,Normal
+bag.fill,Pak ud
 bag.fill,Pakke
 bag.fill,Skole
 bag.fill,Travel + faros
@@ -57,6 +63,7 @@ bed.double.fill,Lur
 bed.double.fill,Reg din seng
 bed.double.fill,Rydde op
 bed.double.fill,Skift sengetøj
+bed.double.fill,Skifte sengetøj
 bed.double.fill,Slappe af
 bed.double.fill,Sov
 bed.double.fill,Stå op
@@ -67,10 +74,12 @@ bolt.fill,ENERGY
 bolt.fill,Klæd om
 bolt.fill,Lynoprydning
 bolt.fill,Vejle International Swim Cup
+book.fill,Bog & ide
 book.fill,Bog og idé
 book.fill,Business (spg til Jannie Meyer)
 book.fill,Bæredygtigt Bygningsdesign - Find informationer om vægge og indervægge
 book.fill,Dansk aflevering
+book.fill,Dansk oplæsning
 book.fill,Digital kommunikation
 book.fill,Duolingo + læse
 book.fill,Forbered eksamen
@@ -122,6 +131,7 @@ briefcase.fill,Ikea
 briefcase.fill,Kontor
 briefcase.fill,Pak sportstaske
 briefcase.fill,Pak taske
+briefcase.fill,Pakke
 briefcase.fill,Pakke mine ting
 briefcase.fill,Pakke til Sverige og Jylland
 briefcase.fill,Pakke til ferie
@@ -135,6 +145,7 @@ burn,Rens øreringe
 calendar,Gøre klar til næste dag
 calendar,Planlægge dagen i morgen
 car.fill,Afgang mod Løkken
+car.fill,Børnehave
 car.fill,Hente Jacob fra klub
 car.fill,Hente Liv fra skole
 car.fill,Hjem til far
@@ -157,6 +168,7 @@ car.fill,Køre ud til farmor
 car.fill,Køre ud til farmor og farfar
 car.fill,Kører
 car.fill,Køretime
+car.fill,Night cruise
 car.fill,Pernille kommer
 car.fill,Rengøre og støvsuge bilen
 car.fill,Simone kører dig til Jysk
@@ -167,6 +179,7 @@ car.fill,indkøb
 cart.fill,Fakta
 cart.fill,Fields
 cart.fill,Finde på aftensmad
+cart.fill,Føtex
 cart.fill,Handel ind
 cart.fill,Handle
 cart.fill,Handle ind
@@ -215,14 +228,19 @@ custom.ball,Kamp
 custom.ball,Maja tid
 custom.cat,Mad til Simba og Nala
 custom.cat,Skift vand og sørg for mad
+custom.cat,Skifte kattebakke
 custom.cat,Tøm kattebakke
 custom.chemistry,Fysik/kemi
 custom.cooking,Aftensmad
 custom.cooking,Aubrgine + krompire
+custom.cooking,Bacon i ovnen
 custom.cooking,Bage kage
 custom.cooking,Breakfast
+custom.cooking,Bryg og tap
 custom.cooking,Kaffe og Morgenmad
+custom.cooking,Lav Aftensmad
 custom.cooking,Lav aftensmad
+custom.cooking,Lav knækbrød
 custom.cooking,Lav køleskabsgrød
 custom.cooking,Lav mad
 custom.cooking,Lave aftensmad
@@ -230,6 +248,7 @@ custom.cooking,Lave mad
 custom.cooking,Lave madpakke
 custom.cooking,Lave mad🍝
 custom.cooking,Lave morgenmad
+custom.cooking,Mad
 custom.cooking,Madlavning
 custom.cooking,Mealprep
 custom.cooking,Morgenmad
@@ -248,6 +267,7 @@ custom.dog,Luft og træn Sofus
 custom.dog,Lufte Chili
 custom.dog,Lufte Luffe
 custom.dog,Lufte hund
+custom.dog,MorgenTur med Issa
 custom.dog,Ud til Lóa
 custom.dumbbell,10 - 10 - 10
 custom.dumbbell,5 min workout / Yoga
@@ -289,6 +309,7 @@ custom.hairdryer,Tørre hår
 custom.language,Duo lingo
 custom.language,Duolingo
 custom.language,Fransk
+custom.language,Skriv slate/Ideer
 custom.language,Studér koreansk
 custom.language,Tysk
 custom.lipstick,Gå i skole med Esther
@@ -301,6 +322,7 @@ custom.lipstick,Matas
 custom.lipstick,Morgenrutine
 custom.lipstick,Negle
 custom.lipstick,Skincare
+custom.lipstick,Skincare aften
 custom.lipstick,Skincare morgen
 custom.lipstick,Skincare weekend
 custom.razor,Bad
@@ -344,6 +366,7 @@ custom.sit,Spis morgenmad
 custom.sit,Strik
 custom.sit,Toilet
 custom.toothbrush,Aftenrutine
+custom.toothbrush,"Bisser, gør klar til at sove 23:00"
 custom.toothbrush,Brush teeth
 custom.toothbrush,Børst tænder
 custom.toothbrush,Børste tænder
@@ -353,10 +376,12 @@ custom.toothbrush,Gør dig klar
 custom.toothbrush,Morgenrutine
 custom.toothbrush,Morgenrutine - børn
 custom.toothbrush,Natrutine
+custom.toothbrush,Night routine
 custom.toothbrush,Noah tandlæge
 custom.toothbrush,Tandpleje
 custom.toothbrush,Tøj osv.
 custom.toothbrush,Vask gulv
+desktopcomputer,Ansøgninger
 desktopcomputer,Arbejde
 desktopcomputer,Arbejde på Asøgning
 desktopcomputer,Hygge tid
@@ -373,6 +398,7 @@ doc.richtext,Lektier
 dollarsign.circle.fill,ARB - H&M
 dollarsign.circle.fill,Betal regninger
 dollarsign.circle.fill,Hårlev
+dollarsign.circle.fill,Pieces
 dollarsign.circle.fill,Skat + 3
 dollarsign.circle.fill,Tur til byen
 dollarsign.circle.fill,opret fast overførsel til r
@@ -415,6 +441,7 @@ figure.walk,Gå
 figure.walk,Gå 10.000 skridt
 figure.walk,Gå en tur
 figure.walk,Gå hjem
+figure.walk,Gå med Nala
 figure.walk,Gå ned til Freja
 figure.walk,Gå til Biblioteket
 figure.walk,Gå til biblioteket
@@ -440,6 +467,7 @@ gamecontroller.fill,Destiny Weekly Reset
 gamecontroller.fill,Hente Astor
 gamecontroller.fill,Slap af
 gearshape.2.fill,Lav skemaer til René
+gearshape.2.fill,Op med gyngestolen. Ned med vintertøj
 gearshape.2.fill,Ring til lægen
 gearshape.2.fill,Tøj på
 gearshape.2.fill,Vågn op <3
@@ -454,6 +482,7 @@ gift.fill,Skaf adventsgave
 gift.fill,Storebrors fødselsdag🎁❤️
 globe,Geografi
 guitars,Dans
+guitars,Fredagsrock
 hammer.fill,Arbejde
 hammer.fill,Arbejde ved Janus
 hammer.fill,Byg hehe
@@ -475,6 +504,7 @@ headphones,Øv klaver
 heart.fill,Afslapning
 heart.fill,Afslapning og frokost
 heart.fill,Afsted til Børnehave
+heart.fill,Aftenhygge
 heart.fill,Aftensmad og afslapning
 heart.fill,Arbejde
 heart.fill,Eye patch mask + meditation
@@ -485,6 +515,8 @@ heart.fill,Fejre mor
 heart.fill,Girls night med Natasha
 heart.fill,Gøre klar til date
 heart.fill,Handle i Rema
+heart.fill,Hjem til Cille og Mason 💙
+heart.fill,Horze
 heart.fill,House of Special Hearts
 heart.fill,Hygge
 heart.fill,MILS
@@ -507,7 +539,9 @@ heart.fill,Valentinsdag
 heart.fill,Viggo
 hifispeaker.fill,Klasse fest
 hourglass,Gør dig klar til at tage ud og spise
+hourglass,Morgenmad
 hourglass,Rydde op
+house.fill,Fold vasketøj
 house.fill,Gør rent
 house.fill,Gøre rent
 house.fill,Gøre rent og rydde op
@@ -527,6 +561,7 @@ house.fill,Rengøring af hjem
 house.fill,Ring 1 skole
 house.fill,"Ryd op, støvsug og vask gulv"
 house.fill,Rydde op
+house.fill,Rydde op i køkkenet
 house.fill,Rydde op plus ud med skrald
 house.fill,Sommerhus
 house.fill,Start en vask
@@ -564,6 +599,7 @@ leaf.fill,Vande planter
 lightbulb.fill,Skrive dagbog
 lightbulb.fill,Slap af med krystaller
 link,Opvask
+location.fill,Kom hjem
 lock.open.fill,Hyg dig
 magnifyingglass,Finde påskeæg
 magnifyingglass,Veje
@@ -596,14 +632,17 @@ mdi.buggy,Hente Maja
 mdi.buggy,Hente børn
 mdi.buggy,I byen med familien
 mdi.buggy,Tur lur
+mdi.buggy,Vuggestue
 mdi.bus,Bussen
 mdi.bus,Hjemrejse
 mdi.bus,Transport
+mdi.couch,Afslapning
 mdi.couch,Afslapning + gå tur med Hugo
 mdi.couch,Afslapning + lur
 mdi.couch,Aften hygge
 mdi.couch,Slappe af
 mdi.ev.station,Aftensmad
+mdi.ev.station,Formiddagspause
 mdi.ev.station,Oplad computer
 mdi.instagram,Morgenmad
 mdi.instagram,Ryd op
@@ -643,6 +682,7 @@ mdi.running,Løb en tur
 mdi.running,Løbe
 mdi.running,Løbe en tur
 mdi.running,Løbetur
+mdi.running,Motion
 mdi.running,Nike Run Club
 mdi.running,Orienteringsløb
 mdi.running,Praktiske gøremål
@@ -657,6 +697,7 @@ mdi.school,1 times læsning
 mdi.school,Begynde diskussion
 mdi.school,Begynde på indledningen
 mdi.school,Civilprocesret - Seminar
+mdi.school,DHO
 mdi.school,Doping - læse + noter
 mdi.school,FP9 mundtlig prøveperiode
 mdi.school,Forårsforsamling
@@ -664,6 +705,7 @@ mdi.school,Færdiggør skole page
 mdi.school,Galla
 mdi.school,Governmentality 2
 mdi.school,Indsæt skema for kommende uge
+mdi.school,"Kollokvium, Dyrefys"
 mdi.school,Lav eksamen
 mdi.school,Lav historie
 mdi.school,Lav matematik
@@ -689,9 +731,12 @@ mdi.school,Selvstudie
 mdi.school,Selvstudie - husk Flipd
 mdi.school,Skole
 mdi.school,Skolearbejde
+mdi.school,Skoletid
 mdi.school,Strømningslære for bygningsingeniører
 mdi.school,Søndre Campus - Læsesal
 mdi.school,Ventilation
+mdi.school,flashcards binyrebark
+mdi.school,flashcards thyroidea
 mdi.school,lektier
 mdi.school,optagelse færdig og sendt
 mdi.school,🏫
@@ -700,6 +745,7 @@ mdi.subway,Pakke
 mdi.subway,Transport
 mdi.twitter,Movement
 mdi.wheelchair,Gå på toilet
+moon.fill,Sleep Well!
 moon.fill,Sov godt!
 moon.fill,skifte sengetøj
 moon.zzz.fill,Aftenrutine
@@ -710,6 +756,7 @@ moon.zzz.fill,Gør klar til godnat
 moon.zzz.fill,Klar til seng
 moon.zzz.fill,Lur
 moon.zzz.fill,Rens ansigt
+moon.zzz.fill,Sleep Well!
 moon.zzz.fill,Sov godt!
 moon.zzz.fill,Sove
 music.mic,MONSTA X ALBUM
@@ -717,10 +764,13 @@ music.note,Dans
 music.note,Hente airpods
 music.note,Jimilian og Icekiid (Tivoli)
 music.note,Kor
+music.note,Manualen og de syv dødssynder
 mustache.fill,Klæde om
 newspaper.fill,Dagbog
 newspaper.fill,Dansk
 newspaper.fill,Skriv bachelor
+newspaper.fill,Skrive opgave
+noun.coffee,Aften hygge
 noun.coffee,Arbejde ☕️
 noun.coffee,Breakfast
 noun.coffee,Drik vand
@@ -792,10 +842,12 @@ paperclip,Vaske makeup punge
 paperclip,Ærinder
 pencil.and.outline,"0,5 liter vand"
 pencil.and.outline,Fortsæt med skriveøvelse til LMA
+pencil.and.outline,Følg op @ bogholderiet
 pencil.and.outline,Homework
 pencil.and.outline,Opsig alka
 pencil.and.outline,Skriv på dansk aflevering
 pencil.and.outline,Sorter tøjskab
+person.2.fill,Arbejde
 person.2.fill,Astrid
 person.2.fill,Dramaaften
 person.2.fill,Fødselsdag
@@ -805,6 +857,7 @@ person.2.fill,Julie
 person.2.fill,Kontakt sisse😍 eller Ella😍
 person.2.fill,Møde
 person.2.fill,Praktiksparring med Lone
+person.2.fill,Se film/serier slappe af
 person.2.fill,Snakke med Camilla
 person.2.fill,Træning m. Caro
 person.2.fill,Ud med Rebecca
@@ -823,8 +876,11 @@ person.3.fill,Klassens tid
 person.3.fill,Lave serie til skolen
 person.3.fill,Lektier med Naja
 person.3.fill,Maghrib
+person.3.fill,Salg og Rådgivning
 person.3.fill,Samfundsfag
 person.fill,Arbejde
+person.fill,Clothes
+person.fill,Hente Liam
 phone.fill,Ring til Farmor
 phone.fill,Ringe til Ann
 phone.fill,Se telefon
@@ -854,7 +910,9 @@ pin.fill,Køberejseprodukter til London-turen
 pin.fill,Rengøring i hallen
 pin.fill,Sortere i tøjskab og sætte til salg
 pin.fill,Sy hagesmækker
+pin.fill,Vejning på vægt
 power,Telefon
+printer.fill,Sende lønsedler
 questionmark,Find str. på bh
 questionmark,Minna
 scanner.fill,Pakke
@@ -903,11 +961,15 @@ smiley.fill,Superfood shot
 smiley.fill,mig
 speedometer,Vaske tøj
 sportscourt.fill,Practice 6-steps + 3-steps
+sportscourt.fill,Øve golf i baghaven
 star.fill,Arbejde
 star.fill,Biblioteket (Legater)
 star.fill,JUNI Goals - mad
+star.fill,Matilde undervisning
+star.fill,Morgunkápu
 star.fill,Rent på badeværelse
 star.fill,Ridning
+star.fill,Sof
 star.fill,"Svar Hanne, Søren og Helge"
 stethoscope,Læge
 stethoscope,Ring læge
@@ -915,6 +977,7 @@ stethoscope,Tandlæge
 stopwatch.fill,Kør i skole
 sun.max.fill,Cataleya
 sun.max.fill,Eftermiddag
+sun.max.fill,Frankrig
 sun.max.fill,Godmorgen
 sun.max.fill,Gåtur
 sun.max.fill,Hudpleje
@@ -973,6 +1036,7 @@ text.badge.checkmark,Træning færdig - kør matching
 text.badge.checkmark,eftermiddag
 timer,Tage træningstøj på
 tortoise.fill,Afslapning
+tortoise.fill,Daycare and school
 tortoise.fill,Første træning i år 😍🤩🙏🏽
 tortoise.fill,Overtøj på
 tortoise.fill,Stretching
@@ -992,8 +1056,10 @@ tuningfork,Sewing Queen 💃🪡
 tuningfork,Sy mulepose
 tv.fill,Arbejde
 tv.fill,FSBR- Møde
+tv.fill,Finde tøjskab til børnene
 tv.fill,Jura
 tv.fill,Lave baggrund på computer
+tv.fill,Se en film
 tv.fill,Turn on tv (Scooby doo)
 tv.fill,Turn on tv (whatever i want)
 video.fill,Digital Kommunikation
@@ -1021,6 +1087,7 @@ wand.and.stars,Negle
 wand.and.stars,Oprydning
 wand.and.stars,Ordne negle👍
 wand.and.stars,Pak ting ud
+wand.and.stars,R/F - F-Film Udvikling
 wand.and.stars,Rengøre pigernes badeværelse
 wand.and.stars,Rengøring
 wand.and.stars,Ryd op
@@ -1041,12 +1108,16 @@ wand.and.stars,Vaske vinduer
 wand.and.stars,rengøring
 wand.and.stars,Øjenvippeserum
 wind,Luft ud
+wind,Sejlads
+wind,Sejlads (træner)
 wind,Svømme med Sean i søen
 wind,Vacuum
+wind,pak sejlertøj
 x.squareroot,Lav Matematikken færdig
 x.squareroot,Problemløsning matematik
 x.squareroot,Skole
 xmark.octagon.fill,Idk bro
+zzz,Afslapning
 zzz,Godnat til Maja
 zzz,Gå i seng
 zzz,Lur

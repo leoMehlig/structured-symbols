@@ -1,3 +1,0 @@
-# Laundry Basket
-
-Status: Requested

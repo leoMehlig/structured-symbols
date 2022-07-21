@@ -1,3 +1,0 @@
-# Cleaning Cloth
-
-Status: Requested

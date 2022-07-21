@@ -1,4 +1,9 @@
 label,text
-custom.ball,Football
-custom.ball,Soccer
-custom.ball,Basketball
+custom.reminders,Apple Reminders
+custom.reminders,Task
+custom.reminders,Todo
+backport.soccerball,Football
+backport.soccerball,Soccer
+backport.soccerball,Basketball
+backport.birthday.cake.fill,birthday cake
+backport.figure.soccer,Football

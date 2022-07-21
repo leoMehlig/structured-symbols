@@ -31,6 +31,7 @@ alarm.fill,good morning
 alarm.fill,good morning!
 alarm.fill,wake up
 alarm.fill,wake up + weigh
+alarm.fill,wake up 🛏
 alarm.fill,wakewake
 alarm.fill,การเริ่มต้นเเห่งช่วงเวลาของคนโง่
 alarm.fill,จองผ้าคลุม
@@ -51,8 +52,10 @@ alarm.fill,ตื่นนอน เข้าห้องน้ำ
 alarm.fill,ตื่นนอน😪
 alarm.fill,ตื่นนอน🛏🖼
 alarm.fill,ตื่นมาสำลักความรวย!
+alarm.fill,ตื่นอาบน้ำ!!!
 alarm.fill,ตื่นเช้าๆหน่อย!!
 alarm.fill,ตื่นเสาร์-อาทิตย์
+alarm.fill,ตื่นแล้วคนเก่ง🌤
 alarm.fill,ทวนวิทย์
 alarm.fill,นัด andy
 alarm.fill,พัก
@@ -66,6 +69,7 @@ alarm.fill,ออกกำลังกาย
 alarm.fill,☀️ ตื่น!
 alarm.fill,📌 อย่าวอกแวก เช่น เกาหลี นอน ทำให้ได้ตามแพลน
 alarm.fill,📌อย่าวอกแวก เช่น เกาหลี นอน ทำให้ได้ตามแพลน
+ant.fill,Bio
 ant.fill,Ento&protozoa
 ant.fill,Study biology
 ant.fill,ทำงานบ้าน
@@ -83,6 +87,7 @@ archivebox.fill,ทำของปัจฉิม
 archivebox.fill,พับผ้า
 archivebox.fill,อ่านวิชาหลัก
 archivebox.fill,เก็บของ
+archivebox.fill,เก็บของใต้แอร์
 archivebox.fill,เก็บผ้ามาซัก
 archivebox.fill,เก็บห้อง
 archivebox.fill,เตรียมของส่งให้พี่เจน
@@ -98,6 +103,7 @@ arrow.3.trianglepath,อ่านแคล
 arrow.3.trianglepath,เริ่มติวฟิสิกส์
 arrow.merge,ชีวะ สู้ๆ
 arrow.merge,ซักที่มัดผม
+arrow.merge,ทักหาเฟรด  + คุยกับนาง
 arrow.merge,เอาของขึ้นรถ
 arrow.merge,ไปขายสเต็ก
 at,Physic
@@ -108,15 +114,19 @@ at,ตอบอีเมล
 at,ยิง Adds ข้อความ
 at,วางแผนมโนภาพของหนึบ
 atom,68 SCENT
+atom,Biology
 atom,Biology2
 atom,Biology3
 atom,Bootcamp [Biology]
 atom,Chem
+atom,Eng33203
 atom,Exam chem
 atom,Lecture
 atom,Math - เซต
+atom,Math33101
 atom,Movement
 atom,Physical homework
+atom,Physics
 atom,Post รีวิวลูกค้า Story
 atom,Reproductive system
 atom,SCPY156
@@ -143,6 +153,7 @@ atom,ทำโปรแกรม
 atom,ท่องศัพท์1หน้า
 atom,ฟิสิกส์
 atom,ลง stock ถ่าน
+atom,ล้างจาน
 atom,ศึกษาเพิ่มเติม
 atom,สวดมนต์
 atom,สสวท Biology1
@@ -252,6 +263,7 @@ bed.double.fill,เก็บที่นอน
 bed.double.fill,เก็บห้อง
 bed.double.fill,เก็บห้อง ทำงานบ้าน
 bed.double.fill,เข้านอน
+bed.double.fill,เข้าหอพัก
 bed.double.fill,เตรียมตัวนอน
 bed.double.fill,เฝ้าหน้าร้าน
 bed.double.fill,休息
@@ -278,6 +290,7 @@ bitcoinsign.circle.fill,"คืนเงินแบ้ง 2,000"
 bitcoinsign.circle.fill,ค่าขนม 🫶🏻
 bitcoinsign.circle.fill,ซื้อหนังสือ
 bitcoinsign.circle.fill,ตัดดอกทอง
+bitcoinsign.circle.fill,ทำใบเบิกเงินตลอดปีการศึกษา
 bitcoinsign.circle.fill,ธนาคาร
 bitcoinsign.circle.fill,นับเงิน
 bitcoinsign.circle.fill,ปริ้นใบจ่ายค่าเทอม
@@ -288,12 +301,14 @@ bitcoinsign.circle.fill,อ่านหนังสือ
 bitcoinsign.circle.fill,อ่านหนังสือ10หน้า
 bitcoinsign.circle.fill,"เก็บตัง1,000ฝ ได้ยัง(3,000)"
 bitcoinsign.circle.fill,เก็บเงินห้อง
+bitcoinsign.circle.fill,เงิน Today 💵
 bitcoinsign.circle.fill,เช็ค คริปโต
 bitcoinsign.circle.fill,เบิก OT วันหยุด
 bitcoinsign.circle.fill,โอนค่าแรงให้พี่กล้า
 bitcoinsign.circle.fill,ไปถึงโรงกษาปณ์
 bitcoinsign.circle.fill,ไปเอาค่าชดเชย
 bolt.car.fill,Relax
+bolt.car.fill,ค่าเดินทาง (รถยนต์)
 bolt.car.fill,พัก
 bolt.car.fill,พาน้องข้าวโอ๊ตเล่นรถไฟฟ้า
 bolt.car.fill,ฟิสิกส์
@@ -308,6 +323,8 @@ bolt.fill,คลายเครียด
 bolt.fill,จำมาตรา จำนอง
 bolt.fill,ช่างเอสเข้า
 bolt.fill,ทบทวนที่เรียน+ทำการบ้าน
+bolt.fill,ทำ Nadir6 โมเมนตัม
+bolt.fill,ทำโจทย์ ครูอุ๊
 bolt.fill,นอน
 bolt.fill,ฝึกทำโจทย์+อ่านหนังสือ
 bolt.fill,พัก
@@ -332,6 +349,7 @@ book.fill,Amines 2-3
 book.fill,BMAT CRITICAL
 book.fill,Bio
 book.fill,Biochemistry
+book.fill,Biology
 book.fill,Biology Practice (book) 15-16
 book.fill,CC14: การรักษาอาการชักครั้งแรก
 book.fill,Chem 64
@@ -378,6 +396,7 @@ book.fill,Math
 book.fill,Math class
 book.fill,Mind-map chem
 book.fill,Minutes meeting (Festive)
+book.fill,Music
 book.fill,NCLEX
 book.fill,Nantanid
 book.fill,Network 1-2
@@ -446,6 +465,7 @@ book.fill,gat thai 57-58
 book.fill,gat thai 61+62
 book.fill,gat thai 63+64
 book.fill,gat thai 64
+book.fill,lect. : Theory and clinical application of love & relationship
 book.fill,physics
 book.fill,read
 book.fill,study time 🫧
@@ -458,15 +478,19 @@ book.fill,การงาน
 book.fill,การบ้าน
 book.fill,การบ้าน160
 book.fill,การบ้านการเขียน 124
+book.fill,การแปล2
 book.fill,คณิต
 book.fill,คณิตพื้น
 book.fill,คณิตสามัญ
+book.fill,คณิตเพิ่ม
 book.fill,คัดคันจิ
+book.fill,คัดลายมือบทอาขยาน
 book.fill,งาน160
 book.fill,งานพี่ลี่
 book.fill,จดเนื้อหาฟิสิกส์
 book.fill,จำตัวฮิรางานะ
 book.fill,จำนวนจริง
+book.fill,จำนวนจริง คนิต01
 book.fill,จุฬาม้อค
 book.fill,ชีวะ
 book.fill,ดาต้าโมเดล
@@ -510,6 +534,7 @@ book.fill,ทำ Gat ไทย
 book.fill,ทำ KM 5
 book.fill,ทำ Project
 book.fill,ทำการบ้าน
+book.fill,ทำการบ้านต่อ😭
 book.fill,ทำข้อสอบ
 book.fill,ทำข้อสอบ ค้ำ จำนอง
 book.fill,ทำงาน
@@ -532,9 +557,12 @@ book.fill,ประวัติศาสตร์
 book.fill,ฝึกท่องบทขานนาค
 book.fill,ฝึกภาษาจีน
 book.fill,ฝึกภาษาอังกฤษ
+book.fill,พระพุทธ
 book.fill,พัก
 book.fill,พุทธ (1)
+book.fill,ฟังหนังสือเสียง
 book.fill,ฟิสิกส์
+book.fill,ภาษาอังกฤษเพื่อการเข้าสังคม
 book.fill,ภาษาอังกฤษในการท่องเที่ยว
 book.fill,ภาษาไทย
 book.fill,มานแมพ8
@@ -544,7 +572,9 @@ book.fill,ย้อนMK201 4oct
 book.fill,ย้อนเทปวิชาอิ้งที่ไม่ทัน🇦🇺
 book.fill,ระบบต่อมไร้ท่อ
 book.fill,วางแผนการอ่านหนังสือ
+book.fill,วิชาคณิตเพื่อธุรกิจ
 book.fill,วิทย์
+book.fill,ศึกษาgeography
 book.fill,ศึกษาการเพาะพันธุ์succulents
 book.fill,สรุป bio 🦠
 book.fill,สรุปฟิสิกส์ เสียง
@@ -632,7 +662,9 @@ book.fill,อ่านรัฐศาสตร์
 book.fill,อ่านวิชาสามัญไทย
 book.fill,อ่านวิทย์
 book.fill,อ่านศิลปะ
+book.fill,อ่านส.
 book.fill,อ่านสถิติ
+book.fill,อ่านสน
 book.fill,อ่านสรุป
 book.fill,อ่านสรุป/ทบทวน
 book.fill,อ่านสวรรค์ประทานพร
@@ -702,6 +734,7 @@ book.fill,เตรียมตัวสอบ
 book.fill,เตรียมสอน + อ่านหนังสือสอบ
 book.fill,เติมคำ 3 ข้อ 15 คะแนน
 book.fill,เริ่มติวอ่านหนังสือ
+book.fill,เริ่มทำการบ้าน
 book.fill,เรียน
 book.fill,เรียน :บ่าย
 book.fill,เรียน ARC374
@@ -735,6 +768,9 @@ book.fill,เรียนคาบเช้า
 book.fill,เรียนจีน
 book.fill,เรียนจีนL
 book.fill,เรียนชีวะ
+book.fill,เรียนที่โรงเรียน
+book.fill,เรียนที่โรงเรียน(ว่างไม่มีการบ้านทบทวน)
+book.fill,เรียนบ่าย
 book.fill,เรียนพิเศษ
 book.fill,เรียนพิเศษพี่ปั้น
 book.fill,เรียนพี่เกม
@@ -821,6 +857,7 @@ briefcase.fill,New Working By Taokaenoi
 briefcase.fill,OT
 briefcase.fill,Study
 briefcase.fill,Work
+briefcase.fill,Work from office
 briefcase.fill,Working 💼
 briefcase.fill,ขายของ
 briefcase.fill,คัดศัพท์111
@@ -828,6 +865,7 @@ briefcase.fill,งานประชุม คุณบล (ขายตรง)
 briefcase.fill,งานประชุม ปปส.
 briefcase.fill,งานประชุม วชช.ยะลา
 briefcase.fill,งานประชุม ศอ.บต.
+briefcase.fill,งานประชุม สช.นราธิวาส
 briefcase.fill,งานประชุม สาธิต มอ.
 briefcase.fill,งานศูนย์
 briefcase.fill,จัดกระเป๋า
@@ -867,12 +905,14 @@ briefcase.fill,ไปโรงเรียน
 briefcase.fill,开始学习
 bubble.left.fill,895-043 (03)
 bubble.left.fill,Duolingo (afternoon)
+bubble.left.fill,Have tafsir with family
 bubble.left.fill,Practicum
 bubble.left.fill,Read a write
 bubble.left.fill,ขอบคุณพี่อู๋
 bubble.left.fill,ทบทวนที่เราโน๊ตไว้
 bubble.left.fill,ทักจารย์กุ
 bubble.left.fill,ทำ List to do
+bubble.left.fill,ท่องตารางธาตุ
 bubble.left.fill,นำเสนอภาษาไทย
 bubble.left.fill,ประชุมหอพัก หอประชุม
 bubble.left.fill,ฝึกพูด / เรียนรู้ 📚🤍
@@ -894,6 +934,7 @@ calendar,ทบทวนเนื้อหาที่เรียน
 calendar,ทำความสะอาดเดือนละครั้ง
 calendar,ทำงานให้เสร็จ
 calendar,ทำแพลน
+calendar,ทำแพลนเนอร์
 calendar,นัดเคส เจน เทคโนตาก
 calendar,วางแผนงาน
 calendar,วางแผนสำหรับวันนี้พรุ่งนี้
@@ -907,6 +948,7 @@ calendar,แก้เรทราคาใหม่
 camera.fill,ถ่ายคลิปtiktok1คลิป
 camera.fill,ถ่ายบันทึกรักการอ่าน
 camera.fill,ถ่ายผิว ~🧚🏻🌝✨
+camera.fill,ถ่ายรูป
 camera.fill,ถ่ายรูปต่อ
 camera.fill,ถ่ายรูปฟิกเกอร์
 camera.fill,ถ่ายรูปเทียนหอมเพื่อโฆษณา
@@ -937,6 +979,7 @@ car.fill,ขับรถกลับบ้าน
 car.fill,ขับรถไป เมืองมัลลิกา
 car.fill,ขับรถไปเรียน
 car.fill,ค่าขับรถ
+car.fill,ค่าเดินทาง (รถยนต์)
 car.fill,ซ่อมรถกลับก่อน 08.00
 car.fill,ทำใบขับขี่
 car.fill,นั่งรถไปร้าน
@@ -958,6 +1001,8 @@ car.fill,เดินทางกลับบ้าน
 car.fill,เดินทางไปทำงาน
 car.fill,เรียนขับรถ
 car.fill,ไป หาดใหญ่
+car.fill,ไปซื้อของ
+car.fill,"ไปซื้อของ(สมุดโน้ต,หูฟัง,ใส้ดินสอ)"
 car.fill,ไปทำงาน
 car.fill,ไปทำเงิน 🎉
 car.fill,ไปบ้านมุก
@@ -976,6 +1021,7 @@ car.fill,ไปโรงเรียน
 car.fill,ไปไบเทค
 cart.fill,Big C
 cart.fill,Idea and planning Time
+cart.fill,It's a must-buy
 cart.fill,Shopee
 cart.fill,Shopping
 cart.fill,Shopping (work)
@@ -998,9 +1044,12 @@ cart.fill,เดินตลาด
 cart.fill,แพ็คของ / ทัวร์ออเดอร์ / ถ่ายรูปออเดอร์
 cart.fill,ไป ยรรยง
 cart.fill,ไปช้อปปิ้ง
+cart.fill,ไปซื้อกระถางบ้านพี่เม
 cart.fill,ไปซื้อของ
+cart.fill,ไปซื้อต้นไม้ที่จตุจักร
 cart.fill,ไปตลาด
 cart.fill,ไปเซเว่น
+cart.fill,ไปแมคโคร
 cart.fill,ไปโลตัส
 cart.fill,去市场
 chart.bar.fill,6w
@@ -1013,6 +1062,7 @@ chart.bar.fill,สถิติ
 chart.bar.fill,เทรดOTC
 chart.bar.fill,เรียนเทรด
 chart.pie.fill,Marketing
+chart.pie.fill,notion
 chart.pie.fill,กินข้าวเย็น🍲🍽
 chart.pie.fill,คณิต & วิทยาการ
 chart.pie.fill,ซักผ้า
@@ -1024,6 +1074,7 @@ chart.pie.fill,วิทยาศาสตร์พื้นฐาน
 chart.pie.fill,สอบโบว์
 chart.pie.fill,อ่านวิชาคณิต
 chart.pie.fill,เรียนชีวะ
+chart.pie.fill,โฮมรูม 🏠
 chevron.left.slash.chevron.right,Review Code
 chevron.left.slash.chevron.right,คณิตเสริม
 chevron.left.slash.chevron.right,ทำครูน๊อต
@@ -1042,6 +1093,7 @@ clock.fill,ตามตาราง
 clock.fill,ติว #คณิต
 clock.fill,ตื่น
 clock.fill,นอน
+clock.fill,พักกลางวัน
 clock.fill,อนส
 clock.fill,เรียนeng
 cloud.bolt.fill,ฟิสิกส์พี่ตั้ว
@@ -1070,6 +1122,7 @@ cloud.fog.fill,เคลียร์เสตท
 cloud.fog.fill,เตรียมอาหารเช้า (ต้มจืด)
 cloud.snow.fill,กินข้าวอาบน้ำ บลาๆ
 cloud.snow.fill,คณิตพี่ปั้น
+cloud.snow.fill,ซักผ้า
 cloud.snow.fill,ซักผ้านวม
 cloud.snow.fill,ท่องศัพท์
 cloud.snow.fill,รดน้ำอนุบาล
@@ -1139,6 +1192,7 @@ custom.cat,อาบน้ำแมว
 custom.cat,อ่านคณิต
 custom.cat,เก็บอุนจิเหมียว
 custom.cat,เดินเล่น/เล่นกับแมว
+custom.cat,เติมอาหาร น้ำ ให้ลูก
 custom.cat,เล่นกับแมว/เดินเล่นในสวน
 custom.cat,แต่งตัว
 custom.cat,โจทย์คณิต
@@ -1161,6 +1215,7 @@ custom.chemistry,Chem Class
 custom.chemistry,Chem2
 custom.chemistry,Chemistry
 custom.chemistry,Chemistry2
+custom.chemistry,Do some test
 custom.chemistry,HW.CH101
 custom.chemistry,Hw-โครงงานวิทย์
 custom.chemistry,LAB-Microbiology
@@ -1198,6 +1253,7 @@ custom.chemistry,เคมี อ.อุ๊
 custom.chemistry,เริ่มติวเคมี
 custom.chemistry,เรียน Anal
 custom.chemistry,เรียนพิเศษเคมี
+custom.chemistry,เรียนวิทยาศาสตร์eis
 custom.chemistry,เรียนวิทย์
 custom.chemistry,เรียนเคมี
 custom.chemistry,เรียนแลปเคมี
@@ -1273,11 +1329,13 @@ custom.cooking,เตรียมอาหารเช้า
 custom.cooking,เปิด Delivery ทั้งหมด
 custom.cooking,เริ่มกินข้าว
 custom.cooking,เรียน Cooking
+custom.cooking,เอาเนื้อหมักมาเซียต่อ
 custom.cooking,โทร line บอกลูกค้าว่าเปิดร้าน
 custom.cooking,โทรตามเรื่องเข้าไปดูรถเข็น
 custom.cooking,โทรหา Shopee คนติดตั้งร้านค้า
 custom.cooking,ไปซื้อข้าว
 custom.cooking,吃饭
+custom.cooking,꒳​˓ᴅɪɴɴᴇʀ 🍣♡
 custom.cooking,𝒍𝒖𝒏𝒄𝒉
 custom.cooking,🍞 68 วังหลัง
 custom.dog,
@@ -1293,6 +1351,7 @@ custom.dog,ฟังความปลอดภัย
 custom.dog,ออกกำลังกาย
 custom.dog,ออกไปเดินเล่น
 custom.dog,เอาข้าวให้my cat
+custom.dog,เอาหารให้พอต
 custom.dog,แต่งตัว
 custom.dog,ให้ข้าวหมา
 custom.dog,ให้อาหารบลู
@@ -1310,6 +1369,7 @@ custom.dumbbell,GAT เชื่อมโยง
 custom.dumbbell,Gym
 custom.dumbbell,LEG DAY
 custom.dumbbell,Lunch : whey protien
+custom.dumbbell,Play time!
 custom.dumbbell,Weight training
 custom.dumbbell,Work out
 custom.dumbbell,Workout
@@ -1323,9 +1383,11 @@ custom.dumbbell,neck workout
 custom.dumbbell,sport
 custom.dumbbell,work out
 custom.dumbbell,workout
+custom.dumbbell,workout  יִ  time
 custom.dumbbell,กระโดดเชือก
 custom.dumbbell,คาดิโอ
 custom.dumbbell,ตีแบต
+custom.dumbbell,บอดี้เวท
 custom.dumbbell,ยืดเส้นยืดสาย
 custom.dumbbell,สอบ التوحيد
 custom.dumbbell,สอบ القرآن
@@ -1337,6 +1399,7 @@ custom.dumbbell,สอบวิชาทักษะการเรียนร�
 custom.dumbbell,สอบวิชาวัสดุศาสตร์2
 custom.dumbbell,สุข
 custom.dumbbell,ส่ง علوم القرآن
+custom.dumbbell,อกกกำลังกาน
 custom.dumbbell,ออกกำลังกาย
 custom.dumbbell,ออกกำลังกาย 🧘🏻‍♀️🤸🏻‍♀️
 custom.dumbbell,ออกกำลังกายคาดิโอ
@@ -1346,6 +1409,7 @@ custom.dumbbell,ออกำลังกาย
 custom.dumbbell,เดิน
 custom.dumbbell,เตรียมไปเรียน
 custom.dumbbell,เทรน P’Q
+custom.dumbbell,เทรนพี่เอิน 10.00
 custom.dumbbell,เล่นฮูลาฮุป
 custom.dumbbell,เล่นโยคะ
 custom.dumbbell,เวท
@@ -1354,6 +1418,7 @@ custom.dumbbell,運動
 custom.dumbbell,運動する  ♡
 custom.hairdryer,Away
 custom.hairdryer,Everything!
+custom.hairdryer,Go salon
 custom.hairdryer,take a shower 🚿
 custom.hairdryer,wash your body and hair 💆🏼‍♀️
 custom.hairdryer,ทำสังคมw12🍰
@@ -1361,9 +1426,11 @@ custom.hairdryer,สระผม
 custom.hairdryer,ส่งไปรษณีย์ ซ้อมเครื่องหนีบผม
 custom.hairdryer,อาบน้ำ
 custom.hairdryer,อาบน้ำ (สระผม)
+custom.hairdryer,อาบน้ำ (สระผม) นอน 💤
 custom.hairdryer,อาบน้ำ / ทาครีม
 custom.hairdryer,เป่าผม
 custom.hairdryer,เเต่งตัว
+custom.hairdryer,แต่งตัว
 custom.language,CHINESE
 custom.language,Chinese w/21
 custom.language,Duolingo
@@ -1431,6 +1498,7 @@ custom.language,อ่านคำศัพท์
 custom.language,อ่านนิยาย
 custom.language,อ่านวิชาอังกฤษ
 custom.language,อ่านหนังสืออิ้ง
+custom.language,อ่านอังกฤษ
 custom.language,เขียนคำศัพท์ 10 คำ
 custom.language,เขียนภาษาญี่ปุ่น
 custom.language,เขียนภาษาอังกฤษ
@@ -1467,7 +1535,9 @@ custom.language,日本語
 custom.language,看书
 custom.language,认汉语
 custom.language,영어
+custom.language,한국어
 custom.lipstick,Dress Up
+custom.lipstick,Make up
 custom.lipstick,Skincare
 custom.lipstick,Skincare time 🪞🧴
 custom.lipstick,จัดกระจก + กินข้าว
@@ -1509,18 +1579,22 @@ custom.shower,ขัดผิว
 custom.shower,จัดการตัวเอง
 custom.shower,ตอบอีเมล
 custom.shower,ตื่น !!
+custom.shower,ตื่นอาบน้ำ!!!
 custom.shower,ถึงห้อง อาบน้ำ
 custom.shower,ทำงานบ้าน / อาบน้ำ
 custom.shower,ทำธุระส่วนตัว
 custom.shower,ทำธุระส่วนตัว 🫧
 custom.shower,ทำธุระส่วนตัวให้เรียบร้อย
 custom.shower,รีบอาบน้ำา!!💧
+custom.shower,ล้างจาน
 custom.shower,ล้างหน้า
 custom.shower,ล้างหน้า + แปรงฟัน
 custom.shower,ล้างหน้า + แปรงฟัน + แต่งตัว
 custom.shower,ล้างหน้า อาบน้ำ
+custom.shower,ล้างหน้า แปลงฟัน
 custom.shower,ล้างหน้าแปรงฟัน
 custom.shower,ว่ายน้ำ
+custom.shower,สรงน้ำ
 custom.shower,สระผม
 custom.shower,อานน้ำ-ล้างหน้าแปรงฟัน
 custom.shower,อาบนำ้
@@ -1539,6 +1613,7 @@ custom.shower,อาบน้ำ / ทาครีมครบ
 custom.shower,อาบน้ำ / ทาครีมให้ครบ
 custom.shower,อาบน้ำ / แต่งตัว
 custom.shower,อาบน้ำ กินข้าว
+custom.shower,อาบน้ำ กินข้าว แต่งตัว
 custom.shower,อาบน้ำ กินมื้อเย็น
 custom.shower,อาบน้ำ ทาครีมครบ
 custom.shower,อาบน้ำ นอน 💤
@@ -1556,6 +1631,7 @@ custom.shower,อาบน้ำ 🛀 + สระผม
 custom.shower,อาบน้ำ 🛀 🛁😶‍🌫️
 custom.shower,อาบน้ำ 🛁
 custom.shower,อาบน้ำ!!
+custom.shower,อาบน้ำ&แต่งตัว
 custom.shower,อาบน้ำ+ชงกาแฟ
 custom.shower,อาบน้ำ+ทาครีม
 custom.shower,อาบน้ำ+ทำธุระส่วนตัว
@@ -1590,6 +1666,7 @@ custom.shower,แต่งตัว
 custom.shower,แปรงฟัน
 custom.shower,ไปอาบน้ำ
 custom.shower,お風呂掃除
+custom.shower,洗澡
 custom.shower,浴びる🧖🏻‍♀️
 custom.shower,𝑆ℎ𝑜𝑤𝑒𝑟
 custom.shower,𝚖𝚊𝚔𝚎 𝚢𝚘𝚞𝚛𝚜𝚎𝚕𝚏 𝚕𝚘𝚟𝚎𝚕𝚢 🍬
@@ -1670,11 +1747,13 @@ custom.toothbrush,แปรงฟันล้างหน้า
 custom.toothbrush,แปลงฟันล้างหน้า
 custom.toothbrush,ไปหาหมอฟัน
 desktopcomputer,AIA Job
+desktopcomputer,Amazon
 desktopcomputer,BBB
 desktopcomputer,Check FB group
 desktopcomputer,Check daily report
 desktopcomputer,Cms
 desktopcomputer,Data Analysis
+desktopcomputer,Edit thesis draft1
 desktopcomputer,Editing
 desktopcomputer,Editing/Chilling/Relaxing
 desktopcomputer,Enconcept
@@ -1686,6 +1765,7 @@ desktopcomputer,Graphic Design
 desktopcomputer,Graphic🖥
 desktopcomputer,Group Eng commu
 desktopcomputer,Inspiration
+desktopcomputer,Learning language from movies
 desktopcomputer,Logo motiv
 desktopcomputer,Mapping โครงการระยะยาว
 desktopcomputer,Math
@@ -1725,6 +1805,7 @@ desktopcomputer,ตามข่าว 🗞
 desktopcomputer,ตามเทป องค์กรต่อ
 desktopcomputer,ติว
 desktopcomputer,ติว 9 สามัญ สังคม
+desktopcomputer,ติวเรียนด่วนที่รัก!!!
 desktopcomputer,ถ่ายรูป
 desktopcomputer,ทำการบ้าน
 desktopcomputer,ทำงาน
@@ -1759,6 +1840,7 @@ desktopcomputer,เรียนพิเศษสอวน. A big
 desktopcomputer,เรียนฟิสิกส์
 desktopcomputer,เรียนย้อน
 desktopcomputer,เรียนล่วงหน้า
+desktopcomputer,เรียนวิชากราฟฟิก
 desktopcomputer,เรียนออนไลน์
 desktopcomputer,เรียนอังกฤษ
 desktopcomputer,เรียนอังกฤษ int
@@ -1771,6 +1853,7 @@ doc.fill,Ci
 doc.fill,Discuss ผลเอมไซม์
 doc.fill,Do homework
 doc.fill,Document
+doc.fill,Easy Learn
 doc.fill,Eng test
 doc.fill,English Review
 doc.fill,Homework LNG2S2
@@ -1795,6 +1878,7 @@ doc.fill,คณิต
 doc.fill,คริสต์ + อิสลาม
 doc.fill,จำนวนจริง
 doc.fill,ซ้อมอังกฤษ
+doc.fill,ตามงาน+คุยเรื่องกลุ่มis
 doc.fill,ถอดเสียง+แปลจีน🇨🇳
 doc.fill,ทวน
 doc.fill,ทวนอังกฤษ
@@ -1814,6 +1898,7 @@ doc.fill,ทำโครงงาน
 doc.fill,ท่องศัพท์
 doc.fill,บฝวิทย์-การทดลอง
 doc.fill,ประเมิน อวท ระดับจังหวัด ภาครัฐ (วก.บ้านโฮ่ง)
+doc.fill,ปริ้นเอกสาร
 doc.fill,พุทธ (1)
 doc.fill,พุทธ (2)
 doc.fill,พุทธ (3)
@@ -1883,6 +1968,7 @@ doc.richtext,ทำงานสังคมฯ วิเคราะห์
 doc.richtext,ท่องศัพท์
 doc.richtext,บรรณสาร
 doc.richtext,ผัดไทย
+doc.richtext,วางแผนเรียนภาษาอังกฤษ
 doc.richtext,สมัครสอบ TGAT / TPAT
 doc.richtext,สรุป English
 doc.richtext,สรุป รัฐศาสตร์
@@ -1913,8 +1999,10 @@ doc.richtext,เคลียร์งาน
 doc.richtext,เคลียร์ออเดอร์
 doc.richtext,เจน
 doc.richtext,เตรียมของไปเรียน
+doc.richtext,เรียน
 doc.richtext,เรียน มสธ
 doc.richtext,เรียนภาษาไทย
+doc.richtext,แต่งนิยาย
 dollarsign.circle.fill,Buy the book!!
 dollarsign.circle.fill,CPC
 dollarsign.circle.fill,Jobtime
@@ -1944,6 +2032,7 @@ dollarsign.circle.fill,ไปbank
 dollarsign.circle.fill,スーパー
 drop.fill,Content ก่อนนอน🧼🐬
 drop.fill,Take a shower
+drop.fill,Wash face brush teeth
 drop.fill,make love
 drop.fill,กินข้าว อาบน้ำ
 drop.fill,กินนำ้
@@ -1969,7 +2058,9 @@ drop.fill,ล้างจาน
 drop.fill,ล้างจาน กวาดขยะ กรอกน้ำ
 drop.fill,สระผม3/สัปดาห์🐰🛁
 drop.fill,อาบน้ำ
+drop.fill,อาบน้ำ แปรงฟัน
 drop.fill,อ่านวิทย์
+drop.fill,แช่ผ้า
 drop.fill,トイレ掃除
 ear,Spotify
 ear,ฟังบทสนทนาภาษาอังกฤษ
@@ -1982,12 +2073,15 @@ envelope.fill,Letter
 envelope.fill,Send : Mom’s Mail @DHL
 envelope.fill,Send : SIM CARD to P’ MAY
 envelope.fill,Send Messages to m dear
+envelope.fill,จัดซุ้มดอกไม้
 envelope.fill,ตอบอีเมล
 envelope.fill,ตอบแชท
+envelope.fill,ทำ google form ขออีเมลและเบอร์โทรศัพท์
 envelope.fill,ส่งของ
 envelope.fill,ส่งงานพี่ตา
 envelope.fill,ส่งเมล์ และทำ file ให้ pm กระทบยอด ภพ กับ GL
 envelope.fill,เตรียมเอกสาร สมัครบัตรเครดิต ttb so fast
+envelope.fill,เตรียมเอกสาร ออก Sales
 envelope.fill,แก้ไขรายละเอียดลาซาด้า
 envelope.fill,แพ็กของ ส่งของ
 envelope.fill,𝑤𝑜𝑟𝑘
@@ -1996,6 +2090,7 @@ exclamationmark.triangle.fill,Final
 exclamationmark.triangle.fill,Homework
 exclamationmark.triangle.fill,TikTok
 exclamationmark.triangle.fill,Update Control Board
+exclamationmark.triangle.fill,iron clothes
 exclamationmark.triangle.fill,งานค้าง
 exclamationmark.triangle.fill,ดูอิ้งพิเศษ
 exclamationmark.triangle.fill,ตาม supersunway
@@ -2009,6 +2104,7 @@ exclamationmark.triangle.fill,สอบวิทย์
 exclamationmark.triangle.fill,ส่งงาน วิชาمصطلح حديث
 exclamationmark.triangle.fill,อ่านประวัติ
 exclamationmark.triangle.fill,เรียน
+exclamationmark.triangle.fill,โพสขาย
 exclamationmark.triangle.fill,ไปทำงาน
 eyedropper,9.30ทำไทย2🧽
 eyedropper,CH101
@@ -2026,6 +2122,7 @@ eyedropper,ลงทะเบียนเรียน
 eyedropper,สอบเคมี
 eyedropper,อ่านเคมี
 eyedropper,เขียนเอกสาร
+eyedropper,เรียนอุ๊
 eyeglasses,Cway investment
 eyeglasses,ME
 eyeglasses,"Read จ่ายยา""อาหารทางการแพทย์"
@@ -2036,8 +2133,11 @@ eyeglasses,Reading books
 eyeglasses,Reading time
 eyeglasses,Study
 eyeglasses,คอร์สgrammar
+eyeglasses,คาบ7
+eyeglasses,คาบ8
 eyeglasses,จดธรรมะ
 eyeglasses,ชีวะสอบเข้า
+eyeglasses,ดาต้าโมเดล LC 10
 eyeglasses,ดาต้าโมเดล LC9
 eyeglasses,ดูความพร้อมงานประชุม
 eyeglasses,ติวคณิต ทุเรียน
@@ -2058,6 +2158,9 @@ eyeglasses,หาหนังสือ
 eyeglasses,อังกฤษพื้น ˙ᘧ ͜ ˙👚📩
 eyeglasses,อ่านคณิตศาสตร์ออนดิมาน1คลิป🍁
 eyeglasses,อ่านชีวะ
+eyeglasses,อ่านดาต้าเบส
+eyeglasses,อ่านดาต้าโมเดล
+eyeglasses,อ่านภูมิปัญญา
 eyeglasses,อ่านหนังสือ
 eyeglasses,อ่านหนังสือการ์ตูน
 eyeglasses,เคลียHW🏠
@@ -2078,10 +2181,13 @@ eyeglasses,เรียนเคมี 7
 eyeglasses,เรียนเคมี 7 + 8
 eyeglasses,เรียนเคมี 7 + 8.1
 figure.walk,Exercise
+figure.walk,Go to school
 figure.walk,Morning Exercises
 figure.walk,Runing walking
+figure.walk,Running
 figure.walk,Work out ! 💪🏿
 figure.walk,exercise 💪🏻💪🏻
+figure.walk,walk
 figure.walk,walk for air
 figure.walk,กระโดดเชือก
 figure.walk,คาร์ดิโอ
@@ -2131,12 +2237,16 @@ figure.wave,ปิดล็อกห้องนอน
 figure.wave,ลงเวร
 figure.wave,ลงเวรดึกวันที่25
 figure.wave,ลงเวรบ่ายของวันที่2
+figure.wave,ละหมาดซุฮรี
 figure.wave,สรุปแผนการดำเนินงานวันนี้
 figure.wave,ออกกำลัง
 figure.wave,ออกกำลังกาย
+figure.wave,เช็คยอด
 figure.wave,เรียนว่ายน้ำ
 figure.wave,เรียนสังคม
+figure.wave,เรียนสังคม 📖
 figure.wave,เรียนสเปน
+film.fill,Datacamp
 film.fill,F4 thailand
 film.fill,Netflix
 film.fill,StudyLanguage
@@ -2201,6 +2311,7 @@ flame.fill,อ่านทบทวนที่เรียนวันนี้
 flame.fill,อ่านหน้งสือ
 flame.fill,เก็บลายละเอียดGATที่ยังไม่ชัว
 flame.fill,เข้าเวรเช้า
+flame.fill,เข้าแถว
 flame.fill,เตรียมอาหาร
 flame.fill,เต้นออกกำลังกาย!
 flame.fill,เพิ่งได้เริ่มอนส
@@ -2217,6 +2328,7 @@ folder.fill,Tqf3大一1/64
 folder.fill,Work
 folder.fill,lecture
 folder.fill,ข้อสอบ
+folder.fill,จดสรุป
 folder.fill,จำศัพท์ENG 5คำ
 folder.fill,ทวนเกาหลี
 folder.fill,ทำการบ้าน+งานค้าง
@@ -2255,7 +2367,9 @@ gamecontroller.fill,farose 2
 gamecontroller.fill,game !
 gamecontroller.fill,ครูสุน
 gamecontroller.fill,ดูโทรศัพท์
+gamecontroller.fill,ตีป้อม
 gamecontroller.fill,ทำกิจกรรมในgenshin
+gamecontroller.fill,ทำเควส(Genshin)
 gamecontroller.fill,ทำเควสประจำวันให้เสร็จ
 gamecontroller.fill,นั่งเล่น
 gamecontroller.fill,พัก
@@ -2263,6 +2377,7 @@ gamecontroller.fill,พักผ่อน
 gamecontroller.fill,พักผ่อนเล่น Internet
 gamecontroller.fill,พักสมอง
 gamecontroller.fill,หยุด
+gamecontroller.fill,อัพARเกนชินให้ถึง 28
 gamecontroller.fill,เกมส์
 gamecontroller.fill,เล่นเกนชิน
 gamecontroller.fill,เล่นเกม
@@ -2285,6 +2400,7 @@ gearshape.2.fill,อ่านอัซการ
 gearshape.2.fill,เช็คกระเป๋า‼️
 gearshape.2.fill,เช็คว่าไม่ลืม‼️
 gearshape.2.fill,เรียนฟิสิกส์
+gearshape.2.fill,เรียนวิชาเทคโนโลยี
 gift.fill,10.00ทำอังกฤษ4-5🦙
 gift.fill,ip13_งวด1
 gift.fill,กินข้าว
@@ -2296,6 +2412,8 @@ gift.fill,เตรียมชุด 🧥👗👡
 gift.fill,เตรียมวันเกิด
 gift.fill,ไปรับของรางวัล
 globe,Deutsch
+globe,English
+globe,Learn about geography
 globe,Play Social
 globe,Reviewing English
 globe,SOC READ
@@ -2326,6 +2444,7 @@ globe,เคสช่วย
 globe,เรียน411-412
 globe,เรียนจีนน
 globe,เรียนภาษา
+globe,เรียนภาษาอังกฤษ
 globe,เรียนรู้ ภาษาอังกฤษ
 globe,เรียนอังกฤษ
 globe,เล่นอินเตอร์เน็ต
@@ -2367,9 +2486,11 @@ hand.thumbsdown.fill,ขี้
 hand.thumbsdown.fill,ตื่น!
 hand.thumbsdown.fill,พอเพียง ศึกษางาน
 hand.thumbsdown.fill,วาดภาพรณรงค์ แอลกอฮอล์กับการเกิดอุบัติเหตุ
+hand.thumbsup.fill,Pray time
 hand.thumbsup.fill,Resting day
 hand.thumbsup.fill,ขึ้นวิเคราะห์กราฟหน้าเพจ Pro
 hand.thumbsup.fill,งานอดิเรก
+hand.thumbsup.fill,ซักผ้า
 hand.thumbsup.fill,ทวนทั้งหมดที่อ่านมา
 hand.thumbsup.fill,ทำกบ.คณิต
 hand.thumbsup.fill,ทำการบ้าน
@@ -2415,6 +2536,7 @@ headphones,Rest
 headphones,get rest
 headphones,ซ้อมscript inter
 headphones,ดูพอตแคส
+headphones,ท่องศัพท์ +10 คำ
 headphones,ผักผ่อน
 headphones,ฝึกlistening part
 headphones,พัก
@@ -2422,6 +2544,7 @@ headphones,พักผ่อน
 headphones,"พักผ่อน,เล่นโทรศัพท์📱"
 headphones,พี่เกมep.3(2/4)
 headphones,พี่เกมep.3(4/4)
+headphones,ฟัง podcasts
 headphones,ฟังพอดเเคส
 headphones,ฟังเพลง
 headphones,ย้อน FN201(02nov) 40นาทีสุดท้าย
@@ -2431,6 +2554,7 @@ headphones,เรียนพิเกมต่อ
 headphones,เรียนภาษาจีน
 headphones,เล่นเกม
 headphones,เวลาของติ่งมาถึงแล้ว
+headphones,แปลเพลงsome music
 headphones,ᴍᴜsɪᴄ 👻
 heart.fill,14.00แวกซ์มือ-เท้า👚🌟
 heart.fill,8.30มีทวิทย์🪡
@@ -2491,6 +2615,7 @@ heart.fill,ฟัง Live
 heart.fill,ฟัง Live ดีดี
 heart.fill,มาร์กหน้า
 heart.fill,ละหมาดซุฮฺรี
+heart.fill,วางแผน Study
 heart.fill,วาดรูป
 heart.fill,ว่าง
 heart.fill,สครับผิว2ครั้ง/สัปดาห์💖
@@ -2508,6 +2633,7 @@ heart.fill,เรียนพิเศษ ฟิสิกส์
 heart.fill,เวลาว่าง
 heart.fill,ให้อาหารนก
 heart.fill,🥟🥟🥟
+hifispeaker.fill,Dance
 hifispeaker.fill,เต้น
 hourglass,10.00มีทเลข
 hourglass,13.00ทำวิทย์งาน12🧺
@@ -2542,6 +2668,7 @@ house.fill,Housework
 house.fill,Housework ซักผ้า ล้างจาน หุงข้าว
 house.fill,Housework~Sat
 house.fill,Housework~Sun
+house.fill,Vacation House
 house.fill,WFH
 house.fill,Work
 house.fill,กรอกน้ำ
@@ -2582,6 +2709,8 @@ house.fill,"ทิ้งขยะ,รีดผ้า,ล้างจาน,อ�
 house.fill,บ้าน
 house.fill,บ้านรักไทย
 house.fill,พักผ่อน
+house.fill,ภาษาไทย
+house.fill,รายการทรัพย์ประมูล
 house.fill,รีดชุดนักเรียน
 house.fill,รีดผ้า
 house.fill,รีดผ้า ทิ้งขยะ อาบน้ำตอนเย็น
@@ -2633,6 +2762,7 @@ keyboard,Proposal GC Glycol
 keyboard,Proposal GC-2
 keyboard,Proposal LDPE
 keyboard,Proposal for GC5
+keyboard,Python
 keyboard,Saved reply
 keyboard,TA
 keyboard,กลับบ้าน
@@ -2646,6 +2776,7 @@ keyboard,ทำวิจัย
 keyboard,ทำวิจัย❤️‍🔥
 keyboard,พิมพ์คำศัพท์
 keyboard,วางแผนสำหรับวันนี้พรุ่งนี้
+keyboard,หางานใน TF tinder
 keyboard,เขียนงานวิจัย
 keyboard,เขียนเว็บ
 keyboard,เรียนเกาหลีไหมแม่
@@ -2749,6 +2880,7 @@ link,Gat
 link,ไปทำงานหอปอน
 location.fill,Deadline assignment
 location.fill,ทำบุญที่วัด
+location.fill,รับของสปอน
 location.fill,ส่งงานอิ้ง
 location.fill,เรียนอิ้งในเอพเค้ก 🥧 + เล่นแอปดรอป
 location.fill,เรียนอิ้งในแอพเค้ก + เล่นแอปดรอป
@@ -2769,6 +2901,7 @@ magnifyingglass,Links
 magnifyingglass,Makro
 magnifyingglass,Share contact value
 magnifyingglass,ข้อสอบ Foundation 1
+magnifyingglass,ดูเนื้อหาที่จะเรียน
 magnifyingglass,ทำข้อสอบเก่า
 magnifyingglass,รีเสิร์ชข้อมูลงานราชวงศ์
 magnifyingglass,หาข้อมูลเตรียมสัมภาษณ์
@@ -2786,6 +2919,7 @@ map.fill,ท่องศัพท์
 map.fill,ท่องศัพท์ อังกฤษ
 map.fill,นอน
 map.fill,ล้างหน้าเเปรงฟันอึผูกผม
+map.fill,ส่งงานปกชีทภูมิศาสตร์
 map.fill,ห้องสมุด
 map.fill,อ่านสังคม
 map.fill,ไปดูงานคุณอ๋อ
@@ -2806,20 +2940,24 @@ mdi.alcohol,กินน้ำ 2 แก้ว
 mdi.alcohol,ดื่มน้ำ
 mdi.alcohol,ดื่มน้ำก่อนนอน 1แก้ว
 mdi.alcohol,ทานข้าว
+mdi.alcohol,ทำ cookbook อาหารไทยให้เสร็จ
 mdi.alcohol,พัก
 mdi.alcohol,เรียนสังคม
 mdi.bike,car tax
 mdi.bike,กลับบ้าน
 mdi.bike,ขับรถไปเรียน
+mdi.bike,ค่าเดินทาง (มอไซต์)
 mdi.bike,ซื้อข้าว
 mdi.bike,ปั่นจักรยาน
 mdi.bike,ออกกำลังกาย
+mdi.bike,ออกกำลังกาย!
 mdi.bike,ออกไปซื้อของ / กรอกน้ำ
 mdi.bike,เช็ครถ
 mdi.bike,เดินทางกลับ
 mdi.bike,เดินทางไปทำงาน
 mdi.bike,เที่ยวตากสิน
 mdi.bike,ไปเรียน
+mdi.bike,ไปโรงเรียน
 mdi.birthday,Happy birthday to me🎂🍰
 mdi.birthday,Mom
 mdi.birthday,My son birthday 🎂💖
@@ -2833,6 +2971,7 @@ mdi.buggy,16.00ไปทำงานบ้านยาย
 mdi.buggy,จัดกวาดห้องแมะ
 mdi.buggy,ทานข้าวเช้า สอนลูกๆ
 mdi.bus,Delivery
+mdi.bus,Go to school
 mdi.bus,กลับจากโฮ่งเรียน
 mdi.bus,กลับบ้าน
 mdi.bus,กลับหอ
@@ -2847,6 +2986,7 @@ mdi.bus,ออกจากบ้าน
 mdi.bus,ออกจากหอ
 mdi.bus,อาบน้ำให้น้ำมนต์ + ตัวเอง
 mdi.bus,เดินทาง
+mdi.bus,เดินทางกลับบ้าน
 mdi.bus,เดินทางไปม่อนแจ่ม
 mdi.bus,เรียนโลจิส
 mdi.bus,ไปทำงาน
@@ -2886,6 +3026,7 @@ mdi.instagram,Free
 mdi.instagram,Free 💖
 mdi.instagram,Post fb & ig
 mdi.instagram,Social time ^^
+mdi.instagram,Work content
 mdi.instagram,คอนเทนท์หวย
 mdi.instagram,คิด Content
 mdi.instagram,ถ่ายBR313
@@ -2901,6 +3042,7 @@ mdi.instagram,เล่นโทรศัพท์
 mdi.instagram,เวลาว่าง
 mdi.instagram,โซเชียล
 mdi.instagram,โละของ
+mdi.instagram,休息
 mdi.mountain,Free
 mdi.mountain,Free time
 mdi.mountain,book 2 (1)
@@ -2930,6 +3072,7 @@ mdi.mountain,พุทธ (5) + คริสต์ + อิสลาม
 mdi.mountain,ระบอบการปกครอง (2)
 mdi.mountain,รัฐ + ระบอบการปกครอง
 mdi.mountain,รัฐ + ระบอบการปกครอง (1)
+mdi.mountain,ลูกเสือเนตรนารี
 mdi.mountain,ศาสนาเบื้องต้น + พราหมณ์-ฮินดู
 mdi.mountain,สรุปอัดเสียง จำนอง
 mdi.mountain,สรุปเนื้อหา + บฝหเสริมพลัง
@@ -2950,6 +3093,8 @@ mdi.pharmacy,Accident
 mdi.pharmacy,กดสิว
 mdi.pharmacy,กินยานอนหลับ
 mdi.pharmacy,ฉีดวัคซีน
+mdi.pharmacy,ตรวจร่างกาย
+mdi.pharmacy,นวดขาให้แม่
 mdi.pharmacy,พัก
 mdi.pharmacy,พาพ่อไปหาหมอ
 mdi.pharmacy,เตรียมของไปหาหมอ
@@ -2961,6 +3106,7 @@ mdi.pharmacy,ไปฉีดวัคซีน
 mdi.pharmacy,ไปโรงพยาบาล หาหมอฟัน
 mdi.relax,820-100 (01)
 mdi.relax,Affirmation 😴
+mdi.relax,Bio
 mdi.relax,Bio อ.เอกฤทธิ์
 mdi.relax,Facefood
 mdi.relax,Free
@@ -2970,6 +3116,7 @@ mdi.relax,Skincare
 mdi.relax,กินข้าว
 mdi.relax,กินข้าวเย็น🍲🍽
 mdi.relax,ชีวะ
+mdi.relax,ชีวะไบโอบีม เทป 1
 mdi.relax,ดูคลิป 6WNY
 mdi.relax,ทำบุญ(ถ้ามีเวลา)
 mdi.relax,ทำสมาธิ สวดมนต์
@@ -3020,6 +3167,7 @@ mdi.running,ออกกำลังกาย/เต้น
 mdi.running,ออกกำลังกายค่า
 mdi.running,ออกกำลังกายยย
 mdi.running,ออกกำลังกายเบาๆ
+mdi.running,ออกจากรร.
 mdi.running,ออกำลังกาย
 mdi.running,ออกไปวิ่ง
 mdi.running,ออกไปวิ่ง!
@@ -3029,9 +3177,11 @@ mdi.running,เตรียมตัวเดินทางไปทำงา�
 mdi.running,เตรียมต้นไม้(ของวันพุธ)
 mdi.running,เต้น
 mdi.running,เนื้อหา ฟิสิกส์
+mdi.running,เรียนพละ
 mdi.running,เล่น+อาบน้ำ
 mdi.running,เล่นฮูลาฮูป
 mdi.running,แต่งตัว รีบไปทำงาน เคลียร์งาน สั่งงาน
+mdi.running,แพลงค์
 mdi.running,ไปกินย่างเนย
 mdi.running,ไปซื้อข้าว
 mdi.running,ไปวิ่ง
@@ -3052,6 +3202,7 @@ mdi.school,English
 mdi.school,GAT
 mdi.school,GAT ไทย
 mdi.school,Globalization
+mdi.school,Go To Class
 mdi.school,Gun
 mdi.school,Hist math
 mdi.school,IELTS
@@ -3068,6 +3219,7 @@ mdi.school,Read chem
 mdi.school,Relearn
 mdi.school,Review the lesson
 mdi.school,STD
+mdi.school,School
 mdi.school,Study
 mdi.school,Study 177113
 mdi.school,Study English / Korea in App
@@ -3098,6 +3250,7 @@ mdi.school,คลาส su203
 mdi.school,คลาส su401
 mdi.school,คลาส 말하기
 mdi.school,คลาส 문법
+mdi.school,คืนหนังสือ
 mdi.school,ง30201
 mdi.school,จดเนื้อหา—นาฏศิลป์
 mdi.school,ชีวะ 1
@@ -3107,11 +3260,13 @@ mdi.school,ท33102 ภาษาไทย ครูสุมาลี (?)
 mdi.school,ทบทวน
 mdi.school,ทบทวน Pat 3 พี่ตั้ว เล่ม 1
 mdi.school,ทบทวนบทเรียน
+mdi.school,ทบทวนฟิสิกส์
 mdi.school,ทวนข้อสอบเก่า
 mdi.school,ทวนเนื้อหาฟิสิกส์
 mdi.school,ทำการบ้าน
 mdi.school,ทำงาน
 mdi.school,ทำสรุป
+mdi.school,ท่องศัพท์ 20 คำ
 mdi.school,พ33109 ครูเจษฎา
 mdi.school,พ33109 สุขศึกษา ครูเจษฎา
 mdi.school,พยาน
@@ -3179,6 +3334,7 @@ mdi.school,เรียนพี่เอ็ม
 mdi.school,เรียนฟิสิกส์
 mdi.school,เรียนภาคเช้า
 mdi.school,เรียนภาษาจีน
+mdi.school,เรียนภาษาอังกฤษ P. May
 mdi.school,เรียนภาษาไทย
 mdi.school,เรียนรัฐศาสตร์
 mdi.school,เรียนหนังสือที่โรงเรียน
@@ -3196,6 +3352,7 @@ mdi.school,เรียนไพรเวตครูเชด
 mdi.school,แนะแนว ครูอาจารี
 mdi.school,แบบฝึกหัด—สุขะ
 mdi.school,แบบฝึกหัด—เคมี
+mdi.school,ไปเรียน
 mdi.school,ไปโรงเรียน
 mdi.school,➕PLUS ประชุมเบญจเสนา
 mdi.school,𝗠𝗮𝘁𝗵𝘀
@@ -3220,6 +3377,7 @@ mdi.twitter,ลงนิยาย
 mdi.twitter,เช็ค Twitter
 mdi.twitter,เช็คโทรศัพท์
 mdi.twitter,เตรียมนอน 🌙
+mdi.wheelchair,Case home
 mdi.wheelchair,Toilet
 mdi.wheelchair,คิดถึงความตาย
 mdi.wheelchair,ซื้อหมู/ครีม
@@ -3298,6 +3456,7 @@ music.mic,Free/หาข้าวเย็นกินกับพ่อคร�
 music.mic,Run meeting
 music.mic,คัดเนื้อเพลง|วรรค
 music.mic,ซ้อมร้องเพลง
+music.mic,ซ้อมเพลงงานพิธี วงโยธวาทิต
 music.mic,ฝึกร้องเพลง
 music.mic,พูดOpen house
 music.mic,พูดOpen houseใบสั่งยา
@@ -3318,6 +3477,7 @@ music.note,write lyrics
 music.note,ครูเชดไลฟ์หน้าเพจ 11:15 TH
 music.note,ซ้อมเต้น
 music.note,ซ้อมเพลงวงมธ
+music.note,นาฏศิลป์
 music.note,ฝึกร้องเพลง
 music.note,พัก
 music.note,พัก | อดิเรก
@@ -3337,19 +3497,26 @@ mustache.fill,พัก1ชม.
 mustache.fill,พัก45นาที
 mustache.fill,อ่านการ์ตูน
 mustache.fill,แปรงฟัน
+newspaper.fill,Additional math homework
 newspaper.fill,Autism
+newspaper.fill,Basic math homework
 newspaper.fill,Bullet journal
+newspaper.fill,Core responsibility
 newspaper.fill,Do homework
+newspaper.fill,Eng Basic ep 11-12
+newspaper.fill,"Eng Basic ep 18-19,21"
 newspaper.fill,Final 410103
 newspaper.fill,Final 문법
 newspaper.fill,GAT THAI
 newspaper.fill,Gatเชื่อมโยง-2
 newspaper.fill,Homework
 newspaper.fill,Interpret C1102
+newspaper.fill,Laundry
 newspaper.fill,Learn Gat-Thai
 newspaper.fill,Lecture
 newspaper.fill,List คำถามสัมภาษณ์
 newspaper.fill,Midterm exam : Phonology
+newspaper.fill,Music homework
 newspaper.fill,Po
 newspaper.fill,Pre flight
 newspaper.fill,RD center
@@ -3366,6 +3533,7 @@ newspaper.fill,Updated NEWS
 newspaper.fill,Works
 newspaper.fill,การบ้าน
 newspaper.fill,การบ้านคณิต
+newspaper.fill,การบ้านคณิตพื้น
 newspaper.fill,การบ้านคณิตเพิ่ม
 newspaper.fill,การบ้านชีวะ
 newspaper.fill,การบ้านฟิสิกส์
@@ -3390,6 +3558,7 @@ newspaper.fill,ทำการบ้านจีน
 newspaper.fill,ทำการบ้านพฤติกรรม
 newspaper.fill,ทำข้อสอบ+จดศัพท์
 newspaper.fill,ทำข้อสอบรัฐศาสตร์
+newspaper.fill,ทำคณิตเพิ่ม
 newspaper.fill,ทำงาน
 newspaper.fill,ทำงาน powerpoint
 newspaper.fill,ทำงานคณิต ep. 14
@@ -3430,6 +3599,7 @@ newspaper.fill,อ่านหนังออนไลน์
 newspaper.fill,อ่านเรื่องสมบัติ
 newspaper.fill,อ่านแรงและกฎการเคลื่อนที่
 newspaper.fill,อ่านแล็บชีวะ
+newspaper.fill,เขียน SOP
 newspaper.fill,เขียนจดหมายขอบคุณทุน
 newspaper.fill,เขียนไดอารี่
 newspaper.fill,เครียร์现代
@@ -3440,6 +3610,7 @@ newspaper.fill,เรียน According + ทบทวน
 newspaper.fill,เรียน EC
 newspaper.fill,เรียน260-301
 newspaper.fill,เรียนกับหมอ
+newspaper.fill,เรียนคาบเช้า
 newspaper.fill,เรียนชีวะ สอวน. (ครูโจ้)
 newspaper.fill,เรียนถาคบ่าย
 newspaper.fill,เรียนฟันดา
@@ -3473,8 +3644,10 @@ noun.coffee,morning routine
 noun.coffee,กาแฟ
 noun.coffee,กาแฟยามเช้า
 noun.coffee,กินกาแฟ
+noun.coffee,กินขนม
 noun.coffee,กินของว่าง
 noun.coffee,กินข้าว
+noun.coffee,กินข้าวเข้า
 noun.coffee,กินข้าวเช้า
 noun.coffee,กินข้าวเที่ยง
 noun.coffee,กินข้าวเย็น🍲🍽
@@ -3547,10 +3720,12 @@ noun.meal,Eat & Free time
 noun.meal,Eat before work / Content
 noun.meal,Eat breakfast
 noun.meal,Eat lunch
+noun.meal,Enjoy eating
 noun.meal,Everything!
 noun.meal,French fold telok ayer
 noun.meal,Have a breakfast
 noun.meal,Have a luch
+noun.meal,Have breakfast
 noun.meal,Have breakfast !
 noun.meal,Have breakfast 🍲
 noun.meal,Have dinner
@@ -3578,6 +3753,7 @@ noun.meal,eating
 noun.meal,last meal  יִ  of the day
 noun.meal,launch
 noun.meal,lunch
+noun.meal,lunch break
 noun.meal,افتار
 noun.meal,กิน
 noun.meal,กิน diamond grains 🥙
@@ -3595,6 +3771,7 @@ noun.meal,กินข้าวกลางวัน
 noun.meal,กินข้าวกลางวัน🍵^^🥬
 noun.meal,กินข้าวมื้อสุดท้ายของการIF
 noun.meal,กินข้าวมื้อเช้า
+noun.meal,กินข้าวมื้อเที่ยง
 noun.meal,กินข้าววันเกิด ออร่า
 noun.meal,กินข้าวอาบน้ำ
 noun.meal,กินข้าวเช้า
@@ -3627,6 +3804,7 @@ noun.meal,ข้าวเช้า
 noun.meal,ข้าวเที่ยง
 noun.meal,ข้าวเที้ยง
 noun.meal,ข้าวเย็น
+noun.meal,ฉันเพล
 noun.meal,ซื้อ/ทำ ภัตตาหาร
 noun.meal,ซื้อกับข้าว
 noun.meal,ซื้อของละศีลอด
@@ -3662,6 +3840,7 @@ noun.meal,พักทานข้าว
 noun.meal,พักผ่อน/กินข้าว
 noun.meal,พักเที่ยง
 noun.meal,พักเย็น
+noun.meal,มองช้างคาเฟ่
 noun.meal,มื้อดึก
 noun.meal,มื้อเช้า
 noun.meal,มื้อเที่ยง
@@ -3672,6 +3851,7 @@ noun.meal,ลั้นชึ
 noun.meal,ล้างจาน
 noun.meal,สั่งข้าว/mail
 noun.meal,หาข้าวเข้ากิน
+noun.meal,หาอะไรกิน
 noun.meal,อาบน้ำ
 noun.meal,อาบน้ำ กินข้าว💦💦
 noun.meal,อาบน้ำ+กินข้าว
@@ -3736,6 +3916,7 @@ paintbrush.pointed.fill,Poster PR U-Space to go
 paintbrush.pointed.fill,Work
 paintbrush.pointed.fill,drawing
 paintbrush.pointed.fill,project 211
+paintbrush.pointed.fill,set widget 🎀
 paintbrush.pointed.fill,swing a pen
 paintbrush.pointed.fill,คัดจีน
 paintbrush.pointed.fill,งานเติ้ล
@@ -3815,6 +3996,7 @@ paperplane.fill,เรียนอิ้งในแอพเค้ก + เล�
 paperplane.fill,ไปเอาชีท
 pencil.and.outline,Any Subject Review
 pencil.and.outline,Caption
+pencil.and.outline,Continue your essay
 pencil.and.outline,Diary
 pencil.and.outline,HW2 ORG CHEM
 pencil.and.outline,Lec Airway obs and FB
@@ -3867,6 +4049,7 @@ pencil.and.outline,ทำโจทย์เรื่องสมบัติ
 pencil.and.outline,ทำไทยลิท
 pencil.and.outline,นส.พิมพ์
 pencil.and.outline,บันทึกการอ่าน
+pencil.and.outline,ฝึกเขียนspeech มากๆ
 pencil.and.outline,ฟิสิกส์
 pencil.and.outline,วาดรูป
 pencil.and.outline,สอบ
@@ -3875,6 +4058,7 @@ pencil.and.outline,สังคมfor2
 pencil.and.outline,ออก Function
 pencil.and.outline,ออก Function  คุณบล (ขายตรง)
 pencil.and.outline,ออก Function  ปปส.
+pencil.and.outline,ออก Function  สช.ยะลา
 pencil.and.outline,ออก Function วชช.ยะลา
 pencil.and.outline,อ่านหนังสือ
 pencil.and.outline,เขียนงานต่อ
@@ -3911,18 +4095,21 @@ person.2.fill,ประชุมหอ
 person.2.fill,พบลูกค้า
 person.2.fill,พัก
 person.2.fill,พักผ่อน
+person.2.fill,สอนน้อง
 person.2.fill,สังคมครูพิทยาภร
 person.2.fill,อังกฤษ
 person.2.fill,อ่าน สังคม
 person.2.fill,อ่านสังคม
 person.2.fill,อ่านไทย-สังคม
 person.2.fill,เคนทำการบ้าน
+person.2.fill,เรียนพระพุทธ
 person.2.fill,เรียนลีลาศ
 person.2.fill,โพสต์รับตัวแทน
 person.2.fill,ᴍᴇᴇᴛɪɴɢ (ʙᴏᴀʀᴅ ɢᴀᴍᴇ)
 person.3.fill,21 Lessons
 person.3.fill,Call your love
 person.3.fill,Family
+person.3.fill,Friend ไก่เหลือมแปะ
 person.3.fill,Homeroom
 person.3.fill,Is
 person.3.fill,Live on tiktok
@@ -3954,9 +4141,12 @@ person.3.fill,ประชุม วิจัย
 person.3.fill,ประชุมงานบันได Grace
 person.3.fill,ประชุมภาค
 person.3.fill,ประชุมหอ
+person.3.fill,ประชุมหัวหน้าฝ่าย
 person.3.fill,ประชุมออก booth
+person.3.fill,ประถมนิเทศ
 person.3.fill,พลเมือง
 person.3.fill,ฟัง Con Call
+person.3.fill,รับบุญ
 person.3.fill,รับหมอสุรชัย ประชุม เฮิลลิเทจ บางแสน
 person.3.fill,ละหมาดตะรอเวี๊ยะ
 person.3.fill,สัมนาสโม
@@ -3977,6 +4167,7 @@ person.3.fill,แจ้งยอดหนี้
 person.3.fill,โพสต์รับตัวแทน
 person.3.fill,โฮมรูม
 person.3.fill,ເປັນຄະນະຕິດຕາມການຮຽນ-ການສອນແບບເຊິ່ງຫນ້າ
+person.fill,Bun ทำฟัน
 person.fill,Running personal errands
 person.fill,Self Decare
 person.fill,กดสิว
@@ -4019,6 +4210,7 @@ photo.fill,ทำslide inter
 photo.fill,ทำรูปประกาศผลบอล
 photo.fill,ร่างนางงาม
 photo.fill,ลง Vedio tiktok
+photo.fill,วาดรูป
 photo.fill,หอศิลป์102
 photo.fill,อัพรูปpollen
 photo.fill,เขาใหญ่ Art museum
@@ -4041,6 +4233,7 @@ pills.fill,อย่าลืมทานยาคุม
 pills.fill,ออก OPD
 pills.fill,อ่านวิชาชีวะ
 pills.fill,เตือนแฟนกินยา
+pills.fill,เรียนเคมี
 pills.fill,ไปโรงพยาบาล
 pills.fill,𝑃𝑟𝑜𝑡𝑒𝑖𝑛💊
 pin.fill,D-11❗️
@@ -4130,6 +4323,7 @@ play.rectangle.fill,เล่นโทรศัพท์
 play.rectangle.fill,ไทยบทอาขยาน
 play.rectangle.fill,🍰 Cooking  -                   ฟังหนังสือเสียง
 power,Exam📑
+power,Math
 power,Out of electronics
 power,close everything
 power,"relax the mind, fatigue  and keep smiling"
@@ -4151,6 +4345,7 @@ questionmark,Physis-พลังงานความร้อน
 questionmark,ค.น่าจะเป็น
 questionmark,งานพี่ส่าย
 questionmark,ตั้งสติ
+questionmark,ทบทวน
 questionmark,พัก
 questionmark,พัก / คิดนิทานนิดนึง
 questionmark,สร้างแบบสอบถาม ROI
@@ -4174,11 +4369,13 @@ scissors,ตัดผม
 scissors,วัดไซส์เสื้อผ้า
 scissors,เย็บผ้า
 shield.fill,ปรินท์รายงาน
+shield.fill,เรียนสุขศึกษา
 shield.fill,โครงร่างวิจัย
 shippingbox.fill,9.30ทำสังคมw8🍦
 shippingbox.fill,Go shopping
 shippingbox.fill,Packing parcels
 shippingbox.fill,กินข้าว มื้อเย็น
+shippingbox.fill,จัดกระเป๋า
 shippingbox.fill,จัดห้อง
 shippingbox.fill,ช่วยแม่เก็บของ
 shippingbox.fill,ดู reference / อัดคลิปแกะกล่อง📦✨
@@ -4188,6 +4385,7 @@ shippingbox.fill,เก็บกระเป๋า
 shippingbox.fill,เก็บของ
 shippingbox.fill,เก็บของกลับมอ
 shippingbox.fill,เก็บของไปหอ
+shippingbox.fill,เก็บบ้าน
 shippingbox.fill,เก็บห้อง
 shippingbox.fill,เคลียร์งาน
 shippingbox.fill,เคลียร์ออเดอร์
@@ -4240,6 +4438,7 @@ smiley.fill,cleansing + แต้มสิว
 smiley.fill,good night
 smiley.fill,คิดทบทวนตัวเอง
 smiley.fill,คุยกับอาแบ 🤍
+smiley.fill,ซื้อเครป
 smiley.fill,ตื่นได้แล๊ววววว☄️
 smiley.fill,นิ่งเฮียep11🤭 ❤️
 smiley.fill,ผลลัพธ์ Cleansing
@@ -4262,6 +4461,7 @@ smiley.fill,ไปตัดผม
 smiley.fill,ไปโรงเรียนต้นกล้า
 smiley.fill,☀️Mask 1 💕
 speedometer,ซักกางเกง
+speedometer,ซักผ้า
 speedometer,ทำงานให้ดุจดาว
 speedometer,พัก
 speedometer,ฟิสิกส์
@@ -4309,6 +4509,7 @@ star.fill,เขียนแพลน
 star.fill,เที่ยววัดร่องขุน
 star.fill,ไปซักถุงเท้า
 star.fill,ไปหากล่องตกเเต่งวกเจ
+star.fill,☎️ โทรนัด ลูกค้า
 stethoscope,17.00ไปอุดฟัน🐰
 stethoscope,Bio
 stethoscope,Dek65
@@ -4341,12 +4542,14 @@ stethoscope,แจกยาก่อนนอน ดูแลคนป่วย
 stethoscope,ไปอุดฟัน
 stethoscope,ไปโรงบาล
 stethoscope,ไลฟ์
+stethoscope,🥞✨Time to learning✨🧚🏻‍♀️
 stopwatch.fill,Math
 stopwatch.fill,Planning
 stopwatch.fill,Wake up
 stopwatch.fill,กำลังใจ
 stopwatch.fill,ข้อสอบ
 stopwatch.fill,ตื่น
+stopwatch.fill,ตื่น ละหมาด !!!
 stopwatch.fill,ตื่นนอน
 stopwatch.fill,ทำข้อสอบ
 stopwatch.fill,นอน
@@ -4355,6 +4558,9 @@ stopwatch.fill,อ่านข้อความ 😀
 stopwatch.fill,เตรียมตัวทำงาน
 stopwatch.fill,เบรก
 stopwatch.fill,ไปดูบริษัทฝึกงาน
+stopwatch.fill,🌈10.30p.m-11.30p.m🫧
+stopwatch.fill,🍵สามทุ่มแล้วจ้า🧸
+stopwatch.fill,🧸สามทุ่มแล้วจ้า
 sun.max.fill,8:00
 sun.max.fill,Astronomy 1&2
 sun.max.fill,Breakfast🍳
@@ -4377,6 +4583,7 @@ sun.max.fill,Wake up
 sun.max.fill,Wake up!
 sun.max.fill,Wake upp
 sun.max.fill,Weak up
+sun.max.fill,Within Cafe
 sun.max.fill,good morning
 sun.max.fill,morning˙ᘧ ͜ ˙
 sun.max.fill,sun bath
@@ -4397,6 +4604,7 @@ sun.max.fill,ตื่นนอน
 sun.max.fill,ตื่นมาออกกำลังกาย
 sun.max.fill,ตื่นแล้วตนเก่ง🌤🫶🏻
 sun.max.fill,ตื่น☀️
+sun.max.fill,ทำวัตรเช้า - นั่งสมาธิ
 sun.max.fill,นั่งเล่น ฟังเพลง ดูวิว
 sun.max.fill,พัก
 sun.max.fill,ฟังธรรม
@@ -4429,6 +4637,7 @@ sunrise.fill,ทำงานช่วงเช้า
 sunrise.fill,นอน
 sunrise.fill,ฟังธรรมมะ
 sunrise.fill,ล้างหน้า
+sunrise.fill,สวดมนต์เย็น - นั่งสมาธิ
 sunrise.fill,สวัสดีตอนเช้า
 sunrise.fill,อ่านหนังสือ(ภาษาเกาหลี)📚💒
 sunrise.fill,เปิดม่าน
@@ -4438,6 +4647,7 @@ sunset.fill,PrayMaqrib/Azkar
 sunset.fill,before bed routine
 sunset.fill,กลับถึงบ้าน
 sunset.fill,กินข้าวเย็น
+sunset.fill,ดาราศาสตร์
 sunset.fill,ตื่น
 sunset.fill,เคลียร์งาน
 sunset.fill,เรียนรู้
@@ -4451,6 +4661,7 @@ tag.fill,อ่าน317
 tag.fill,อ่านจูริส ประกันภัย
 tag.fill,อ่านประกันภัย
 tag.fill,เอาผ้าไปซัก
+tag.fill,เเนะเเนว
 text.badge.checkmark,ATK
 text.badge.checkmark,Big cleaning
 text.badge.checkmark,Bio
@@ -4488,6 +4699,7 @@ text.badge.checkmark,ซักที่นอน
 text.badge.checkmark,ซักผ้าห่ม
 text.badge.checkmark,ตรวจงบ REIT Level
 text.badge.checkmark,ตอบอีเมล
+text.badge.checkmark,ตื่น
 text.badge.checkmark,ทวน ชีวะ
 text.badge.checkmark,ทำการบ้าน
 text.badge.checkmark,ทำงาน(ล้างห้องน้ำ)
@@ -4501,6 +4713,7 @@ text.badge.checkmark,อาบน้ำ
 text.badge.checkmark,อาบน้ำ +แต่งสวย
 text.badge.checkmark,อ่านPaperseminar
 text.badge.checkmark,อ่านหนังสือ
+text.badge.checkmark,เก็บบ้าน
 text.badge.checkmark,เขียนนิยาย
 text.badge.checkmark,เรียน
 text.badge.checkmark,เรียนครูอ๋อย
@@ -4526,6 +4739,7 @@ timer,ส่งคอนเทนท์
 timer,หาโจทย์คณิตทำ
 timer,หาโจทย์ฟิสิกส์ทำ
 timer,เคลียร์งานต่อ
+tortoise.fill,104362 พฤติกรรมสัตว์
 tortoise.fill,Biology
 tortoise.fill,Free
 tortoise.fill,Smoothie
@@ -4535,6 +4749,7 @@ tortoise.fill,กินข้าวเที่ยง free stely
 tortoise.fill,คัดแยกเสื้อผ้า
 tortoise.fill,คูลดาว
 tortoise.fill,ชีวะ
+tortoise.fill,พักผ่อน
 tortoise.fill,พาลูกเข้านอน
 tortoise.fill,อาบน้ำให้เอ็มม่า
 tortoise.fill,อ่านหนังสือชีวะ
@@ -4542,6 +4757,7 @@ tortoise.fill,อ่านแลป
 tortoise.fill,เข้ากลุ่ม ROSEGOLD
 tortoise.fill,เรียน ไบโอบีม
 tortoise.fill,เรียนชีวะ monkey
+tram.fill,Go bet number 4
 tram.fill,กลับบ้าน
 tram.fill,ตื่น!
 tram.fill,ล้างหน้า แปรงฟัน
@@ -4557,6 +4773,7 @@ trash.fill,กวาดบ้าน ถูบ้าน
 trash.fill,กวาดห้อง
 trash.fill,กวาดห้อง ทิ้งขยะ
 trash.fill,ชักผ้า
+trash.fill,ช่วยยายเก็บขยะหน้าห้องน้ำ
 trash.fill,ซักผ้า
 trash.fill,ดูดฝุ่นที่นอน
 trash.fill,ทำความสะอาด
@@ -4589,6 +4806,7 @@ tv.fill,Study CSC103
 tv.fill,Study english
 tv.fill,Vlog
 tv.fill,Watch movie
+tv.fill,Watching movie
 tv.fill,Work  🖥
 tv.fill,study online class
 tv.fill,กินข้าว+พัก
@@ -4596,8 +4814,10 @@ tv.fill,งานที่ได้รับมอบหมาย
 tv.fill,ดู Netflix
 tv.fill,ดู YouTube
 tv.fill,ดูYouTube
+tv.fill,ดูคลิป
 tv.fill,ดูนักร้องข้ามกำแพง
 tv.fill,ดูหนัง
+tv.fill,ดูหนังกับพ่อแม่
 tv.fill,ดูหนังสักเรื่อง
 tv.fill,ดูหนัง💻
 tv.fill,ดูโคนัน1091
@@ -4618,6 +4838,7 @@ tv.fill,พักผ่อนดูซีรี่
 tv.fill,รับทำการบ้าน🍊💭🌟
 tv.fill,รีบเคลียร์วานด่วน
 tv.fill,วางแผนงานครึ่งเดือนหลัง
+tv.fill,วิทยาการคำนวณ
 tv.fill,ศึกษา 3 งาน
 tv.fill,ศึกษาหุ้น
 tv.fill,สรุปรายจ่าย รายรับ และแพลนงานวันถัดไป
@@ -4683,11 +4904,13 @@ wand.and.stars,8.30ทำอังกฤษงาน1💒🎀
 wand.and.stars,895-025 (01)  ดูละคร
 wand.and.stars,Clean up
 wand.and.stars,Housework
+wand.and.stars,Make up
 wand.and.stars,Okonomi
 wand.and.stars,Prepare a set
 wand.and.stars,SONEVA K. SUTHON
 wand.and.stars,start a day
 wand.and.stars,กวาดบ้าน ถูบ้าน
+wand.and.stars,กินข้าวอาบน้ำ
 wand.and.stars,คิดกราฟฟิกแอพ
 wand.and.stars,จัดกวาดครัว
 wand.and.stars,จัดห้อง
@@ -4722,10 +4945,12 @@ wand.and.stars,ศัลยกรรมจมูก
 wand.and.stars,สรุปของวันนี้+ทวนศัพท์
 wand.and.stars,ส่งคอนเทนฮาวทู
 wand.and.stars,ออกกอง
+wand.and.stars,อาบน้ำ แต่งตัว
 wand.and.stars,อาบน้ำแต่งหน้า
 wand.and.stars,อ่านศัพท์
 wand.and.stars,เก็บตู้เย็น
 wand.and.stars,เก็บห้อง
+wand.and.stars,เคลียเกียมอยู่บ้าน
 wand.and.stars,เปลี่ยนผ้าปูที่นอน
 wand.and.stars,เย็บเบาะมอเตอร์ไซค์
 wand.and.stars,เล่น
@@ -4734,6 +4959,7 @@ wand.and.stars,แมชเสื้อผ้า
 wand.and.stars,ไดร์ผม/แต่งตัว
 wand.and.stars,ไปต่อขนตา
 wand.and.stars,ไหว้เจ้าที่ที่บ้านย่า
+wand.and.stars,꒰ 🫀ᴡᴏʀᴋ ᴏᴜᴛ ꒱⊹˚
 wand.and.stars,𝚑𝚊𝚟𝚎 𝚊 𝚗𝚒𝚌𝚎 𝚍𝚊𝚢! ✌️🎀
 wifi,3BB โกดัง
 wifi,Social
@@ -4764,6 +4990,7 @@ wrench.fill,ฟิสิกส์(ทำโจทย์)
 wrench.fill,เก็บบ้าน
 wrench.fill,เตรียมตัวสตรีม
 wrench.fill,เรียนสถิต พี่ปั้น
+wrench.fill,แต่งรถ
 x.squareroot,14.45ทบทวนเลข🌟
 x.squareroot,9 saman
 x.squareroot,9 saman 61
@@ -4922,11 +5149,13 @@ x.squareroot,เรียน Pat 1
 x.squareroot,เรียน ic license
 x.squareroot,เรียนคณิต
 x.squareroot,เรียนคณิตศาสตร์
+x.squareroot,เรียนคณิตศาสตร์📚
 x.squareroot,เรียนคลิปแคล
 x.squareroot,เรียนพิเศษ คณิต
 x.squareroot,เรียนฟิสิกส์
 x.squareroot,เรียนเรื่องจำนวลเต็ม
 x.squareroot,เรียนเลข จำนวนเชิงซ้อน
+x.squareroot,เรียนเลขออน
 x.squareroot,เรียนแคล
 x.squareroot,เลข
 x.squareroot,เสริมทักษะพื้นฐานด้านคณิตศาสตร์

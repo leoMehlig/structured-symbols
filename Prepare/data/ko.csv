@@ -1,65 +1,139 @@
 label,text
+airplane,New Zealand Trip
+alarm.fill,Wake up
 alarm.fill,Wake up!
+alarm.fill,기상
 alarm.fill,일어나세요!
+alarm.fill,💪🏻일어납시다!!
 archivebox.fill,계획안 작성
 archivebox.fill,수업 준비
 archivebox.fill,일지작성
 at,이메일로 답장 보내기
 bag.fill,Work
+bed.double.fill,취침
 bell.fill,1 Session
 bell.fill,2 Session
 bell.fill,3 Session
 bell.fill,4 Session
+book.fill,Spring Framework 공부
+book.fill,공부하는 직장인
+book.fill,단어
+book.fill,성경공부
+book.fill,성서
 book.fill,음악관련 영상보기
 book.fill,인간과 환경
 book.fill,책읽기
 bookmark.fill,책읽기
+briefcase.fill,iQra
 briefcase.fill,회사
+car.fill,洗車
 car.fill,퇴근
+cart.fill,Costco
 chevron.left.slash.chevron.right,코딩 테스트 준비
+comb.fill,get ready
+custom.chemistry,💧물 채워두기
+custom.cooking,"밥, 휴식"
+custom.cooking,집 도착 및 밥 먹기
+custom.dumbbell,"수,금,일 맨몸 운동"
+custom.dumbbell,운동
 custom.dumbbell,헬스
 custom.dumbbell,헬스장 가기
+custom.hairdryer,washing hair
 custom.lipstick,나갈준비
+custom.shower,목욕
 custom.shower,샤워
 custom.shower,씻기
+custom.sit,소프트위즈 면접 준비
 custom.toothbrush,양치
+desktopcomputer,<매일 웹소설 쓰기>
 desktopcomputer,Ae 36. Expression(1)-FIN
+desktopcomputer,Ae 37. Expression(2)-12
+desktopcomputer,Ae 37. Expression(2)-18
+desktopcomputer,Ae 37. Expression(2)-24
+desktopcomputer,Ae 37. Expression(2)-30
+desktopcomputer,Ae 37. Expression(2)-6
+desktopcomputer,Ae 37. Expression(2)-FIN
+desktopcomputer,C4d 88. Delay& MoCache-10
+desktopcomputer,C4d 88. Delay& MoCache-15
+desktopcomputer,C4d 88. Delay& MoCache-20
 desktopcomputer,C4d 88. Delay& MoCache-25
+desktopcomputer,C4d 88. Delay& MoCache-30
+desktopcomputer,C4d 88. Delay& MoCache-5
+desktopcomputer,C4d 88. Delay& MoCache-FIN
 desktopcomputer,Mail and Messager feedback
 desktopcomputer,confession (f2f)
 desktopcomputer,강의 두 강 듣기
 desktopcomputer,영어 드라마 보기
+desktopcomputer,운동 영상 시청해야할것
 doc.fill,write my life story
+doc.richtext,역사
 dollarsign.circle.fill,아코스튜디오 구매
 drop.fill,물 1L 마시기
+eyeglasses,과제 - 주석 정리
+eyeglasses,영어
+figure.walk,go study cafe
+figure.walk,walk
 figure.walk,도서관 가기
+figure.walk,산책
 figure.walk,운동하기
+figure.walk,출근
+figure.wave,정신 차리기
 gamecontroller.fill,루미큐브
+globe,역사 pt.1
+globe,역사 pt.2
+globe,역사 pt.3
+headphones,음악
+heart.fill,박박박쓰 🌭🍗🍻
+hourglass,쏨 언니 폰 케이스 만듬
 keyboard,기술면접 질문 정리
 leaf.fill,연차
 leaf.fill,저녁 근행보기
 leaf.fill,조퇴
+magnifyingglass,과제 - 검색 영역
 mdi.birthday,내 생일
+mdi.running,요가
 mdi.school,Apply for Yonsei
+mdi.school,PSAT
+mdi.school,작품연구
+moon.fill,Sleep
 moon.fill,Sleep Well!
 moon.fill,잘 자요!
 moon.zzz.fill,잘 자요!
+music.mic,엘베강가에서 재즈공연 감상 🎶
+mustache.fill,스페인어수업
+newspaper.fill,과제 - README 작성
+noun.meal,breakfast
 noun.meal,식사 프로폴리스 비타민
 noun.meal,아침 먹기
 noun.meal,아침 식사
 noun.meal,저녁 먹기
 noun.meal,저녁밥
+noun.meal,저녁식사
+noun.meal,점심
 noun.meal,점심 먹기
+noun.meal,주자매랑 디너 🤍
 pencil.and.outline,"해부학, 간개론 강의"
+person.3.fill,엄빠랑 수다
 pianokeys,피아노 연습
 pills.fill,"루테인, 오메가3"
 pills.fill,멀티비타민
 pills.fill,"쉐이크, 콜라겐"
+pills.fill,저녁 영양제
+scissors,프로그램 준비
+shippingbox.fill,옷 정리 feat 패션쇼
 shippingbox.fill,핸드폰 - 애플워치 정리
 star.fill,실습
 stopwatch.fill,기상 유산균 커피
 sun.max.fill,아침 루틴
+sunrise.fill,morning routine
 sunrise.fill,기상
+text.badge.checkmark,일정 정리 + 플래너쓰기
+tram.fill,transportation
+tram.fill,이동
+tv.fill,경제 이론 과제
 tv.fill,서사대 강의 듣기
+tv.fill,아시아 경제론 과제
+video.fill,상담
+wand.and.stars,세탁
 wind,수영
 zzz,낮잠

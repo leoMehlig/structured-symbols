@@ -72,6 +72,7 @@ car.fill,Vulcanizare
 car.fill,𝐻𝑒𝑚
 cart.fill,Comenzi firma
 cart.fill,Cumparatuti ꪑꪖꪑꪖ
+cart.fill,Du-te la cumpărături
 cart.fill,Fă cumpărături la Vivo
 cart.fill,Mergi la piață
 cart.fill,Sʜᴏᴘᴘɪɴɢ 🛒
@@ -93,6 +94,7 @@ creditcard.fill,𝚆𝚘𝚛𝚔 𝙳𝚊𝚗 𝚑𝚎𝚖𝚖𝚊
 creditcard.fill,𝚆𝚘𝚛𝚔 𝙺-𝚏𝚊𝚜𝚝
 custom.cat,Serial
 custom.chemistry,grile chimie
+custom.cooking,Gătit
 custom.cooking,Mancare
 custom.cooking,Mâncare
 custom.cooking,Mănâncă
@@ -116,6 +118,7 @@ custom.language,Be PRODUCTIVE !!!
 custom.language,Engleza in aplicatia Duolingo
 custom.lipstick,Cosmetică
 custom.lipstick,Dressed up + routine
+custom.lipstick,Pregătiri de grădi
 custom.lipstick,Unghii
 custom.lipstick,🚿💄👗👜
 custom.shower,Baie
@@ -129,6 +132,7 @@ custom.shower,Pregătirea de seara
 custom.shower,Rutina dimineata
 custom.shower,Shower
 custom.shower,dus
+custom.shower,shower
 custom.sit,Meditație la acel proverb
 custom.toothbrush,Pregatire de culcare
 custom.toothbrush,Routine
@@ -152,19 +156,23 @@ drop.fill,Spală hainele delicate
 envelope.fill,TEXT DRAWING TEACHER
 exclamationmark.triangle.fill,Finalizare surse bibliografice
 exclamationmark.triangle.fill,Liceu
+exclamationmark.triangle.fill,breakfast🥞
 eyedropper,Skincare
 figure.walk,Plimbare
 figure.wave,Dirijat
 figure.wave,Plecare
+gearshape.2.fill,Curățenie
 gearshape.2.fill,Discutat Alex
 gearshape.2.fill,Grile
 gearshape.2.fill,School
 gift.fill,Cadou Ana
+globe,Asociația LifeWave România
 globe,Learn Geography
 guitars,Play guitar + ukulele
 hand.raised.fill,Fă-ți canonul
 hand.thumbsup.fill,Timp liber
 hare.fill,Stretching
+heart.fill,Asociația LifeWave România
 heart.fill,Biserica
 heart.fill,Fă-ți canonul
 heart.fill,Me time
@@ -190,6 +198,7 @@ mdi.birthday,𝐼𝑙𝑖𝑒 🥳
 mdi.pharmacy,Dentist
 mdi.pharmacy,Rezidentiat
 mdi.relax,Cina
+mdi.relax,Meditație impamantare
 mdi.running,Exerciții
 mdi.running,Go!
 mdi.running,Sa alerg
@@ -234,9 +243,11 @@ mustache.fill,Free
 newspaper.fill,English homework
 newspaper.fill,Micro Lp 1
 newspaper.fill,Music history
+newspaper.fill,Proiect OIC
 newspaper.fill,Teme
 noun.coffee,Cafea
 noun.coffee,Cafeluta
+noun.coffee,Coffee break
 noun.coffee,Mănânc
 noun.coffee,Pauza
 noun.coffee,Pranz
@@ -297,12 +308,15 @@ smiley.fill,PAUZĂ
 stethoscope,Biologie
 stethoscope,Citeste la biologie
 stethoscope,grile biologie
+stopwatch.fill,morning routine
 sun.max.fill,Dr.roman-Seminar
 sun.max.fill,Solar
 sun.max.fill,☀️ 𝕄𝕠𝕣𝕟𝕚𝕟𝕘 𝕤𝕦𝕟𝕤𝕙𝕚𝕟𝕖  ☀️
 sunrise.fill,Trezește-te!
 sunset.fill,Ordine casa
 sunset.fill,învățat ro
+text.badge.checkmark,De adăugat ultimele surse bibliografice
+text.badge.checkmark,Finalizare review bibliografie - stil APA
 text.badge.checkmark,Organizare agenda
 tv.fill,Curs Lorand S.
 tv.fill,Munca

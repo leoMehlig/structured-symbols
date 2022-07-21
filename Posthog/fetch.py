@@ -4,6 +4,7 @@ import copy
 from datetime import datetime
 from datetime import timedelta
 import time
+from tracemalloc import stop
 import uuid
 from urllib.parse import urlparse
 import hashlib
@@ -23,7 +24,7 @@ api_key = 'phx_nXzwm5MdPRHMwfkyBAXY1SPdRyzNE7eUKYTfdHgHxg3'
 def fetch_events(day: datetime.date) -> dict:
     headers = {'Authorization': 'Bearer {}'.format(api_key)}
 
-    url = '{}/api/event?event=Icon%20Selected&after={}&before={}'.format(posthog_scheme_and_host, day.date().isoformat(), (day + timedelta(days=1)).date().isoformat())
+    url = '{}/api/event?event=Icon%20Selected&after={}&before={}'.format(posthog_scheme_and_host, day.isoformat(), (day + timedelta(days=1)).isoformat())
 
     while 1:
         query = urlparse(url).query
@@ -31,13 +32,13 @@ def fetch_events(day: datetime.date) -> dict:
             # PostHog return weird next URL with tons of 'before' params
             comps = query.split('=')[-1]
             if comps[-2] == "before":
-                url = '{}/api/event?event=Icon%20Selected&after={}&before={}'.format(posthog_scheme_and_host, day.date().isoformat(), comps[-1])
+                url = '{}/api/event?event=Icon%20Selected&after={}&before={}'.format(posthog_scheme_and_host, day.isoformat(), comps[-1])
 
         res = requests.get(url, headers=headers)
         if res.status_code == 200:
             j_res = res.json()
             _data = j_res['results']
-            print("Loaded {} for {} ({})".format(len(_data), day.date().isoformat(), urlparse(url).query))
+            print("Loaded {} for {} ({})".format(len(_data), day.isoformat(), urlparse(url).query))
             if len(_data) > 0:
                 yield _data
             else:
@@ -80,7 +81,7 @@ class TaskQueue(Queue):
 
 # %%
 def run(day):
-    path = 'data/{}.csv'.format(day.date().isoformat())
+    path = 'data/{}.csv'.format(day.isoformat())
     # if os.path.exists(path):
     #     print("Skipping", day.date().isoformat())
     # else:
@@ -90,19 +91,23 @@ def run(day):
         events = df[["properties.title", "properties.$language", "properties.icon", "id", "timestamp"]]
         # print('Loaded {} events on {}'.format(len(events), day.date().isoformat()))
         events.to_csv(path, mode='a', index=False, header=False)
-    print("Finished", day.date().isoformat())
+    print("Finished", day.isoformat())
 
 
 # %%
 
 queue = TaskQueue(num_workers=3)
 
-start_date = datetime(2021, 10, 30)
+date = datetime(2022, 5, 16).date()
 
-for offset in range(90):
-    day = start_date - timedelta(days=offset)
-    print("Adding", day.date().isoformat())
-    queue.add_task(run, day)
+stop_date = datetime.now().date() - timedelta(days=1)
+
+while True:
+    if date > stop_date:
+        break
+    print("Adding", date.isoformat())
+    queue.add_task(run, date)
+    date += timedelta(days=1)
 
 
 

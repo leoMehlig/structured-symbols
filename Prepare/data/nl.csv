@@ -3,7 +3,9 @@ airplane,Chiama papa..per andare in italia
 airplane,EXPORT CLASS
 airplane,Economie proef 2
 airplane,Grote reis research
+airplane,Ibiza plannen
 airplane,Inpakken
+airplane,Koffer
 airplane,Koffer inpakken
 airplane,Koffer inpakken voor vakantie
 airplane,Leren Ak
@@ -32,6 +34,7 @@ airplane,𝙶𝚎𝚜𝚌𝚑𝚒𝚎𝚍𝚎𝚗𝚒𝚜
 alarm.fill,Aufwachen!
 alarm.fill,Begin van de dag
 alarm.fill,Begin werkdag
+alarm.fill,Bij mat slapen
 alarm.fill,Caithlynn wakker maken
 alarm.fill,Carl - ziekmelden uwv?
 alarm.fill,Dringend!!!
@@ -39,6 +42,8 @@ alarm.fill,Goedemorgen
 alarm.fill,Goedemorgen!
 alarm.fill,Good morning
 alarm.fill,Goodmorning!
+alarm.fill,Kids wakker maken.
+alarm.fill,Kinderen uit bed + klaarmaken
 alarm.fill,Klaarmaken
 alarm.fill,Klaarmaken voor school
 alarm.fill,Koken
@@ -47,6 +52,7 @@ alarm.fill,MORNING
 alarm.fill,Meditatie!
 alarm.fill,Morning routine
 alarm.fill,Morning routine!
+alarm.fill,Nessim wakker maken
 alarm.fill,O P S T A A N
 alarm.fill,Ochtendroutine
 alarm.fill,Opstaan
@@ -110,6 +116,7 @@ alarm.fill,wakker worden
 alarm.fill,wakker worden!
 alarm.fill,wakker worden!!
 alarm.fill,wekker
+alarm.fill,“morning
 alarm.fill,⏰
 alarm.fill,𝙾𝚙𝚜𝚝𝚊𝚊𝚗
 alarm.fill,🌅
@@ -127,8 +134,10 @@ archivebox.fill,Alles klaarleggen morgen
 archivebox.fill,Clean clothes by bed🧴
 archivebox.fill,De was doen + strijken
 archivebox.fill,Decathlon pakketje
+archivebox.fill,Dozen uitpakken
 archivebox.fill,Eetkamer opruimen
 archivebox.fill,Epoxy maken Malika
+archivebox.fill,Handtas klaar steken
 archivebox.fill,Huis opruimen
 archivebox.fill,Journaalposten tm juli
 archivebox.fill,Kamer opruimen
@@ -150,6 +159,7 @@ archivebox.fill,Tas inpakken
 archivebox.fill,Toeti kooi schoon maken
 archivebox.fill,Toevoegen contracten Hubble
 archivebox.fill,Was doen
+archivebox.fill,Was in de wasmand
 archivebox.fill,Was opvouwen
 archivebox.fill,Werken
 archivebox.fill,kamer opruimen
@@ -158,13 +168,16 @@ arrow.3.trianglepath,Afwassen
 arrow.3.trianglepath,Avondroutine
 arrow.3.trianglepath,Bikini retourneren
 arrow.3.trianglepath,Container
+arrow.3.trianglepath,Gft
 arrow.3.trianglepath,Glas wegbrengen
 arrow.3.trianglepath,Herhalen
+arrow.3.trianglepath,Huis opruimen
 arrow.3.trianglepath,Huistaken
 arrow.3.trianglepath,Items van plank
 arrow.3.trianglepath,Kamer opruimen
 arrow.3.trianglepath,Keuken
 arrow.3.trianglepath,Klaarmaken
+arrow.3.trianglepath,Kringloop
 arrow.3.trianglepath,Mediteren
 arrow.3.trianglepath,Omkleden
 arrow.3.trianglepath,Opkuis + next day voorbereiding
@@ -181,6 +194,7 @@ arrow.3.trianglepath,Was draaien
 arrow.3.trianglepath,Was opvouwen
 arrow.3.trianglepath,빨래해
 arrow.merge,Aankleden
+arrow.merge,Buffer uitloop
 arrow.merge,Clean cage
 arrow.merge,DVV VERZEKERINGEN ⚠️⚠️
 arrow.merge,DVZ verzenden
@@ -231,11 +245,13 @@ at,Solliciteren
 at,Stagair mailen
 at,Stage: mails beantwoorden
 at,Swollenaer mailen
+at,Vakantie aanvragen!
 at,Verslag dans
 at,Werk mailen
 at,Work
 at,Zie Mindmap
 at,mailen meneer Leisink
+at,ouders mailen
 atom,10 minuten hobby uitoefenen
 atom,18:00 WB + Bewustrijki bizz
 atom,1e deel huiswerkopdracht af
@@ -266,6 +282,7 @@ atom,Fysica week 4
 atom,Het Parool
 atom,Huiswerk
 atom,Huiswerk maken
+atom,ICOMMHA maken
 atom,Kamer schoonmaken
 atom,Kefir
 atom,Kerstvakantie Stan Nienke
@@ -301,14 +318,18 @@ atom,Pak wisselen > Roze
 atom,Poiesz
 atom,Productiviteit
 atom,Project
+atom,Project werken
 atom,SCHK opdrachten maken
 atom,Scheikunde
 atom,Scheikunde H17 (GNK)
+atom,Scheikunde H9 afmaken + begin H12?
 atom,Scheikunde H9 afmaken en H10
+atom,Scheikunde af!
 atom,Scheikunde leren
 atom,Scheikunde maken
 atom,Scheikunde plusuur.
 atom,Schoonmaken
+atom,Sieraden maken
 atom,Sk SE
 atom,Sk leren
 atom,Sollicitatiegespek 9u00
@@ -322,12 +343,14 @@ atom,"Terras: gezaaid (Verbena, Stokroos, tuintjes AH), zinken ton leeg gehaald 
 atom,Test afspraak
 atom,Testje doen en prik halen
 atom,Tuilsfeest
+atom,Verzorging
 atom,Vlinderstruik
 atom,Vrij
 atom,Vrij vragen UU
 atom,Vrije tijd
 atom,W1 warmteleer
 atom,WMR Infographic maken
+atom,Was er uit halen
 atom,Wassen
 atom,Werken
 atom,Werken + gym @home
@@ -430,6 +453,7 @@ bag.fill,Uitladen
 bag.fill,Valies deels maken
 bag.fill,Valies maken
 bag.fill,Valiezen maken
+bag.fill,Vrije tijd
 bag.fill,Vuilnis buiten
 bag.fill,Werk
 bag.fill,Werk Face2face
@@ -468,6 +492,7 @@ bandage.fill,Fysiotherapie
 bandage.fill,Huisarts
 bandage.fill,Huisarts bellen
 bandage.fill,Maaike longarts!
+bandage.fill,Marjan voorbereiden
 bandage.fill,Neusspray kopen
 bandage.fill,Nieuwe screenprotector!!
 bandage.fill,Prik inschrijven
@@ -483,6 +508,7 @@ bandage.fill,Zalf smeren
 bandage.fill,hepatitis b prik
 bandage.fill,skincare
 bandage.fill,verslag biologie
+bandage.fill,𝙶𝚎𝚣𝚒𝚌𝚑𝚝 𝚟𝚎𝚛𝚣𝚘𝚛𝚐𝚎𝚗
 battery.25,5 Pauze
 battery.25,Adil
 battery.25,Airpods lader
@@ -510,6 +536,7 @@ battery.25,Massage
 battery.25,Meditatie
 battery.25,Naar huis
 battery.25,Omkleden
+battery.25,Ontbijten
 battery.25,Ontspannen
 battery.25,Ontspanning
 battery.25,Opladen
@@ -567,6 +594,7 @@ bed.double.fill,Chillen in bed
 bed.double.fill,Clean room
 bed.double.fill,Dutje doen
 bed.double.fill,Filmpje kijken en relaxen
+bed.double.fill,Gaan slapen
 bed.double.fill,Get ready bed
 bed.double.fill,Goedemorgen!
 bed.double.fill,Grieks leren
@@ -632,10 +660,12 @@ bed.double.fill,Slapen
 bed.double.fill,Spa dag
 bed.double.fill,Stofzuigen
 bed.double.fill,Totaalbed
+bed.double.fill,Uit bed
 bed.double.fill,Vrije tijd
 bed.double.fill,Vuilnis bak legen
 bed.double.fill,Wakker worden
 bed.double.fill,Wakker worden!
+bed.double.fill,Wakker worden🛌
 bed.double.fill,Was wegruimen
 bed.double.fill,Welterusten
 bed.double.fill,Welterusten!
@@ -755,11 +785,15 @@ book.fill,1 paragraaf van een boek lezen
 book.fill,1.1 uitwerken
 book.fill,1.2 uitwerken
 book.fill,2.5 uitwerken
+book.fill,2.6 uitwerken
+book.fill,2.7 uitwerken
 book.fill,3
 book.fill,4.1 uitwerken
 book.fill,4.2 uitwerken
+book.fill,6.1 uitwerken
 book.fill,7.1 uitwerken
 book.fill,7.2 uitwerken
+book.fill,8.1 uitwerken
 book.fill,AI
 book.fill,AK begrippen leren
 book.fill,APU
@@ -788,6 +822,7 @@ book.fill,Alle talen 1x goed doornemen
 book.fill,Alles herhalen
 book.fill,Amstelring bellen over werk
 book.fill,Antoon de Jong Bon innen
+book.fill,App 1&2 leren
 book.fill,Appr maken
 book.fill,Arabisch leren
 book.fill,Architectuurtheorie
@@ -804,12 +839,15 @@ book.fill,Basisgroep
 book.fill,Basiszorg reader
 book.fill,Beco H22 en H23
 book.fill,Beco examen beginnen
+book.fill,Beco leren
 book.fill,Bedrijfsadministratie
 book.fill,Bedrijfseconomie
 book.fill,Bedrijfseconomie leren
 book.fill,Bedrijfsethiek 1e opdracht
+book.fill,Begin maken verslag
 book.fill,Beginnen aan scriptie
 book.fill,Beginnen kijken voor paper
+book.fill,Begrippen eco leren
 book.fill,Beschikbaarheid Goudsewagenstraat invullen
 book.fill,Bestellingen Januari
 book.fill,Bestellingen Januari 2021
@@ -821,6 +859,7 @@ book.fill,Bijbel lezen
 book.fill,Bijles
 book.fill,Bijles Ellis
 book.fill,Bijles Jada
+book.fill,Bijwerken alle vakken week 1 t/m 3
 book.fill,Bio
 book.fill,"Bio 1,2,3,4,5,6,7+8"
 book.fill,Bio begrippen
@@ -861,6 +900,7 @@ book.fill,Bus law blokken
 book.fill,Bv podcast make
 book.fill,CF Lezen
 book.fill,CI - Methode Research Proposal
+book.fill,Cantates OKK
 book.fill,Catechisatie leren
 book.fill,Chemie
 book.fill,Chillen
@@ -875,16 +915,19 @@ book.fill,DU leren HCE 1 t/m 3
 book.fill,Dagboek
 book.fill,Dagboek & schrijven
 book.fill,Dagboek invullen
+book.fill,Dalpha visie document lezen
 book.fill,Dankbaarheid dagboek/duolingo
 book.fill,Dankbaarheidslog
 book.fill,De Verboden Vrouw Spreekt
 book.fill,Deadline Duits Taal & Cultuur PO
+book.fill,Dentallect
 book.fill,Digitale agenda checken
 book.fill,Document project afmaken
 book.fill,Douchen en lezen
 book.fill,Dua Herhalen
 book.fill,Duits
 book.fill,Duits 1 basis - HC
+book.fill,Duits Leidse lijst woorden
 book.fill,Duits herhalen
 book.fill,Duits herkansing KLT van 15.00 tot 16.00
 book.fill,Duits leren
@@ -892,6 +935,7 @@ book.fill,Duits lezen
 book.fill,Duits opdrachten doornemen
 book.fill,Duits toets
 book.fill,Duits woordenlijst h4
+book.fill,Duolingo
 book.fill,Ebook gerechten schrijven
 book.fill,Eco
 book.fill,Eco H1  doorlezen + aantekeningen maken
@@ -927,8 +971,10 @@ book.fill,Engels short story lezen
 book.fill,Engels toets
 book.fill,Engels toets leren
 book.fill,Engels urban legend
+book.fill,Engels video’s opzoeken
 book.fill,Entl
 book.fill,Essay Ethiek
+book.fill,Esthetica
 book.fill,Esthetica smv
 book.fill,Eten
 book.fill,Examen Nederlands
@@ -941,6 +987,7 @@ book.fill,FRANS
 book.fill,Fatl: ex. 18
 book.fill,Filosofie
 book.fill,Finish up 26 leren
+book.fill,Flexweek
 book.fill,Forensische spectrometrie voorbereiden
 book.fill,Formulier stagair
 book.fill,Frans
@@ -977,8 +1024,10 @@ book.fill,Gip: in orde steken
 book.fill,Girl in pieces lezen
 book.fill,Gitaar spelen of leren
 book.fill,Globale reflectie
+book.fill,Godsdienst
 book.fill,Godsdienst maken en leren
 book.fill,"Godsdienst: opdr.5 p.247 (a,b,c)"
+book.fill,Grieks leren
 book.fill,Gs p 1
 book.fill,H1 kenmerkend aspect (2)
 book.fill,H1 mk leren
@@ -994,6 +1043,7 @@ book.fill,Hoorcollege nieren 2020 uur 2 bekijken
 book.fill,Hr pfo4 maken
 book.fill,Huiswerk
 book.fill,Huiswerk (Engels boeken)
+book.fill,Huiswerk (Treasury & BIV)
 book.fill,Huiswerk + leren
 book.fill,Huiswerk NA / leren volgende week
 book.fill,Huiswerk Nederlands
@@ -1036,6 +1086,8 @@ book.fill,Kennislijn leren
 book.fill,Kerk
 book.fill,Kijken wis + bec4/5
 book.fill,Kite runner lezen
+book.fill,Klaarmaken en huiswerk
+book.fill,Klaarmaken en naar de uni
 book.fill,Koran
 book.fill,Koran Lezen
 book.fill,Koran lezen
@@ -1064,6 +1116,7 @@ book.fill,Leren Duits
 book.fill,Leren Duits pw lektion 1
 book.fill,Leren Engels
 book.fill,Leren Frans
+book.fill,Leren NL
 book.fill,Leren Nederlands
 book.fill,Leren Spaans SO
 book.fill,Leren Studybox 2
@@ -1087,6 +1140,7 @@ book.fill,Leren inleiding tot het recht
 book.fill,Leren latijn
 book.fill,Leren maatschappijleer H2
 book.fill,Leren nask
+book.fill,Leren nat
 book.fill,Leren scheikunde
 book.fill,Leren speeltoets muziek
 book.fill,Leren tentamen
@@ -1109,6 +1163,7 @@ book.fill,Leren voor wiskunde
 book.fill,Leren wiskunde
 book.fill,Leren étapes
 book.fill,Leren: étapes
+book.fill,Les
 book.fill,Les 4 studeren en oefenen
 book.fill,Les atelier
 book.fill,Les financieel management 1
@@ -1125,6 +1180,7 @@ book.fill,Lezen Dr. Jekyll and Mr. Hyde
 book.fill,Lezen boek
 book.fill,Lezen chinees
 book.fill,Lezen in boek
+book.fill,Lezen persoonlijkheidsleer
 book.fill,Lezen probleem 1
 book.fill,Lezen voor Vertalen
 book.fill,Lijst voedingsmiddelenanalyse
@@ -1190,11 +1246,14 @@ book.fill,Oefenen Nederlands
 book.fill,Oeroeg uitlezen
 book.fill,Om boek
 book.fill,Om onderzoeksopzet
+book.fill,Ondernemingsplan week
 book.fill,Onderzoeksrapport
 book.fill,Ontspannen
+book.fill,Ontspanning
 book.fill,Ontwerp
 book.fill,Ontwerpend leren
 book.fill,Op school
+book.fill,Op school bezig
 book.fill,Opdracht Destinations
 book.fill,Opdracht Engels
 book.fill,Opdracht Frans
@@ -1224,6 +1283,7 @@ book.fill,Reading 📖🪁
 book.fill,Redactie en research lezen
 book.fill,Rekenen
 book.fill,Rekenen hoofdstuk 8 af
+book.fill,Rekenen maken
 book.fill,Rekenen oefen examen doen
 book.fill,Relatie Danique aanmaken AKL
 book.fill,Research
@@ -1277,6 +1337,7 @@ book.fill,Start met hw
 book.fill,Start vastentijd
 book.fill,Statistiek
 book.fill,Statistiek plannen
+book.fill,Stoomcursus Daan
 book.fill,Storytelling school werk oefenen
 book.fill,Structuur leren
 book.fill,Structuur: filmpjes werkzitting
@@ -1285,6 +1346,7 @@ book.fill,Studeren Ondernemingsrecht
 book.fill,Studeren QRM
 book.fill,Studeren Wiskunde
 book.fill,Studeren gesch
+book.fill,Studeren in de bieb
 book.fill,Studie
 book.fill,Studie uur
 book.fill,Studiesessie 1
@@ -1300,15 +1362,18 @@ book.fill,Taming of the shrew lezen
 book.fill,Tas inpakken
 book.fill,Tas inpakken school
 book.fill,Tas inpakken voor school
+book.fill,Tas school inpakken
 book.fill,Tekst 2.1 Lezen
 book.fill,Tekst 2.1 lezen
 book.fill,Telecommunicatie
+book.fill,Telefoon/Lezen
 book.fill,Tentamen
 book.fill,Tentamen anatomie
 book.fill,Tentamen leren
 book.fill,Tentamen maken
 book.fill,Terugkijken Bachelor Project
 book.fill,Terugkommoment boeken
+book.fill,Theorie examen
 book.fill,Theorie leren
 book.fill,Theorie weekend
 book.fill,Thermodynamica
@@ -1327,6 +1392,7 @@ book.fill,Tv kijken/boek lezen
 book.fill,UX - Design Fiction
 book.fill,Uitzoeken inbox
 book.fill,VM Program
+book.fill,Verbintenissenrecht
 book.fill,Verslag
 book.fill,Voc
 book.fill,Voorbereiden G-M
@@ -1335,6 +1401,7 @@ book.fill,Vooronderzoek Lightyear
 book.fill,Wachttoren bestuderen
 book.fill,Werken
 book.fill,Werken aan fusies
+book.fill,Werken aan legal tech lab praktijkopdracht
 book.fill,Werken aan school
 book.fill,Werken aan verbeterplan
 book.fill,Werken in schrift
@@ -1345,6 +1412,7 @@ book.fill,Wetenschappelijk programmeren hoorcollege
 book.fill,Wft hyp
 book.fill,Wi
 book.fill,Wiskunde
+book.fill,Wiskunde 8.3
 book.fill,Wiskunde B h13 oefenen
 book.fill,Wiskunde PW
 book.fill,Wiskunde afmaken
@@ -1367,6 +1435,7 @@ book.fill,Woordjes leren
 book.fill,X8 leren
 book.fill,Zelfstudie
 book.fill,aan school
+book.fill,aardrijkskunde
 book.fill,ak opdracht
 book.fill,barbe bleue samenvatten
 book.fill,beco
@@ -1383,6 +1452,7 @@ book.fill,economie
 book.fill,"economie - 1.3, 1.4, 1.12 t/m 1.18"
 book.fill,economie blz 107 opgave 1 t/m 9 + 4.1 opgave 10 t/m 17 + leren 4.2
 book.fill,economie leren
+book.fill,"economie opdracht 1, 2"
 book.fill,engels
 book.fill,engels boek lezen
 book.fill,engels leren
@@ -1393,6 +1463,7 @@ book.fill,forum; bwp verslag
 book.fill,frans
 book.fill,fysica
 book.fill,geschiedenis
+book.fill,geschiedenis amerikaanse revolutie
 book.fill,herhalen
 book.fill,history presentatie
 book.fill,huiswerk
@@ -1407,6 +1478,7 @@ book.fill,leren geschiedenis
 book.fill,lezen
 book.fill,lezen in Thug
 book.fill,lezen in boek
+book.fill,lezen nederlands
 book.fill,lezen nederlands hoofdstuk 3+4
 book.fill,linda meiden lezen
 book.fill,mathematics huiswerk maken
@@ -1447,6 +1519,7 @@ book.fill,Четене
 book.fill,한국어
 book.fill,한국어 3과
 book.fill,한문
+book.fill,𝚂𝚝𝚞𝚍𝚎𝚛𝚎𝚗 𝕨𝕚𝕤𝕜
 bookmark.fill,Afsprakenkaarten Operaties
 bookmark.fill,Amstel live kaartjes
 bookmark.fill,Brian
@@ -1467,6 +1540,7 @@ bookmark.fill,Lezen
 bookmark.fill,Lezen (c. 45 min)
 bookmark.fill,Lijst indicaties maken
 bookmark.fill,Mail personeel + cadeaubon
+bookmark.fill,Nederlands band
 bookmark.fill,Nederlands schrijdosier
 bookmark.fill,Npo
 bookmark.fill,Ontbijten
@@ -1505,12 +1579,14 @@ briefcase.fill,Delhaize St-J-W
 briefcase.fill,EHBI organiseren
 briefcase.fill,Eco herhalen
 briefcase.fill,Examen Meppel
+briefcase.fill,Examen familierecht en procedurerecht
 briefcase.fill,Frans
 briefcase.fill,Fressnapf
 briefcase.fill,Geschiedenis
 briefcase.fill,Get stuff
 briefcase.fill,Graviteit
 briefcase.fill,Inpakken
+briefcase.fill,Inpakken voor bao zhen
 briefcase.fill,Internship💼
 briefcase.fill,Inwerkdag
 briefcase.fill,Kantoor
@@ -1526,6 +1602,7 @@ briefcase.fill,Koffers inpakken
 briefcase.fill,Kranten
 briefcase.fill,Kruidvat
 briefcase.fill,Laura naar school brengen
+briefcase.fill,Leren
 briefcase.fill,Leren 2
 briefcase.fill,Les
 briefcase.fill,Make ready to go!
@@ -1552,6 +1629,7 @@ briefcase.fill,School
 briefcase.fill,School eten klaarmaken.
 briefcase.fill,School eten maken.
 briefcase.fill,School tas inpakken
+briefcase.fill,Schooltas
 briefcase.fill,Schooltas inpakken
 briefcase.fill,Slaapzak en handschoenen halen
 briefcase.fill,Sollicitatie
@@ -1581,6 +1659,7 @@ briefcase.fill,Thuis werken
 briefcase.fill,Thuis werken CT
 briefcase.fill,Thuiswerken
 briefcase.fill,Vakantiewerking
+briefcase.fill,Valies inpakken
 briefcase.fill,Valies maken
 briefcase.fill,Valies pakken
 briefcase.fill,Valies skiën maken
@@ -1603,6 +1682,10 @@ briefcase.fill,Werken OLV
 briefcase.fill,Werken PSV Guus Meeuwis
 briefcase.fill,Werken bardot
 briefcase.fill,Werken batch items
+briefcase.fill,Werken bij Dhr. Ouwerkerk
+briefcase.fill,Werken bij Dhr. Turenhout
+briefcase.fill,Werken bij Mevr. Meijer
+briefcase.fill,Werken bij Mevr. Vlasveld
 briefcase.fill,Werken bij Uccello
 briefcase.fill,Werken damsterdiep
 briefcase.fill,Werken jeans centre
@@ -1651,6 +1734,7 @@ bubble.left.fill,PROJECT: Sprint (BN)
 bubble.left.fill,Relaxen
 bubble.left.fill,Rubber base
 bubble.left.fill,Situatie taxi bespreken
+bubble.left.fill,Sociale media checken
 bubble.left.fill,TDP WORK - Social Media
 bubble.left.fill,Telefoon checken
 bubble.left.fill,Uitwoondendebeurs regelen
@@ -1696,6 +1780,7 @@ calendar,Inschrijven
 calendar,Jessica appen datums
 calendar,KDO inschrijven voor open dag(en)
 calendar,Kerstvakantie
+calendar,Klaarmaken
 calendar,Koningsdag
 calendar,Law and ethics on robots and AI
 calendar,Leerlingencontacten plannen
@@ -1718,6 +1803,7 @@ calendar,Planning maken voor de volgende dag
 calendar,Planning maken voor school
 calendar,Planning maken voor volgende dag
 calendar,Planning pww maken
+calendar,Planning van donderdag verschuiven
 calendar,Planning voor huiswerk maken
 calendar,Planning voor morgen
 calendar,Planning voor morgen maken
@@ -1732,6 +1818,7 @@ calendar,Vervoer jureren acro vragen!
 calendar,Vervolgafspraak - Hanne Van Rooy - Teams
 calendar,Vrij
 calendar,Weekplanning
+calendar,Weekplanning maken
 calendar,Werk
 calendar,Werken
 calendar,Werken FB
@@ -1768,6 +1855,7 @@ camera.fill,Pasfoto’s Thoas en Naeva laten maken
 camera.fill,Pasfoto’s laten maken
 camera.fill,Reccie
 camera.fill,Rev uur
+camera.fill,School fotograaf
 camera.fill,Schoolfotograaf
 camera.fill,Shooting antwerp
 camera.fill,Tiktok daliyah
@@ -1788,6 +1876,7 @@ car.fill,Auto afspuiten
 car.fill,Auto checken bij papa
 car.fill,Auto garage
 car.fill,Auto halen
+car.fill,Auto inladen
 car.fill,Auto kuisen
 car.fill,Auto naar garage
 car.fill,Auto ophalen
@@ -1827,6 +1916,7 @@ car.fill,Jas halen
 car.fill,Jayce ophalen
 car.fill,Karten
 car.fill,Kids drop of
+car.fill,Kids wegbrengen.
 car.fill,Kopen werk
 car.fill,Kwik-fit
 car.fill,Laten weten aan baas dat ik donderdag 20/04/22 om 15u20 naar autokeuring moet
@@ -1859,6 +1949,7 @@ car.fill,Naar de Lidl
 car.fill,Naar de bieb
 car.fill,Naar de manege
 car.fill,Naar de sportschool
+car.fill,Naar de stad
 car.fill,Naar de tandarts
 car.fill,Naar gilze
 car.fill,Naar het ziekenhuis rijden
@@ -1868,8 +1959,10 @@ car.fill,Naar huis rijden
 car.fill,Naar huis.
 car.fill,Naar kantoor
 car.fill,Naar keizerswaard
+car.fill,Naar la Cubanita
 car.fill,Naar mama
 car.fill,Naar oisterwijk
+car.fill,Naar oma
 car.fill,Naar opa en oma
 car.fill,Naar ow
 car.fill,Naar papa
@@ -1909,14 +2002,18 @@ car.fill,Reizen RTHA
 car.fill,Richting werk
 car.fill,Rij examen
 car.fill,Rij les
+car.fill,Rij-examen
 car.fill,Rijbewijs aanvragen
 car.fill,Rijden
 car.fill,Rijden anil
+car.fill,Rijden naar Ttc
 car.fill,Rijden naar huis
+car.fill,Rijden naar restaurant
 car.fill,Rijden naar station
 car.fill,Rijden naar werk
 car.fill,Rijexamen
 car.fill,Rijles
+car.fill,Rijles 2
 car.fill,Rijlessen uitzoeken
 car.fill,Rijles🚗
 car.fill,Rijschool bellen
@@ -2006,6 +2103,8 @@ cart.fill,Boodschappen opruimen
 cart.fill,Boodschappen voor tuin en keuken
 cart.fill,Bouwmaat
 cart.fill,Bouwmarkt
+cart.fill,Brood
+cart.fill,Broodjes
 cart.fill,Chillen 2.0
 cart.fill,Colruyt
 cart.fill,Colruyt ophalen
@@ -2035,11 +2134,15 @@ cart.fill,Kast ophalen
 cart.fill,Kleding kopen beyonce
 cart.fill,Kleding verkopen
 cart.fill,"Koffie kopen, pakketje weg"
+cart.fill,Kringloopwinkel
 cart.fill,Kringw Aldi
+cart.fill,Kringwinkel
 cart.fill,Kruidvat
 cart.fill,Kruitvat
+cart.fill,Kwantum en AH
 cart.fill,Langs de hema en oonk
 cart.fill,Leenbakker
+cart.fill,Maatverband blauwe halen
 cart.fill,Makro
 cart.fill,Mediamarkt
 cart.fill,Met Carl shoppen voor Glowjump
@@ -2057,6 +2160,7 @@ cart.fill,Online kijken
 cart.fill,Ontbijt halen
 cart.fill,Picnic komt bezorgen
 cart.fill,Primark
+cart.fill,Printshop + match
 cart.fill,Schrift kopen
 cart.fill,Shop lijstje
 cart.fill,Shoppen
@@ -2090,6 +2194,7 @@ cart.fill,going to shop
 cart.fill,hema foto’s + pakketje
 cart.fill,kringloop :)
 cart.fill,stad
+cart.fill,vomar
 cart.fill,werken
 cart.fill,winkel
 chart.bar.fill,Belasting
@@ -2116,20 +2221,24 @@ chart.bar.fill,Wegen
 chart.bar.fill,Wiskunde
 chart.bar.fill,"Work, work, work!"
 chart.bar.fill,skill - sport - meeting
+chart.pie.fill,Drinken en snack
 chart.pie.fill,Eten
 chart.pie.fill,Financiën bekijken
 chart.pie.fill,Fruit eten
 chart.pie.fill,Leren taaldorp
+chart.pie.fill,Middageten
 chart.pie.fill,NLT 4.1
 chart.pie.fill,Ontbijten
 chart.pie.fill,Taarten bakken
 chart.pie.fill,Taken uitvoeren
 chart.pie.fill,Taken verdelen
 chart.pie.fill,maatschappijleer
+chart.pie.fill,werken
 chevron.left.slash.chevron.right,Atomic design
 chevron.left.slash.chevron.right,Bullet Journal✨🤍 ~ Bellen met Viskjeee 🐟
 chevron.left.slash.chevron.right,Code - iOS Development
 chevron.left.slash.chevron.right,Coderen PWA084
+chevron.left.slash.chevron.right,IA
 chevron.left.slash.chevron.right,Klusjes doen!😘😍 ~ Bellen met Viskjeee 🐟
 chevron.left.slash.chevron.right,Opruimen
 chevron.left.slash.chevron.right,Stooseflow: Prijs toevoegen aan de systeem data
@@ -2141,9 +2250,13 @@ clock.fill,Beschikbaarheid doorgeven
 clock.fill,Bidden
 clock.fill,Dagplanning bijwerken
 clock.fill,"Gang beneden vegen, trap zuigen en randjes afnemen"
+clock.fill,Geschiedenis
+clock.fill,Gs begrippen
+clock.fill,Gs samenvatting maken
 clock.fill,Klaar maken voor school
 clock.fill,Klaar met huiswerk
 clock.fill,Klaar met huiswerk en leren
+clock.fill,Klaarmaken
 clock.fill,Klaarmaken & eten
 clock.fill,Klaarmaken voor tennis
 clock.fill,Les Nezha
@@ -2171,6 +2284,7 @@ cloud.bolt.fill,Daily donderdag
 cloud.bolt.fill,Vol hoofd Mustafa
 cloud.bolt.fill,X
 cloud.drizzle.fill,Aardrijkskunde
+cloud.drizzle.fill,Crematie oma
 cloud.drizzle.fill,Douchen
 cloud.drizzle.fill,Ergens vandaag een breakdown hebben
 cloud.drizzle.fill,Naar buiten
@@ -2190,6 +2304,7 @@ cloud.fill,Wakker worden
 cloud.fill,Was
 cloud.fill,Wiskunde leren
 cloud.fill,pauze
+cloud.fog.fill,Aardrijkskunde
 cloud.fog.fill,Koken
 cloud.fog.fill,Taartbakcompetitie
 cloud.fog.fill,koken
@@ -2203,6 +2318,7 @@ cloud.snow.fill,Skiën!
 cloud.snow.fill,Snowboarden
 cloud.snow.fill,schaatsen
 comb.fill,Aankleden
+comb.fill,Aankleden en klaar maken
 comb.fill,Aankleden en klaarmaken
 comb.fill,Aankleden en opfrissen 👚
 comb.fill,Aankleden en opmaken
@@ -2214,15 +2330,18 @@ comb.fill,Get Ready
 comb.fill,Get dressed
 comb.fill,Get ready
 comb.fill,Get ready etc
+comb.fill,Getting ready
 comb.fill,Haar
 comb.fill,Haar doen
 comb.fill,Haar doen!🤍🤍
 comb.fill,Haar kammen
+comb.fill,Haar knippen
 comb.fill,Haar krullen
 comb.fill,Haar stijlen
 comb.fill,Haar wassen
 comb.fill,Haren
 comb.fill,Haren doen
+comb.fill,Haren doen bij Tessa
 comb.fill,Haren en makeup
 comb.fill,Haren kammen
 comb.fill,Haren stijlen
@@ -2268,6 +2387,7 @@ creditcard.fill,Bazuin en partners betalen 2 maanden
 creditcard.fill,Betalen
 creditcard.fill,Betaling 12
 creditcard.fill,Betalingen.
+creditcard.fill,Boeken verkopen
 creditcard.fill,Bol.com betalen
 creditcard.fill,Bonnetje jumbo
 creditcard.fill,Boodschappen
@@ -2304,7 +2424,9 @@ creditcard.fill,Wasmachine vloerkleed kopen
 creditcard.fill,Werk
 creditcard.fill,Werken
 creditcard.fill,panty sokken halen voor werk
+creditcard.fill,werken
 creditcard.fill,•Cards
+creditcard.fill,𝒲ℯ𝓇𝓀ℯ𝓃 𝒷𝒾𝒿 𝒹ℯ 𝒵ℴℴ 𝓋𝒶𝓃 𝒜𝓃𝓉𝓌ℯ𝓇𝓅ℯ𝓃. 💸
 custom.ball,Aanwezig
 custom.ball,Aanwezig zijn
 custom.ball,B&R Beurs: voetbaltoernooi
@@ -2362,8 +2484,10 @@ custom.cat,Boefje eten geven
 custom.cat,Brunch hoekies
 custom.cat,Cavia eten
 custom.cat,Chill
+custom.cat,Chillen
 custom.cat,Dieren uitlaat service
 custom.cat,Dierenarts
+custom.cat,Fietsen
 custom.cat,Frans HW
 custom.cat,Frey daycare
 custom.cat,Frey daycare +
@@ -2399,6 +2523,7 @@ custom.cat,Paarden
 custom.cat,Pebbles eten + medicatie geven
 custom.cat,Perry
 custom.cat,Rassenleer kat+ varken +paard
+custom.cat,Repetitie Rosa
 custom.cat,Rust
 custom.cat,Sams nagels knippen
 custom.cat,Spelen met Ella
@@ -2436,6 +2561,7 @@ custom.chemistry,Scheikunde bijlopen
 custom.chemistry,Scheikunde herhalen
 custom.chemistry,Scheikunde leren
 custom.chemistry,Scheikunde toets
+custom.chemistry,Science leren
 custom.chemistry,Study🎀
 custom.chemistry,Toets scheikunde
 custom.chemistry,kleren wassen
@@ -2464,6 +2590,7 @@ custom.cooking,Brood bakken
 custom.cooking,Brood smeren
 custom.cooking,Broodjes maken
 custom.cooking,Broodjes smeren
+custom.cooking,Broodsmeren
 custom.cooking,Brownie maken
 custom.cooking,Burgers
 custom.cooking,Burritos maken
@@ -2482,6 +2609,7 @@ custom.cooking,Eten B-day
 custom.cooking,Eten bedenken
 custom.cooking,Eten halen
 custom.cooking,Eten inladen
+custom.cooking,Eten klaarmaken
 custom.cooking,Eten koken
 custom.cooking,Eten koken+eten
 custom.cooking,Eten maken
@@ -2505,6 +2633,7 @@ custom.cooking,Keuken schoonmaken
 custom.cooking,Klaar met vasten 🤗
 custom.cooking,Koekjes bakken
 custom.cooking,Koken
+custom.cooking,Koken & eten
 custom.cooking,Koken + eten
 custom.cooking,Koken en eten
 custom.cooking,Koken en lunch
@@ -2523,6 +2652,7 @@ custom.cooking,Mama helpen met koken
 custom.cooking,Middag eten
 custom.cooking,Naar Waldorf
 custom.cooking,Naar huis
+custom.cooking,Ochtend ontbijt eten en maken
 custom.cooking,Oliebollen bakken
 custom.cooking,Ondbijten
 custom.cooking,Ontbijt
@@ -2535,6 +2665,7 @@ custom.cooking,Ontbijt | Havermout pap
 custom.cooking,Ontbijten
 custom.cooking,Ontbijten☕️🍞🥑
 custom.cooking,Papa eten maken
+custom.cooking,Pasta maken
 custom.cooking,Patat bakken
 custom.cooking,Pepernoten bakken
 custom.cooking,Preppings
@@ -2608,7 +2739,10 @@ custom.dog,Fellow uitlaten
 custom.dog,George knuffelen
 custom.dog,Geschiedenis
 custom.dog,Hamster hok
+custom.dog,Harley uitlaten
 custom.dog,Hoefsmid
+custom.dog,Hok schoonmaken
+custom.dog,Hok verschonen
 custom.dog,Hond
 custom.dog,Hond uitlaten
 custom.dog,Honden knuffelen
@@ -2626,6 +2760,7 @@ custom.dog,Izy halen
 custom.dog,Jaxy uitlaten
 custom.dog,Katten eten geven
 custom.dog,Kattenbak
+custom.dog,Kattenbak schoonmaken
 custom.dog,Kattenbak verschonen
 custom.dog,Konijnen eten geven
 custom.dog,Kooi konijnen kuisen
@@ -2638,6 +2773,7 @@ custom.dog,Meggy wandelen
 custom.dog,Met puk wandelen
 custom.dog,Misschien Wobke uitlaten!🤍🤍🤍🤍
 custom.dog,Naar Mendez
+custom.dog,Naar de manege
 custom.dog,"Nagels doen, ondertussen math with Menno"
 custom.dog,Nova uitlaten
 custom.dog,Ochtend van Leo
@@ -2676,6 +2812,7 @@ custom.dog,Teddy
 custom.dog,Toby uitlaten
 custom.dog,Trainen met Luna
 custom.dog,Tupac uitlaten
+custom.dog,Vince & rest
 custom.dog,WALK
 custom.dog,Walk
 custom.dog,Wandelen
@@ -2703,8 +2840,10 @@ custom.dog,play with dog
 custom.dog,playing with dog
 custom.dog,puppytraining
 custom.dog,wandelen met ellie
+custom.dog,𝙷𝚘𝚙𝚎 𝚎𝚝𝚎𝚗 𝚐𝚎𝚟𝚎𝚗
 custom.dumbbell,10 minuten abs
 custom.dumbbell,15 MIN WORKOUT
+custom.dumbbell,2 min planking
 custom.dumbbell,30 min work out
 custom.dumbbell,7 min oefening + 5 seconden planken
 custom.dumbbell,7 min workout
@@ -2762,6 +2901,7 @@ custom.dumbbell,Hiit
 custom.dumbbell,Hockey
 custom.dumbbell,Hockey wedstrijd
 custom.dumbbell,Hoelahoepen
+custom.dumbbell,ISOS
 custom.dumbbell,Jan en Jacky verhuizen
 custom.dumbbell,Karate training
 custom.dumbbell,Karate🐉
@@ -2811,6 +2951,9 @@ custom.dumbbell,Sporten Gymnastiek
 custom.dumbbell,Sporten Nienke
 custom.dumbbell,Sporten Samantha
 custom.dumbbell,Sporten bij Basic Fit
+custom.dumbbell,Sporten mama
+custom.dumbbell,Sporten met Bo
+custom.dumbbell,Sporten met Lisa
 custom.dumbbell,Sporten of grasveldje
 custom.dumbbell,Sporten rug
 custom.dumbbell,Sporten rug en biseps
@@ -2819,9 +2962,11 @@ custom.dumbbell,Sporten!
 custom.dumbbell,Sporten: 30 min
 custom.dumbbell,Sportkleding aandoen en sporten
 custom.dumbbell,Sportschool
+custom.dumbbell,Sportschool abs + cardio
 custom.dumbbell,Sportschool cardio
 custom.dumbbell,Sportschool lower
 custom.dumbbell,Sportschool upper
+custom.dumbbell,Sportschool?
 custom.dumbbell,Squashen
 custom.dumbbell,Strechten
 custom.dumbbell,Stretch
@@ -2847,6 +2992,7 @@ custom.dumbbell,Volleybal
 custom.dumbbell,Volleybal (wedstrijd)
 custom.dumbbell,Volleybal wedstrijd
 custom.dumbbell,W.O
+custom.dumbbell,WEGEN
 custom.dumbbell,WORKOUT
 custom.dumbbell,Wandelen
 custom.dumbbell,Wandelen plus sporten
@@ -2928,6 +3074,7 @@ custom.hairdryer,Nagels lakken
 custom.hairdryer,Omkleden
 custom.hairdryer,Scan Thing installeren
 custom.hairdryer,Skincare + get dressed
+custom.hairdryer,Stofzuigen
 custom.hairdryer,Undress
 custom.hairdryer,Washing & Coloring Hair extensions
 custom.hairdryer,Washing Styling & Coloring Hair extensions
@@ -2946,6 +3093,7 @@ custom.language,Bellen met tony chocolony
 custom.language,Cambridge English
 custom.language,Cambridge afmaken (proberen)
 custom.language,Chinees
+custom.language,Chinees huiswerk maken
 custom.language,DUOLINGO
 custom.language,Duits
 custom.language,Duits leren
@@ -2972,6 +3120,7 @@ custom.language,Frans proefwerk
 custom.language,Frans werkwoorden 1
 custom.language,Grieks woorden
 custom.language,Huiswerk+leren
+custom.language,Kamran herinneren aan gesprek
 custom.language,Latijn
 custom.language,Latijn tekst 36
 custom.language,Latin
@@ -3034,6 +3183,7 @@ custom.lipstick,Klaarmaken voor bed
 custom.lipstick,Klaarmaken voor de dag
 custom.lipstick,Klaarmaken voor school
 custom.lipstick,Klaarmaken voor werk
+custom.lipstick,Kleren zoeken aankleden🥱
 custom.lipstick,Kruidvat
 custom.lipstick,Lavatrice lava i panni
 custom.lipstick,Logeerspullen inpakken
@@ -3108,6 +3258,7 @@ custom.razor,Laseren
 custom.razor,Mijn klaar maken
 custom.razor,Philips Lumea
 custom.razor,Scheren
+custom.razor,Skincare
 custom.razor,Waxen
 custom.razor,Waxing
 custom.shower,Aankleden
@@ -3163,6 +3314,8 @@ custom.shower,Douchen (optioneel)
 custom.shower,Douchen + Haar
 custom.shower,Douchen + Klaarmaken voor de dag
 custom.shower,Douchen + aankleden
+custom.shower,Douchen + eten
+custom.shower,Douchen + haardrogrn
 custom.shower,Douchen + klaarmaken
 custom.shower,Douchen + scheren
 custom.shower,Douchen + skincare + pyjama aandoen
@@ -3197,6 +3350,7 @@ custom.shower,"Douchen, kamer opruimen"
 custom.shower,"Douchen, omkleden en tandenpoetsen"
 custom.shower,"Douchen, opmaken, kleden"
 custom.shower,"Douchen,skincare"
+custom.shower,Douchen.
 custom.shower,Douchen/Aankleden
 custom.shower,Douchen/aankleden
 custom.shower,Douchen/klaar maken
@@ -3222,17 +3376,21 @@ custom.shower,Haar wassen
 custom.shower,Haarmasker
 custom.shower,Haren krullen
 custom.shower,Haren wassen
+custom.shower,Hessel/Evelyn douchen
+custom.shower,In bad
 custom.shower,Isabella douchen
 custom.shower,Jan vragen douche ontstoppen
 custom.shower,Klaar maken
 custom.shower,Klaar maken voor bed
 custom.shower,Klaarmaken
+custom.shower,Klaarmaken + douchen
 custom.shower,Klaarmaken Gent
 custom.shower,Klaarmaken en eten
 custom.shower,Klaarmaken fitness
 custom.shower,Klaarmaken voor de dag
 custom.shower,Klaarmaken voor de dag🤍.
 custom.shower,Klaarmaken voor hockey
+custom.shower,Klaarmaken voor musical
 custom.shower,Klaarmaken voor school
 custom.shower,Klaarmaken werk
 custom.shower,Kleuren
@@ -3259,6 +3417,7 @@ custom.shower,Opstarten
 custom.shower,Padideh Rostami Azizi
 custom.shower,Pauze
 custom.shower,Personal
+custom.shower,Persoonlijke verzorging
 custom.shower,"Pilates, eten, make-up"
 custom.shower,Rani Schmidt
 custom.shower,Relax - Douchen - Eten
@@ -3292,11 +3451,13 @@ custom.shower,Video slapen met krullen
 custom.shower,Voeten en haar wassen
 custom.shower,Voetenbad + teennagels
 custom.shower,Warming-up
+custom.shower,Was
 custom.shower,Wassen
 custom.shower,Wassen & Aankleden
 custom.shower,Wassen & aankleden
 custom.shower,Wassen en aankleden
 custom.shower,Wassing verrichten
+custom.shower,Wc en badkamer schoonmaken
 custom.shower,Youandi Pattynama
 custom.shower,Zelfzorg
 custom.shower,Zwemmen
@@ -3306,6 +3467,7 @@ custom.shower,badkamer
 custom.shower,benen/oksels/🐱 scheren
 custom.shower,buddhi wassen + föhnen
 custom.shower,douche
+custom.shower,douche ew gym
 custom.shower,douchen
 custom.shower,douchen (gezicht en haren wassen)
 custom.shower,douchen (gezicht wassen + tanden/tong poetsen)
@@ -3340,11 +3502,15 @@ custom.shower,snel douchen
 custom.shower,zelfverzorging
 custom.shower,Къпане (само тяло)
 custom.shower,샤워할
+custom.shower,𝙳𝚘𝚞𝚌𝚑𝚎𝚗
 custom.shower,𝙳𝚘𝚞𝚌𝚑𝚎𝚗+𝚊𝚊𝚗𝚔𝚕𝚎𝚍𝚎𝚗
 custom.shower,🚿
 custom.sit,Aan school
 custom.sit,Avond eten
 custom.sit,Betreft: uitnodiging SUN-webinar seizoens kick-off
+custom.sit,Bureau opruimen
+custom.sit,Chillen
+custom.sit,Elly en Cor
 custom.sit,Ikea
 custom.sit,Kolven
 custom.sit,Les
@@ -3353,6 +3519,8 @@ custom.sit,Lezen
 custom.sit,Meditatie
 custom.sit,Mediteren
 custom.sit,Mobilisatietraining
+custom.sit,Naar Crèche
+custom.sit,Naar campus
 custom.sit,Naar school
 custom.sit,Naar werk
 custom.sit,Naar werk met Joep
@@ -3433,6 +3601,7 @@ custom.toothbrush,Omkleden
 custom.toothbrush,Ontspannen
 custom.toothbrush,Op frisen
 custom.toothbrush,Opfrissen
+custom.toothbrush,Opmaken
 custom.toothbrush,Opstaan
 custom.toothbrush,Ortho
 custom.toothbrush,Orthodontist
@@ -3460,12 +3629,14 @@ custom.toothbrush,Tanden poetsen!
 custom.toothbrush,Tandenpoesten en wc
 custom.toothbrush,Tandenpoetsen
 custom.toothbrush,Tandenpoetsen + gezicht
+custom.toothbrush,Tandenpoetsen en flossen
 custom.toothbrush,Tandenpoetsen en haar doen
 custom.toothbrush,Tandenpoetsen enz
 custom.toothbrush,Tandenpoetsen enz.
 custom.toothbrush,Tandenpoetsen enzo
 custom.toothbrush,Tandenpoetsen pyjama aan doen
 custom.toothbrush,Tandenpoetsen!✨
+custom.toothbrush,Tandenpoetsen.
 custom.toothbrush,Tandenpoetsen/ haren kammen/ make-up
 custom.toothbrush,Tikkie sturen tandarts
 custom.toothbrush,Verzorging
@@ -3498,6 +3669,7 @@ custom.toothbrush,💧
 custom.toothbrush,🪥
 desktopcomputer,(naar) werk
 desktopcomputer,2D-CAD taak
+desktopcomputer,ADHD Basisgroep
 desktopcomputer,ALV voorbereiden
 desktopcomputer,AXA
 desktopcomputer,Aan gymopleiding
@@ -3515,6 +3687,7 @@ desktopcomputer,Afstuderen
 desktopcomputer,Agenda bijwerken iMac
 desktopcomputer,Ak po
 desktopcomputer,Ak uitwerkingen in Notion
+desktopcomputer,Alfie world mint
 desktopcomputer,Alle info van Unit 4 verzamelen
 desktopcomputer,Amac
 desktopcomputer,Angelique bellen
@@ -3525,6 +3698,7 @@ desktopcomputer,BTW aangifte voorbereiden
 desktopcomputer,Bachelorproef
 desktopcomputer,Beetje aan stage werken
 desktopcomputer,Beginnen handleiding llr
+desktopcomputer,Bekijk demo en neem notities
 desktopcomputer,Bel ADHD
 desktopcomputer,Bel stage
 desktopcomputer,Belastingaangifte: ook gym!
@@ -3536,6 +3710,7 @@ desktopcomputer,Bijles
 desktopcomputer,Bioscoop
 desktopcomputer,Blended Learning
 desktopcomputer,Bol kadootje
+desktopcomputer,Bol.com
 desktopcomputer,Bord Sanne
 desktopcomputer,Bring laptop to HoU
 desktopcomputer,C. Verder maken examen!
@@ -3553,6 +3728,7 @@ desktopcomputer,Chillax
 desktopcomputer,Chillen
 desktopcomputer,Chillen op bank
 desktopcomputer,Ckv opdracht
+desktopcomputer,Code van Coppens terug kijken
 desktopcomputer,Conclusie observaties
 desktopcomputer,Cooke en verhulst
 desktopcomputer,Core laatste mis dingen
@@ -3576,6 +3752,7 @@ desktopcomputer,Eten
 desktopcomputer,Euphoria kijken
 desktopcomputer,Examen trainen en verzorgen
 desktopcomputer,FOLDER 1
+desktopcomputer,Feedback verwerken
 desktopcomputer,Film kijken
 desktopcomputer,Filmpje Kamphorst kijken
 desktopcomputer,Filmpje kijken
@@ -3630,6 +3807,7 @@ desktopcomputer,Kennisclips
 desktopcomputer,Kerst achtergrond zoeken
 desktopcomputer,Kleuren website aanpassen
 desktopcomputer,KoreanStudy
+desktopcomputer,LFG cursus
 desktopcomputer,Leerdoelen in Notion
 desktopcomputer,Leren
 desktopcomputer,Les
@@ -3689,6 +3867,7 @@ desktopcomputer,Papieren invullen cm
 desktopcomputer,Parro: rekenwerkboek & thema wereld
 desktopcomputer,Pauze
 desktopcomputer,Persona's
+desktopcomputer,Personen belasting doorsturen Meesters zowel Rutger als Julie
 desktopcomputer,Pinterest kijken
 desktopcomputer,Platen
 desktopcomputer,Podcast mailen
@@ -3696,6 +3875,7 @@ desktopcomputer,Portfolio
 desktopcomputer,Powerpoints uitwerken
 desktopcomputer,Practical
 desktopcomputer,Pre-order nieuwsbrief maken (Studio Bergamot)
+desktopcomputer,Presentatie afmaken
 desktopcomputer,Presentatie maken
 desktopcomputer,Presentatie opdracht
 desktopcomputer,Prints traktaties
@@ -3708,6 +3888,7 @@ desktopcomputer,Project inlezen
 desktopcomputer,Projecten milieu II
 desktopcomputer,Psychologie 2
 desktopcomputer,Pws
+desktopcomputer,Rapporteren
 desktopcomputer,Recensie Nederlands
 desktopcomputer,Refactor time
 desktopcomputer,Reflectie jeugd maken
@@ -3723,6 +3904,7 @@ desktopcomputer,Samenvatting 3.5 in notion
 desktopcomputer,Sanidirect betalen
 desktopcomputer,Scheikunde leren
 desktopcomputer,Schema’s afdrukken
+desktopcomputer,Scherm
 desktopcomputer,Scholingen komende maanden in overzicht zetten
 desktopcomputer,School
 desktopcomputer,Serie kijken
@@ -3731,6 +3913,7 @@ desktopcomputer,Slack HR over uren
 desktopcomputer,Slack Ryk over vrije dagen 31 maart & 1 April
 desktopcomputer,Socials
 desktopcomputer,Sociologie leren
+desktopcomputer,Sollicitatie
 desktopcomputer,Solliciteren
 desktopcomputer,Spaans quizlet maken
 desktopcomputer,Stage
@@ -3747,7 +3930,9 @@ desktopcomputer,Taak & Was
 desktopcomputer,Taak Mail
 desktopcomputer,Taak excel
 desktopcomputer,TeenWolf
+desktopcomputer,Tekst voor presentatie schrijven
 desktopcomputer,Televisie kijken
+desktopcomputer,Telewerk
 desktopcomputer,Thuisindeachterhoek met Joep
 desktopcomputer,Ticket leipzig
 desktopcomputer,Tijdslot 1.8
@@ -3781,6 +3966,7 @@ desktopcomputer,Vrije tijd
 desktopcomputer,WIDM kijken
 desktopcomputer,WMV aanpassen
 desktopcomputer,WS vergadering
+desktopcomputer,Wachtwoorden bijwerken
 desktopcomputer,Wat voor mezelf doen
 desktopcomputer,Web Development
 desktopcomputer,Website bijwerken
@@ -3905,8 +4091,11 @@ doc.fill,"Opdrachten voorkennis, blz. 136"
 doc.fill,Pakket Ramon
 doc.fill,Printen: global WorkPlace- webinar
 doc.fill,Product Fabian checken
+doc.fill,Resultaten deelvraag 1
+doc.fill,School
 doc.fill,School..
 doc.fill,Slide decks
+doc.fill,Sollicitatie
 doc.fill,Stage
 doc.fill,Stagelessen 14/12 maken
 doc.fill,Stagerapport
@@ -3942,6 +4131,7 @@ doc.richtext,Ak leren
 doc.richtext,Bedrijfs samenvatten
 doc.richtext,Bijles Beau
 doc.richtext,Biologie maken
+doc.richtext,Boek lezen
 doc.richtext,Brief report schrijven
 doc.richtext,CY maken
 doc.richtext,Cv opstellen
@@ -3951,9 +4141,12 @@ doc.richtext,Duits nv oefentoets
 doc.richtext,Huiswerk
 doc.richtext,Huiswerk Maken
 doc.richtext,Huiswerk 📚
+doc.richtext,Huiswerk🎧🥱
 doc.richtext,Kipsaté CY poster maken
 doc.richtext,Knutselen
 doc.richtext,Lees een boek
+doc.richtext,Legal tech lab essay
+doc.richtext,Legal tech lab reflectie
 doc.richtext,Leren
 doc.richtext,Lezen
 doc.richtext,Motivatiebrief opzet maken
@@ -3964,6 +4157,7 @@ doc.richtext,Nederlands huiswerk maken
 doc.richtext,Nederlands schrijfexamen titel en subtitels verzinnen + bronnen zoeken
 doc.richtext,Paspoort
 doc.richtext,Pitch en panel 3e aanvraag
+doc.richtext,Portfolio af maken
 doc.richtext,Portfolio inleveren
 doc.richtext,Presentatie maken Aardrijkskunde
 doc.richtext,Project interview uitwerken
@@ -3997,6 +4191,7 @@ dollarsign.circle.fill,Bellen voor geldzaken
 dollarsign.circle.fill,Berry rijden
 dollarsign.circle.fill,Berry rijden HHR (foto's maken)
 dollarsign.circle.fill,Betaald
+dollarsign.circle.fill,Betalen!
 dollarsign.circle.fill,Betalingen
 dollarsign.circle.fill,Bol.com betalen
 dollarsign.circle.fill,Cadeautje bedenken/bestellen
@@ -4060,16 +4255,21 @@ dollarsign.circle.fill,Werken 18-21
 dollarsign.circle.fill,Werken AH
 dollarsign.circle.fill,Werken NHC
 dollarsign.circle.fill,Werkstudenten secretariaat
+dollarsign.circle.fill,Work
 dollarsign.circle.fill,Wrts betalen
 dollarsign.circle.fill,ZIRCKON
 dollarsign.circle.fill,naar de stad
 dollarsign.circle.fill,oppassen
+dollarsign.circle.fill,staffyou
+dollarsign.circle.fill,strijken
 dollarsign.circle.fill,w e r k e n.
+dollarsign.circle.fill,werk zuiderhout
 dollarsign.circle.fill,werken
 dollarsign.circle.fill,• Waxing pauline oksels & Brazilian
 dollarsign.circle.fill,•Massage Fantjie
 dollarsign.circle.fill,•Massage Lyon                       45 Min
 dollarsign.circle.fill,•Waxing Elany                          Gezicht
+dollarsign.circle.fill,•Waxing Pauline Brazilian
 dollarsign.circle.fill,•Waxing Thania                       Hele been & Brazilian
 dollarsign.circle.fill,"•Waxing Xamira                      Brazilian, Oksels, gezicht en wenkies"
 drop.fill,1 stuk fruit
@@ -4095,6 +4295,7 @@ drop.fill,Gezicht wassen
 drop.fill,Glas water drinken
 drop.fill,Gysels
 drop.fill,Handen wassen koud water
+drop.fill,Hydratatie
 drop.fill,Jacuzzi
 drop.fill,Kamer opruimen
 drop.fill,Kleding Berlijn wassen
@@ -4104,6 +4305,7 @@ drop.fill,Nuchtere meting
 drop.fill,Ontwerpen
 drop.fill,Pil
 drop.fill,Planten water geven
+drop.fill,Plantjes water geven
 drop.fill,Plassen/poepen
 drop.fill,Schoonmaken
 drop.fill,Skin care
@@ -4141,10 +4343,12 @@ ear,Mediteren
 ear,Oorbellen veranderen
 ear,Oortjes Sten
 ear,Piercing
+ear,Podcasts luisteren
 ear,wattenstaafje door oor
 ear,wattenstaafje door oren
 envelope.fill,ADHD mailen
 envelope.fill,Academic advisor terug mailen
+envelope.fill,Bar bricolage sturen voor vraag makersmarkt
 envelope.fill,Binnenkrijgen
 envelope.fill,Buren contacteren
 envelope.fill,CRM nieuwsbrief blokken maken
@@ -4157,6 +4361,7 @@ envelope.fill,Facturen doorsturen JBN vanaf 3-11
 envelope.fill,Feedback maken en mailen WAC
 envelope.fill,Fenna mailen
 envelope.fill,Foto ketting maken
+envelope.fill,Geld Martin
 envelope.fill,Gmail checken
 envelope.fill,Huiswerk afmaken
 envelope.fill,Ingrid mailen
@@ -4166,13 +4371,16 @@ envelope.fill,Mail Schregardus
 envelope.fill,Mail checken
 envelope.fill,Mail christiaan
 envelope.fill,Mail nakijken
+envelope.fill,Mail sturen let’s lousart
 envelope.fill,Mail v. Mama
 envelope.fill,Mail ‘De Haan’ beantwoorden
 envelope.fill,Mailbox opruimen
+envelope.fill,Mailen werkgroep
 envelope.fill,Mails beantwoorden
 envelope.fill,Mails uitzoeken
 envelope.fill,Mailtjes
 envelope.fill,Mailtjes beantwoorden
+envelope.fill,Onderzoeken alternatief voor Mailchimp
 envelope.fill,PID sturen naar Manisha
 envelope.fill,Pakketje
 envelope.fill,Pakketjes wegbrengen / parfum kopen / zonnebril Hema?
@@ -4193,6 +4401,7 @@ exclamationmark.triangle.fill,!
 exclamationmark.triangle.fill,ACADEMIC SKILLS
 exclamationmark.triangle.fill,Afspraak GGD
 exclamationmark.triangle.fill,Bericht sturen naar Wieske
+exclamationmark.triangle.fill,Checken/> zie link
 exclamationmark.triangle.fill,Domein C; AARDE leren
 exclamationmark.triangle.fill,Duits CE leesvaardigheid
 exclamationmark.triangle.fill,Examen
@@ -4214,6 +4423,7 @@ exclamationmark.triangle.fill,Taal leren
 exclamationmark.triangle.fill,Theorie leren
 exclamationmark.triangle.fill,Voorzorg
 exclamationmark.triangle.fill,Werken Conduent
+exclamationmark.triangle.fill,klaarstaan!!!
 exclamationmark.triangle.fill,maatschappijleer
 eyedropper,8 Ball Tournement
 eyedropper,ELISA
@@ -4223,6 +4433,7 @@ eyedropper,Gezichtreinigen
 eyedropper,Kaarten schrijven & sturen
 eyedropper,Mama blij | Booster prik
 eyedropper,Nacht routine
+eyedropper,Pipetje katjes
 eyedropper,Scheikunde
 eyedropper,Skin Care
 eyedropper,Skin care
@@ -4245,6 +4456,7 @@ eyeglasses,ENG samenvatten
 eyeglasses,Eyewish
 eyeglasses,Eyewish opzeggen
 eyeglasses,FYS leren
+eyeglasses,FYS taak
 eyeglasses,Formularium wiskunde bekijken
 eyeglasses,Geschiedenis
 eyeglasses,Geschiedenis 1-3
@@ -4274,6 +4486,7 @@ eyeglasses,Opticien met Kevin
 eyeglasses,Outfit
 eyeglasses,Pearle opticiën
 eyeglasses,Read
+eyeglasses,STAGE
 eyeglasses,Scheikunde
 eyeglasses,Scheikunde maken
 eyeglasses,School
@@ -4301,11 +4514,14 @@ figure.walk,Bewegen
 figure.walk,Beweging
 figure.walk,Blokje om
 figure.walk,Boodschappen doen
+figure.walk,Buiten
+figure.walk,Buiten?
 figure.walk,Carpoolen
 figure.walk,Do for a walk
 figure.walk,Eetcafé De Bosrand
 figure.walk,Fietsen
 figure.walk,Frank therapie
+figure.walk,Fysio
 figure.walk,Fysio 14:30
 figure.walk,Geocachen
 figure.walk,Go for a walk
@@ -4316,6 +4532,7 @@ figure.walk,Gym
 figure.walk,Hardlopen
 figure.walk,Hike scouting
 figure.walk,Hond uitlaten
+figure.walk,Honden uitlaten
 figure.walk,Hydrokorrels + dozen + halen
 figure.walk,Iets buiten proberen tedoen of mama meehelpen
 figure.walk,Kerk / eten
@@ -4323,6 +4540,7 @@ figure.walk,Kids
 figure.walk,Kirsten (wandelen)
 figure.walk,Klaarmaken
 figure.walk,Kruidvat
+figure.walk,Langs papa
 figure.walk,Leave for school
 figure.walk,Len
 figure.walk,Let's walk
@@ -4330,6 +4548,7 @@ figure.walk,Lieverd werken
 figure.walk,Loopband
 figure.walk,Loopband hill sessie
 figure.walk,Lopen
+figure.walk,Lopen met Bo?
 figure.walk,Lopen met saar
 figure.walk,Lopen naar Radboudumc
 figure.walk,Lopen naar bus
@@ -4347,6 +4566,7 @@ figure.walk,Morning run
 figure.walk,Morning walk
 figure.walk,Naar Heiloo
 figure.walk,Naar buiten
+figure.walk,Naar de mac
 figure.walk,Naar de sportschool
 figure.walk,Naar de stad
 figure.walk,Naar de tram lopen
@@ -4356,8 +4576,10 @@ figure.walk,Naar het station
 figure.walk,Naar huis
 figure.walk,Naar huis fietsen
 figure.walk,Naar huis lopen
+figure.walk,Naar huis wandelen
 figure.walk,Naar huis wandelen + boodschappen
 figure.walk,Naar hypnose
+figure.walk,Naar inloop
 figure.walk,Naar papa fietsen
 figure.walk,Naar peetje & opa
 figure.walk,Naar school
@@ -4405,6 +4627,7 @@ figure.walk,Studiegesprek
 figure.walk,Stukje wandelen met pocast
 figure.walk,Telefoon
 figure.walk,Terug naar huis
+figure.walk,Teruglopen centrum
 figure.walk,Trainen
 figure.walk,Uit naar cagli
 figure.walk,Venray
@@ -4413,6 +4636,7 @@ figure.walk,Walk
 figure.walk,Wandel naar CDK
 figure.walk,Wandel of sport
 figure.walk,Wandelen
+figure.walk,Wandelen (45 min)
 figure.walk,Wandelen (Indy)
 figure.walk,Wandelen (met mama)
 figure.walk,Wandelen Roos
@@ -4517,6 +4741,7 @@ film.fill,Cinema
 film.fill,Ckv
 film.fill,Film
 film.fill,Film kijken
+film.fill,Filmpje Eveline
 film.fill,Finish legally blonde
 film.fill,H20 aflevering
 film.fill,Huis gemaakt kijken
@@ -4537,6 +4762,7 @@ flag.fill,Deadlines afmaken
 flag.fill,Duits
 flag.fill,Frans woordjes leren
 flag.fill,Koningsdag
+flag.fill,Leven met Chronische Huidaandoening inleveren
 flag.fill,Overloop goals van deze week
 flag.fill,Peerfeedback actieplan + BKS
 flag.fill,Rachelle obo2
@@ -4624,6 +4850,7 @@ folder.fill,studeren toets ned
 gamecontroller.fill,10 Levels
 gamecontroller.fill,Armbandje
 gamecontroller.fill,Bowlen
+gamecontroller.fill,Bowlen voor tiago’s verjaardag
 gamecontroller.fill,CHILL
 gamecontroller.fill,Chill
 gamecontroller.fill,Chillen
@@ -4675,6 +4902,7 @@ gearshape.2.fill,15minuten wandelen
 gearshape.2.fill,Computer apps downloaden
 gearshape.2.fill,Dagplanning voor morgen controleren
 gearshape.2.fill,Deep work
+gearshape.2.fill,Dievriezer ontdooien
 gearshape.2.fill,Economie oefenen
 gearshape.2.fill,Frans huiswerk
 gearshape.2.fill,Geschiedenis
@@ -4705,6 +4933,7 @@ gearshape.2.fill,bowling
 gearshape.2.fill,natuurkunde
 gift.fill,10 euro pinnen
 gift.fill,AH bestellen kerstpakket
+gift.fill,Afterparty Gerry 40
 gift.fill,"After’s Cool, Wolfert Dalton, Beco"
 gift.fill,Beauty moment
 gift.fill,"Begeleidersvergadering, Montessori Lyceum"
@@ -4758,6 +4987,7 @@ gift.fill,Steph Jarig 🎉
 gift.fill,Tes borrel
 gift.fill,Tiago Jarig 18+ 😍
 gift.fill,Tweede kerstdag
+gift.fill,Vaderdag
 gift.fill,Verjaardag Mil
 gift.fill,"Verjaardag enzo, danique"
 gift.fill,Xenos batterijen AA
@@ -4770,6 +5000,8 @@ globe,Aardrijkskunde
 globe,Aardrijkskunde verslag
 globe,Aardrijkskunde!!!
 globe,Ak
+globe,Ak leren
+globe,Ak moeilijke opdr maken
 globe,Bujo
 globe,Engels
 globe,Frans leren
@@ -4784,6 +5016,7 @@ globe,Maatschappijleer
 globe,NE: spreekbeurt v.b.
 globe,Nes Vquez Tokyo marketwatch
 globe,Pauze
+globe,RS: Poolavond
 globe,Research jaarverslagen
 globe,Sightseeing
 globe,Sociaal media
@@ -4796,7 +5029,9 @@ globe,iPad
 globe,search some things
 globe,uni online met mama
 globe,vakantie
+globe,🇫🇷🥖
 guitars,Dansen
+guitars,Feest
 guitars,Feestje ashley
 guitars,Gitaar
 guitars,Gitaar Spelen
@@ -4805,6 +5040,7 @@ guitars,Gitaarles
 guitars,Kamer opruimen
 guitars,Liedjes downloaden Watch
 guitars,Muziek
+guitars,Muziekles
 guitars,Muzieklokaal
 guitars,Postmodern Jukebox Tivoli
 guitars,Quintes met ilse
@@ -4854,7 +5090,10 @@ hand.raised.fill,Handoefeningen
 hand.raised.fill,Hardlopen
 hand.raised.fill,Helpen poetsen
 hand.raised.fill,Huishouden
+hand.raised.fill,Kamer Chyara
+hand.raised.fill,Kamer Lyanne
 hand.raised.fill,Keuken opruimen
+hand.raised.fill,Klaarmaken
 hand.raised.fill,Lilly buiten voor / was aanzetten
 hand.raised.fill,Lilly wandelen
 hand.raised.fill,Mails beantwoorden
@@ -4870,10 +5109,12 @@ hand.raised.fill,Pauze van leren
 hand.raised.fill,Rondje hardlopen!
 hand.raised.fill,Rusten
 hand.raised.fill,Schone was opruimen
+hand.raised.fill,Slaapkamer
 hand.raised.fill,Stoppen met eten
 hand.raised.fill,Tekenen
 hand.raised.fill,Thijs helpen
 hand.raised.fill,Vinted annuleren?
+hand.raised.fill,Was eruit halen
 hand.raised.fill,Was opvouwen
 hand.raised.fill,handcreme + nagelolie
 hand.raised.fill,handcrème + nagelolie
@@ -4889,6 +5130,7 @@ hand.thumbsdown.fill,Kamer opruimen
 hand.thumbsdown.fill,Kamp
 hand.thumbsdown.fill,LO blokuur
 hand.thumbsdown.fill,Strijken
+hand.thumbsdown.fill,Was plooien
 hand.thumbsup.fill,10k steps?
 hand.thumbsup.fill,Aankleden
 hand.thumbsup.fill,Bidden
@@ -4920,6 +5162,7 @@ hand.thumbsup.fill,Vrij
 hand.thumbsup.fill,Werken
 hand.thumbsup.fill,Werken Zaal voorbereiden
 hand.thumbsup.fill,kleren aandoen
+hare.fill,2/2 examens maken
 hare.fill,2e paasdag
 hare.fill,Biologie
 hare.fill,Drinken brood in tas doen
@@ -4931,6 +5174,7 @@ hare.fill,Hardlopen
 hare.fill,Karten regelen
 hare.fill,Kinderboerderij
 hare.fill,Klaar maken voor volgende dag
+hare.fill,Klaarmaken
 hare.fill,Klaarmaken voor de wedstrijd
 hare.fill,Klaarmaken voor training
 hare.fill,Konijnen
@@ -4953,8 +5197,12 @@ hare.fill,Pauze
 hare.fill,Reistijd
 hare.fill,Rijden
 hare.fill,Sam zijn kooi verschonen
+hare.fill,Slaapkamer opruimen
+hare.fill,Snow verschonen
+hare.fill,Snow verschoonen
 hare.fill,Studeren biologie
 hare.fill,Trainen
+hare.fill,Trampoline
 hare.fill,Tweede Paasdag
 hare.fill,Tweede paasdag
 hare.fill,Vertrek
@@ -4972,7 +5220,9 @@ headphones,"Duo bellen, zie details"
 headphones,Festival
 headphones,GYM
 headphones,Get ready for school
+headphones,Kamer stofzuigen
 headphones,Kijken naar cgt module autisme
+headphones,Leren
 headphones,Leren voor toetsweek
 headphones,Liedje schrijven
 headphones,Loana bellen
@@ -4993,6 +5243,7 @@ headphones,Pauze
 headphones,Podcast luisteren
 headphones,Relaxen
 headphones,Sjappoo
+headphones,Stofzuigen
 headphones,Storytel opzeggen
 headphones,Stretch / muziek
 headphones,Studio
@@ -5007,6 +5258,7 @@ headphones,face care
 headphones,muziek luisteren
 headphones,muziek luisteren en op tel/laptop
 headphones,pauze ~
+headphones,podcast luisteren
 headphones,school
 headphones,school+muziek
 headphones,telefoon
@@ -5056,6 +5308,7 @@ heart.fill,Bij opa en oma eten
 heart.fill,Bijbel lezen
 heart.fill,Bowlen
 heart.fill,Braindump
+heart.fill,Bram
 heart.fill,Breakfast
 heart.fill,Brent
 heart.fill,Bruiloft
@@ -5066,6 +5319,7 @@ heart.fill,Cafe tour verjaardag schoonmama
 heart.fill,Chill tijd
 heart.fill,Claudia bezoek
 heart.fill,Cuddelen
+heart.fill,Dagje Efteling met de meiden
 heart.fill,Dagje vrij
 heart.fill,Dansen
 heart.fill,Dansles
@@ -5079,6 +5333,7 @@ heart.fill,Duits overige opdrachten maken
 heart.fill,Echo
 heart.fill,Eerste paasdag
 heart.fill,Eerste werkdag poesje 💓🧩🏠
+heart.fill,Eigen tijd
 heart.fill,Engels
 heart.fill,Er is visite
 heart.fill,FITT KIEZEN
@@ -5123,6 +5378,7 @@ heart.fill,Jas en schoenen aan!✨
 heart.fill,Jorrit
 heart.fill,Josh
 heart.fill,Julie
+heart.fill,Jurk passen
 heart.fill,Jussie komt
 heart.fill,Just komt
 heart.fill,Juul
@@ -5143,6 +5399,7 @@ heart.fill,Kleuren
 heart.fill,Knuffelen
 heart.fill,Knuffeltijd
 heart.fill,Konijnen verzorgen
+heart.fill,Kosten klanten
 heart.fill,Kraambezoek
 heart.fill,Krijn
 heart.fill,Krimpie dinkie
@@ -5166,6 +5423,7 @@ heart.fill,Make sure mom has a great last day
 heart.fill,Mam helpen
 heart.fill,Mama
 heart.fill,Mama bezoek
+heart.fill,Mama helpen
 heart.fill,Mama jarig
 heart.fill,Manifesteren & loslaten
 heart.fill,Maskertje enz
@@ -5217,6 +5475,7 @@ heart.fill,Ondergoed aan!🖤
 heart.fill,Ontbijt
 heart.fill,Ontbijten
 heart.fill,Ontspannen
+heart.fill,Ontspannen met Nessim
 heart.fill,Ontspanning
 heart.fill,Op stal
 heart.fill,Opa
@@ -5237,6 +5496,7 @@ heart.fill,Parijs
 heart.fill,Pauze
 heart.fill,Pauze :)
 heart.fill,Phoebe ophalen
+heart.fill,Powerbreath
 heart.fill,Pray & journaling
 heart.fill,Quran lezen
 heart.fill,Radio toon
@@ -5306,6 +5566,7 @@ heart.fill,Vrije tijd?
 heart.fill,Wachtdienst
 heart.fill,Wakker worden
 heart.fill,Wakker worden!
+heart.fill,Was opvouwen
 heart.fill,Washok opruimen
 heart.fill,Wasti buiten zetten
 heart.fill,Water drinken
@@ -5314,6 +5575,7 @@ heart.fill,Weekendje ardennen
 heart.fill,Wenkbrauwen
 heart.fill,Werken
 heart.fill,Werken bij Opa
+heart.fill,Wimpers
 heart.fill,With the girlsss
 heart.fill,Zhané les
 heart.fill,Zonnen
@@ -5367,6 +5629,7 @@ hifispeaker.fill,Subliminals luisteren
 hifispeaker.fill,Was doen
 hifispeaker.fill,Was draaien
 hifispeaker.fill,danse africaine (auditorium)
+hourglass,Aangekleed en beneden
 hourglass,Checken van uren
 hourglass,Chill out
 hourglass,Chillen
@@ -5419,6 +5682,7 @@ hourglass,jacuzzi
 hourglass,opruimen
 house.fill,40 graden
 house.fill,Aardrijkskunde po
+house.fill,Achtertuin
 house.fill,Afstoffen slaapkamer
 house.fill,Afwas
 house.fill,Afwasmachine uitruimen
@@ -5432,6 +5696,7 @@ house.fill,Beddengoed uitwassen
 house.fill,Beddengoed wassen
 house.fill,Beddenlakens wassen
 house.fill,Bekijken tekst voor huizen
+house.fill,Bellen Anne
 house.fill,Beneden
 house.fill,Beneden schoonmaken
 house.fill,Beneden stofzuigen en dweilen
@@ -5439,6 +5704,7 @@ house.fill,Bep @ HH
 house.fill,Bezichtiging
 house.fill,Bij mam
 house.fill,Boodschappen bestellen
+house.fill,Boodschappen doen
 house.fill,Boodschappen regelen
 house.fill,Boodschappen uitpakken
 house.fill,Boven clean / vaatwasser
@@ -5447,6 +5713,8 @@ house.fill,Chillen
 house.fill,Chillen op de bank
 house.fill,Clean
 house.fill,Cleaning
+house.fill,Cleaning huis
+house.fill,Dagtaken
 house.fill,Dakgoot reinigen
 house.fill,De was
 house.fill,De was doen
@@ -5457,6 +5725,7 @@ house.fill,Evaluaties nabellen
 house.fill,Feestdag 🥰
 house.fill,Fietsen
 house.fill,Fietsen naar huis
+house.fill,Get home
 house.fill,Glas wegbrengen
 house.fill,Goudsewagenstraat 54B
 house.fill,Groningen
@@ -5464,6 +5733,7 @@ house.fill,"HH: beneden-> tafeltjes, check keuken, terras"
 house.fill,HOME
 house.fill,Handdoeken wassen
 house.fill,Hans Spa bellen voor BHV cursus
+house.fill,Hoezen van de bank-> 1e was aanzetten
 house.fill,Home
 house.fill,Home work
 house.fill,House
@@ -5511,6 +5781,7 @@ house.fill,Mee naar huis
 house.fill,Meenemen 25e
 house.fill,Naar Hotel lopen
 house.fill,Naar buiten
+house.fill,Naar het huis
 house.fill,Naar huis
 house.fill,Naar huis fietsen
 house.fill,Naar huis gaan
@@ -5536,6 +5807,7 @@ house.fill,Oppassen bij John
 house.fill,Opruimen
 house.fill,Opruimen en Schoonmaken
 house.fill,Opruimen en klaarmaken
+house.fill,Opruimen keuken
 house.fill,Opruimen voortuin
 house.fill,Opruimkwartiertje
 house.fill,Oude taak
@@ -5582,6 +5854,7 @@ house.fill,Vaatwasser uitruimen
 house.fill,Vakantie Renesse
 house.fill,Verhuizen
 house.fill,Vertrekken
+house.fill,Vlees uit vriezer
 house.fill,Vrije tijd
 house.fill,Vrije tijd :)
 house.fill,Vrije tijd en eten
@@ -5599,6 +5872,7 @@ house.fill,Was opruimen
 house.fill,Was opvouwen
 house.fill,Was vouwen / strijken
 house.fill,Was vouwen en slaapkamer opruimen
+house.fill,Wasgoed opbergen
 house.fill,"Wasgoed, wasmachine"
 house.fill,Wassen
 house.fill,Wassen en strijken
@@ -5626,6 +5900,7 @@ house.fill,pauze
 house.fill,schoonmaken
 house.fill,stofzuigen
 house.fill,tas inpakken
+house.fill,thuis
 house.fill,thuis zijn om te koken
 house.fill,was opruimen
 icloud.and.arrow.up.fill,Bible :)
@@ -5664,6 +5939,7 @@ keyboard,Laptop kleding
 keyboard,Leren voor wi
 keyboard,Maandelijks stukje schrijven
 keyboard,Mails beantwoorden
+keyboard,Natuurkunde online oefenen
 keyboard,Natuurkunde proef 2
 keyboard,Nederlands
 keyboard,Nederlandse opdrachten
@@ -5702,19 +5978,25 @@ keyboard,Werk (ServiceRight )
 keyboard,Werk VB PA + th
 keyboard,Werk aan PR1
 keyboard,Werken
+keyboard,Werken boerenhuis
 keyboard,Werken taak werk
 keyboard,Wiskunde
 keyboard,Work
 keyboard,aan ak werken
 keyboard,berekeningen voor de fundering.
+keyboard,paper wetenschappelijke vaardigheden
 keyboard,plannen
 keyboard,punten t2b invoeren
 keyboard,veldwerk peer feedback
+keyboard,werk
 keyboard,𝙵𝚛𝚊𝚗𝚜
+leaf.fill,Aangekleed en beneden
 leaf.fill,Aankleden
 leaf.fill,Aardrijkskunde
 leaf.fill,Aardrijkskunde doorlezen
+leaf.fill,Activiteitenkamp
 leaf.fill,BIO voorbereiden toets
+leaf.fill,Bio
 leaf.fill,Bio leren
 leaf.fill,Bio presentatie samenvatting maken
 leaf.fill,Biologie
@@ -5737,9 +6019,11 @@ leaf.fill,Kleren opruimen
 leaf.fill,Learn bio
 leaf.fill,Meditatie
 leaf.fill,Mediteren
+leaf.fill,Naar buiten of afspreken
 leaf.fill,Ochtend stretch en meditatie
 leaf.fill,Ochtendroutine
 leaf.fill,Ontbijt
+leaf.fill,Oprit garage en pad voordeur reinigen
 leaf.fill,Opstaan
 leaf.fill,Paarden
 leaf.fill,Paardrijden
@@ -5806,6 +6090,7 @@ link,6m Nasr
 link,Armbandjes maken
 link,Evander bellen
 link,Kamer opruimen
+link,La musica
 link,Pilletjes nemen
 link,Starbucks met kayla
 link,Verbouwing
@@ -5848,6 +6133,7 @@ map.fill,Engels
 map.fill,Kaft tot kaft
 map.fill,Paaskamp
 map.fill,Spelletjes
+map.fill,Studeren AARD
 map.fill,ak pg 1
 mdi.airplane.landing,Bilbao
 mdi.airplane.landing,IPR
@@ -5865,6 +6151,7 @@ mdi.airplane.takeoff,Ontbijt
 mdi.airplane.takeoff,Op airport zijn
 mdi.airplane.takeoff,Parijs
 mdi.airplane.takeoff,SKIVAKANTIE
+mdi.airplane.takeoff,Spaans
 mdi.airplane.takeoff,Vakantie
 mdi.airplane.takeoff,Vakantie nemen met Rik
 mdi.airplane.takeoff,Vliegen
@@ -5948,6 +6235,7 @@ mdi.bike,Fiets klaar zetten
 mdi.bike,Fiets klaarmaken
 mdi.bike,Fiets klaarzetten met tas
 mdi.bike,Fiets naar huis
+mdi.bike,Fiets naar school
 mdi.bike,Fiets ophalen
 mdi.bike,Fiets pakken
 mdi.bike,Fiets pakken en naar school
@@ -5961,6 +6249,7 @@ mdi.bike,Fietsen (20 min)
 mdi.bike,Fietsen Emmey
 mdi.bike,Fietsen met Emmey
 mdi.bike,Fietsen naar FF
+mdi.bike,Fietsen naar bus
 mdi.bike,Fietsen naar bushalte
 mdi.bike,Fietsen naar busstation
 mdi.bike,Fietsen naar de ortho
@@ -5980,6 +6269,7 @@ mdi.bike,Fietsen werk
 mdi.bike,Fietstocht maken
 mdi.bike,Fietstochtje
 mdi.bike,Fietstour
+mdi.bike,Flesjes wegbrengen
 mdi.bike,Formule 1 Conqui
 mdi.bike,Get ready and go to work
 mdi.bike,Go home
@@ -6001,6 +6291,7 @@ mdi.bike,Naar Kruidvat rijden
 mdi.bike,Naar coop
 mdi.bike,Naar davy toe fietsen
 mdi.bike,Naar de Hema
+mdi.bike,Naar de fietsenmaker
 mdi.bike,Naar de markt fietsen
 mdi.bike,Naar de stad
 mdi.bike,Naar de trein
@@ -6076,11 +6367,14 @@ mdi.bike,naar mama
 mdi.bike,naar school
 mdi.bike,naar school fietsen
 mdi.bike,naar school fietssn
+mdi.bike,naar station
+mdi.bike,naar werk
 mdi.bike,onderweg
 mdi.bike,reistijd
 mdi.bike,Към нас
 mdi.bike,Към училище
 mdi.birthday,Aleya lunch
+mdi.birthday,Ballonnen en laatste boodschappen
 mdi.birthday,By-Kees
 mdi.birthday,Cadeau inpakken
 mdi.birthday,Cake bakken
@@ -6112,11 +6406,13 @@ mdi.birthday,Snacken
 mdi.birthday,Taart bakken
 mdi.birthday,Taart maken
 mdi.birthday,Thijs verjaardag vieren
+mdi.birthday,Tickets boeken Jelle verjaardag
 mdi.birthday,Verjaardag
 mdi.birthday,Verjaardag Daisy
 mdi.birthday,Verjaardag Remco
 mdi.birthday,Verjaardag Thijs
 mdi.birthday,Verjaardag broertje
+mdi.birthday,Verjaardag jeneau’s vriend
 mdi.birthday,Verjaardag mama
 mdi.birthday,Verjaardag oma
 mdi.birthday,Verjaardag papa
@@ -6124,6 +6420,7 @@ mdi.birthday,Verjaardag vieren met Nadia
 mdi.birthday,Werken
 mdi.birthday,Zaal ready
 mdi.birthday,Zusje uiteten
+mdi.birthday,bruiloft
 mdi.birthday,feestje
 mdi.birthday,lunch
 mdi.birthday,naar reneé
@@ -6158,6 +6455,7 @@ mdi.bus,Bus
 mdi.bus,Bus halen
 mdi.bus,Bus naar de fysio
 mdi.bus,Bus naar huis
+mdi.bus,Busrit
 mdi.bus,Fietsen naar school
 mdi.bus,Halle ➡️ 🏠
 mdi.bus,Naar Den Haag
@@ -6191,6 +6489,7 @@ mdi.bus,Trein
 mdi.bus,Vertrek
 mdi.bus,Vertrekken
 mdi.bus,Vertrokken met bus
+mdi.bus,Verzamelen bus
 mdi.bus,bus
 mdi.bus,bus ride
 mdi.bus,naar bushalte
@@ -6201,6 +6500,7 @@ mdi.couch,Aankleden/opfrissen
 mdi.couch,Bank schoonrollen
 mdi.couch,Bed opmaken
 mdi.couch,Beneden zitten
+mdi.couch,Boer zoekt vrouw
 mdi.couch,CHILL
 mdi.couch,Chill
 mdi.couch,Chillen
@@ -6217,6 +6517,7 @@ mdi.couch,KoreanStudy
 mdi.couch,Kuisen kamer + bed verversen
 mdi.couch,Naar huis
 mdi.couch,Ontspannen
+mdi.couch,Ontspanning
 mdi.couch,Op bezoek bij Bets & Chef
 mdi.couch,Oppassen
 mdi.couch,Opruimen
@@ -6230,6 +6531,7 @@ mdi.couch,Rust
 mdi.couch,Rusten
 mdi.couch,Schoonmaken
 mdi.couch,Self time
+mdi.couch,Styling voorste deel woonkamer
 mdi.couch,TV kijken
 mdi.couch,Terugkomen ivm afwezigheid
 mdi.couch,Thee en frappé maken en chillen
@@ -6248,6 +6550,7 @@ mdi.couch,chillen en online matchpoint
 mdi.couch,huis opruimen
 mdi.couch,kamer opruimen
 mdi.couch,sinterklaas
+mdi.couch,𝙿𝚊𝚞𝚣𝚎
 mdi.ev.station,Tanken
 mdi.gas.station,Auto tanken
 mdi.gas.station,Auto wassen?
@@ -6282,6 +6585,8 @@ mdi.instagram,Reel clean look
 mdi.instagram,Social Media Feed Maken
 mdi.instagram,Social Media Time
 mdi.instagram,Social media
+mdi.instagram,Social media All-In Beauty
+mdi.instagram,Social media Magnetic Antwerp
 mdi.instagram,Social media checken
 mdi.instagram,Socials
 mdi.instagram,Story plaatsen
@@ -6299,6 +6604,7 @@ mdi.instagram,Vrije tijd
 mdi.instagram,Was draaien
 mdi.instagram,Was in droger
 mdi.instagram,Was inzetten
+mdi.instagram,Wassen
 mdi.instagram,phone time
 mdi.instagram,tiktok
 mdi.mountain,Aardrijkskunde studeren
@@ -6327,6 +6633,7 @@ mdi.pharmacy,Herkansing  DP
 mdi.pharmacy,Hooikoortsvrouw (?)
 mdi.pharmacy,Huisarts
 mdi.pharmacy,Huisarts bellen
+mdi.pharmacy,Inloophuis
 mdi.pharmacy,Inname minimaal 1ltr heldere vloeistof
 mdi.pharmacy,Insmeren!
 mdi.pharmacy,Inwerken Vijverhof
@@ -6345,6 +6652,7 @@ mdi.pharmacy,Stage
 mdi.pharmacy,TRISTAN
 mdi.pharmacy,Tas inpakken
 mdi.pharmacy,Testen
+mdi.pharmacy,VTV
 mdi.pharmacy,Vaccinatie
 mdi.pharmacy,Vitamins
 mdi.pharmacy,WZC De vlinder
@@ -6361,10 +6669,13 @@ mdi.relax,Adem oefening
 mdi.relax,Avond eten
 mdi.relax,Avond routine
 mdi.relax,Avondeten
+mdi.relax,BIO samenvatten
 mdi.relax,Beneden taken
 mdi.relax,Bidden
 mdi.relax,Bio plantje tekenen
 mdi.relax,Biologie
+mdi.relax,Biologie huiswerk
+mdi.relax,Biologie opdrachten H14 + toepassen
 mdi.relax,Bloemenwinkel
 mdi.relax,BodyBalance
 mdi.relax,Bollen planten
@@ -6372,6 +6683,7 @@ mdi.relax,Buiten
 mdi.relax,Buy shit
 mdi.relax,Calm
 mdi.relax,Chillen
+mdi.relax,Chillen voor het slapen
 mdi.relax,DP BI 3LAc verbeteren
 mdi.relax,Dhur
 mdi.relax,Drink water
@@ -6380,6 +6692,7 @@ mdi.relax,Fietsen
 mdi.relax,Gluten en hamstrings
 mdi.relax,Goede Vrijdag
 mdi.relax,Goodmorning 🦋
+mdi.relax,Intratuin
 mdi.relax,Kamer opruimen
 mdi.relax,"Kamer opruimen, stofzuigen"
 mdi.relax,Kamer schoon maken
@@ -6429,6 +6742,7 @@ mdi.relax,Selfcare
 mdi.relax,Skincare
 mdi.relax,Skivakantie
 mdi.relax,Slaap meditatie
+mdi.relax,Spelen met Naoufel
 mdi.relax,Stage
 mdi.relax,Start pil
 mdi.relax,Stretchen
@@ -6441,6 +6755,7 @@ mdi.relax,Voorjaarsvakantie
 mdi.relax,Vrije tijd
 mdi.relax,Wakker worden/affirmations
 mdi.relax,Wandelen ?
+mdi.relax,Wasmachine aanzetten
 mdi.relax,Wassen
 mdi.relax,Wellness
 mdi.relax,Werk
@@ -6462,6 +6777,7 @@ mdi.relax,ochtend routine
 mdi.relax,pauze
 mdi.relax,selfcare (& spirituality)
 mdi.relax,sum more spirituality & eten plannen
+mdi.relax,wandel
 mdi.relax,wandel en/of sport
 mdi.relax,yoga
 mdi.relax,yoga de poga
@@ -6510,6 +6826,7 @@ mdi.running,Gym
 mdi.running,Handbaltraining Erix
 mdi.running,Handbaltraining geven
 mdi.running,Hardlopen
+mdi.running,Hardlopen thuis
 mdi.running,Hema
 mdi.running,Het jachtseizoen
 mdi.running,Hockey
@@ -6563,6 +6880,7 @@ mdi.running,Sporten
 mdi.running,Sportschool
 mdi.running,Spring les paardrijden  1 - 2
 mdi.running,Stijltang aanzetten
+mdi.running,Studeer Fysio
 mdi.running,Tennis
 mdi.running,Tennissen
 mdi.running,Terug naar huis
@@ -6583,7 +6901,9 @@ mdi.running,Work out
 mdi.running,Workout
 mdi.running,Zwemmen
 mdi.running,ab pilates
+mdi.running,boektoets duits
 mdi.running,fitness
+mdi.running,folders ( als ze er zijn )
 mdi.running,hardlopen
 mdi.running,jogging
 mdi.running,kine oefeningen
@@ -6594,12 +6914,14 @@ mdi.running,naar school lopen
 mdi.running,normale workout routine
 mdi.running,run
 mdi.running,shoulder workout
+mdi.running,sportdag klas 1 t/m 4
 mdi.running,sporten
 mdi.running,𝙷𝚊𝚛𝚍𝚕𝚘𝚙𝚎𝚗
 mdi.running,🥊
 mdi.school,% pagina 9 opdracht 15 verder gaan
 mdi.school,203 schk 5.schk2
 mdi.school,3.7 woordvolgorde
+mdi.school,"32,33,34,35"
 mdi.school,@school
 mdi.school,AALO
 mdi.school,AH: wetenschappelijke bron analyseren
@@ -6625,6 +6947,7 @@ mdi.school,Ak leren
 mdi.school,Ak makken
 mdi.school,Ak paragraaf 3
 mdi.school,Alle vakken bijwerken
+mdi.school,Alliance Française
 mdi.school,Anatomie SV maken
 mdi.school,Anna ophalen
 mdi.school,Arabisch
@@ -6632,6 +6955,7 @@ mdi.school,Assessment
 mdi.school,BACHELORPROEF
 mdi.school,BI: Project
 mdi.school,BMK
+mdi.school,Bachelorproef
 mdi.school,Beco
 mdi.school,Beco samenvatten
 mdi.school,Bedrijfseconomie
@@ -6649,9 +6973,11 @@ mdi.school,Bijbel
 mdi.school,Bijeenkomst 17
 mdi.school,Bijeenkomt in de zaal
 mdi.school,Bijles
+mdi.school,Bijles studievaardigheden
 mdi.school,Bio
 mdi.school,Bio + fysica + Ndl uitscheuren
 mdi.school,Bio leren
+mdi.school,Bio pw h3 4.2-4.4
 mdi.school,Bio samenvatten H3
 mdi.school,Bio samenvatting 1 t/m 3
 mdi.school,Bio studiewijzer afmaken
@@ -6677,6 +7003,7 @@ mdi.school,Celbiologie vragen hfst 1-3 verbeteren
 mdi.school,Check science test
 mdi.school,Checken disscussies Inleiding Wiskunde
 mdi.school,Cinema & Photography: Theory
+mdi.school,Ckv
 mdi.school,Coaching
 mdi.school,Coaching leerdoelen uitwerken
 mdi.school,Coaching maken
@@ -6685,11 +7012,13 @@ mdi.school,Communicatie 2: training personal pitch
 mdi.school,Conclusie concurrentie
 mdi.school,Consultancy
 mdi.school,Copy rapport Webcommunicatie (klaar)
+mdi.school,Cpe exam
 mdi.school,Create lectures
 mdi.school,Criminaliteit & SL (VUB)
 mdi.school,Criminologische psychologie
 mdi.school,D&p moodboard+woordweb
 mdi.school,DEP practicum
+mdi.school,DUITS LEREN
 mdi.school,Destinations Amerika
 mdi.school,Destinations Amerika dossier SXM
 mdi.school,Diervoeding
@@ -6698,7 +7027,9 @@ mdi.school,Diploma ophalen
 mdi.school,Diploma uitreiking
 mdi.school,Diploma zoeken
 mdi.school,Doelen
+mdi.school,Doelgroep onderzoek project
 mdi.school,Doornemen biologie
+mdi.school,Dossier afmaken
 mdi.school,Driehoeksgesprek
 mdi.school,Duits
 mdi.school,Duits Toets
@@ -6770,6 +7101,7 @@ mdi.school,Film uploaden
 mdi.school,Filmpjes kijken week 2
 mdi.school,Filosofie: beargumentatie doorlezen
 mdi.school,Filosofie: lecture
+mdi.school,Fin alg 09/05
 mdi.school,Financieel management hoorcollege
 mdi.school,Fr: toets les pronoms personnels COD/COI
 mdi.school,Frans
@@ -6782,6 +7114,7 @@ mdi.school,Frans presentatie 22 maart!
 mdi.school,Frans woordjes
 mdi.school,Frans zinnen leren 1 tm 3
 mdi.school,Future of entrepreneurship
+mdi.school,Fysica deel 2 therorie leren
 mdi.school,Fysiologie
 mdi.school,GEO - wc1 opnieuw
 mdi.school,GS uitprinten en leren
@@ -6813,6 +7146,7 @@ mdi.school,Gymnasium dag
 mdi.school,HCI
 mdi.school,Hallo aus Berlin maken
 mdi.school,Herexamens
+mdi.school,Herhalen
 mdi.school,Herkansing economie
 mdi.school,Hfd 5 Impact afmaken
 mdi.school,History
@@ -6840,6 +7174,7 @@ mdi.school,Hulpuur rekenen
 mdi.school,Hw Wiskunde
 mdi.school,Hw maken
 mdi.school,Hydrologie
+mdi.school,ICM Module
 mdi.school,Iets dat nog niet af was
 mdi.school,Info les
 mdi.school,Informatiemanagement
@@ -6861,8 +7196,10 @@ mdi.school,Jayce naar school
 mdi.school,Jayce ophalen
 mdi.school,Journal club
 mdi.school,KB inwerkperiode
+mdi.school,KKB inwerkperiode
 mdi.school,Kennisclip kijken
 mdi.school,Keuzevak
+mdi.school,Kids naar school
 mdi.school,Kies USE vakken
 mdi.school,Kinderen naar school
 mdi.school,Klaar maken school
@@ -6922,6 +7259,7 @@ mdi.school,Marketingplan hoofdstuk schrijven
 mdi.school,Master open dag
 mdi.school,Masterclass delicious.
 mdi.school,Masterclass leesmotivatie
+mdi.school,Matchingsdag RUG
 mdi.school,Materiaal en bronnen
 mdi.school,Mayah naar school
 mdi.school,Medbook in orde brengen
@@ -6935,6 +7273,7 @@ mdi.school,Mondeling Engels maken
 mdi.school,Muziek
 mdi.school,Muziek filmopdracht
 mdi.school,NCC aanmelden
+mdi.school,NE Pw mini examen
 mdi.school,NL huiswerk maken
 mdi.school,NLT
 mdi.school,Na met papa
@@ -6947,6 +7286,7 @@ mdi.school,Nask
 mdi.school,Nask leren
 mdi.school,Nask pw
 mdi.school,Natuurkunde
+mdi.school,Natuurkunde SE H8
 mdi.school,Natuurkunde h1 inhalen
 mdi.school,Natuurkunde toets leren!
 mdi.school,Natuurkunde/scheikunde
@@ -6972,6 +7312,7 @@ mdi.school,Onderzoek & kwaliteit voorbereiding
 mdi.school,Onderzoeksmethoden
 mdi.school,Online school
 mdi.school,Op school
+mdi.school,Opdracht 1
 mdi.school,Opdracht 1 en 2 PV maken
 mdi.school,Opdracht NT
 mdi.school,Opdracht OK
@@ -7004,6 +7345,7 @@ mdi.school,Praktijkevent
 mdi.school,Presentatie WIC
 mdi.school,Presentatie Webcommunicatie
 mdi.school,Presentatie nederlands
+mdi.school,Presentatie voorbereiden
 mdi.school,Probability theory
 mdi.school,Procesrecht
 mdi.school,Proclamatie
@@ -7026,6 +7368,7 @@ mdi.school,Samenvatten
 mdi.school,Samenvatting
 mdi.school,Samenvatting ak
 mdi.school,Samenvatting hoofdstuk 12
+mdi.school,Samenwerkingsverband: wetenschappelijk artikel analyseren
 mdi.school,Scenario schrijven
 mdi.school,Scheikunde
 mdi.school,Scheikunde SE
@@ -7036,6 +7379,7 @@ mdi.school,Scheikunde par 2
 mdi.school,Scheikunde toets
 mdi.school,Schoenen aandoen en vertrekken naar school
 mdi.school,School
+mdi.school,School (Frans)
 mdi.school,School + reistijd
 mdi.school,School VM
 mdi.school,School bijwerken
@@ -7099,6 +7443,7 @@ mdi.school,Study law
 mdi.school,Stukken Ruben lezen
 mdi.school,Subparagraaf studie
 mdi.school,Summa • Week planning maken Yvonne wanneer studeren rondom het werk
+mdi.school,THESIS INDIENEN
 mdi.school,TOAH
 mdi.school,TOETS LEREN
 mdi.school,Taak MWLA
@@ -7125,6 +7470,8 @@ mdi.school,Toets Nederlands
 mdi.school,Toets wiskunde
 mdi.school,Toetsen herhalen
 mdi.school,Toetsen inplannen
+mdi.school,Toetsweek
+mdi.school,Toetsweken oefenen
 mdi.school,Training O&S les 4
 mdi.school,Transcriptie uitwerken
 mdi.school,Travel Design
@@ -7144,6 +7491,7 @@ mdi.school,Verslag maken
 mdi.school,Vertekken naar school
 mdi.school,Voor school werken
 mdi.school,Voorbereiden practica hele week
+mdi.school,Voorlichting 1
 mdi.school,Vraagwoorden
 mdi.school,Vragenlijst stage invullen (online)
 mdi.school,Vrij?
@@ -7153,6 +7501,7 @@ mdi.school,Weektaken
 mdi.school,Welterusten!
 mdi.school,Wendbaar in communicatie
 mdi.school,Werken
+mdi.school,Werken aan BE
 mdi.school,Werken aan bio 13.1
 mdi.school,Werken aan school
 mdi.school,Werken aan scriptie
@@ -7179,8 +7528,10 @@ mdi.school,Wiskunde oefenexamen
 mdi.school,Wiskunde opgaves 1/2 maken
 mdi.school,Wiskunde proefwerk
 mdi.school,Wiskunde toets
+mdi.school,Wondleer
 mdi.school,Work on IP5
 mdi.school,Xtra uur
+mdi.school,ZS
 mdi.school,ZUL opbouwen
 mdi.school,Zakelijk schrijven
 mdi.school,aardrijkskunde leren
@@ -7196,6 +7547,7 @@ mdi.school,eco toets
 mdi.school,economie
 mdi.school,ehbo
 mdi.school,engels
+mdi.school,engels examen
 mdi.school,ethiek
 mdi.school,frans voca a leren
 mdi.school,geschiedenis leren
@@ -7295,6 +7647,7 @@ mdi.subway,trein nemen naar school
 mdi.ticket,Bioscoop
 mdi.ticket,Dans + video?
 mdi.ticket,Film
+mdi.ticket,Film kijken
 mdi.ticket,Netflix
 mdi.ticket,Netflix kijken
 mdi.ticket,Orange is the new black (fikmtekens)
@@ -7328,11 +7681,13 @@ moon.fill,Daylio
 moon.fill,Daylio invullen
 moon.fill,Einde dag
 moon.fill,Einde werkdag
+moon.fill,Gaan slapen
 moon.fill,Goodnight!
 moon.fill,Gute Nacht
 moon.fill,Klaar maken voor bed
 moon.fill,Klaarmaken om naar bed te gaan
 moon.fill,Klaarmaken voor bed
+moon.fill,Lakens wisselen
 moon.fill,Naar Bed
 moon.fill,Naar bed
 moon.fill,Night routine
@@ -7347,6 +7702,7 @@ moon.fill,Sleep
 moon.fill,Sleep Well!
 moon.fill,Spullen klaarleggen
 moon.fill,Sweet dreams
+moon.fill,Trusten!
 moon.fill,Voorbereiding avond
 moon.fill,Wakker worden
 moon.fill,Wakker worden!
@@ -7403,6 +7759,7 @@ music.mic,Aan Het Werk
 music.mic,Business night
 music.mic,Concert
 music.mic,Dwarsfluit les
+music.mic,Feestje Dean en Karel
 music.mic,Kerk
 music.mic,Liedje oefenen
 music.mic,MUZIEK
@@ -7447,6 +7804,7 @@ music.note,Odd Meter Studies
 music.note,Ontspannen
 music.note,Optreden choir
 music.note,Orkest
+music.note,Pauze
 music.note,Prepare for Performance
 music.note,Repetitie
 music.note,Repetitie Collectivo
@@ -7455,8 +7813,10 @@ music.note,Studeren: complete scale
 music.note,Therapie: imagineren
 music.note,Tomorrowland Werken
 music.note,Tomorrowland Werken?
+music.note,Viool oefenen
 music.note,Viool spelen
 music.note,Vioolles
+music.note,Vrij
 music.note,Zingen
 music.note,dansen
 music.note,kamer opruimen
@@ -7469,6 +7829,7 @@ mustache.fill,Aankleden👖👚
 mustache.fill,Duits
 mustache.fill,Frans
 mustache.fill,Geschiedenis blokken
+mustache.fill,Haar
 mustache.fill,Klaarmaken
 mustache.fill,Kleding
 mustache.fill,Kleding + Make-up
@@ -7536,6 +7897,7 @@ newspaper.fill,Frans leren grammatica
 newspaper.fill,Frans teksten doen
 newspaper.fill,Geschiedenis leren
 newspaper.fill,Geschiedenis samenvatten
+newspaper.fill,Geschiedenis studeren (examen)
 newspaper.fill,Goals opschrijven
 newspaper.fill,Grieks
 newspaper.fill,Home cleanin’
@@ -7549,6 +7911,7 @@ newspaper.fill,Inleveren Professionaliteit
 newspaper.fill,Inspectie Feenstra
 newspaper.fill,Ivan
 newspaper.fill,Journal
+newspaper.fill,Kenmerken stijlen kunst
 newspaper.fill,Kijken welke klanten betaald hebben (collega's hiervan betalen en eventueel herinneringen sturen)
 newspaper.fill,Kinderparlement uitnodiging
 newspaper.fill,Kopiecenter
@@ -7566,6 +7929,7 @@ newspaper.fill,MAAT SE Verzorgingsstaat (inh)
 newspaper.fill,Morning pages schrijven
 newspaper.fill,NED leren
 newspaper.fill,NL Lit. GS: renaissance
+newspaper.fill,Naar de Bieb
 newspaper.fill,Naar school
 newspaper.fill,Nederlands
 newspaper.fill,Nederlands doorlezen
@@ -7577,6 +7941,7 @@ newspaper.fill,Notaris
 newspaper.fill,Oefenexamen maken
 newspaper.fill,Offertes maken
 newspaper.fill,Onderzoek afmaken
+newspaper.fill,Opdrachten MAC van Houben maken
 newspaper.fill,Opstellen samenvatting rechtbank + deel betalen
 newspaper.fill,Or ethiek en avg
 newspaper.fill,PDA
@@ -7586,11 +7951,13 @@ newspaper.fill,Plan Raved
 newspaper.fill,Planning voor morgen maken
 newspaper.fill,Portfolio maken
 newspaper.fill,Post SR vergaderingen
+newspaper.fill,Poster opdracht ingeleverd
 newspaper.fill,Presentatie m&m
 newspaper.fill,Productie maken
 newspaper.fill,Psychologie lijst
 newspaper.fill,Psychologie lijsten
 newspaper.fill,Rapportage VDVB April 2022
+newspaper.fill,Robin tennis
 newspaper.fill,Samenvatting Biologie 3.5
 newspaper.fill,Scheikunde leren
 newspaper.fill,School
@@ -7701,6 +8068,7 @@ noun.coffee,Manger werken
 noun.coffee,Me time
 noun.coffee,Middag
 noun.coffee,Middag eten
+noun.coffee,Middageten
 noun.coffee,Middagpauze
 noun.coffee,Morning routine
 noun.coffee,Naar huis
@@ -7749,6 +8117,7 @@ noun.coffee,Thee drinken
 noun.coffee,Thee drinken + Telefoontijd
 noun.coffee,Thee drinken en chillen
 noun.coffee,Thee en koekje
+noun.coffee,Thee maken
 noun.coffee,Thee zette & Lekker op de bank met me Tell🥱☕️
 noun.coffee,Thee zetten
 noun.coffee,Theetje
@@ -7761,6 +8130,7 @@ noun.coffee,Uitzendbureau bellen
 noun.coffee,Vacatures voorbereiden
 noun.coffee,Vrij
 noun.coffee,Vrije tijd
+noun.coffee,Vrije tijd/scheikunde leren
 noun.coffee,Wakker worden
 noun.coffee,Water drinken
 noun.coffee,Water/thee
@@ -7770,6 +8140,7 @@ noun.coffee,breakfast
 noun.coffee,chillen
 noun.coffee,chills
 noun.coffee,eten
+noun.coffee,klaarmaken
 noun.coffee,koffie
 noun.coffee,lezen
 noun.coffee,little break
@@ -7813,6 +8184,7 @@ noun.meal,Avondeten
 noun.meal,Avondmaal
 noun.meal,Avondmaaltijd
 noun.meal,BBQ
+noun.meal,BREAKFAST
 noun.meal,Bbq
 noun.meal,Bij Justin eten
 noun.meal,Bij mama eten
@@ -7851,15 +8223,18 @@ noun.meal,Eat healty breakfast
 noun.meal,Eat lunch
 noun.meal,Eating
 noun.meal,Eet fruit
+noun.meal,Ei met wrap
 noun.meal,Eten
 noun.meal,Eten (maken)
 noun.meal,Eten + Klusjes
+noun.meal,Eten + chillen
 noun.meal,Eten + haar doen
 noun.meal,Eten + kids naar bed
 noun.meal,Eten + klaarmaken
 noun.meal,Eten + vast aan gym
 noun.meal,Eten Beau
 noun.meal,Eten Herfst schotel
+noun.meal,Eten Jochem en Jet
 noun.meal,Eten Nona klaarmaken
 noun.meal,Eten Veluwe met San
 noun.meal,Eten bestellen
@@ -7887,6 +8262,7 @@ noun.meal,Eten ouders
 noun.meal,Eten pakken
 noun.meal,Eten plannen
 noun.meal,Eten thuis
+noun.meal,Eten uit de vriezer
 noun.meal,Eten uit vriezer halen
 noun.meal,Eten vaatwasser
 noun.meal,Eten voorbereiden
@@ -7895,6 +8271,7 @@ noun.meal,"Eten, drinken"
 noun.meal,Eten/chill
 noun.meal,Eten/omkleden
 noun.meal,Etenstijd
+noun.meal,Etenstijd/Family time
 noun.meal,Etentje
 noun.meal,Etentje Opa
 noun.meal,Florian ontbijt
@@ -7934,6 +8311,7 @@ noun.meal,Koken en Eten
 noun.meal,Koken en eten
 noun.meal,Koken+eten
 noun.meal,Koken/eten
+noun.meal,Kwark/yoghurt eten
 noun.meal,Kwarkje
 noun.meal,LUNCH
 noun.meal,Lekker eten
@@ -7959,6 +8337,7 @@ noun.meal,Lunchen Lisa
 noun.meal,Lunchen met collegas
 noun.meal,Lunchen met mama
 noun.meal,Lunchpauze
+noun.meal,Lunchtime
 noun.meal,Maaltijd 1
 noun.meal,Maaltijd 1 verbeteren
 noun.meal,Mac
@@ -8008,7 +8387,9 @@ noun.meal,Ontbijten 🥓🍳
 noun.meal,Ontbijten!✨
 noun.meal,Ontbijten!🤍🤍
 noun.meal,Ontbijten+ glas water
+noun.meal,Ontbijten.
 noun.meal,Ontbijten🤍🤍
+noun.meal,Ontbijtje maken
 noun.meal,Ontspanning
 noun.meal,PAUZE
 noun.meal,Paasbrunch
@@ -8019,6 +8400,7 @@ noun.meal,"Pata Negra met Marijke, Anna, Welmoed"
 noun.meal,Pauze
 noun.meal,Pauze + eten
 noun.meal,Pauze met snack
+noun.meal,"Pauze, lunchen"
 noun.meal,Pauze/eten
 noun.meal,Pauze: Fruit eten
 noun.meal,Pauze🧃🥪
@@ -8040,6 +8422,7 @@ noun.meal,Snacken
 noun.meal,Soep maken
 noun.meal,Sporten
 noun.meal,Sprekers diner
+noun.meal,Studeer VVG III
 noun.meal,Tafel deken
 noun.meal,Tafel dekken
 noun.meal,Telefoon checken + lunchen
@@ -8084,6 +8467,7 @@ noun.meal,avondeten
 noun.meal,borrelen
 noun.meal,break time: lunch
 noun.meal,breakfast
+noun.meal,diner
 noun.meal,dinner
 noun.meal,eat
 noun.meal,eten
@@ -8115,8 +8499,12 @@ noun.meal,werken
 noun.meal,Вечеря
 noun.meal,Закуска
 noun.meal,Ядене преди тренировка
+noun.meal,𝙰𝚙𝚎𝚛𝚒𝚎𝚝𝚒𝚎𝚟𝚎𝚗
+noun.meal,𝙾𝚗𝚝𝚋𝚒𝚓𝚝 𝚎𝚝𝚎𝚗
 noun.meal,𝙿𝚊𝚞𝚣𝚎
+noun.meal,🥘 Gezin eten
 noun.meal,🥣 🫖
+noun.party,(Verjaardag joy)
 noun.party,Aankleden
 noun.party,Acantha karaoke
 noun.party,Auke verjaardag
@@ -8132,6 +8520,7 @@ noun.party,Bijkeuken schoonmaken
 noun.party,Cadeau inpakken
 noun.party,Carlo party
 noun.party,Carnaval
+noun.party,Carnaval 's-Heerenberg
 noun.party,Carnaval Albergen
 noun.party,Carnavalsoptocht
 noun.party,Chancentely is jarig
@@ -8141,6 +8530,7 @@ noun.party,Dansles
 noun.party,Dorpsfeest hemrik
 noun.party,Ed Sheeran
 noun.party,Eerste kerstdag
+noun.party,Eerste pinksterdag
 noun.party,Engels tekst afmaken!
 noun.party,Esther
 noun.party,Eten met Kevin
@@ -8185,8 +8575,10 @@ noun.party,Lingefeest
 noun.party,"Lloret de Mar, Costa Brava, Spanje"
 noun.party,Lot dr bday
 noun.party,Luna’s 🌜 verjaardag.
+noun.party,Lunchen verjaardag linde
 noun.party,Mama jarig
 noun.party,Mama’s jurken passen
+noun.party,Marit weer thuis! (aankomsttijd Schiphol: 07.15 uur)
 noun.party,Meivakantie
 noun.party,Moederdag
 noun.party,Mustafa verjaardag
@@ -8197,6 +8589,7 @@ noun.party,New year’s eve
 noun.party,Nieuwjaar vieren
 noun.party,Nieuwjaarsdag
 noun.party,O.L.H.-Hemelvaart
+noun.party,Oerrock
 noun.party,Oma jarig
 noun.party,Ontbijten
 noun.party,Optocht Carnaval (Madelief haar gang?)
@@ -8233,6 +8626,7 @@ noun.party,Verjaardag Nicole
 noun.party,Verjaardag Noor
 noun.party,Verjaardag feest
 noun.party,Verjaardag opa Tommy
+noun.party,Verjaardag papa
 noun.party,Verjaardag van Emma 🥰
 noun.party,Verjaardag van Tim
 noun.party,Verjaardag vieren
@@ -8241,6 +8635,7 @@ noun.party,Verjaardagsborrel Buzz
 noun.party,Vrij
 noun.party,Vrij!
 noun.party,Vrije tijd
+noun.party,Vrijgezellen feestje
 noun.party,Walibi
 noun.party,feestje
 noun.party,mama jarig
@@ -8252,12 +8647,14 @@ noun.party,verjaardag + eten
 noun.party,verjaardag floor
 noun.party,verjaardag lars
 noun.party,verjaardag tante
+noun.party,𝚃𝚞𝚛𝚗𝚎𝚗
 number,12.30 visite de Boer - langswater
 number,Aankleden
 number,Banden oppompen
 number,IKEA advent waarde checken
 number,Klaarmaken
 number,Naar Mallorca !!🌴
+number,Planner invullen
 number,Schoenen aan!
 number,Was vouwen
 number,WebDivision
@@ -8296,11 +8693,13 @@ paintbrush.pointed.fill,Beeldende vorming hw
 paintbrush.pointed.fill,Bio samenvatting maken
 paintbrush.pointed.fill,Bulletjournal
 paintbrush.pointed.fill,CSM - Schetsen Thema 1
+paintbrush.pointed.fill,Crea
 paintbrush.pointed.fill,Crea uurtje
 paintbrush.pointed.fill,Creatief
 paintbrush.pointed.fill,Creatief Uurtje
 paintbrush.pointed.fill,Creatieve therapie
 paintbrush.pointed.fill,Designs Unicef
+paintbrush.pointed.fill,Dolores kleuren
 paintbrush.pointed.fill,Escher kunst
 paintbrush.pointed.fill,Esthetica smv
 paintbrush.pointed.fill,Experimenteren
@@ -8311,6 +8710,7 @@ paintbrush.pointed.fill,Haken
 paintbrush.pointed.fill,Hobby karretje vullen
 paintbrush.pointed.fill,Huiswerk maken
 paintbrush.pointed.fill,Iets voor mezelf doen
+paintbrush.pointed.fill,Kaartjes maken
 paintbrush.pointed.fill,Kalligrafie opdracht maken
 paintbrush.pointed.fill,Kerstkaarten afschrijven
 paintbrush.pointed.fill,Kleuren
@@ -8382,12 +8782,15 @@ paperplane.fill,mailen
 pencil.and.outline,10 min schrijven
 pencil.and.outline,2D herexamen maken
 pencil.and.outline,2D-CAD taak 20/12
+pencil.and.outline,?
 pencil.and.outline,AK PERIODE SCHRIFT
 pencil.and.outline,ASS jongerengroep
 pencil.and.outline,Aankleden
 pencil.and.outline,Aanpassen link site
 pencil.and.outline,Aardrijkskunde samenvatten h3
 pencil.and.outline,Aardrijkskunde samenvatting doorlezen
+pencil.and.outline,Activiteiten
+pencil.and.outline,Architectuur dag
 pencil.and.outline,Biologie
 pencil.and.outline,Biology Glossary
 pencil.and.outline,Boek even verder schrijven
@@ -8395,6 +8798,7 @@ pencil.and.outline,Boodschappenlijst maken
 pencil.and.outline,Boven schoonmaken
 pencil.and.outline,Bullet journal
 pencil.and.outline,Bullet yournal
+pencil.and.outline,Contract tekenen
 pencil.and.outline,Dagboek
 pencil.and.outline,Design videos kijken
 pencil.and.outline,Dikke dames maken
@@ -8472,6 +8876,7 @@ pencil.and.outline,Werken
 pencil.and.outline,"Wis A filmpjes / boxplot, rijen"
 pencil.and.outline,Wiskunde
 pencil.and.outline,Wiskunde examen
+pencil.and.outline,Wiskunde leren
 pencil.and.outline,Wiskunde oefeningen
 pencil.and.outline,Wiskunde opdrachten maken
 pencil.and.outline,Wiskunde theorie lezen en opgaves maken
@@ -8510,6 +8915,7 @@ pencil.and.outline,ges: samenvatten hfst 3.2
 pencil.and.outline,ges: samenvatten hfst 3.3
 pencil.and.outline,ges: samenvatten hfst 3.4
 pencil.and.outline,ges: samenvatten hfst 4.5
+pencil.and.outline,geschiedenis samenvatten
 pencil.and.outline,handlettering
 pencil.and.outline,huiswerk
 pencil.and.outline,huiswerk du
@@ -8538,12 +8944,14 @@ person.2.fill,AXA
 person.2.fill,Achmea
 person.2.fill,Afspraak Ron Goertz Geluidspanelen
 person.2.fill,Afspraak bankadviseur
+person.2.fill,Afspraak met Barbara
 person.2.fill,Afspraak met Famke
 person.2.fill,Afspraak? Opruim? VK?
 person.2.fill,Afspreken
 person.2.fill,Afspreken met Kim
 person.2.fill,Alphonzo en Nigel activiteit
 person.2.fill,Amber komt!!
+person.2.fill,Anja
 person.2.fill,Astrid
 person.2.fill,BOT gesprek
 person.2.fill,Begeleiding Emmy’s
@@ -8561,6 +8969,7 @@ person.2.fill,Coachgesprek
 person.2.fill,DAGUITSTAP LEUVEN (thesissen/cursussen meenemen)
 person.2.fill,Daten Helena
 person.2.fill,Daten sammy
+person.2.fill,Djamila helpen met vergoeding
 person.2.fill,Dokter
 person.2.fill,Dokter Claessen 10.30 uur
 person.2.fill,Duolingo
@@ -8572,6 +8981,7 @@ person.2.fill,FedEx bellen
 person.2.fill,Fietsen
 person.2.fill,Frietjes eten
 person.2.fill,GGZ - Kim
+person.2.fill,GODS synthese opdracht
 person.2.fill,Gagi
 person.2.fill,Gemeente huis
 person.2.fill,Gesprekje oefenen
@@ -8581,10 +8991,12 @@ person.2.fill,Inschrijf formulier mama!!!!
 person.2.fill,Isabel appen
 person.2.fill,Jari tandarts Haacht
 person.2.fill,Jav
+person.2.fill,Joey feliciteren
 person.2.fill,Kennismaking STYX
 person.2.fill,Kennismaking cliënt in Budel
 person.2.fill,Kennismaking met Cyrie Kruytzer
 person.2.fill,Kennismaking stichting OOK begeleiding
+person.2.fill,Kids naar bed
 person.2.fill,Kijken of mensen kunnen bellen
 person.2.fill,Klazien
 person.2.fill,Koen
@@ -8596,6 +9008,7 @@ person.2.fill,Leger des Heils
 person.2.fill,Logeren
 person.2.fill,Lunch pancake at the park met Nadine
 person.2.fill,Lunchen met Hasse
+person.2.fill,Marieke ophalen
 person.2.fill,Marith
 person.2.fill,Markt
 person.2.fill,Meeting
@@ -8611,6 +9024,7 @@ person.2.fill,Naar Kim
 person.2.fill,Naar Lonne
 person.2.fill,Naar Tamar
 person.2.fill,Naar de stad met mama
+person.2.fill,Naar huis
 person.2.fill,Naar lisa
 person.2.fill,Naar meke
 person.2.fill,Naar oma
@@ -8707,6 +9121,7 @@ person.3.fill,Company Dragons Den
 person.3.fill,De haan
 person.3.fill,Djaymen kamp
 person.3.fill,Dua Lipa
+person.3.fill,Dubbel Vergadering
 person.3.fill,Eerste kerstdag
 person.3.fill,Eten + op visite Ria
 person.3.fill,Eten gezin
@@ -8717,6 +9132,7 @@ person.3.fill,Friends Time
 person.3.fill,GO 2
 person.3.fill,GO 3
 person.3.fill,Gedragsdeskundige vragen thema afstuderen
+person.3.fill,Gemeentebijbelstudie NL
 person.3.fill,Geschiedenis
 person.3.fill,Gezamenlijk spel
 person.3.fill,Girls
@@ -8734,12 +9150,14 @@ person.3.fill,Kevin
 person.3.fill,Kinderen
 person.3.fill,Kindjes halen van school 🏫
 person.3.fill,Kraambezoek
+person.3.fill,LEISURE
 person.3.fill,Lana en Jos
 person.3.fill,Life of the Prophets
 person.3.fill,Logo.
 person.3.fill,MDO Nexus Brian Ivan
 person.3.fill,MEE- gespreksgroep
 person.3.fill,Maatschappijleer
+person.3.fill,Mama en papa
 person.3.fill,Marketing meeting
 person.3.fill,Meeting
 person.3.fill,Meeting Anja
@@ -8784,6 +9202,7 @@ person.3.fill,Schoolfeest
 person.3.fill,Schoolreizen bespreken (tot 7 april)
 person.3.fill,Schoolwerk
 person.3.fill,Sinterklaas familie
+person.3.fill,Sociaal zijn
 person.3.fill,Spelletje spelen met mama en Nikki
 person.3.fill,Stad met Julia en Karlijn
 person.3.fill,Stage
@@ -8802,6 +9221,7 @@ person.3.fill,Vergadering coördinatoren GGS
 person.3.fill,Vergadering groepsbestuur
 person.3.fill,Verjaardag
 person.3.fill,Verjaardag Eline
+person.3.fill,Verschilmakers
 person.3.fill,Visite
 person.3.fill,Voor een HIT kijken!!
 person.3.fill,Vragen collega’s afstudeerthema
@@ -8834,6 +9254,7 @@ person.fill,Dexx tijd
 person.fill,Ding
 person.fill,Dozen Nespresso afmaken
 person.fill,Duits mondeling
+person.fill,Duits toets 2B (kantoor JB)
 person.fill,Forest Jolijn
 person.fill,Gesprek Anouk
 person.fill,Gesprek Gaia
@@ -8888,17 +9309,20 @@ phone.fill,Bellen ADHDCentraal
 phone.fill,Bellen Els
 phone.fill,Bellen Smit
 phone.fill,Bellen dierenkliniek Merelbeke
+phone.fill,Bellen huisarts
 phone.fill,Bellen kot
 phone.fill,Bellen met Accare
 phone.fill,Bellen met Kha
 phone.fill,Bellen naar fysiotherapeut
 phone.fill,Bellen opdracht
 phone.fill,Bellen psycholoog afzeggen
+phone.fill,Bellen tandarts
 phone.fill,CZ bellen
 phone.fill,Chillen
 phone.fill,Chiropractor bellen
 phone.fill,Contact moment
 phone.fill,Dokter bellen
+phone.fill,Dokter bellen: 5 weken sprayen?
 phone.fill,Dr. Bickel bellen
 phone.fill,Duo bellen
 phone.fill,Fysio bellen
@@ -8935,6 +9359,7 @@ phone.fill,Tamara bellen
 phone.fill,Tandarts bellen
 phone.fill,Telefonische afspraak
 phone.fill,Telefoon halen!
+phone.fill,Telefoon komt!👍
 phone.fill,Telefoon ordenen
 phone.fill,Telefoon ringtone aanzetten
 phone.fill,Telefoon tijd
@@ -8942,11 +9367,13 @@ phone.fill,Telefoondienst
 phone.fill,Terug bellen change
 phone.fill,Terugbellen rijbewijs
 phone.fill,Trudy Ger bellen
+phone.fill,Verzekering laptop bellen
 phone.fill,Vriend bellen
 phone.fill,Werken
 phone.fill,Ziekenhuis bellen
 phone.fill,Zkh gebeld
 phone.fill,Zwemles
+phone.fill,bellen
 phone.fill,bellen iLearn -> eerst vragen Machteld en Heidi
 phone.fill,bellen pearle
 phone.fill,huisarts bellen
@@ -8993,6 +9420,7 @@ pills.fill,Dex #3
 pills.fill,Dex #4
 pills.fill,Dokter
 pills.fill,Escitalopram innemen
+pills.fill,Foliumzuur
 pills.fill,Huisarts
 pills.fill,Huisarts bellen
 pills.fill,Jean bert
@@ -9032,6 +9460,7 @@ pills.fill,Pillen slikken
 pills.fill,Pilletje nemen
 pills.fill,Pilletjes nemen
 pills.fill,Pills
+pills.fill,PsyQ met Guus
 pills.fill,Puffie #1
 pills.fill,Puffie #2
 pills.fill,Sleep drugs
@@ -9138,6 +9567,7 @@ play.rectangle.fill,Volg editen
 play.rectangle.fill,Voorbereiden docu
 play.rectangle.fill,Vrije tijd
 play.rectangle.fill,Was opvouwen
+play.rectangle.fill,Wiskunde kijken
 play.rectangle.fill,Wiskunde lecture kijken
 play.rectangle.fill,YouTube
 play.rectangle.fill,YouTube Robbie kijken
@@ -9161,6 +9591,7 @@ power,Avondroutine*
 power,Bestek ophalen
 power,Break
 power,Gym
+power,Halve vrije dag
 power,Lezen
 power,Niks doen
 power,OFF
@@ -9209,6 +9640,7 @@ questionmark,Taken
 questionmark,Think Volunteer-groepje foto uit favorieten sturen
 questionmark,Tussenuur
 questionmark,Uncomfortable
+questionmark,Vragen opzoeken tussenjaar
 questionmark,Wc
 questionmark,av laten vallen
 questionmark,omkleden
@@ -9263,6 +9695,7 @@ scissors,Posters maken
 scissors,Scheren
 scissors,Sulo
 scissors,Verjaardag creatief
+scissors,Wenkbrauwen doen
 scissors,Werkbroek Ray maken
 scissors,Werken
 scissors,Youssef
@@ -9271,6 +9704,7 @@ scissors,werk
 shield.fill,Arne zwemles DE HOUT!
 shield.fill,Hal schoonmaken
 shield.fill,Varen
+shield.fill,Zwitsel + gezichtsmasker
 shippingbox.fill,ASOS terugsturen
 shippingbox.fill,Apotheek+ scapino
 shippingbox.fill,"Bol.com Betalen 36,29"
@@ -9280,6 +9714,7 @@ shippingbox.fill,Controleren te ontvangen pakjes
 shippingbox.fill,Doos meenemen
 shippingbox.fill,Dweilen
 shippingbox.fill,Foto’s van ons huis
+shippingbox.fill,Hal opruimen
 shippingbox.fill,Hema
 shippingbox.fill,Inpakken
 shippingbox.fill,Inpakken Parijs
@@ -9292,7 +9727,9 @@ shippingbox.fill,Kerstboom opruimen
 shippingbox.fill,Kerstdecoraties
 shippingbox.fill,Kerstpakketten bestellen
 shippingbox.fill,Kleding kast opruimen
+shippingbox.fill,Kleding opruimen
 shippingbox.fill,Kleding uitzoeken voor Vinted + foto’s maken!
+shippingbox.fill,Kledingkast opruimen
 shippingbox.fill,Kooi schoonmaken
 shippingbox.fill,Kruidvat ophalen+ apotheek
 shippingbox.fill,Meenemen
@@ -9310,6 +9747,7 @@ shippingbox.fill,Pakketje naar bekerpaleis
 shippingbox.fill,Pakketje ophalen
 shippingbox.fill,Pakketje wegbrengen
 shippingbox.fill,Pakketjes fixen
+shippingbox.fill,Pakketjes in orde maken
 shippingbox.fill,Pakketjes inpakken
 shippingbox.fill,Pakketjes ophalen echteld
 shippingbox.fill,Pakketjes versturen
@@ -9380,6 +9818,8 @@ smiley.fill,Chill
 smiley.fill,Chillen
 smiley.fill,Chillen naar buiten ofs
 smiley.fill,Chiro
+smiley.fill,Coach Wendy borst doen
+smiley.fill,Coachgesprek
 smiley.fill,Dagmar logeren
 smiley.fill,Dansen
 smiley.fill,David komt op bezoek
@@ -9406,6 +9846,8 @@ smiley.fill,Klanten contacteren
 smiley.fill,Kussens maken
 smiley.fill,Leren👩🏼‍💻
 smiley.fill,Lore?
+smiley.fill,Losjes
+smiley.fill,Losjes!!!
 smiley.fill,Lunch
 smiley.fill,Manga story beginnen
 smiley.fill,Marthe
@@ -9426,9 +9868,11 @@ smiley.fill,Ontbijt
 smiley.fill,Ontbijten
 smiley.fill,Ontspannen
 smiley.fill,Ontspanning
+smiley.fill,Oppas gesprek
 smiley.fill,Oppassen
 smiley.fill,Oppassen👩‍👧‍👧
 smiley.fill,Opruimen
+smiley.fill,Paalse Plas met Sherif en Hasan 🤍
 smiley.fill,Paarden voeren + klusjes
 smiley.fill,Pauze
 smiley.fill,Pauze ( lunch) hondjes uitlaten
@@ -9440,6 +9884,7 @@ smiley.fill,Pluis
 smiley.fill,Raamkozijn
 smiley.fill,Rommeltjjd
 smiley.fill,Schoenen aandoen
+smiley.fill,Schoonmaken
 smiley.fill,Self care
 smiley.fill,Self-esteem journal + gratitude
 smiley.fill,Skin care
@@ -9455,6 +9900,7 @@ smiley.fill,Time 4 me
 smiley.fill,Toetje
 smiley.fill,Tummy time
 smiley.fill,Uitval
+smiley.fill,VRIJ MAMA JARIG
 smiley.fill,Vier huisje
 smiley.fill,Vrij
 smiley.fill,Vrije tijd
@@ -9495,6 +9941,7 @@ speedometer,Bidden fajr
 speedometer,Boerderijklassen
 speedometer,Doopboekjes
 speedometer,Eten voorbereiden
+speedometer,GRSE
 speedometer,Huis opruimen
 speedometer,Huishoudelijke taken
 speedometer,KJELL 17:00
@@ -9503,6 +9950,7 @@ speedometer,Kosten
 speedometer,Ochtend routine
 speedometer,Pauze
 speedometer,Piekeren + laptop tijd
+speedometer,Rijden
 speedometer,Steward
 speedometer,Strijken
 speedometer,Taak géo indienen
@@ -9519,6 +9967,7 @@ sportscourt.fill,Evaluatie stage regelen
 sportscourt.fill,Handbal
 sportscourt.fill,Hockey
 sportscourt.fill,Hockey training
+sportscourt.fill,Hockey wedstrijd
 sportscourt.fill,Hockeyen
 sportscourt.fill,Hockeywedstrijd
 sportscourt.fill,Hockeywedstrijd uit in Oss
@@ -9544,12 +9993,14 @@ sportscourt.fill,Zaal hockeyen enzo
 sportscourt.fill,wedstrijd
 sportscourt.fill,⚽️ Antwerp - Standard ⚽️
 star.fill,9u alignment operating model
+star.fill,ALV voorbereiden
 star.fill,Aankleden
 star.fill,Aankleden Claire en G
 star.fill,Aardrijkskunde
 star.fill,Advertentie in FB Teteringen zetten
 star.fill,Avondroutine
 star.fill,Badkamer schoongemaakt
+star.fill,Bart
 star.fill,Bidden
 star.fill,Bigbrother
 star.fill,Boekentas
@@ -9595,6 +10046,7 @@ star.fill,Lijstje maken voor pww
 star.fill,Logeren met lise en Fleur
 star.fill,Lunchen
 star.fill,Make up verwijderen
+star.fill,Memorial Day Ceremony at Henri Chapelle
 star.fill,Met Nadia voedsel aanschaffen
 star.fill,Met Ravi en Mika afspreken
 star.fill,Naar Nelleke
@@ -9607,7 +10059,9 @@ star.fill,Ontbijten
 star.fill,Opzadelen
 star.fill,Outfit kiezen
 star.fill,Paardrijden
+star.fill,Paardrijles
 star.fill,Pack bag efteling
+star.fill,Papa
 star.fill,Pauze
 star.fill,Plan Prijsverhoging M365
 star.fill,Rhode
@@ -9615,6 +10069,7 @@ star.fill,Rijles
 star.fill,Salaris
 star.fill,Schoonmaken
 star.fill,Schrijven
+star.fill,Speciaal
 star.fill,Spelletjes
 star.fill,Spullen kopen voor badkamer
 star.fill,Spullen naar de kelder gedaan
@@ -9631,6 +10086,7 @@ star.fill,Tussen uur
 star.fill,Tweede Kerstdag
 star.fill,Tweede kerstdag
 star.fill,Twin op school
+star.fill,Uit eten
 star.fill,Vakantie
 star.fill,Vrije tijd
 star.fill,Wakker worden
@@ -9680,6 +10136,7 @@ stethoscope,OLVG
 stethoscope,Operatie
 stethoscope,Orthodontist
 stethoscope,Praktijkondersteuner
+stethoscope,Psycholoog
 stethoscope,Regelen afspraak booster vaccinatie
 stethoscope,SMP Contact
 stethoscope,School
@@ -9692,6 +10149,7 @@ stethoscope,Vis 15:00 - 22:00
 stethoscope,WZC
 stethoscope,WZC?
 stethoscope,Wegen in de ochtend
+stethoscope,Werk
 stethoscope,Werken
 stethoscope,Werken: Thuiszorg
 stethoscope,Yogo nidra
@@ -9766,6 +10224,7 @@ sun.max.fill,Lijstje met ideeën
 sun.max.fill,"Liter water drinken, 50x opdrukken"
 sun.max.fill,Liyana fruit
 sun.max.fill,Lunch
+sun.max.fill,Madrid
 sun.max.fill,Mechelen
 sun.max.fill,Meditatie
 sun.max.fill,Mediteren
@@ -9778,6 +10237,7 @@ sun.max.fill,Morning routine
 sun.max.fill,"Morning routine (selfcare, heerlijk/gezond ontbijt)"
 sun.max.fill,Morris uitlaten
 sun.max.fill,Muziekstuk oefenen
+sun.max.fill,NMNH
 sun.max.fill,Na clevers met Jolijn
 sun.max.fill,Naar buiten
 sun.max.fill,Naar de stad
@@ -9808,6 +10268,7 @@ sun.max.fill,Program brain
 sun.max.fill,Reiki
 sun.max.fill,Relaxen in de zon
 sun.max.fill,Rocycle & lunch Peek regelen
+sun.max.fill,Roermond
 sun.max.fill,Rommelmarkt
 sun.max.fill,Rotterdam
 sun.max.fill,School
@@ -9834,6 +10295,7 @@ sun.max.fill,Vakantie Kroatië
 sun.max.fill,Vakantie Shanna
 sun.max.fill,Vakantie Zeeland
 sun.max.fill,Vakantie boeken
+sun.max.fill,Vakantie kijken
 sun.max.fill,Vakantie plannen
 sun.max.fill,Vakantie!
 sun.max.fill,Vakantie?
@@ -9856,7 +10318,9 @@ sun.max.fill,Wekker gaat
 sun.max.fill,Yoga
 sun.max.fill,Zomervakantie plan maken
 sun.max.fill,Zonnebank
+sun.max.fill,Zonnebank? ☀️
 sun.max.fill,Zonnen
+sun.max.fill,Zwemmen
 sun.max.fill,examenidioom pw duits
 sun.max.fill,goeiemorgen
 sun.max.fill,lara borstelen
@@ -9888,6 +10352,7 @@ sunrise.fill,Kip
 sunrise.fill,Klaarmaken
 sunrise.fill,Make bed
 sunrise.fill,Miracle Morning
+sunrise.fill,Mornign routine
 sunrise.fill,Morning
 sunrise.fill,Morning Routine
 sunrise.fill,Morning routine
@@ -9895,6 +10360,7 @@ sunrise.fill,Morning yoga
 sunrise.fill,Ochtend klusjes
 sunrise.fill,Ochtend routine
 sunrise.fill,Ochtendroutine
+sunrise.fill,Ochtendroutine en naar UV
 sunrise.fill,Ochtendtaken
 sunrise.fill,Omkleden
 sunrise.fill,Ontbijt
@@ -9904,6 +10370,7 @@ sunrise.fill,Opstaan
 sunrise.fill,"Opstaan, haren en Make up"
 sunrise.fill,Opstarten
 sunrise.fill,Rustig wakker worden
+sunrise.fill,Sluimertijd
 sunrise.fill,Start the day
 sunrise.fill,Sunsalute
 sunrise.fill,WAKE
@@ -9913,6 +10380,7 @@ sunrise.fill,Wake up - mindfullness
 sunrise.fill,Wake up easily and enjoy
 sunrise.fill,Wakker worden
 sunrise.fill,Wakker worden!
+sunrise.fill,Wandelen
 sunrise.fill,Wekker
 sunrise.fill,morning routine
 sunrise.fill,opstaan
@@ -9928,12 +10396,14 @@ sunset.fill,CAS
 sunset.fill,End the day
 sunset.fill,Klaarmaken
 sunset.fill,Klaarmaken om te gaan slapen
+sunset.fill,Klaarmaken voor bed
 sunset.fill,Klaarmaken voor slapen
 sunset.fill,Meditatie
 sunset.fill,Mediteren
 sunset.fill,Naar bed
 sunset.fill,Night time routine
 sunset.fill,SLEEP
+sunset.fill,Slaapwel
 sunset.fill,Slapen
 sunset.fill,Telefoon of boek lezen
 sunset.fill,Wakker worden!
@@ -9961,12 +10431,14 @@ tag.fill,Pakketjes inpakken
 tag.fill,Tas pakken
 tag.fill,Valies maken
 tag.fill,Werk
+tag.fill,Winkelen
 tag.fill,bring package
 tag.fill,gezicht schoonmaken
 tag.fill,schooltas inpakken
 text.badge.checkmark,15 min opruim
 text.badge.checkmark,28 februari filmpje drama
 text.badge.checkmark,5 dingen op tafel leggen
+text.badge.checkmark,ADMIN
 text.badge.checkmark,Aan gym 25-5 x4
 text.badge.checkmark,Aankleden
 text.badge.checkmark,Aanvraag Sint-Truiden
@@ -9974,8 +10446,10 @@ text.badge.checkmark,Aardrijkskunde huiswerk
 text.badge.checkmark,Aardrijkskunde leren
 text.badge.checkmark,Action: schilderstape
 text.badge.checkmark,Administratie
+text.badge.checkmark,Advies afmaken
 text.badge.checkmark,Afspraak kapper maken
 text.badge.checkmark,Afwassen
+text.badge.checkmark,Agenda Gala maken
 text.badge.checkmark,Agenda PHO
 text.badge.checkmark,Agenda en toetsen laten tekenen
 text.badge.checkmark,Airpods en case schoonmaken
@@ -10009,6 +10483,8 @@ text.badge.checkmark,Cavia eten
 text.badge.checkmark,Check-up
 text.badge.checkmark,Checklist bekijken
 text.badge.checkmark,Cito’s
+text.badge.checkmark,Classy updaten
+text.badge.checkmark,Conclusies deelvragen
 text.badge.checkmark,Corona zelftestje doen
 text.badge.checkmark,DMO
 text.badge.checkmark,Dagplanning
@@ -10057,6 +10533,7 @@ text.badge.checkmark,Huiswerk afmaken
 text.badge.checkmark,Huiswerk maken
 text.badge.checkmark,Huiswerk maken en leren
 text.badge.checkmark,Hw maken
+text.badge.checkmark,ID ophalen!!
 text.badge.checkmark,IMUNA regelen
 text.badge.checkmark,Inbox
 text.badge.checkmark,Inkomsten doorgeven UWV
@@ -10081,6 +10558,7 @@ text.badge.checkmark,Koken
 text.badge.checkmark,Leef je mooiste leven
 text.badge.checkmark,Leeg prullenbak
 text.badge.checkmark,Leer Frans
+text.badge.checkmark,Lenzen bestellen
 text.badge.checkmark,Leren
 text.badge.checkmark,Leren Nederlands
 text.badge.checkmark,Leren biologie
@@ -10107,6 +10585,7 @@ text.badge.checkmark,Morning routine afronden
 text.badge.checkmark,Motivatie brief schrijven
 text.badge.checkmark,Nakijken disputenreacties
 text.badge.checkmark,Nask leren
+text.badge.checkmark,Natuurkunde oefenen
 text.badge.checkmark,Nederlands CV maken
 text.badge.checkmark,Nederlands mondeling
 text.badge.checkmark,Nederlands oefentekst
@@ -10141,6 +10620,7 @@ text.badge.checkmark,Pokemon map stoppen
 text.badge.checkmark,Pokemon toevoegen
 text.badge.checkmark,Portfolio afmaken
 text.badge.checkmark,Project afmaken
+text.badge.checkmark,Project bedrijfskunde
 text.badge.checkmark,Punten Martin voorbereiden
 text.badge.checkmark,Puzzel opruimen
 text.badge.checkmark,RB oefenen
@@ -10173,6 +10653,7 @@ text.badge.checkmark,Stemmen
 text.badge.checkmark,Stofzuig meubels en decoratiestukken
 text.badge.checkmark,Stofzuigen
 text.badge.checkmark,Strijken
+text.badge.checkmark,Studeren voor examens
 text.badge.checkmark,Studiewijzers bijwerken
 text.badge.checkmark,Surpsise-party regelen
 text.badge.checkmark,Taakjes
@@ -10181,6 +10662,7 @@ text.badge.checkmark,Taken afmaken
 text.badge.checkmark,Taken lijst maken
 text.badge.checkmark,Taken plannen
 text.badge.checkmark,Taken voor tv opnames
+text.badge.checkmark,Takenlijst bijwerken
 text.badge.checkmark,Tandenpoetsen
 text.badge.checkmark,Tas garage uitzoeken
 text.badge.checkmark,Tas klaarmaken
@@ -10188,6 +10670,7 @@ text.badge.checkmark,Telefoon schoonmaken met vochtige doek
 text.badge.checkmark,Tentamen
 text.badge.checkmark,Thijs afspreken
 text.badge.checkmark,Thomas
+text.badge.checkmark,Thuis werken: nakijken + weekpl & weektaak
 text.badge.checkmark,To do
 text.badge.checkmark,To do ABC klanten
 text.badge.checkmark,To do vandaag:
@@ -10220,6 +10703,7 @@ text.badge.checkmark,Was bont aan zetten
 text.badge.checkmark,Was doen
 text.badge.checkmark,Was ophangen
 text.badge.checkmark,Was opruimen
+text.badge.checkmark,Was scheiden
 text.badge.checkmark,Was vouwen
 text.badge.checkmark,Wc
 text.badge.checkmark,Wc pot
@@ -10260,6 +10744,7 @@ text.badge.checkmark,outfit klaarleggen voor morgen + tas inpakken
 text.badge.checkmark,planning maken
 text.badge.checkmark,planning opnieuw invullen
 text.badge.checkmark,productive hours
+text.badge.checkmark,schei H1t/m5
 text.badge.checkmark,schoenen aandoen
 text.badge.checkmark,to do
 text.badge.checkmark,uu selectie taken inplannen
@@ -10283,6 +10768,7 @@ tortoise.fill,Aardrijkskunde
 tortoise.fill,Aardrijkskunde H1
 tortoise.fill,Aardrijkskunde proef
 tortoise.fill,Aquarium
+tortoise.fill,Beekse bergen
 tortoise.fill,Bio leren
 tortoise.fill,Biologie
 tortoise.fill,Biologie samenvatten embryogenese
@@ -10299,6 +10785,7 @@ tortoise.fill,Honden naar buiten
 tortoise.fill,Jas aan trekken
 tortoise.fill,Kaartjes dierentuin kopen
 tortoise.fill,Kamer opruimen
+tortoise.fill,Kamer opruimen en bed uitschuiven
 tortoise.fill,Klaarmaken voor school
 tortoise.fill,Leslie naar Egypte
 tortoise.fill,Meditate
@@ -10328,6 +10815,7 @@ tram.fill,8:07-8:21 trein
 tram.fill,Alvast alles inpakken
 tram.fill,Dutch Comic Con
 tram.fill,Etterbeek ➡️ Halle
+tram.fill,Gent met bbi
 tram.fill,Klaar maken + reistijd
 tram.fill,Maastricht
 tram.fill,Naar Deventer/bio leren
@@ -10356,6 +10844,7 @@ tram.fill,Reizen naar huis
 tram.fill,Reizen naar school
 tram.fill,Reizen naar werk
 tram.fill,Stage
+tram.fill,TRAVEL TIME
 tram.fill,Terug naar huis
 tram.fill,Terug op kot
 tram.fill,Ticket to Ride
@@ -10396,6 +10885,7 @@ trash.fill,Gft binnen
 trash.fill,Huishouden
 trash.fill,Jas was en stink ik
 trash.fill,Kamer opruimen
+trash.fill,Kamer schoonmaken
 trash.fill,Keuken
 trash.fill,Kleding opruimen
 trash.fill,Kledingkast uitzoeken
@@ -10431,15 +10921,20 @@ tv.fill,Adreswijzigingen doorgeven
 tv.fill,Andre
 tv.fill,Andrew’s boekbespreking maken
 tv.fill,Antidepressiva
+tv.fill,Appje sturen Cindy
 tv.fill,Apple Nicole verwerken
 tv.fill,BOAF
 tv.fill,BOAF / SCHOOL
 tv.fill,BRIDGERTON NEW SEASON
+tv.fill,Bank hangen
 tv.fill,Begin website maken CandyPendy
 tv.fill,Bericht LinkedIn
 tv.fill,Bezoekersvergunning
 tv.fill,Bibliotheek
 tv.fill,Biologie hw maken
+tv.fill,Bios
+tv.fill,Bioscoop
+tv.fill,Boer zoekt vrouw
 tv.fill,CONSORTIUM
 tv.fill,Chillen
 tv.fill,Chillen & klaarmaken werk
@@ -10461,11 +10956,13 @@ tv.fill,Filmverslag maken !!
 tv.fill,Foto’s Anais bewerken
 tv.fill,Free to do
 tv.fill,GP Qatar
+tv.fill,GTST
 tv.fill,GTST kijken
 tv.fill,Geschiedenis
 tv.fill,Get organized
 tv.fill,Haaglanden woonnet
 tv.fill,"Help, mijn man is klusser"
+tv.fill,Hockey wedstrijd kijken SHCH-Den Bosch
 tv.fill,Huiswerk
 tv.fill,Huiswerk maken
 tv.fill,Huiswerk topo
@@ -10524,6 +11021,7 @@ tv.fill,Shows to watch
 tv.fill,Stage zoeken
 tv.fill,Studeren
 tv.fill,TV kijken
+tv.fill,Tekst schrijven
 tv.fill,Telefoon
 tv.fill,Telefoon scrollen
 tv.fill,Telefoon scrollen/break
@@ -10533,7 +11031,9 @@ tv.fill,Tiny House Battle
 tv.fill,Training CT
 tv.fill,Tv
 tv.fill,Tv kijken
+tv.fill,Uitloop uitwerken
 tv.fill,Vergadering
+tv.fill,Verraders
 tv.fill,Voorlichting RP kijken
 tv.fill,WK sprint schaatsen kijken en eten
 tv.fill,WNL kijken
@@ -10563,6 +11063,7 @@ tv.fill,uCare af!
 tv.fill,ubo uitschrijven
 tv.fill,werk
 tv.fill,werken
+umbrella.fill,Begraafplaats
 umbrella.fill,periode start
 video.fill,Agenda maart tm juni
 video.fill,BI: Meeting Coaching
@@ -10572,6 +11073,7 @@ video.fill,Bellen
 video.fill,Bellen Esma
 video.fill,Bellen met esmee
 video.fill,Bellen met vriendin
+video.fill,Bioscoop
 video.fill,Bioscoop met Jel
 video.fill,Chemisty kijken
 video.fill,Engels video opnemen
@@ -10594,6 +11096,7 @@ video.fill,Online les
 video.fill,Online school
 video.fill,Papa bellen
 video.fill,Presentatie
+video.fill,Presenteren video opnemen
 video.fill,School foto stage
 video.fill,Serie kijken
 video.fill,Slikvideo
@@ -10604,6 +11107,7 @@ video.fill,Tv kijken
 video.fill,Video intake NANY
 video.fill,Videos maken
 video.fill,YouTube video maken
+video.fill,Zoom Dagmar
 video.fill,adviseurs overleg
 video.fill,facetime
 video.fill,facetime with silkie
@@ -10614,6 +11118,7 @@ wand.and.stars,Aankleden & klaarmaken
 wand.and.stars,Aankleden kids
 wand.and.stars,Afstoffen
 wand.and.stars,Afwassen
+wand.and.stars,Alles opruimen / vegen
 wand.and.stars,Amsterdam light festival (?)
 wand.and.stars,Badkamer poetsen
 wand.and.stars,Badkamer schoonmaken
@@ -10648,9 +11153,11 @@ wand.and.stars,Epiduo
 wand.and.stars,Even niks
 wand.and.stars,Fiets pakken
 wand.and.stars,Free time
+wand.and.stars,Gang opruimen
 wand.and.stars,Get ready
 wand.and.stars,Get ready + telefoon
 wand.and.stars,Goude week
+wand.and.stars,Haar doen
 wand.and.stars,Haar stijlen
 wand.and.stars,Haar stijlen van Deborah
 wand.and.stars,Haren verven
@@ -10687,11 +11194,13 @@ wand.and.stars,Kleding uitzoeken
 wand.and.stars,Kleren aandoen
 wand.and.stars,Kleren klaarleggen
 wand.and.stars,Kleren uitzoeken + aantrekken
+wand.and.stars,Kleren wassen
 wand.and.stars,Koelkast schoonmaken
 wand.and.stars,Konijnenhok verschonen
 wand.and.stars,Lash serum
 wand.and.stars,Laura appen
 wand.and.stars,Lekker plat
+wand.and.stars,Leren ak
 wand.and.stars,Lijstje versieren en ophangen doelen
 wand.and.stars,Mailen foto
 wand.and.stars,Manicure
@@ -10734,10 +11243,12 @@ wand.and.stars,Rusten
 wand.and.stars,Scherm repareren
 wand.and.stars,Schoenen poetsen
 wand.and.stars,Schoonmaken
+wand.and.stars,"Schoonmaken ( afstoffen, stofzuigen, dweilen )"
 wand.and.stars,Schoonmaken (stofzuigen - dweilen - badkamer)
 wand.and.stars,Shoppen nieuwjaar
 wand.and.stars,Skin care
 wand.and.stars,Slaapkamer opruimen
+wand.and.stars,Slingers ophangen
 wand.and.stars,Solliciteren
 wand.and.stars,Spelen
 wand.and.stars,Spiri tijd
@@ -10752,15 +11263,18 @@ wand.and.stars,TS
 wand.and.stars,Tanden poetsen
 wand.and.stars,Tas inpakken Pasen
 wand.and.stars,Tas inpakken en kleren klaarleggen
+wand.and.stars,Tassen klaarmaken.
 wand.and.stars,Tassen opruimen
 wand.and.stars,Tattoos
 wand.and.stars,Tiktok maken
 wand.and.stars,Uitwerken Menukaart MAGIC
+wand.and.stars,Vape bijvullen
 wand.and.stars,Vrije planning
 wand.and.stars,Vrije tijd
 wand.and.stars,WC beneden
 wand.and.stars,Wakker worden
 wand.and.stars,Walibi🎡🎢
+wand.and.stars,Was
 wand.and.stars,Was insteken
 wand.and.stars,Was opruimen
 wand.and.stars,Was opvouwen en strijken
@@ -10774,8 +11288,10 @@ wand.and.stars,Wiskunde
 wand.and.stars,Woo hah
 wand.and.stars,Woonkamer opruimen
 wand.and.stars,Zondag schoonmaak routine
+wand.and.stars,Zonnebank
 wand.and.stars,Zuigen
 wand.and.stars,aankleden
+wand.and.stars,amsterdam
 wand.and.stars,clean room
 wand.and.stars,get dressed
 wand.and.stars,kamer opruimen
@@ -10784,6 +11300,7 @@ wand.and.stars,klaar maken
 wand.and.stars,klaarmaken
 wand.and.stars,lenzen
 wand.and.stars,lenzen indoen en omkleden
+wand.and.stars,nails appoinment
 wand.and.stars,new years eve
 wand.and.stars,niks
 wand.and.stars,opruimen
@@ -10812,6 +11329,7 @@ wind,Gezicht stomen
 wind,Ice carving 12u00
 wind,Kattenbak
 wind,Natuurkunde
+wind,Odo
 wind,Omkleden
 wind,Opruimen
 wind,Pauze
@@ -10832,6 +11350,7 @@ wind,Yoga
 wind,Zee
 wind,deo
 wind,diffuser aanzetten
+wind,fietsen
 wind,mondwater
 wind,parfum
 wind,parfum spuiten
@@ -10842,6 +11361,7 @@ wrench.fill,Bouwen
 wrench.fill,Flyer GJ
 wrench.fill,Gang lamp monteren
 wrench.fill,Kaak chirurg bellen
+wrench.fill,Klusjes
 wrench.fill,Klussen
 wrench.fill,Onder vloer leggen
 wrench.fill,Opruimen
@@ -10864,6 +11384,7 @@ x.squareroot,D-toets H1
 x.squareroot,Do Memory Test
 x.squareroot,Examen biologie
 x.squareroot,Examen wiskunde
+x.squareroot,HWA afmaken
 x.squareroot,Huiswerk
 x.squareroot,Huiswerk maken
 x.squareroot,Huiswerkklas
@@ -10903,6 +11424,7 @@ x.squareroot,Wiskunde
 x.squareroot,Wiskunde A weektaak
 x.squareroot,Wiskunde B
 x.squareroot,Wiskunde H.2
+x.squareroot,Wiskunde H11 helft af
 x.squareroot,Wiskunde Samenvatting
 x.squareroot,Wiskunde T
 x.squareroot,Wiskunde W3 hw maken
@@ -10946,6 +11468,7 @@ xmark.octagon.fill,Geen chocolade en fabb
 xmark.octagon.fill,Intakegesprek tattooremoval
 xmark.octagon.fill,Last meal
 xmark.octagon.fill,Nadyce
+xmark.octagon.fill,Wegen
 xmark.octagon.fill,Zwemles
 xmark.octagon.fill,pauze
 zzz,Avond routine
@@ -10972,8 +11495,10 @@ zzz,Proberen om te slapen
 zzz,Relax
 zzz,Rust
 zzz,Rusten
+zzz,School/ toets wiskunde 🧮
 zzz,Slaap pauze
 zzz,Slaap yoga
+zzz,Slaapje
 zzz,Slapen
 zzz,Slapen Mamie
 zzz,Sleep

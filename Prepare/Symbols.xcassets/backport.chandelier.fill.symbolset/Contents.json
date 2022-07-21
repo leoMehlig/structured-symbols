@@ -1,0 +1,12 @@
+{
+    "info": {
+        "author": "xcode",
+        "version": 1
+    },
+    "symbols": [
+        {
+            "filename": "backport.chandelier.fill.svg",
+            "idiom": "universal"
+        }
+    ]
+}

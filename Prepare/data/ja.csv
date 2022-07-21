@@ -28,6 +28,7 @@ alarm.fill,おはよ！今日もがんばれ！
 alarm.fill,シニアサポーターto西村D
 alarm.fill,パパを起こす
 alarm.fill,モーニングルーティン
+alarm.fill,一回目の目覚ましで起きれるかな？
 alarm.fill,今日もがんばろう🦥
 alarm.fill,休日のんびり起床
 alarm.fill,始業
@@ -45,6 +46,7 @@ alarm.fill,起床
 alarm.fill,起床☀️
 alarm.fill,起床・朝ごはん
 alarm.fill,起床・朝食
+alarm.fill,起床・身支度
 alarm.fill,起床啦！
 alarm.fill,기상♡
 alarm.fill,좋은 아침!!
@@ -74,6 +76,7 @@ arrow.3.trianglepath,家着とバスタオルを替える
 arrow.3.trianglepath,家着を替える
 arrow.3.trianglepath,審査振り返り
 arrow.3.trianglepath,掃除
+arrow.3.trianglepath,洋服整理
 arrow.3.trianglepath,洗う(必要なら)
 arrow.3.trianglepath,洗濯
 arrow.3.trianglepath,行政学！21:00まで
@@ -82,6 +85,7 @@ arrow.3.trianglepath,遷移
 at,アカウント研究
 at,メール
 at,メール返信
+at,メール送信
 at,望月さんに打合せ可能な時間を連絡
 at,松井先生
 at,松井先生メール
@@ -89,6 +93,8 @@ at,洗濯に向けたタスク
 at,灰 BOツイート
 at,資産対策に請求
 atom,12:30～ホットヨガLAVA🧘‍♂️
+atom,15:45ホットヨガLAVA🧘‍♂️リンパリフレッシュヨガ
+atom,9:00～ホットヨガLAVA     開脚フローヨガ
 atom,TIST - Semestrálka
 atom,duolingo
 atom,お昼ご飯
@@ -115,21 +121,28 @@ bag.fill,100円均一にいく
 bag.fill,FOV ch6 preparation
 bag.fill,Work
 bag.fill,お泊まり準備
+bag.fill,りうぼう買い物
 bag.fill,アルバイト
 bag.fill,イオン 火曜市 冷食
+bag.fill,イオンネットスーパー 注文
 bag.fill,キャナルシティ ブラブラ
 bag.fill,コンタクトを買う
 bag.fill,バイト
 bag.fill,パンのおと　購入
+bag.fill,マックスバリュ長与店
 bag.fill,ママのセンター
 bag.fill,マルート買い物
+bag.fill,ヨガ、買い物に行く準備、スキンケア、日焼け止めも
 bag.fill,ヨガ、買い物行く準備
+bag.fill,ヨガに行く準備、スキンケア、日焼け止めも
 bag.fill,ヨガ行く準備
 bag.fill,亮ちゃんと買い物
 bag.fill,仕事
 bag.fill,仕事開始
+bag.fill,出かける準備
 bag.fill,出社
 bag.fill,出社準備
+bag.fill,家出る
 bag.fill,持ち物確認
 bag.fill,明日の準備
 bag.fill,明日の用意
@@ -142,6 +155,8 @@ bag.fill,荷造り
 bag.fill,買い出し
 bag.fill,買い物
 bag.fill,買い物リスト
+bag.fill,買い物行く準備
+bag.fill,身支度
 bandage.fill,マップのai修正
 bandage.fill,公衆衛生学
 bandage.fill,包交
@@ -157,6 +172,7 @@ battery.25,パーティーの準備
 battery.25,休憩
 battery.25,充電
 battery.25,携帯整理
+battery.25,時計の電池交換
 battery.25,疲れ取りセット
 bed.double.fill,2度寝
 bed.double.fill,くつろぐ
@@ -174,6 +190,7 @@ bed.double.fill,就寝前タスク
 bed.double.fill,布団へ入る
 bed.double.fill,整体
 bed.double.fill,昼寝
+bed.double.fill,睡眠
 bed.double.fill,起きたらやること
 bed.double.fill,部屋の片付け
 bed.double.fill,長野　宿泊先決め
@@ -211,6 +228,7 @@ book.fill,14:45〜15:45🟩九進
 book.fill,15分読書
 book.fill,18号館
 book.fill,19号館
+book.fill,1限
 book.fill,2 限授業
 book.fill,2限
 book.fill,CE
@@ -222,6 +240,7 @@ book.fill,FINAL解説
 book.fill,IELTS (Writing)
 book.fill,IELTS(Writing)
 book.fill,MKT2：勉強
+book.fill,MMM
 book.fill,MOS勉強
 book.fill,"Morning note,schedule check"
 book.fill,MySQL
@@ -244,9 +263,12 @@ book.fill,interactive の課題
 book.fill,school
 book.fill,study
 book.fill,study for IELTS
+book.fill,かながわ学レポート
 book.fill,のーんびり楽しく読書しよ〜
 book.fill,ひたすら楽して音響信号解析
 book.fill,インプット
+book.fill,オレンジ
+book.fill,キャリア
 book.fill,キートレ
 book.fill,グローバル社会と文化
 book.fill,コミュ英
@@ -262,15 +284,18 @@ book.fill,テスト勉強ー
 book.fill,ノート
 book.fill,パスタのレシピをメモ
 book.fill,パス単
+book.fill,パブリックで課題やる
 book.fill,パワーマックス世界史
 book.fill,パワーマックス世界史2
 book.fill,ビジネスマナー
+book.fill,フランス語 課題
 book.fill,フラ語
 book.fill,ポジティブ&感謝日記
 book.fill,マック
 book.fill,マンガを読みして
 book.fill,マンガを読む
 book.fill,メディアスクーリング
+book.fill,ララコープ整理→在庫チェック
 book.fill,ララコープ注文
 book.fill,一週間まとめ
 book.fill,世B 赤本スマート
@@ -282,6 +307,8 @@ book.fill,世界史　ＷＣ
 book.fill,中等社会教育法Ⅳ
 book.fill,予習
 book.fill,人工智能
+book.fill,人間論
+book.fill,人間論（心理学）
 book.fill,仕事
 book.fill,仕事関連の勉強
 book.fill,保健
@@ -293,8 +320,10 @@ book.fill,刑事訴訟法　シケタイ
 book.fill,前期授業開始
 book.fill,勉強
 book.fill,勉強①
+book.fill,勉強②
 book.fill,勉強④
 book.fill,勉強✏️
+book.fill,勉強する
 book.fill,勉強シテヨネ！
 book.fill,動きたくて　本　写真
 book.fill,化学
@@ -304,6 +333,7 @@ book.fill,卒論
 book.fill,単位取得試験勉強
 book.fill,古典
 book.fill,古文　重要問題演習
+book.fill,商法第1部
 book.fill,図書館
 book.fill,図書館　レポート参考文献探し
 book.fill,図書館で勉強📚
@@ -314,6 +344,7 @@ book.fill,地域社会と健康
 book.fill,地学
 book.fill,地学基礎　ビーライン　必修
 book.fill,地学基礎　ラーンズ
+book.fill,地理 教科書 最低でもスリランカ できればアジア全て読み切る
 book.fill,基本情報模試
 book.fill,塾
 book.fill,夜勉強
@@ -338,6 +369,7 @@ book.fill,手帳見る
 book.fill,投資の勉強
 book.fill,振り返り
 book.fill,授業
+book.fill,政治学
 book.fill,政治経済
 book.fill,政治経済　ステップアップ
 book.fill,政治経済　ラーンズ
@@ -406,7 +438,9 @@ book.fill,直し 新研究
 book.fill,短答
 book.fill,社会
 book.fill,社会人一年目
+book.fill,科人　まとめ
 book.fill,笹塚図書館
+book.fill,簿記
 book.fill,簿記 試験勉強
 book.fill,簿記3級
 book.fill,簿記3級対策
@@ -512,6 +546,7 @@ briefcase.fill,たけまえ医院受診
 briefcase.fill,ばいと
 briefcase.fill,りんどう薬局
 briefcase.fill,インターン日程確認
+briefcase.fill,キャリタス
 briefcase.fill,シフト
 briefcase.fill,データサイエンス演習
 briefcase.fill,バイト
@@ -533,6 +568,7 @@ briefcase.fill,就活の情報まとめる
 briefcase.fill,帰省の準備
 briefcase.fill,当日荷物
 briefcase.fill,支度
+briefcase.fill,教科書
 briefcase.fill,整理行李
 briefcase.fill,新ﾒﾆｭｰ講習
 briefcase.fill,明日の準備
@@ -540,7 +576,9 @@ briefcase.fill,昼軽く、出勤準備
 briefcase.fill,机を掃除して
 briefcase.fill,準備
 briefcase.fill,準備→行く
+briefcase.fill,用意
 briefcase.fill,登校の準備
+briefcase.fill,着替え
 briefcase.fill,研修
 briefcase.fill,荷捌き/片付け
 briefcase.fill,荷物最終確認
@@ -558,6 +596,7 @@ bubble.left.fill,アポインター管理
 bubble.left.fill,ドイツ語
 bubble.left.fill,ブログ・Bubble
 bubble.left.fill,メール対応
+bubble.left.fill,ラジオ枠配信
 bubble.left.fill,作業会未出席者 LINE
 bubble.left.fill,個別指導塾奥村校
 bubble.left.fill,個別指導塾川中校
@@ -581,8 +620,11 @@ burn,サークル
 burn,会社バッジを仕舞う
 burn,大学への数学 浸透作戦
 burn,風呂掃除
+calendar,Atsueigo発音講座
 calendar,DH
 calendar,あつしさんに報告□_(‘-‘*_)
+calendar,よつば
+calendar,わらび
 calendar,スケジュール管理
 calendar,バイト
 calendar,マンスリーページつくる
@@ -620,6 +662,7 @@ camera.fill,撮影 ボディスーツ
 camera.fill,比較法の録画
 camera.fill,民法の録画
 car.fill,14:20出
+car.fill,18:00ふみちゅん、所長さん中華街まで送る
 car.fill,Jeff 吹上駅に送る
 car.fill,Pick up Jeff at Fukiage sta.
 car.fill,Start
@@ -632,6 +675,7 @@ car.fill,あかり動物病院へ移動
 car.fill,お出かけ
 car.fill,お迎え
 car.fill,なかにしくんと六甲山
+car.fill,ガソリン
 car.fill,スイミング迎え
 car.fill,タイヤ交換
 car.fill,レンタカー受取
@@ -642,10 +686,13 @@ car.fill,乗車教習(複自AT)
 car.fill,乗車教習(高速)
 car.fill,交通費提出
 car.fill,依茉お迎え
+car.fill,依茉登園
 car.fill,保育園お迎え
 car.fill,免許更新
 car.fill,出勤
 car.fill,出発
+car.fill,出発 LAVA→家へ
+car.fill,出発 Mr.maxへ
 car.fill,出発 PayPayドームへ
 car.fill,出発 ホットヨガスタジオLAVAへ
 car.fill,出発 仕事へ 浜田バス停
@@ -675,6 +722,7 @@ car.fill,登校
 car.fill,移動
 car.fill,移動　佐世保→博多
 car.fill,移動　博多→佐世保
+car.fill,移動　迎え
 car.fill,移動　送り
 car.fill,移動予備時間
 car.fill,移動時間
@@ -695,6 +743,7 @@ car.fill,送って行く
 car.fill,送迎
 car.fill,通勤
 car.fill,通学
+car.fill,運転 移動
 car.fill,💋→家
 cart.fill,Big wでpickupする
 cart.fill,Chemistに行く
@@ -706,6 +755,7 @@ cart.fill,Shopping
 cart.fill,butikumi
 cart.fill,shopping
 cart.fill,⚠️ﾛｷｿﾆﾝs+👛購入
+cart.fill,お菓子買いにMr.maxへ
 cart.fill,お買い物
 cart.fill,かいもの
 cart.fill,くすりの福太郎
@@ -738,6 +788,7 @@ cart.fill,久屋の地下で買い物、三越
 cart.fill,出社時の手土産：モンプリュ
 cart.fill,切手購入
 cart.fill,外出
+cart.fill,日用品の買い出し
 cart.fill,時計に電池入れる
 cart.fill,服屋散策
 cart.fill,注文・購入
@@ -759,12 +810,17 @@ cart.fill,買い物（明日でも可）
 cart.fill,買い物：カルディ＆DS
 cart.fill,買出し
 cart.fill,買物
+cart.fill,買物@にしてつ🛒
+cart.fill,買物@ｾﾌﾞﾝ🏪
+cart.fill,買物🏪ｾﾌﾞﾝ🪜
 cart.fill,食材の買い物
 cart.fill,ﾖﾄﾞﾊﾞｼ📱まとめ注文👆
 chart.bar.fill,7.3:数学
 chart.bar.fill,Numbersに記録
+chart.bar.fill,テス勉 (レポート)
 chart.bar.fill,会計株価確認
 chart.bar.fill,勉強
+chart.bar.fill,地域統計分析法
 chart.bar.fill,塾
 chart.bar.fill,学校
 chart.bar.fill,数学
@@ -781,6 +837,7 @@ chart.pie.fill,勤太郎入力
 chart.pie.fill,家計簿
 chart.pie.fill,家計簿記入
 chart.pie.fill,帰り/スケジュール確認
+chart.pie.fill,統計的システム論
 chart.pie.fill,計画
 chevron.left.slash.chevron.right,Java study
 chevron.left.slash.chevron.right,ゲーム
@@ -793,9 +850,11 @@ clock.fill,school
 clock.fill,お昼休憩
 clock.fill,ゆっくりTime
 clock.fill,ガイダンス
+clock.fill,ガントチャート 見直し
 clock.fill,チェックイン
 clock.fill,バイト
 clock.fill,健康スイミング準備
+clock.fill,勉強
 clock.fill,学校
 clock.fill,学童お迎え
 clock.fill,家でる
@@ -811,6 +870,7 @@ clock.fill,適時タスク B後
 cloud.bolt.fill,ホンテ前
 cloud.drizzle.fill,アロマティカスの水やり
 cloud.fill,コミ英ノート作り
+cloud.fill,テスト作成してみる
 cloud.fill,バイト準備
 cloud.fill,休憩
 cloud.fill,国語模試直し
@@ -865,23 +925,29 @@ comb.fill,顔面つくる
 comb.fill,風呂
 comb.fill,髪の毛
 comb.fill,髪の毛セット
+comb.fill,髪セット
 comb.fill,髭剃り　洗濯投入
 comb.fill,💇‍♀️白髪染め
 creditcard.fill,クレカ調べ/申込
+creditcard.fill,ノート書く
 creditcard.fill,バス定期を買う
 creditcard.fill,会計精算
 creditcard.fill,定期を買う
 creditcard.fill,家計簿
 creditcard.fill,振り込み
+creditcard.fill,東京テレポート駅から錦糸町駅→ホテル
 creditcard.fill,欲しい物
 creditcard.fill,買い物
+creditcard.fill,電車移動
 custom.ball,サッカー
 custom.ball,サッカーしようぜ！
 custom.ball,バレー
 custom.ball,ホークス試合
 custom.ball,ホークス試合 交流戦 横浜スタジアム
 custom.ball,ホークス試合 交流戦 福岡PayPayドーム
+custom.ball,ホークス試合 広島戦              福岡PayPayドーム
 custom.ball,ホークス試合 福岡PayPayドーム
+custom.ball,ホークス試合in沖縄
 custom.ball,ホークス試合悪天候中止in宮崎
 custom.ball,ホークス試合観戦 NHKBS1
 custom.ball,リングフィット
@@ -901,19 +967,24 @@ custom.cat,ごはん
 custom.cat,ごはんあげる
 custom.cat,ごはんをあげる
 custom.cat,ねこのお世話
+custom.cat,ふわっち　動物枠配信
 custom.cat,アカペラ見通し
 custom.cat,オペリ
 custom.cat,ストレッチ
 custom.cat,ストレッチor筋トレ
 custom.cat,セルフケア
 custom.cat,タスク整理
+custom.cat,チャッピーごはん
+custom.cat,ナディアと遊ぶ
 custom.cat,ポンの散歩
 custom.cat,マロンと戯れる
+custom.cat,ユアー
 custom.cat,ヨガ1
 custom.cat,ヨガ🧘‍♀️
 custom.cat,ワークアウト
 custom.cat,休憩
 custom.cat,勉強
+custom.cat,動物枠配信
 custom.cat,動物病院
 custom.cat,寝る前ルーティン
 custom.cat,小説
@@ -965,6 +1036,7 @@ custom.cooking,Lunch
 custom.cooking,baking break
 custom.cooking,freshness
 custom.cooking,prepare for dinner
+custom.cooking,いなり🦊餅×2ｹ😋
 custom.cooking,おかず作る
 custom.cooking,お弁当
 custom.cooking,お弁当作り
@@ -975,6 +1047,7 @@ custom.cooking,お昼ご飯含め自由時間
 custom.cooking,ご飯
 custom.cooking,ご飯作り
 custom.cooking,どんバイト
+custom.cooking,オムレツ作り
 custom.cooking,ガストン
 custom.cooking,サイゼ
 custom.cooking,スナク
@@ -1005,6 +1078,7 @@ custom.cooking,春ご飯
 custom.cooking,春ご飯を作って
 custom.cooking,昼
 custom.cooking,昼ごはん
+custom.cooking,昼ごはん作る
 custom.cooking,昼ご飯
 custom.cooking,昼食
 custom.cooking,昼食の支度
@@ -1025,23 +1099,35 @@ custom.cooking,生姜焼き作る
 custom.cooking,私🌯夕食😋
 custom.cooking,私🌯昼食😋
 custom.cooking,私🌯朝食😋
+custom.cooking,私🍄🫕朝食😋
 custom.cooking,私🍅朝昼食😋
 custom.cooking,私🍅朝食😋
 custom.cooking,私🍚夕食😋
+custom.cooking,私🍚昼食😋
+custom.cooking,私🍛朝食😋
 custom.cooking,私🍜夕食😋
 custom.cooking,私🍝夕食😋
+custom.cooking,私🍝夕食😋 2/2
 custom.cooking,私🍝昼食😋
+custom.cooking,私🍝朝食😋
 custom.cooking,私🍝🥓昼食😋
+custom.cooking,私🍞昼食😋
 custom.cooking,私🍞朝食😋
 custom.cooking,私🐂昼食😋
 custom.cooking,私🐑昼夕(?)食😋
 custom.cooking,私🐓夕後食😋
+custom.cooking,私🐓昼?食😋
 custom.cooking,私🐓🥔夜食😋
 custom.cooking,私🐓🫕朝食😋
 custom.cooking,私🥐朝食😋
+custom.cooking,私🥖昼食😋
 custom.cooking,私🥖朝食😋
+custom.cooking,私🥟朝食😋
 custom.cooking,私🥯昼食😋
+custom.cooking,私🦊夕食😋
+custom.cooking,私🫕×🐂朝食😋
 custom.cooking,私🫕×🐟朝食😋
+custom.cooking,私🫕×🥓朝食😋
 custom.cooking,私🫕朝食😋
 custom.cooking,米とぎ
 custom.cooking,調理 (夕食・朝食)
@@ -1059,10 +1145,12 @@ custom.cooking,飲食(自宅)
 custom.cooking,饺子+蛋饼
 custom.cooking,馄饨
 custom.cooking,홈 화면 전리
+custom.cooking,👵🏻夕(昼)食🍱🍚準備
 custom.cooking,👵🏻夕食準備
 custom.cooking,👵🏻夕食🍚準備
 custom.cooking,👵🏻夕食🍛準備
 custom.cooking,👵🏻夕食🍞準備
+custom.cooking,👵🏻夕食🦊🍜準備
 custom.cooking,👵🏻昼食🍚準備
 custom.cooking,👵🏻昼食🍛準備
 custom.cooking,👵🏻昼食🥐準備
@@ -1080,8 +1168,12 @@ custom.dog,ゴハン
 custom.dog,シャンプー
 custom.dog,ショッピング🛍
 custom.dog,スキンケアしながら。スケジュール、日記
+custom.dog,スケジュール
 custom.dog,スケジュール、日記
+custom.dog,トリミング
 custom.dog,パソコン組み立て
+custom.dog,ペットのお世話&動物枠配信
+custom.dog,ペットのお世話タイム
 custom.dog,仕事
 custom.dog,休憩
 custom.dog,化学
@@ -1091,6 +1183,7 @@ custom.dog,洗濯
 custom.dog,熱帯魚のエサ
 custom.dog,物理
 custom.dog,英語
+custom.dog,野球見ながら。スケジュール、日記
 custom.dumbbell,GYM
 custom.dumbbell,Gym
 custom.dumbbell,Gym🏋️‍♂️
@@ -1124,10 +1217,12 @@ custom.dumbbell,ヨガ
 custom.dumbbell,ラジオ体操
 custom.dumbbell,ラジオ体操する
 custom.dumbbell,リングフィット
+custom.dumbbell,体幹
 custom.dumbbell,体幹トレーニング
 custom.dumbbell,健身
 custom.dumbbell,握力トレーニング
 custom.dumbbell,朝起きて肩回し 持ち上げて横に垂直にして肩甲骨を寄せる
+custom.dumbbell,柔軟
 custom.dumbbell,空手
 custom.dumbbell,筋トレ
 custom.dumbbell,筋トレとストレッチ
@@ -1162,6 +1257,7 @@ custom.hairdryer,歯磨き・洗顔・ヘアセット
 custom.hairdryer,歯磨き洗顔
 custom.hairdryer,洗濯
 custom.hairdryer,洗顔
+custom.hairdryer,洗顔、髪の毛をセットする
 custom.hairdryer,温泉
 custom.hairdryer,準備
 custom.hairdryer,準備💄💅
@@ -1171,12 +1267,15 @@ custom.hairdryer,着替え、準備
 custom.hairdryer,着替えと準備
 custom.hairdryer,絢羽の髪
 custom.hairdryer,身支度
+custom.hairdryer,通話
 custom.hairdryer,風呂
 custom.hairdryer,髪かわかす
 custom.hairdryer,髪の毛乾かす
 custom.hairdryer,髪を乾かす
 custom.hairdryer,髪乾かす
+custom.hairdryer,🌬💇‍♀️
 custom.language,(英)
+custom.language,6h  英語~
 custom.language,C英
 custom.language,Duolingo
 custom.language,ECC
@@ -1185,6 +1284,7 @@ custom.language,ESL class
 custom.language,English
 custom.language,Japan study
 custom.language,NextStage
+custom.language,PCD
 custom.language,RedKiwi
 custom.language,TEDICT
 custom.language,TOEIC対策
@@ -1250,6 +1350,7 @@ custom.lipstick,make up/skin care etc.
 custom.lipstick,y♡朝食/A♡メイクetc
 custom.lipstick,お出かけの準備
 custom.lipstick,お化粧とか
+custom.lipstick,まつパ
 custom.lipstick,ケア
 custom.lipstick,ケア、マッサージ
 custom.lipstick,セット
@@ -1263,6 +1364,7 @@ custom.lipstick,メイク
 custom.lipstick,メイク、お着替え
 custom.lipstick,メイク、着替え
 custom.lipstick,メイクアップ
+custom.lipstick,メイクタイム
 custom.lipstick,モーニングルーティン
 custom.lipstick,出かける準備
 custom.lipstick,出かける用意
@@ -1303,6 +1405,7 @@ custom.shower,Bath
 custom.shower,Get ready
 custom.shower,Shower
 custom.shower,TAKE A BATH
+custom.shower,Take a bath
 custom.shower,Take a shower
 custom.shower,Take bath
 custom.shower,Take shower
@@ -1320,12 +1423,14 @@ custom.shower,お風呂&夜身支度
 custom.shower,お風呂/スキンケア
 custom.shower,お風呂/スクラブ
 custom.shower,お風呂に入る
+custom.shower,お風呂はいる➕ドライヤー
 custom.shower,お風呂・歯磨き
 custom.shower,お風呂入る
 custom.shower,お風呂寝る準備
 custom.shower,お風呂掃除
 custom.shower,お風呂沸かす
 custom.shower,お風呂髪洗い
+custom.shower,こども風呂
 custom.shower,ご飯　お風呂
 custom.shower,ご飯・お風呂等
 custom.shower,たっくんお風呂
@@ -1333,12 +1438,14 @@ custom.shower,たっくんお風呂とスキンケア
 custom.shower,ほのか♨️
 custom.shower,シャワ
 custom.shower,シャワー
+custom.shower,シャワー クレンジング、シャンプー
 custom.shower,シャワー/スキンケア
 custom.shower,シャワーを浴びて
 custom.shower,シャワータイム
 custom.shower,シャワー・身支度
 custom.shower,シャワー＆朝ごはん
 custom.shower,シャワー･着替え
+custom.shower,ナイトルーティン
 custom.shower,バスタイム
 custom.shower,ヘルスケア
 custom.shower,レッスン後洗顔、スキンケア、日焼け止め
@@ -1346,6 +1453,7 @@ custom.shower,ワゴンR 洗車
 custom.shower,入浴
 custom.shower,入浴　髪洗う
 custom.shower,入浴＆美容タイム
+custom.shower,出勤準備
 custom.shower,半身浴15×2 髪10分 体10分
 custom.shower,夕食後、食器洗える準備。浸け置き。ごみ。
 custom.shower,夜ご飯とお風呂
@@ -1360,12 +1468,16 @@ custom.shower,朝の日課
 custom.shower,朝シャン
 custom.shower,朝風呂
 custom.shower,洗濯
+custom.shower,洗濯&風呂
 custom.shower,洗濯・お風呂
 custom.shower,洗顔
+custom.shower,洗顔、スキンケア
 custom.shower,温泉
 custom.shower,温泉•サウナ
 custom.shower,準備
+custom.shower,用意
 custom.shower,疲れた後のシャワーは最高っすねー
+custom.shower,皿洗い
 custom.shower,身支度
 custom.shower,顔洗い・スキンケア
 custom.shower,顔洗う
@@ -1374,8 +1486,11 @@ custom.shower,風呂
 custom.shower,風呂 (+ アイデア)
 custom.shower,風呂　スキンケア
 custom.shower,食器洗い
+custom.shower,食器洗い、ゴミ出し
 custom.shower,食器洗い、翌朝の食器準備も
+custom.shower,食器洗い（昨日）
 custom.shower,食器片付け。翌朝の食器準備も
+custom.shower,食後、食器洗える準備。浸け置き。
 custom.shower,𝗍𝖾𝗆𝗉𝗌 𝖽𝖾 𝖽𝗈𝗎𝖼𝗁𝖾🛁𓈒𓏸︎︎︎︎
 custom.shower,💇‍♀️洗髪🚿
 custom.shower,🛁
@@ -1386,14 +1501,17 @@ custom.sit,なんかまったりダラダラしてもた…
 custom.sit,まったり
 custom.sit,ストレッチ
 custom.sit,タカバさん　セッション予約
+custom.sit,トイレ
 custom.sit,トイレ掃除
 custom.sit,マッサージ＆明日の準備
 custom.sit,仕事
 custom.sit,休憩
+custom.sit,内定者面談
 custom.sit,勉強
 custom.sit,塾
 custom.sit,多文化社会論
 custom.sit,学校
+custom.sit,座る
 custom.sit,建築構造力学Ⅲ
 custom.sit,待機
 custom.sit,授業
@@ -1404,13 +1522,17 @@ custom.sit,自由時間
 custom.sit,自習室
 custom.sit,週日の集会
 custom.sit,過去帳
+custom.sit,野菜生活 柑橘mix🍋酢🥛炭酸🈹
 custom.sit,面接
+custom.toothbrush,Dental
 custom.toothbrush,Routine
 custom.toothbrush,brush teeth
 custom.toothbrush,おはようございます！
+custom.toothbrush,ごはん
 custom.toothbrush,たっくんミルクと歯磨き
 custom.toothbrush,たっくん歯磨き
 custom.toothbrush,はみがき
+custom.toothbrush,ふろ
 custom.toothbrush,スキンケア
 custom.toothbrush,セット
 custom.toothbrush,トイレ・洗顔
@@ -1426,11 +1548,13 @@ custom.toothbrush,寝る支度
 custom.toothbrush,寝る準備
 custom.toothbrush,寝る準備、日記
 custom.toothbrush,寝る準備をしなさい
+custom.toothbrush,寝る用意
 custom.toothbrush,就寝準備
 custom.toothbrush,想珠歯磨き
 custom.toothbrush,支度
 custom.toothbrush,明日の支度
 custom.toothbrush,朝のルーティン
+custom.toothbrush,朝の支度をする
 custom.toothbrush,朝の準備
 custom.toothbrush,朝支度
 custom.toothbrush,朝準備
@@ -1441,6 +1565,7 @@ custom.toothbrush,歯磨き 洗顔 スキンケア
 custom.toothbrush,歯磨き、スキンケア
 custom.toothbrush,歯磨き、明日の準備
 custom.toothbrush,歯磨き、洗顔、髪セット
+custom.toothbrush,歯磨きする
 custom.toothbrush,歯磨き・メイク等
 custom.toothbrush,歯磨き・洗顔
 custom.toothbrush,歯磨き🪥 ベッドへ
@@ -1460,6 +1585,7 @@ custom.toothbrush,ﾊﾐｶﾞｷ🦷✨
 desktopcomputer,3D Artist JD
 desktopcomputer,Blender
 desktopcomputer,Cantonese + fyp
+desktopcomputer,Freestyle web
 desktopcomputer,Good morning All(乃亜)
 desktopcomputer,JXインターン
 desktopcomputer,Jeki打合せ
@@ -1467,6 +1593,7 @@ desktopcomputer,Kubernetes
 desktopcomputer,LEMON CANDY
 desktopcomputer,MOSの勉強
 desktopcomputer,NPC汎用走り　checkサブミット
+desktopcomputer,PCDレッスン
 desktopcomputer,PC設定
 desktopcomputer,PDF 作成
 desktopcomputer,Python
@@ -1483,9 +1610,12 @@ desktopcomputer,famica 2022年度報告書冊子4ページ
 desktopcomputer,fyp
 desktopcomputer,kazu 100 @125
 desktopcomputer,kazu 400 @125
+desktopcomputer,pint
 desktopcomputer,work on aef video
+desktopcomputer,◉御殿場　見積と請求
 desktopcomputer,◉御殿場の家　作図
 desktopcomputer,◉御殿場の家　実施チェックバック
+desktopcomputer,◎シャインコート　作図
 desktopcomputer,「香川1区」ライブ視聴
 desktopcomputer,お誕生日会（お楽しみ会フレーム
 desktopcomputer,かくとう団　BU
@@ -1513,6 +1643,7 @@ desktopcomputer,ノートテイク
 desktopcomputer,ノートテイク＠6号館B
 desktopcomputer,バイト
 desktopcomputer,バイト探し
+desktopcomputer,バナナサンドTVer
 desktopcomputer,バンドリ秋葉原ステージ
 desktopcomputer,パソコン立ち上げ
 desktopcomputer,ピクニック中級
@@ -1535,6 +1666,7 @@ desktopcomputer,仕事（テレワーク）
 desktopcomputer,休憩
 desktopcomputer,作業
 desktopcomputer,信号処理
+desktopcomputer,働くカプロジェクトページ
 desktopcomputer,創作の森
 desktopcomputer,創作の森レイアウト
 desktopcomputer,勉強
@@ -1545,6 +1677,7 @@ desktopcomputer,受講
 desktopcomputer,大河
 desktopcomputer,大河ドラマ
 desktopcomputer,奥坂fcポスターa2
+desktopcomputer,学生自治会
 desktopcomputer,川あそび探検隊チラシ
 desktopcomputer,御殿場の家　作図
 desktopcomputer,御殿場の家　詳細図
@@ -1560,12 +1693,14 @@ desktopcomputer,海蘭さん塗り
 desktopcomputer,玉川パネルラフ作成
 desktopcomputer,石田花店ボード修正
 desktopcomputer,突然ですが占ってもいいですか
+desktopcomputer,竹内さんと面談
 desktopcomputer,課題
 desktopcomputer,野球近江録画！
 desktopcomputer,開店準備
 desktopcomputer,関ジャムJ-POP史 令和に活躍する若手アーティストが選ぶ 最強平成ソングベスト30！！
 desktopcomputer,🖥　仕事　Havokリファレンス
 desktopcomputer,🖥　仕事　クリア演出　あく
+doc.fill,1限
 doc.fill,50分の過去問
 doc.fill,I20申請
 doc.fill,POL305: Office Hour
@@ -1577,6 +1712,7 @@ doc.fill,ゆうちょ🏣@博多駅
 doc.fill,アイデンタル
 doc.fill,ゼミ
 doc.fill,チラシ当番
+doc.fill,デスクワーク
 doc.fill,ポピンズメモリー記入
 doc.fill,マンツーマンの原稿を整理
 doc.fill,レポート
@@ -1592,6 +1728,7 @@ doc.fill,履歴書書く
 doc.fill,市役所
 doc.fill,憲法プリントコピー
 doc.fill,明日の準備
+doc.fill,楽譜コピー
 doc.fill,漢字
 doc.fill,物理1 レポート
 doc.fill,目標設定シート記入
@@ -1604,6 +1741,7 @@ doc.fill,車両通学申請書類準備
 doc.fill,輸入／資料）パレット入数
 doc.richtext,ES作成
 doc.richtext,GPS Academic受検
+doc.richtext,Jobs
 doc.richtext,MTG
 doc.richtext,"Study hard, get a job"
 doc.richtext,◎吉田さま設計資料
@@ -1615,6 +1753,7 @@ doc.richtext,フラシュのカードを作って
 doc.richtext,住設ベスト3柱の修繕
 doc.richtext,勉強
 doc.richtext,单词学习
+doc.richtext,台湾華語音読練習
 doc.richtext,听力口语练习
 doc.richtext,学校で勉強中……
 doc.richtext,宿題
@@ -1630,6 +1769,7 @@ doc.richtext,現代文アクセス1題
 doc.richtext,花粉対策メガネ同時購入
 doc.richtext,英語
 doc.richtext,🈺アマゾン見積作成
+doc.richtext,🎬ｽｹｼﾞｭｰﾙ確認📖🖋
 dollarsign.circle.fill,Econ Asms
 dollarsign.circle.fill,FP3級 読む
 dollarsign.circle.fill,FX
@@ -1660,6 +1800,7 @@ dollarsign.circle.fill,帰宅　買い物
 dollarsign.circle.fill,帳簿整理
 dollarsign.circle.fill,帳簿整理　書類分け
 dollarsign.circle.fill,掃除
+dollarsign.circle.fill,支払い。実家通帳記入
 dollarsign.circle.fill,棚卸しバイト
 dollarsign.circle.fill,求人応募
 dollarsign.circle.fill,簿記
@@ -1670,6 +1811,7 @@ dollarsign.circle.fill,買い物
 dollarsign.circle.fill,資金移動
 dollarsign.circle.fill,銀行
 dollarsign.circle.fill,銀行手続　ひぜん　セブン
+dollarsign.circle.fill,🍳バイト
 dollarsign.circle.fill,🏣ゆうちょ🏧引き出し→🏦ふくぎん🏧預け入れ
 dollarsign.circle.fill,🏦ふくぎん🏧
 drop.fill,Water
@@ -1682,10 +1824,12 @@ drop.fill,シャワー
 drop.fill,シャワー クレンジング、シャンプー
 drop.fill,スキンケア
 drop.fill,入浴
+drop.fill,夜の皿洗い
 drop.fill,家事
 drop.fill,布団カバー洗濯
 drop.fill,数学
 drop.fill,昼食前に水を飲みゆっくり食べる
+drop.fill,朝の皿洗い
 drop.fill,毛布洗濯
 drop.fill,水
 drop.fill,水を飲む
@@ -1698,10 +1842,14 @@ drop.fill,起きたらまず水を飲みましょう！
 drop.fill,起きたらまず水を飲む
 drop.fill,風呂
 drop.fill,風呂洗い
+drop.fill,食事の前に水を飲みゆっくり食べる
+drop.fill,食器洗い
+drop.fill,食器片付け。翌朝の食器準備も
 drop.fill,아침에 물 한잔
 drop.fill,🧺洗濯干す
 ear,Biology Class
 ear,Japanese Studies
+ear,TOYO KITCHEN展示会
 ear,シャドーイング
 ear,生物作業
 ear,瞑想
@@ -1806,6 +1954,7 @@ eyeglasses,生薬学タンニン暗記カード作成
 eyeglasses,生薬学記述対策
 eyeglasses,眼科
 eyeglasses,着替え
+eyeglasses,臨床免疫学 確認問題
 eyeglasses,英語
 eyeglasses,英語A
 eyeglasses,製剤設計学 第5回受講
@@ -1826,6 +1975,7 @@ figure.walk,19時歩き
 figure.walk,9時歩き
 figure.walk,Arrive school
 figure.walk,Back to school
+figure.walk,Go Starbucks
 figure.walk,Go home
 figure.walk,Go to beta shop in meguro and ebisu
 figure.walk,Go to work
@@ -1870,7 +2020,10 @@ figure.walk,作業部屋に入る
 figure.walk,保育園お迎え
 figure.walk,出勤
 figure.walk,出発
+figure.walk,出発 仕事へ 住吉バス停から
 figure.walk,出発 仕事へ 浜田バス停
+figure.walk,出発 住吉バス停へ
+figure.walk,出発 住吉～赤迫まで徒歩で
 figure.walk,出発 浜田バス停へ
 figure.walk,出発 浜田バス停～家
 figure.walk,出発‼️
@@ -1927,6 +2080,7 @@ figure.walk,買い物
 figure.walk,買出し
 figure.walk,軽い運動
 figure.walk,通勤
+figure.walk,通学
 figure.walk,運動
 figure.walk,運動&シャワー
 figure.walk,運動●
@@ -1966,9 +2120,11 @@ film.fill,映画
 film.fill,映画”ぼくサバ”
 film.fill,映画を見る
 film.fill,映画鑑賞
+film.fill,月虹 動画共有
 film.fill,朝ドラ👀
 film.fill,桐山さんインタビュー
 film.fill,比較法 録画
+film.fill,🎬ﾍﾞﾙﾌｧｽﾄ @中洲大洋🍨
 flag.fill,Z会ダウンロード
 flag.fill,お風呂
 flag.fill,出発
@@ -1984,6 +2140,7 @@ flame.fill,SPI
 flame.fill,Today’s study planning
 flame.fill,mieyトレ
 flame.fill,training
+flame.fill,うしどき
 flame.fill,お焚き上げ
 flame.fill,お風呂
 flame.fill,イグニス
@@ -2008,6 +2165,7 @@ flame.fill,散歩
 flame.fill,朝家事
 flame.fill,水道料金(au PAYで)
 flame.fill,漢検
+flame.fill,物販
 flame.fill,生物基礎
 flame.fill,筋トレ
 flame.fill,筋トレ、ステッパー
@@ -2023,6 +2181,8 @@ flame.fill,集中！
 flame.fill,🌱燃やせるごみ
 folder.fill,TA書類提出
 folder.fill,まとめ
+folder.fill,キャリタス
+folder.fill,ゴミ出し、炊飯、テーブル拭き、キッチン周り
 folder.fill,ゼミレジュメ作り
 folder.fill,メモをみる
 folder.fill,世界史
@@ -2032,6 +2192,7 @@ folder.fill,午前の仕事整理
 folder.fill,塾
 folder.fill,実験結果まとめ
 folder.fill,実験結果ままとめ
+folder.fill,就活
 folder.fill,探求学習
 folder.fill,教採 関連法規 保存
 folder.fill,数学
@@ -2060,8 +2221,11 @@ gamecontroller.fill,ゲームタイム
 gamecontroller.fill,ゲームログイン
 gamecontroller.fill,ゲーム（あんスタ）
 gamecontroller.fill,ツムツムスコア出し
+gamecontroller.fill,デイリー消化
+gamecontroller.fill,デイリー消化タイム
 gamecontroller.fill,ドラブラ 服
 gamecontroller.fill,リングフィット
+gamecontroller.fill,ログスト収集タイム
 gamecontroller.fill,哲也のrobotics を観に行く
 gamecontroller.fill,息抜き
 gamecontroller.fill,自由
@@ -2072,10 +2236,16 @@ gamecontroller.fill,長距離チャンミ
 gamecontroller.fill,ｱｰｶｲﾌﾞ龍極2⏩#4
 gamecontroller.fill,ﾂｲｷｬｽ😈#3
 gamecontroller.fill,ﾂｲｷｬｽ😈#5
+gamecontroller.fill,ﾂｲｷｬｽ😈#7
+gamecontroller.fill,ﾂｲｷｬｽ😈#8
+gamecontroller.fill,ﾂｲｷｬｽ😈ｺﾗﾎﾞDBD
+gamecontroller.fill,😈2周年🗣雑談メイン
 gearshape.2.fill,Notion稟議
 gearshape.2.fill,WS
+gearshape.2.fill,アカウント管理
 gearshape.2.fill,ブラシのカルドに作ってと勉強して
 gearshape.2.fill,メール返信
+gearshape.2.fill,卒論
 gearshape.2.fill,情報整理
 gearshape.2.fill,掃除機セット
 gearshape.2.fill,施術
@@ -2087,6 +2257,7 @@ gift.fill,ヤマトヤシキ
 gift.fill,ユニクロ母の日買う
 gift.fill,不二家ショートケーキ🍰予約
 gift.fill,友達のプレゼントを作って
+gift.fill,昼ごはん
 gift.fill,朝ごはん・ご飯保温しすぎ注意
 gift.fill,誕生日プレゼント用意
 gift.fill,買い物
@@ -2121,6 +2292,7 @@ globe,東進講座
 globe,模試直し(世)
 globe,直し
 globe,英語
+globe,課題
 guitars,アンサンブル
 guitars,ウクレレ
 guitars,ウクレレに「Fly me to the Moon Remix」を習って
@@ -2151,24 +2323,29 @@ hand.raised.fill,掃除
 hand.raised.fill,準備
 hand.raised.fill,爪を切る
 hand.raised.fill,皿洗い
+hand.raised.fill,筋膜ローラー
+hand.raised.fill,筋膜ローラー & マッサージ
 hand.raised.fill,試験受付★
 hand.thumbsdown.fill,class
 hand.thumbsdown.fill,バイト
 hand.thumbsdown.fill,学校
 hand.thumbsup.fill,atelier du EFFE【アトリエ ドゥ エッフェ】
 hand.thumbsup.fill,フリータイム
+hand.thumbsup.fill,メッセージ
 hand.thumbsup.fill,ライフハックの動画を見る
 hand.thumbsup.fill,レスメイを書いて
 hand.thumbsup.fill,期末テスト
 hand.thumbsup.fill,苦手なやつ
 hand.thumbsup.fill,🕊
 hare.fill,Stretching
+hare.fill,‼️
 hare.fill,はにわ
 hare.fill,まーちゃんのことやる
 hare.fill,ハヤシバス運行用　パーツ準備
 hare.fill,ハヤシバス運行用　パーツ準備及びダイヤ連絡
 hare.fill,バイト
 hare.fill,ランニング
+hare.fill,リラックス
 hare.fill,中等科
 hare.fill,乳歯ケース
 hare.fill,休憩の戦略
@@ -2185,6 +2362,7 @@ hare.fill,移動
 hare.fill,筋トレ
 hare.fill,高校宿題
 headphones,BADモード
+headphones,J-WAVE📻UAゲスト
 headphones,Laurel Hell-Mitski
 headphones,Listen to musicᕷ˖❤︎
 headphones,iPhone 音楽整理
@@ -2217,6 +2395,7 @@ heart.fill,べべと会いましょう
 heart.fill,まだアプデしてないの？
 heart.fill,めざましどようび(北ちゃん)
 heart.fill,ゆかとデート♥️
+heart.fill,りょけ
 heart.fill,りょじくんの印刷
 heart.fill,アナルにルーブは何？
 heart.fill,イラスト、sns
@@ -2250,8 +2429,10 @@ heart.fill,準備
 heart.fill,準備！
 heart.fill,王様のブランチ(北人くん)
 heart.fill,着替え
+heart.fill,着替え準備
 heart.fill,翌日の準備(ヨガも)バッグ。服
 heart.fill,翌日の準備。バッグ。服
+heart.fill,脱毛
 heart.fill,自分時間
 heart.fill,自律神経チェック
 heart.fill,自由時間
@@ -2284,16 +2465,22 @@ house.fill,おじいちゃん家
 house.fill,おばあちゃん家
 house.fill,お帰ります
 house.fill,お風呂
+house.fill,お風呂 さちから
 house.fill,みほんち
 house.fill,アイロン掛け
 house.fill,ゴミ捨て
+house.fill,シャケ 焼く 複数 🐟🔥
 house.fill,トイレを掃除して
 house.fill,メイク
 house.fill,一時帰宅
+house.fill,仕事(在宅)
 house.fill,作業部屋清掃
 house.fill,出かける準備
 house.fill,出発準備
+house.fill,台所カーペット✨掃除機
 house.fill,台所📤仕分🚮掃除✨🧤
+house.fill,味噌汁つくる《 週末 + 平日分 》 / ４食 水500ml + １０食 1400ml
+house.fill,土曜 夜 味噌汁つくる《 週末 + 平日分 》 / ４食 水500ml + １０食 1400ml
 house.fill,夕食
 house.fill,夜家事
 house.fill,実家
@@ -2314,15 +2501,23 @@ house.fill,掃除
 house.fill,掃除機をかける
 house.fill,掃除（床、風呂、トイレ）
 house.fill,支度
+house.fill,既👕取り込み📥
 house.fill,日本アカデミー賞録画
 house.fill,昨日の片付け・朝準備
+house.fill,昼or夕方 味噌汁つくる《 週末 + 平日分 》 / ４食 水500ml + １０食 1400ml
 house.fill,昼食
 house.fill,服を掃除して
 house.fill,朝、生活クラブ出す
 house.fill,朝家事
+house.fill,残🍽洗い物✨🚰 △2/2
+house.fill,残🍽洗い物✨🚰~3/3
+house.fill,残🍽洗い物まとめ✨🚰
 house.fill,洗い物
+house.fill,洗い物🍽残まとめ✨🚰
 house.fill,洗濯
+house.fill,洗濯#1🌀ｿﾌﾄ
 house.fill,洗濯#1👕干し☀️
+house.fill,洗濯#2🌀ｿﾌﾄ
 house.fill,洗濯(ｿﾌﾄ)~👕干し⛅️
 house.fill,洗濯たたむ
 house.fill,洗濯を干す
@@ -2335,18 +2530,22 @@ house.fill,洗濯物を干す
 house.fill,洗濯物を畳む
 house.fill,洗濯物👕干し
 house.fill,洗濯物👕干し☀️
+house.fill,洗濯物👕干し🌆
 house.fill,洗濯🌀
 house.fill,洗濯🌀#1~干し☀️
 house.fill,洗濯🌀#2~干し☀️
 house.fill,洗濯🌀~干し☀️
 house.fill,洗濯🌀干し☀️
+house.fill,洗濯🌀標準
 house.fill,洗濯🌀ｿﾌﾄ
+house.fill,洗面所ﾏｯﾄ✨掃除機
 house.fill,浜尻家
 house.fill,準備
 house.fill,準備など
 house.fill,片付け
 house.fill,登校
 house.fill,真空をして
+house.fill,私部屋✨掃除機
 house.fill,窓掃除
 house.fill,荷造り
 house.fill,達也君の家
@@ -2354,6 +2553,7 @@ house.fill,部屋の片付け
 house.fill,部屋掃除
 house.fill,食器洗い
 house.fill,👵🏻冬🐏服👖一部📥
+house.fill,👵🏻部屋✨掃除機
 house.fill,👵🏻部屋✨🧹
 house.fill,📤衣👵🏻替え📥
 house.fill,🚶‍♀️💦🏘百年橋🛣から
@@ -2384,6 +2584,7 @@ keyboard,オンデマンド授業
 keyboard,キッズCG
 keyboard,サブスク 2305 3/23-5/31
 keyboard,サブスク2305 3/23-5/31 @375
+keyboard,タイピング練習
 keyboard,ダイビングを練習して
 keyboard,テクノロジア
 keyboard,トイボックスブログ更新
@@ -2415,6 +2616,8 @@ keyboard,計算機基礎
 keyboard,課題やる
 keyboard,集中力のいる重要な仕事
 keyboard,ＴＯＫの宿題をして
+leaf.fill,Birthday カウントダウン
+leaf.fill,Birthdayルームであるという事の説明
 leaf.fill,I’ll be RB
 leaf.fill,Optimized time
 leaf.fill,Stretch
@@ -2440,6 +2643,7 @@ leaf.fill,不動産屋へ行って物件の内覧
 leaf.fill,休憩
 leaf.fill,休憩・歯磨き
 leaf.fill,休日
+leaf.fill,地理総合
 leaf.fill,塾課題I
 leaf.fill,夕食
 leaf.fill,夜ご飯
@@ -2456,10 +2660,14 @@ leaf.fill,自由
 leaf.fill,自由時間
 leaf.fill,部屋の掃除
 leaf.fill,部屋掃除
+leaf.fill,醤油さん Birthday ルーム 開始
+leaf.fill,醤油さんBirthday
 leaf.fill,화장실
 lightbulb.fill,Nestwork 方向転換
 lightbulb.fill,[対面]プラズマ談話会
 lightbulb.fill,【 5/18(水)12時〆切 】保存化学原論レポート【2000字】！！！！！ / ざっくり書き出す！！
+lightbulb.fill,【(月)17時 】〆切 芸術文化原論 レポート / ざっくり全体書いてみる(推敲は後で)
+lightbulb.fill,【(月)17時 】〆切 芸術文化原論 レポート / ざっくり全体書ききる
 lightbulb.fill,【(月)17時 】〆切 芸術文化原論 レポート / ざっくり書き出す
 lightbulb.fill,【(月)17時〆切】芸術文化原論レポート / 加筆修正・完成→提出
 lightbulb.fill,【5/25(水)12時〆切】保存化学原論レポート【2000字】！！！/ まとめる
@@ -2469,12 +2677,15 @@ lightbulb.fill,スタンプマスキング検討
 lightbulb.fill,リポート
 lightbulb.fill,レポートアイデア出したり
 lightbulb.fill,レポートアイデア出せたらいいな〜
+lightbulb.fill,今自分に関してやりたいこと
 lightbulb.fill,保存化学原論レポート_アイデア
 lightbulb.fill,打ち合わせ
 lightbulb.fill,柔軟
 lightbulb.fill,発想｜思考｜分析｜土・日
 lightbulb.fill,発想｜思考｜分析｜月〜金
 lightbulb.fill,約束
+lightbulb.fill,芸術文化レポ【提出】する！！
+lightbulb.fill,芸術文化原論 レポート
 lightbulb.fill,芸術文化原論 レポート / ざっくり書き出す
 link,10分タスクチェック
 link,METAL GEAR RISING
@@ -2493,10 +2704,12 @@ location.fill,図書館　本
 location.fill,帰宅
 location.fill,登校
 lock.fill,Avail
+lock.fill,朝の準備
 magnifyingglass,最終確認
 magnifyingglass,質問調べる
 map.fill,単語テスト
 map.fill,古典
+map.fill,地理学
 map.fill,支払い
 mdi.airplane.landing,Move
 mdi.airplane.takeoff,世界遺産
@@ -2508,6 +2721,7 @@ mdi.alcohol,satomi&shuto
 mdi.alcohol,ごはん
 mdi.alcohol,バー
 mdi.alcohol,夕食
+mdi.alcohol,夜ごはん
 mdi.alcohol,苫小牧ゴーゴー食堂
 mdi.bike,biciklo
 mdi.bike,hejmenveni [biciklo]
@@ -2527,6 +2741,7 @@ mdi.bike,バイト準備/移動
 mdi.bike,バイト準備・移動
 mdi.bike,出勤
 mdi.bike,出発
+mdi.bike,出社
 mdi.bike,学校
 mdi.bike,家
 mdi.bike,家に帰る
@@ -2563,6 +2778,7 @@ mdi.buggy,バイト
 mdi.buggy,ミルク
 mdi.buggy,亘おくる
 mdi.buggy,保育園お迎え
+mdi.buggy,保育園送迎
 mdi.buggy,出掛ける準備
 mdi.buggy,出掛け準備
 mdi.buggy,昼寝
@@ -2579,6 +2795,7 @@ mdi.bus,migri
 mdi.bus,transportation
 mdi.bus,お迎え
 mdi.bus,こうちゃんお迎え
+mdi.bus,こうちゃん送り
 mdi.bus,バス
 mdi.bus,バス移動
 mdi.bus,出発
@@ -2588,6 +2805,7 @@ mdi.bus,家に帰る
 mdi.bus,帰宅
 mdi.bus,星ヶ丘→高畑
 mdi.bus,東70
+mdi.bus,渋谷区役所▶︎笹塚
 mdi.bus,無料バス
 mdi.bus,登校
 mdi.bus,移動
@@ -2599,7 +2817,9 @@ mdi.bus,通勤
 mdi.bus,通学
 mdi.bus,郡山→J village
 mdi.bus,長崎バス 12:39住吉～浜田
+mdi.bus,長崎バス 12:49住吉～浜田
 mdi.bus,長崎バス 12:50赤迫～浜田
+mdi.bus,長崎バス 12:50赤迫～浜田 4分遅れ
 mdi.bus,長崎バス 13:00発赤迫～浜田
 mdi.bus,長崎バス 18:03住吉～浜田
 mdi.bus,長崎バス 18:13住吉～浜田
@@ -2612,6 +2832,7 @@ mdi.bus,電車
 mdi.bus,電車に乗る
 mdi.bus,電車乗る
 mdi.bus,麻17
+mdi.couch,Delivery
 mdi.couch,休憩
 mdi.couch,休憩(長)
 mdi.couch,夜ご飯
@@ -2624,14 +2845,18 @@ mdi.ev.station,ガソリンスタンド
 mdi.gas.station,PB記事執筆
 mdi.gas.station,ガソリン
 mdi.gas.station,乙4の勉強
+mdi.gas.station,仕事
+mdi.gas.station,休憩
 mdi.gas.station,昼ご飯
 mdi.instagram,Instagram更新(コスメ)
 mdi.instagram,SNS
 mdi.instagram,SNSチェック
+mdi.instagram,家計簿
 mdi.instagram,発信♡LIVE
 mdi.instagram,目黒川に行って桜を撮影する
 mdi.instagram,英語のアプリ
 mdi.instagram,２投稿目
+mdi.mountain,"02-3,4"
 mdi.mountain,5:地理
 mdi.mountain,"6,15:地理"
 mdi.mountain,6.45:地理
@@ -2662,6 +2887,7 @@ mdi.pharmacy,墨東病院
 mdi.pharmacy,棚卸し
 mdi.pharmacy,歯医者
 mdi.pharmacy,歯医者　定期検診
+mdi.pharmacy,歯科
 mdi.pharmacy,治療準備の進行チェック
 mdi.pharmacy,渡邉先生診察
 mdi.pharmacy,漢方飲む《夜》
@@ -2685,6 +2911,7 @@ mdi.relax,ママ遺品整理
 mdi.relax,メディテーション
 mdi.relax,ヨガ
 mdi.relax,休憩
+mdi.relax,夕飯準備休憩
 mdi.relax,夜桜
 mdi.relax,尻トレ
 mdi.relax,成人の日
@@ -2702,9 +2929,12 @@ mdi.running,3km法特莱克跑➕拉伸(KEEP)
 mdi.running,Back home
 mdi.running,FitCoach 顔＆7分
 mdi.running,Go to the Tate !!
+mdi.running,Gym
 mdi.running,HIIT
+mdi.running,Leave for booster jab !
 mdi.running,Leave for london Liverpool Street !!
 mdi.running,Leave for seminar !!
+mdi.running,Leave to meet Olive !!
 mdi.running,Meet dad @ Liverpool St !!
 mdi.running,Rugby
 mdi.running,Seria
@@ -2729,11 +2959,14 @@ mdi.running,トレーニング
 mdi.running,ドライヤー・明日の準備
 mdi.running,バイクに乗る
 mdi.running,バイト
+mdi.running,バス
 mdi.running,バス停まで歩く
 mdi.running,ビーイング
 mdi.running,マッサージ&トレーニング
 mdi.running,ラグビー
+mdi.running,ラン
 mdi.running,ランニング
+mdi.running,ランニング & 縄跳び
 mdi.running,体操
 mdi.running,出発
 mdi.running,出発 仕事へ 浜田バス停
@@ -2788,11 +3021,14 @@ mdi.school,College English
 mdi.school,Duolingo English Test
 mdi.school,ENL復習
 mdi.school,Focus Gold ⅡB
+mdi.school,HA講師-授業
+mdi.school,HA講師_プレ授業
 mdi.school,Hausarbeit
 mdi.school,ITパスポート
 mdi.school,Learning on shooting
 mdi.school,Let’s study!
 mdi.school,QB勉強
+mdi.school,SEⅡ
 mdi.school,SPI
 mdi.school,School
 mdi.school,Study
@@ -2878,6 +3114,7 @@ mdi.school,単位認定試験の早見表を作る
 mdi.school,口语
 mdi.school,古典　勉強
 mdi.school,古文書学
+mdi.school,図書館
 mdi.school,図書館演習
 mdi.school,国試勉強（在宅）
 mdi.school,国語
@@ -2907,6 +3144,7 @@ mdi.school,情報資源組織論Ⅱ
 mdi.school,授業
 mdi.school,授業: ことばと文化 Ⅱ
 mdi.school,撮影技術
+mdi.school,放送大学
 mdi.school,政治史
 mdi.school,教科書
 mdi.school,教職教養　暗記
@@ -2915,6 +3153,8 @@ mdi.school,数I
 mdi.school,数学
 mdi.school,新入生ガイダンス
 mdi.school,新入生歓迎会 ガイダンス
+mdi.school,日本政治外交史
+mdi.school,日本法制史
 mdi.school,日本語のしくみ
 mdi.school,日本語をべんきょうする
 mdi.school,春休み
@@ -2934,9 +3174,13 @@ mdi.school,物理基礎　プリント
 mdi.school,物理数学Ⅱ
 mdi.school,現代文一問
 mdi.school,現社
+mdi.school,環境とまちづくり
+mdi.school,環境化学
+mdi.school,環境経済論
 mdi.school,生化学 Webclass
 mdi.school,生化学講義資料
 mdi.school,生徒指導論
+mdi.school,生態学I
 mdi.school,生物
 mdi.school,研究
 mdi.school,答案作成ゼミナール
@@ -2945,9 +3189,11 @@ mdi.school,総英勉強
 mdi.school,美術I  303
 mdi.school,考古学
 mdi.school,自治体情報収集
+mdi.school,芸術文化原論レポートアイデア
 mdi.school,英単語
 mdi.school,英語
 mdi.school,英語　関先生
+mdi.school,英語に親しむ
 mdi.school,英論表Workbook5章まで
 mdi.school,英语单词/听力
 mdi.school,行政法
@@ -2963,6 +3209,8 @@ mdi.school,論文模写
 mdi.school,論文読解
 mdi.school,講義
 mdi.school,講義消化
+mdi.school,連続体力学
+mdi.school,金融商品取引法
 mdi.school,集中練
 mdi.subway,Train
 mdi.subway,Train to parcel
@@ -2977,8 +3225,10 @@ mdi.subway,七草→戸隠
 mdi.subway,下校
 mdi.subway,出勤
 mdi.subway,出勤移動
+mdi.subway,地下鉄
 mdi.subway,学校
 mdi.subway,家→大学
+mdi.subway,帰る
 mdi.subway,帰宅
 mdi.subway,帰宅移動
 mdi.subway,登校
@@ -3012,6 +3262,7 @@ mic.fill,イチナナ
 mic.fill,カラオケ
 mic.fill,ボイスアクティブを勉強して
 mic.fill,電話
+moon.fill,(-_-)zzz
 moon.fill,Go to bed
 moon.fill,Good night
 moon.fill,Good night!
@@ -3040,6 +3291,7 @@ moon.fill,今日も素晴らしい1日だったなぁ
 moon.fill,仮眠
 moon.fill,夕食 初代 秀ちゃん
 moon.fill,夕食準備、夕食
+moon.fill,夕食準備、夕食ペペロンチーノ
 moon.fill,夕飯つくる食べる
 moon.fill,夢100イベ+デイリー
 moon.fill,夢100イベ+王子スト読む
@@ -3065,6 +3317,7 @@ moon.zzz.fill,Night routine
 moon.zzz.fill,Sleep
 moon.zzz.fill,Sweet Dreams.
 moon.zzz.fill,おくすりをのむ！\(\‘-‘*)
+moon.zzz.fill,おひるね
 moon.zzz.fill,おやすみなさい
 moon.zzz.fill,おやすみなさい！
 moon.zzz.fill,くっ
@@ -3104,9 +3357,12 @@ music.mic,モンパレ物販
 music.mic,ライブ
 music.mic,原稿
 music.mic,配信
+music.note,AbemaTV🎶METROCK🎤BiSH 途中から
 music.note,AirPods Proケースを買う
 music.note,Music meeting
 music.note,NHK-FM📻ABBA三昧
+music.note,Stretch
+music.note,Sunday Songbook
 music.note,アカペラ練習
 music.note,ウクレレ練習
 music.note,キーボ耳コピ
@@ -3142,11 +3398,15 @@ music.note,練習
 music.note,練習 フルート
 music.note,練習　フルート
 music.note,自由時間
+music.note,葉月♫ﾌﾟﾚﾐｱ公開
 music.note,買い物
 music.note,部活
 music.note,音楽●
 music.note,音楽✅
 music.note,音楽講座
+music.note,ｱｰｶｲﾌﾞ〆⚠️FAN CLUB🎸ｲｰｽﾀﾝ×ﾅﾝﾊﾞｶﾞ◉
+music.note,ｱｰｶｲﾌﾞ〆明日⚠️FAN CLUB🎸ｲｰｽﾀﾝ×ﾅﾝﾊﾞｶﾞ◉
+music.note,ｱｰｶｲﾌﾞ明日〆⚠️FAN CLUB🎸ｲｰｽﾀﾝ×ﾅﾝﾊﾞｶﾞ◉
 music.note,ｱﾝ・ｻﾘｰ🎤ｱｰｶｲﾌﾞ◉曲毎
 mustache.fill,HUB TO DO
 mustache.fill,Studytable organize
@@ -3154,6 +3414,7 @@ mustache.fill,study➰
 mustache.fill,toeic
 mustache.fill,アンキに勉強して
 mustache.fill,コミュ英期末間違いノート
+mustache.fill,トイレ
 mustache.fill,フラシュのカードを勉強して
 mustache.fill,フランス語のクラス
 mustache.fill,フランス語のノート：「109 → 111」
@@ -3164,6 +3425,7 @@ mustache.fill,結婚❤︎
 newspaper.fill,Docs準備
 newspaper.fill,FE1
 newspaper.fill,HSK勉強
+newspaper.fill,SPI
 newspaper.fill,Z会
 newspaper.fill,[fbf] anthology
 newspaper.fill,docomo
@@ -3175,6 +3437,7 @@ newspaper.fill,さなる
 newspaper.fill,てすと
 newspaper.fill,ケース問題の勉強スケジュール
 newspaper.fill,ケース面接対策
+newspaper.fill,ココルポート AM
 newspaper.fill,シュタフィル事務
 newspaper.fill,タスク設定/朝の準備
 newspaper.fill,ターゲット
@@ -3182,19 +3445,25 @@ newspaper.fill,テキスト校正
 newspaper.fill,デスクワーク
 newspaper.fill,ニュース
 newspaper.fill,ニュースチェック
+newspaper.fill,マコと何するか？考える
 newspaper.fill,ワーク
 newspaper.fill,世界史
+newspaper.fill,中国文学講読
 newspaper.fill,中間発表資料制作
 newspaper.fill,今日の記録・明日の予定立て
 newspaper.fill,仕事
+newspaper.fill,代数問題集
 newspaper.fill,会長タブレット台数返事待ち
+newspaper.fill,作問
 newspaper.fill,作業
 newspaper.fill,内部質保証
 newspaper.fill,勉強
 newspaper.fill,卒論
+newspaper.fill,原稿
 newspaper.fill,古典予習　大江山
 newspaper.fill,図書館情報技術論
 newspaper.fill,図書館情報資源論
+newspaper.fill,国文学演習Ⅰ(八)
 newspaper.fill,国語
 newspaper.fill,学年目標のWord
 newspaper.fill,学校の宿題
@@ -3212,15 +3481,20 @@ newspaper.fill,数学
 newspaper.fill,文芸創作実習
 newspaper.fill,松竹ES
 newspaper.fill,測量野帳
+newspaper.fill,生化学
 newspaper.fill,生協
 newspaper.fill,生物
 newspaper.fill,生理学
+newspaper.fill,生理学　授業の理解！
+newspaper.fill,病理学
 newspaper.fill,短答
 newspaper.fill,総合A①発表物作成
 newspaper.fill,英文小说阅读
 newspaper.fill,英文法演習Ⅰ
 newspaper.fill,英語
 newspaper.fill,英語の勉強
+newspaper.fill,解剖生理学レポート
+newspaper.fill,解剖生理学レポート印刷
 newspaper.fill,計画
 newspaper.fill,読書
 newspaper.fill,課題
@@ -3229,11 +3503,13 @@ newspaper.fill,資料読み込む
 newspaper.fill,近代詩歌論
 newspaper.fill,週間スケジュールの作成
 newspaper.fill,運動学
+newspaper.fill,運動学　テスト勉強
 newspaper.fill,過去問 衝突
 newspaper.fill,金 College English 課題
 newspaper.fill,長文/2days
 newspaper.fill,雑務
 newspaper.fill,１日の計画や簡単な仕事
+noun.coffee,(暑い🥵ので少しずつ)
 noun.coffee,10:45-12:50
 noun.coffee,BP
 noun.coffee,Breakfast
@@ -3263,6 +3539,7 @@ noun.coffee,しょうが紅茶
 noun.coffee,たっくんミルク&歯磨き
 noun.coffee,ちょっとコーヒー&読書
 noun.coffee,ちょっとコーヒー休憩
+noun.coffee,ぼわー👂治り待ち☕️
 noun.coffee,ゆったり名簿確認、まとめたり
 noun.coffee,アール座読書館で今後について考える
 noun.coffee,カフェ
@@ -3277,6 +3554,8 @@ noun.coffee,コーヒーラボで昼食・勉強
 noun.coffee,スタバ
 noun.coffee,タバコ作り
 noun.coffee,タリーズ
+noun.coffee,ティータイム
+noun.coffee,フリータイム
 noun.coffee,ブレイク
 noun.coffee,ホットアイマスク
 noun.coffee,モーニングルーティン
@@ -3298,6 +3577,7 @@ noun.coffee,新聞を読む
 noun.coffee,日記
 noun.coffee,昼ごはん
 noun.coffee,昼ご飯
+noun.coffee,昼休み
 noun.coffee,昼食
 noun.coffee,晚饭
 noun.coffee,朝ごはん
@@ -3315,12 +3595,14 @@ noun.coffee,朝食🌡
 noun.coffee,洗顔、ドリンク準備
 noun.coffee,洗顔、ドリンク用意
 noun.coffee,準備
+noun.coffee,献立、日記、家計簿
 noun.coffee,白湯
 noun.coffee,白湯、コーヒー
 noun.coffee,白湯を沸かす
 noun.coffee,白湯を飲む
 noun.coffee,私☕️おやつ😋
 noun.coffee,職人☕️珈琲
+noun.coffee,自由な時間。                  献立、日記、家計簿
 noun.coffee,自由時間
 noun.coffee,自由時間 本屋行くかカフェでゆっくりする
 noun.coffee,自由時間｜月〜金
@@ -3333,17 +3615,22 @@ noun.coffee,食事
 noun.coffee,飲みもの
 noun.coffee,🍨😋
 noun.coffee,🍩😋
+noun.coffee,👵🏻に 残☕️森彦
 noun.coffee,👵🏻昼🥟準備
 noun.coffee,👵🏻朝食🐟準備
 noun.coffee,👵🏻朝食🥐準備
 noun.coffee,📻相談👂／👵🏻昼準備
 noun.coffee,📻相談👂／👵🏻昼🍚準備
 noun.coffee,😋
+noun.coffee,🥯昼食❓😋
+noun.coffee,🥯😋
 noun.meal,BREAKFAST
 noun.meal,Breakfast
 noun.meal,Breakfast and Lunch
 noun.meal,DINNER
 noun.meal,Dinner
+noun.meal,Eat Breakfast
+noun.meal,Eat Lunch
 noun.meal,Have a lunch
 noun.meal,LUNCH
 noun.meal,Lunch
@@ -3394,6 +3681,7 @@ noun.meal,ひるごはん with AB研
 noun.meal,めし
 noun.meal,やっぱり食べるのが一番幸せ〜^_^
 noun.meal,アフタヌーンティー
+noun.meal,エオカフェ
 noun.meal,ゴハン
 noun.meal,タ食＆お風呂
 noun.meal,ディナー
@@ -3418,6 +3706,7 @@ noun.meal,夕ごはん
 noun.meal,夕ご飯
 noun.meal,夕食
 noun.meal,夕食 ＆ 食器洗い
+noun.meal,夕食+薬
 noun.meal,夕食を食べる
 noun.meal,夕食・休憩
 noun.meal,夕食作り
@@ -3440,6 +3729,7 @@ noun.meal,支度
 noun.meal,料理
 noun.meal,料理+食事
 noun.meal,日曜日飲食
+noun.meal,明太クリーム生パスタ作った
 noun.meal,春ご飯
 noun.meal,昼
 noun.meal,昼ごはん
@@ -3482,6 +3772,7 @@ noun.meal,食事など
 noun.meal,食事制限
 noun.meal,食事記録
 noun.meal,食器
+noun.meal,食器洗い
 noun.meal,食器洗う
 noun.meal,飯
 noun.meal,飲み会
@@ -3507,6 +3798,7 @@ number,ストレッチ
 number,バイト
 number,フリータイム
 number,多職種連携
+number,小説構成
 number,文章指導
 number,春期講習
 number,準備
@@ -3528,6 +3820,7 @@ paintbrush.fill,原稿
 paintbrush.fill,掃除
 paintbrush.fill,準備
 paintbrush.fill,片付け
+paintbrush.fill,絵
 paintbrush.fill,電話をテザオンして
 paintbrush.pointed.fill,AFJの作業
 paintbrush.pointed.fill,Art
@@ -3591,6 +3884,7 @@ paperclip,勉強
 paperclip,大学に行く
 paperclip,手帳タイム
 paperclip,振り返り＆目標
+paperclip,数学A宿題
 paperclip,河村マンション連絡
 paperclip,読書
 paperclip,進捗報告
@@ -3680,6 +3974,7 @@ pencil.and.outline,数的処理①
 pencil.and.outline,数的処理④
 pencil.and.outline,日記
 pencil.and.outline,日記を書く
+pencil.and.outline,書類　染宮
 pencil.and.outline,本の感想を書く
 pencil.and.outline,民法
 pencil.and.outline,漢字を勉強と書いて
@@ -3709,8 +4004,10 @@ person.2.fill,Meet
 person.2.fill,Planet zoom
 person.2.fill,Scc
 person.2.fill,あきら
+person.2.fill,ご飯
 person.2.fill,まなみ
 person.2.fill,みんさん
+person.2.fill,もふくのクリーニング
 person.2.fill,もふくの用意
 person.2.fill,サンリオピューロランド
 person.2.fill,ゼミ
@@ -3723,6 +4020,8 @@ person.2.fill,写部会
 person.2.fill,初音ちゃんと勉強会
 person.2.fill,加藤君打合せ
 person.2.fill,告別式
+person.2.fill,四十九曰手みやげ手配
+person.2.fill,大学
 person.2.fill,学校
 person.2.fill,学相
 person.2.fill,小嶋さま　打合　御殿場
@@ -3762,6 +4061,7 @@ person.3.fill,しゅん🍰
 person.3.fill,すとうぃず説明会
 person.3.fill,たき&ViViオンラインセミナー
 person.3.fill,クリスマスマーケット
+person.3.fill,グループ配信用　お金の授業
 person.3.fill,ゼミ
 person.3.fill,ゼミの話し合い
 person.3.fill,チームショートカンファ
@@ -3806,6 +4106,7 @@ person.fill,INCLUSIVE 人事面談
 person.fill,SHR
 person.fill,あき：話すこと
 person.fill,スケジュール・日記
+person.fill,デボーション
 person.fill,レンタカー返却
 person.fill,伊藤咲
 person.fill,到着
@@ -3838,7 +4139,10 @@ phone.fill,予約
 phone.fill,勉強会
 phone.fill,小澤さんに電話
 phone.fill,岡崎に電話
+phone.fill,年金事務所予約
 phone.fill,携帯
+phone.fill,晟眞 アポ練
+phone.fill,法事食事の手配
 phone.fill,病院へ電話
 phone.fill,税理士事務所電話
 phone.fill,通話
@@ -3892,6 +4196,7 @@ pills.fill,ピル、サプリ
 pills.fill,一週間分の薬をケースに入れる
 pills.fill,亜鉛·ﾋﾞﾀﾐﾝ
 pills.fill,勉強
+pills.fill,寝る前 薬
 pills.fill,座薬を入れる
 pills.fill,服薬
 pills.fill,服薬 NIDDM
@@ -3901,6 +4206,8 @@ pills.fill,注射とお薬
 pills.fill,漢方・基礎体温
 pills.fill,病院(花粉症)
 pills.fill,発達@ﾌｼﾞﾍﾞ先生🧑🏻‍🏫
+pills.fill,矯正 & 買い物
+pills.fill,移動（→矯正）
 pills.fill,精神科
 pills.fill,薬
 pills.fill,薬NIDDM
@@ -3909,6 +4216,7 @@ pills.fill,薬を飲む
 pills.fill,薬を飲む&化粧水
 pills.fill,薬を飲む2錠
 pills.fill,薬学への招待
+pills.fill,薬学数学
 pills.fill,薬局バイト
 pills.fill,薬飲む
 pills.fill,面倒でも忘れずにね💊💙
@@ -3925,11 +4233,13 @@ pin.fill,FP3級第1〜3章
 pin.fill,SPI型模擬試験受験料
 pin.fill,habitfyの準備
 pin.fill,ご飯作り
+pin.fill,クリーニング取りに行く
 pin.fill,レイアウト変更と片付け
 pin.fill,効果測定
 pin.fill,宿題
 pin.fill,就活
 pin.fill,履修登録
+pin.fill,手技
 pin.fill,振り返りノート
 pin.fill,日程確認　企業調べ
 pin.fill,洗濯
@@ -3943,6 +4253,9 @@ play.rectangle.fill,BBC：Lingohack
 play.rectangle.fill,COM🎶AC
 play.rectangle.fill,Hulu
 play.rectangle.fill,KBS 뉴스
+play.rectangle.fill,TVer📱視聴⏩👀
+play.rectangle.fill,TVer📱視聴⏩👀 ⚠️23:54〆
+play.rectangle.fill,TVer📱視聴⏩👀 ⚠️23:59〆
 play.rectangle.fill,V最協カスタム
 play.rectangle.fill,V最協本番
 play.rectangle.fill,YouTube
@@ -3950,6 +4263,8 @@ play.rectangle.fill,Youtubeを見る
 play.rectangle.fill,□_(‘-‘*_)メモ@べん
 play.rectangle.fill,「鎌倉殿の13人」視聴
 play.rectangle.fill,「関ジャム」視聴
+play.rectangle.fill,ごはん&リス活タイム
+play.rectangle.fill,ごはん&リラックスタイム
 play.rectangle.fill,ななにー🗺 ｱｰｶｲﾌﾞ〆
 play.rectangle.fill,まいにちスペイン語初級編
 play.rectangle.fill,まいにちスペイン語応用編
@@ -3958,12 +4273,14 @@ play.rectangle.fill,まだアプデしてないの？（過去回）
 play.rectangle.fill,アニメ
 play.rectangle.fill,ダラダラ
 play.rectangle.fill,ドラマ
+play.rectangle.fill,ニコライ
 play.rectangle.fill,ニュースで学ぶ「現代英語」
 play.rectangle.fill,ボキャブライダー
 play.rectangle.fill,ミステリみる
 play.rectangle.fill,メディアスクーリング
 play.rectangle.fill,ユウツブ
 play.rectangle.fill,ラジオ英会話
+play.rectangle.fill,リラックスタイム
 play.rectangle.fill,動画
 play.rectangle.fill,団長🥼ぶう🏥V系 ｱｰｶｲﾌﾞ
 play.rectangle.fill,団長🥼ぶう🏥V系トーク録画◉~圧縮
@@ -3981,8 +4298,10 @@ play.rectangle.fill,뉴스
 power,FREEDOM ON!
 power,Osu!
 power,やる気スイッチオン！
+power,オフ
 power,役場に書類取り行く
 power,自由
+power,起床
 printer.fill,ホロスコープ資料印刷
 printer.fill,写真プリント
 printer.fill,席次表印刷
@@ -4008,6 +4327,7 @@ scanner.fill,鎌ヶ谷に帰る準備
 scissors,Stitch on a dress
 scissors,TAYAカラー
 scissors,WATONA
+scissors,minimo
 scissors,サロン
 scissors,ステッカーを作って
 scissors,ブックカバー作成
@@ -4030,6 +4350,7 @@ shippingbox.fill,クロネコ
 shippingbox.fill,ジモティー出品
 shippingbox.fill,ダスキン交換
 shippingbox.fill,ドライヤー届く
+shippingbox.fill,バイト
 shippingbox.fill,プレゼント注文
 shippingbox.fill,メルカリ
 shippingbox.fill,メルカリ便包装
@@ -4050,9 +4371,12 @@ shippingbox.fill,昼ごはん
 shippingbox.fill,溜まった📦袋詰め🚮
 shippingbox.fill,溜まった📦解体✂️袋詰め🚮
 shippingbox.fill,片付け
+shippingbox.fill,着📦収納📥
 shippingbox.fill,着📦収納📥箱✂️解体🚮
 shippingbox.fill,荷物受け取り
+shippingbox.fill,荷物受取
 shippingbox.fill,荷造り
+shippingbox.fill,解体📦大袋詰め🚮
 shippingbox.fill,部屋の片付け
 shippingbox.fill,ﾖﾄﾞﾊﾞｼ全着📦畳み纏め
 shippingbox.fill,ﾖﾄﾞﾊﾞｼ大量📦着📥収納✂️段ﾎﾞ解体🚮
@@ -4063,6 +4387,7 @@ signature,Labo
 signature,SONYSIMカード設定動作確認
 signature,sign宿題
 signature,~関数　復習
+signature,くずし字
 signature,そろばんの宿題
 signature,でゅおりんごる
 signature,アマゾン毎日報告書にワクチン便ダイヤ追加
@@ -4077,17 +4402,21 @@ signature,内省·計画·目標ｼｰﾄ
 signature,勉強
 signature,塾の宿題
 signature,授業
+signature,数A
+signature,数Ⅰ
 signature,数学
 signature,文法
 signature,漢検試験
 signature,絵本制作
 signature,製作
+smiley.fill,5分片づけ
 smiley.fill,Make compass tree
 smiley.fill,Oliver 朝ご飯
 smiley.fill,Preparation to open
 smiley.fill,Yoga & Meditation
 smiley.fill,あんでるせん
 smiley.fill,お弁当詰め
+smiley.fill,お昼ご飯&休憩
 smiley.fill,お迎え
 smiley.fill,お骨上げ
 smiley.fill,ご褒美タイム
@@ -4101,11 +4430,15 @@ smiley.fill,やること
 smiley.fill,ガレージの掃除
 smiley.fill,キッチンの掃き掃除
 smiley.fill,キッチン掃除
+smiley.fill,クレンジング。スキンケア。保湿💧
+smiley.fill,サマポケ集荷　着物
 smiley.fill,スキンケア
 smiley.fill,スキンケア、保湿💧
+smiley.fill,スキンケア、保湿💧パック10分
 smiley.fill,スキンケア。保湿💧
 smiley.fill,ストレッチ
 smiley.fill,セット
+smiley.fill,セルフチック
 smiley.fill,トイレ
 smiley.fill,トイレ掃除
 smiley.fill,トースターの掃除
@@ -4122,6 +4455,7 @@ smiley.fill,子どもの着替え
 smiley.fill,寝る前ルーチン
 smiley.fill,寝室の掃除
 smiley.fill,寝室の風呂場掃除
+smiley.fill,岡本
 smiley.fill,帰宅後、クレンジング。スキンケア。保湿💧
 smiley.fill,手話
 smiley.fill,掃除
@@ -4145,13 +4479,16 @@ smiley.fill,降園片付け
 smiley.fill,顔
 smiley.fill,🫠🫶🏻🫥
 speedometer,Tachiya
+speedometer,おわり
 speedometer,バイト
 speedometer,パジャマ回収
 speedometer,休憩
 speedometer,体重測定
 speedometer,学校
 speedometer,昼ご飯
+speedometer,朝家事
 speedometer,準備
+speedometer,酸素カプセル
 sportscourt.fill,Basketball
 sportscourt.fill,バスケ
 sportscourt.fill,バスケットの練習
@@ -4159,9 +4496,12 @@ sportscourt.fill,フットサル
 sportscourt.fill,筋トレ
 sportscourt.fill,部活
 star.fill,1日の反省
+star.fill,7
+star.fill,Dmm英会話
 star.fill,てすと
 star.fill,スキンケア
 star.fill,ダンス
+star.fill,ハレルヤ入縞
 star.fill,モーニングルーティーン
 star.fill,今日のTODO
 star.fill,仕事場到着
@@ -4187,6 +4527,7 @@ stethoscope,PCR検査
 stethoscope,さのうぃめんず
 stethoscope,もろメンタルクリニック
 stethoscope,やました甲状腺病院
+stethoscope,リハビリ
 stethoscope,ワクチン
 stethoscope,予防接種
 stethoscope,健康管理
@@ -4195,6 +4536,7 @@ stethoscope,健康診断@15号館
 stethoscope,内科行く
 stethoscope,医業
 stethoscope,医者に行く
+stethoscope,射水市民病院
 stethoscope,心療内科
 stethoscope,救急当番
 stethoscope,東部済生会　前立腺癌
@@ -4207,6 +4549,7 @@ stethoscope,産婦人科
 stethoscope,病院
 stethoscope,皮膚科
 stethoscope,眼科
+stethoscope,腹痛
 stethoscope,身体検査
 stethoscope,身体測定、血圧チェック
 stethoscope,🏥へ
@@ -4266,10 +4609,12 @@ sun.max.fill,朝ののんびり
 sun.max.fill,朝のルーティン
 sun.max.fill,朝の支度
 sun.max.fill,朝の準備
+sun.max.fill,朝の用意
 sun.max.fill,朝スキンケア
 sun.max.fill,朝ルーティン
 sun.max.fill,朝活
 sun.max.fill,朝活(私が担当！)
+sun.max.fill,朝活221
 sun.max.fill,朝練
 sun.max.fill,朝食
 sun.max.fill,洗濯
@@ -4317,15 +4662,18 @@ sunrise.fill,荷物作り
 sunrise.fill,起きる
 sunrise.fill,起床
 sunset.fill,Abend Routine
+sunset.fill,good morning☀️
 sunset.fill,おやすみ
 sunset.fill,ストレッチ
 sunset.fill,ナイトルーティン
 sunset.fill,ナイトルーティーン
+sunset.fill,一回目の目覚ましで起きれるかな？
 sunset.fill,夕方ルーティン
 sunset.fill,夕方ルーティン(ショート)
 sunset.fill,夜の日課
 sunset.fill,明日の予定を決める
 sunset.fill,朝食準備
+sunset.fill,朝食準備、お弁当準備
 sunset.fill,消灯
 sunset.fill,睡眠
 sunset.fill,退勤 ログアウト
@@ -4335,6 +4683,8 @@ tag.fill,単語
 tag.fill,学習指導案
 tag.fill,東大現代文
 tag.fill,洗濯
+tag.fill,洗濯機回す
+tag.fill,洗濯機回す→干す
 tag.fill,準備
 tag.fill,重要度マーク
 text.badge.checkmark,2.6 / 2.7 bio worksheet
@@ -4367,6 +4717,7 @@ text.badge.checkmark,まるえちゃん家
 text.badge.checkmark,やれ
 text.badge.checkmark,イグニス
 text.badge.checkmark,キッチンの片づけ
+text.badge.checkmark,キャリタス
 text.badge.checkmark,コーヒータイム
 text.badge.checkmark,ストッキング
 text.badge.checkmark,ニュース
@@ -4379,17 +4730,20 @@ text.badge.checkmark,リングフィット
 text.badge.checkmark,九産大で自習
 text.badge.checkmark,仕事
 text.badge.checkmark,勉強
+text.badge.checkmark,台湾華語音読練習
 text.badge.checkmark,夕飯作り
 text.badge.checkmark,大学事務
 text.badge.checkmark,家を出る
 text.badge.checkmark,寝る前のルーティン
 text.badge.checkmark,掃除機
 text.badge.checkmark,撮影技術
+text.badge.checkmark,数学IA
 text.badge.checkmark,月の振り返り
 text.badge.checkmark,朝ごはん
 text.badge.checkmark,朝支度
 text.badge.checkmark,槽洗浄2時間
 text.badge.checkmark,母さんにLINE
+text.badge.checkmark,洗濯を回す
 text.badge.checkmark,洗濯物片付け
 text.badge.checkmark,準備
 text.badge.checkmark,準備💄💅
@@ -4410,6 +4764,7 @@ thermometer,トイレ
 thermometer,抗原検査をする
 thermometer,散歩
 thermometer,熱を測る
+thermometer,調査法　和訳
 timer,10分タスクチェック
 timer,10分タスクナイトチェック
 timer,10校時
@@ -4432,6 +4787,7 @@ tortoise.fill,めだか水槽掃除
 tortoise.fill,もねとあそぶ
 tortoise.fill,エサやり
 tortoise.fill,ストレッチ
+tortoise.fill,ダラダラ
 tortoise.fill,人間発達学
 tortoise.fill,休憩
 tortoise.fill,余白
@@ -4452,12 +4808,15 @@ tortoise.fill,自由時間
 tortoise.fill,英語関連₍ᐢ.ˬ.ᐢ₎
 tortoise.fill,🔺
 tram.fill,7:11花隈発→7:54梅田着
+tram.fill,Go School
 tram.fill,Go home
+tram.fill,Go to School
 tram.fill,Go to work
 tram.fill,Meet Dan at nakameguro station
 tram.fill,Train
 tram.fill,go get ur card
 tram.fill,go home
+tram.fill,go to school
 tram.fill,iri al la kolegio
 tram.fill,leaving home
 tram.fill,on the train
@@ -4474,6 +4833,7 @@ tram.fill,三ノ宮
 tram.fill,下校
 tram.fill,中河原～渋谷
 tram.fill,中野に帰る
+tram.fill,交通機関
 tram.fill,今津線 宝塚
 tram.fill,出勤
 tram.fill,出勤(仮)
@@ -4502,9 +4862,12 @@ tram.fill,移動(札駅からJRにしよう)
 tram.fill,移動→リスト精査
 tram.fill,移動【新浦安→池袋】
 tram.fill,移動時間
+tram.fill,移動（→バイト）
+tram.fill,移動（→家）
 tram.fill,西条へ
 tram.fill,退社
 tram.fill,通勤
+tram.fill,通勤時間
 tram.fill,通学
 tram.fill,鎌ヶ谷へ移動
 tram.fill,長崎軌道 住吉～思案橋
@@ -4538,6 +4901,9 @@ trash.fill,掃除●
 trash.fill,掃除・交換・資源ごみ
 trash.fill,掃除機
 trash.fill,掃除🧹
+trash.fill,掃除🧹お風呂
+trash.fill,掃除🧹お風呂、洗面台
+trash.fill,掃除🧹トイレ➕
 trash.fill,断捨離
 trash.fill,断捨離/ゴミ捨て
 trash.fill,普通ゴミをまとめる
@@ -4574,6 +4940,7 @@ tv.fill,アニメ
 tv.fill,アニメを見て
 tv.fill,イラスト作成
 tv.fill,オリエン　みきさん
+tv.fill,カラーで蘇る大英帝国
 tv.fill,スポーツメヅのプレゼント
 tv.fill,セミナー資料作成
 tv.fill,タイピング練習
@@ -4606,17 +4973,22 @@ tv.fill,数学受講
 tv.fill,日割作成
 tv.fill,日経確認
 tv.fill,映画
+tv.fill,映画鑑賞
 tv.fill,朝ドラ
 tv.fill,殿(再)👀
+tv.fill,準備
 tv.fill,王様ランキングを見る
 tv.fill,美輪明宏💖愛の相談室
+tv.fill,薬膳レシピ探し（方法はGrid diary参照）
 tv.fill,説明会
 tv.fill,課題：発達心理学1
 tv.fill,録画整理
 umbrella.fill,外国地誌B
+video.fill,BIGOLIVE配信
 video.fill,chat
 video.fill,いずみさん対談
 video.fill,カリモク企業説明会
+video.fill,コスプレ枠配信
 video.fill,シネリーブル神戸
 video.fill,リモートセンシング
 video.fill,持ち物確認：ビデオカメラ・三脚
@@ -4657,6 +5029,7 @@ wand.and.stars,マッサージ
 wand.and.stars,ミュゼ到着 準備
 wand.and.stars,メイク
 wand.and.stars,リビングの掃除
+wand.and.stars,化粧
 wand.and.stars,家事
 wand.and.stars,就労
 wand.and.stars,掃除
@@ -4683,12 +5056,14 @@ wand.and.stars,着替え
 wand.and.stars,着替える
 wand.and.stars,美容院
 wand.and.stars,脱毛
+wand.and.stars,脱毛準備
 wand.and.stars,花火
 wand.and.stars,身支度
 wand.and.stars,身支度整える
 wand.and.stars,部屋の掃除
 wand.and.stars,部屋の片付け
 wand.and.stars,部屋掃除
+wand.and.stars,雪組新公配信
 wand.and.stars,食洗機にセット
 wand.and.stars,목욕
 wand.and.stars,𝖲𝗈𝗂𝗇𝗌 𝖽𝖾 𝗅𝖺 𝗉𝖾𝖺𝗎＆𝗇𝖾𝗍𝗍𝗈𝗒𝖺𝗀𝖾
@@ -4715,6 +5090,7 @@ wind,涼む
 wind,環境整備　ゴミ出し
 wind,着替え
 wind,瞑想
+wind,移動
 wind,粗大ゴミ準備
 wind,身支度
 wrench.fill,0005高橋様12ヶ月点検
@@ -4726,6 +5102,7 @@ wrench.fill,m5×45 ビス
 wrench.fill,ここまでの振り返りと次の段取
 wrench.fill,シンクの蛇口の入替
 wrench.fill,プリウス車検
+wrench.fill,上村真司様完検
 wrench.fill,加修入検
 wrench.fill,加藤陵大様加修12見積
 wrench.fill,履修訂正期間
@@ -4756,6 +5133,7 @@ x.squareroot,数II
 x.squareroot,数学
 x.squareroot,数学L4 4講
 x.squareroot,数学L4復習
+x.squareroot,数学　問題集
 x.squareroot,数学のクラス
 x.squareroot,数学演習1
 x.squareroot,数的処理
@@ -4770,6 +5148,7 @@ xmark.octagon.fill,OSU!
 zzz,(😪寝落ち💤軽め💺)
 zzz,2度寝
 zzz,Nap
+zzz,good night🌛
 zzz,おばあちゃん　葬儀
 zzz,おひるね
 zzz,おやすみなさい
@@ -4780,15 +5159,19 @@ zzz,ごろごろ
 zzz,すいみん
 zzz,たっくん寝かしつけ
 zzz,とりあえずおやすみなさい( ³ω³).｡o
+zzz,ねんね
 zzz,まだ寝る
 zzz,ダイワロイネットホテル奈良
+zzz,フリータイム
 zzz,ベッドでゴロゴロ
 zzz,ホテルトラスティ大阪阿倍野  支払い済み
 zzz,リラックスタイム
 zzz,仮眠
 zzz,休憩
 zzz,夜ルーティン
+zzz,寝かしつけ
 zzz,寝る
+zzz,寝る準備
 zzz,就寝
 zzz,就寝月
 zzz,昼休憩
@@ -4798,4 +5181,5 @@ zzz,睡眠
 zzz,石田花店A4チラシ
 zzz,ꍞ ( ¦૩[▒▒]
 zzz,😪
+zzz,😪寝落ち(🦊のせい?)
 zzz,😪寝落ち💦

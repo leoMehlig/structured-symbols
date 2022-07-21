@@ -33,6 +33,7 @@ airplane,Vuelo
 airplane,Vuelo argentina
 airplane,maleta
 airplane,venta cascos
+alarm.fill,.بداية
 alarm.fill,Aduana Trabajo
 alarm.fill,Alarma
 alarm.fill,Anglo Time
@@ -51,8 +52,10 @@ alarm.fill,Despertar
 alarm.fill,Despertar y desperezarme
 alarm.fill,Despertar 🌞
 alarm.fill,Despertar!
+alarm.fill,Despertar.
 alarm.fill,Despertarme
 alarm.fill,Despertarse
+alarm.fill,Desperteu-vos!
 alarm.fill,Despierta
 alarm.fill,Despierta Daniel ♥️
 alarm.fill,Despierta Evan
@@ -76,10 +79,12 @@ alarm.fill,Dormir!
 alarm.fill,GYM!
 alarm.fill,Get Up!
 alarm.fill,Günaydın ☀️Bonjour
+alarm.fill,Hora
 alarm.fill,Levantada
 alarm.fill,Levantarme
 alarm.fill,Levantarse
 alarm.fill,Levántate floja💀
+alarm.fill,Manicura
 alarm.fill,Morning routine ☀️
 alarm.fill,Morning routine🤍
 alarm.fill,Pendientes
@@ -121,6 +126,7 @@ alarm.fill,¡despierta!
 alarm.fill,⏰
 alarm.fill,🌸 Buenos días 🌞
 alarm.fill,🌸Buenos días🌸
+alarm.fill,🫣 Wakey Wakey!
 ant.fill,Angelfall
 ant.fill,Biolo
 ant.fill,Comprar Silicona
@@ -145,28 +151,35 @@ archivebox.fill,Guardar cosas de aseo personal
 archivebox.fill,Guardar ropa y ordenar cuarto
 archivebox.fill,Hacer la limpieza
 archivebox.fill,Hacer mochila Valdivia
+archivebox.fill,Imprimir cosas para mi casillero
 archivebox.fill,Lavar ropa
 archivebox.fill,Limpiar
 archivebox.fill,Mudança
+archivebox.fill,Ordenar joyero
 archivebox.fill,Ordenar los desperdicios
 archivebox.fill,Ordenar para siguiente día
 archivebox.fill,Ordenar placard
 archivebox.fill,Ordenar ropa
 archivebox.fill,Organiza apuntes
+archivebox.fill,Preparar decoración para mi casillero
 archivebox.fill,Recoger paquete
 archivebox.fill,Recoger paquete Alpedrete
 archivebox.fill,Recoger ropa
 archivebox.fill,Recoger y doblar ropa
 archivebox.fill,Responder mensajes en Ws
 archivebox.fill,Tidy and dust
+archivebox.fill,Work
 archivebox.fill,hacer mochila
 archivebox.fill,ordenar armario 1
 archivebox.fill,ordenar habitación
+archivebox.fill,recoger
 archivebox.fill,ropa sucia
+archivebox.fill,👩🏻‍🏫 Work
 arrow.3.trianglepath,Aseo y Marco Aurelio
 arrow.3.trianglepath,Clase Tecnología Sustentable
 arrow.3.trianglepath,Conserva
 arrow.3.trianglepath,Fregados platos
+arrow.3.trianglepath,Ir al baño
 arrow.3.trianglepath,Kobu. Cambiar horarios de paseo.
 arrow.3.trianglepath,Lavar los platos
 arrow.3.trianglepath,Lavar ropa
@@ -203,6 +216,7 @@ arrow.merge,𝑌𝑜𝑔𝑎 𝑚𝑎𝑛̃𝑎𝑛𝑒𝑟𝑜
 at,Borrar Emails
 at,Borrar emails
 at,Cartas
+at,Castellano
 at,Consultar mails
 at,Contestar DM
 at,Contestar Emails
@@ -211,6 +225,7 @@ at,Contestar emails
 at,Contestar mails DW y Thorsten
 at,Entrenamiento padel
 at,Enviar Email Prof Sebastián y Sofía
+at,Enviar correo
 at,Enviar correos
 at,Enviar email resumen trinity
 at,Estudiar
@@ -231,9 +246,11 @@ at,enviar Email a maria anton
 at,ir a la beca
 at,mail a salva
 atom,(H) CHICUM
+atom,6 SUEÑOS (im)POSIBLES
 atom,Actividad UJBPR
 atom,Actualizar a todos / hablar con GS
 atom,Afiche Biología Celular y Molecular 🦠
+atom,Afirmaciones
 atom,Astro✨
 atom,Biología
 atom,Bioquímica
@@ -243,10 +260,12 @@ atom,Clase física
 atom,Clases Electro
 atom,Colegio
 atom,Deberes química
+atom,Dibujo
 atom,Entrega fisica
 atom,Entrenamiento cerebral
 atom,Escuela
 atom,Estudiar
+atom,Estudiar Biología
 atom,Estudiar Química
 atom,"Estudiar Tema 1, 2 Química"
 atom,Estudiar biología
@@ -261,6 +280,7 @@ atom,Física
 atom,Garbitu
 atom,Hablar con Price
 atom,La teoría atomicomolecular - QUÍMICA
+atom,Lab (fisica o química)
 atom,Laboratorio anatomía
 atom,Limpiar pecera
 atom,Mañanas milagrosas
@@ -271,6 +291,7 @@ atom,Microscopios naturales y muestras
 atom,Mindfulness ( Breath | No Impulse Actions)
 atom,Mindfulness ( Get My Grind Right)
 atom,"Ordenar ropa en closets, del baño y ropa seca"
+atom,Pacto
 atom,Prueba biología
 atom,Prácticas 🧬
 atom,Psicobiologia
@@ -278,6 +299,7 @@ atom,QUIM.
 atom,Quimica
 atom,Química
 atom,Química autoeval
+atom,Química campillo
 atom,Química común
 atom,Química general y orgánica (cátedra) (401)
 atom,Química general y orgánica (laboratorio)
@@ -289,6 +311,7 @@ atom,Resúmenes química
 atom,Réviser (évaluation) SES
 atom,SES
 atom,Taller de bioquímica
+atom,Terapia
 atom,Terapia Ocupacional de Victoria
 atom,Tiempo libre
 atom,Trabajo EDA
@@ -306,6 +329,7 @@ atom,pre practico 1 física
 atom,preu quimica
 atom,quimica
 bag.fill,Alistar cosas
+bag.fill,Alistar maleta
 bag.fill,Armar Bolso
 bag.fill,COMPRAR
 bag.fill,Cajas del correo
@@ -319,6 +343,7 @@ bag.fill,Comprar supermercado
 bag.fill,Compras
 bag.fill,Compras  de alimentos
 bag.fill,Compras centro
+bag.fill,Compras en Tarapoto
 bag.fill,Compras🛍
 bag.fill,Embarque
 bag.fill,Foreo
@@ -352,6 +377,7 @@ bag.fill,Pantalla
 bag.fill,Papel de trabajo PLD
 bag.fill,Preparar bulto Arroyo
 bag.fill,Preparar maletas
+bag.fill,Preparar mochilas
 bag.fill,Preparar reunión
 bag.fill,Proyecto de empresa
 bag.fill,Proyecto de empress
@@ -400,7 +426,9 @@ bandage.fill,Leer la Biblia
 bandage.fill,Lipo
 bandage.fill,Maspi
 bandage.fill,Medicinas ^^
+bandage.fill,Mi período
 bandage.fill,Pastillas
+bandage.fill,Pastillas garganta
 bandage.fill,Paz
 bandage.fill,Proyecto
 bandage.fill,Psicóloga
@@ -430,6 +458,7 @@ battery.25,Maquina masajes
 battery.25,Ocio
 battery.25,Ritual nocturno
 battery.25,Siesta
+battery.25,descanso
 battery.25,recoger cargador en el risco
 battery.25,terapia
 bed.double.fill,2º sueño
@@ -437,6 +466,7 @@ bed.double.fill,A dormir
 bed.double.fill,Acomoda tu ropa
 bed.double.fill,Acomodar escritorio
 bed.double.fill,Acostarme
+bed.double.fill,Acostarse
 bed.double.fill,Arreglar cuarto
 bed.double.fill,Asearse en el hotel
 bed.double.fill,Aseo pieza Julieta
@@ -496,6 +526,7 @@ bed.double.fill,Ordenar el cuarto
 bed.double.fill,Ordenar mi cuarto
 bed.double.fill,Oreo y Nigth Routine
 bed.double.fill,Organiza tu habitación
+bed.double.fill,Organizar cuarto
 bed.double.fill,Organizar el cuarto
 bed.double.fill,Organizar mi habitación
 bed.double.fill,Pedir mamá teléfonoAna vecina
@@ -549,6 +580,7 @@ bell.fill,Urgente
 bitcoinsign.circle.fill,Brenda Seoane
 bitcoinsign.circle.fill,Buscar corsets y outfits
 bitcoinsign.circle.fill,Desembolso comprtamos
+bitcoinsign.circle.fill,Estudiar gestion
 bitcoinsign.circle.fill,Guardar dinero en el banco
 bitcoinsign.circle.fill,IFE Lilita
 bitcoinsign.circle.fill,Liquidación
@@ -556,8 +588,10 @@ bitcoinsign.circle.fill,MGM
 bitcoinsign.circle.fill,Pago
 bitcoinsign.circle.fill,Presupuesto
 bitcoinsign.circle.fill,Productividad
+bitcoinsign.circle.fill,Vistabisonte
 bitcoinsign.circle.fill,call bank about savings
 bitcoinsign.circle.fill,ver video estudios económicos
+bolt.car.fill,Autoescuela
 bolt.car.fill,Coche
 bolt.car.fill,Curso de manejo
 bolt.car.fill,Descanso
@@ -566,7 +600,10 @@ bolt.car.fill,Ir a la Anati
 bolt.car.fill,Revisar academias de conducción
 bolt.car.fill,Transporte
 bolt.car.fill,Traslado
+bolt.car.fill,Verificación
+bolt.car.fill,descansar
 bolt.car.fill,descanso
+bolt.car.fill,Кормуване
 bolt.fill,Alimentar mascota
 bolt.fill,"Arriba, Chuta, La Victoria Es Tuya"
 bolt.fill,Bajar al Centro ✌🏽💎
@@ -615,7 +652,10 @@ bolt.fill,Zumo detox low carb
 bolt.fill,fyq
 bolt.fill,partido volei
 bolt.fill,preu fisica
+bolt.fill,proteína
+bolt.fill,work 👩🏻‍💻
 bolt.fill,𝖤𝗃𝖾𝗋𝖼𝗂𝖼𝗂𝗈
+book.fill,(Terminar y entregar Storyboard)
 book.fill,13. IC
 book.fill,35mm
 book.fill,ACTUAR
@@ -628,6 +668,7 @@ book.fill,Adrián
 book.fill,Agenda
 book.fill,Alemán
 book.fill,Alistar colegio
+book.fill,Almuerzo
 book.fill,Anatopato
 book.fill,Anestesiología
 book.fill,Apprendre Texte Théâtre
@@ -647,7 +688,9 @@ book.fill,Bajar libros mamá
 book.fill,Biblio
 book.fill,Biblioteca
 book.fill,Biología
+book.fill,Biología (407)
 book.fill,Bioquímica Ambiental
+book.fill,Bloque Investigación
 book.fill,Bloque de estudio
 book.fill,Boletín Bahías
 book.fill,Buscar lo del libro
@@ -656,6 +699,7 @@ book.fill,COMPRAR
 book.fill,COMPRENSION y redacción de textos
 book.fill,CONTABILIDAD
 book.fill,Carmen
+book.fill,Categorías gramaticales
 book.fill,Chapter 12 Econometrics
 book.fill,Charla EFIP
 book.fill,Clase
@@ -706,8 +750,10 @@ book.fill,Diaria de Fisiología
 book.fill,Diario (Viaje Zúrich)
 book.fill,Do devotion 😇🤍
 book.fill,Duolingo
+book.fill,E-Marketing
 book.fill,ESTUDIAR
 book.fill,ESTUDIAR EXAM CDT
+book.fill,ESTUDIO
 book.fill,EXAMEN
 book.fill,EXAMEN BIOLOGÍA
 book.fill,Econometría lectura
@@ -719,12 +765,14 @@ book.fill,Embriología de la cara
 book.fill,Empezar clases
 book.fill,Enfermería Comunitaria I
 book.fill,English: Apocalypse - B by Peterson
+book.fill,Ensayo 600
 book.fill,Entrega de Cuento 👐🏻
 book.fill,Entregar actividad inglés
 book.fill,Entregar trabajo prácticas
 book.fill,Escribir
 book.fill,Escribir Libro de Luna
 book.fill,Escribir QDE
+book.fill,Escribir en mi diario
 book.fill,Escribir o Leer
 book.fill,Escuela
 book.fill,Español
@@ -738,6 +786,7 @@ book.fill,Estudiar (suport)
 book.fill,Estudiar + apuntes filo
 book.fill,Estudiar Bio
 book.fill,Estudiar Community manager
+book.fill,Estudiar Génesis t.3
 book.fill,Estudiar Historia
 book.fill,Estudiar Mate
 book.fill,Estudiar Mtto
@@ -745,6 +794,7 @@ book.fill,Estudiar Prueba comportamiento
 book.fill,Estudiar T1-4
 book.fill,Estudiar T10-12
 book.fill,Estudiar T17.1 (hasta lesiones)
+book.fill,Estudiar T18
 book.fill,Estudiar T20-23
 book.fill,Estudiar T20-26
 book.fill,Estudiar T29-30 + autores
@@ -753,6 +803,7 @@ book.fill,Estudiar T41-44
 book.fill,Estudiar algo
 book.fill,Estudiar anatomía (1)
 book.fill,Estudiar bio
+book.fill,Estudiar biologia 2
 book.fill,Estudiar biología
 book.fill,Estudiar body
 book.fill,Estudiar carnet
@@ -770,7 +821,9 @@ book.fill,Estudiar francés
 book.fill,Estudiar fuerzas
 book.fill,Estudiar fundamentos
 book.fill,Estudiar geografía
+book.fill,Estudiar grammar
 book.fill,Estudiar historia
+book.fill,Estudiar ingles
 book.fill,Estudiar inglés
 book.fill,Estudiar italiano
 book.fill,Estudiar la información de los estudiantes
@@ -810,6 +863,7 @@ book.fill,Ex junio respi
 book.fill,Examen Castellano
 book.fill,Examen biología
 book.fill,Examen de lengua
+book.fill,Examen grammar
 book.fill,Examen mates
 book.fill,Examen patología
 book.fill,FINAL HISTORIA
@@ -817,11 +871,16 @@ book.fill,FOL
 book.fill,FRANCÈS: grammaire - fer tots els exercicis dels moddle
 book.fill,Farmacia hospitalaria
 book.fill,Farmacología apuntes
+book.fill,Fer resum mates
+book.fill,Ficha 2 y presentación
+book.fill,Fichas si no acabé
 book.fill,Filo
 book.fill,Fisica electronica
+book.fill,Fol - Tema 1
 book.fill,Formación para el Liderazgo
 book.fill,Francés
 book.fill,Français
+book.fill,GLOBAL LOGÍSTICA
 book.fill,GM laboral
 book.fill,Genio Lector
 book.fill,Geografía
@@ -836,9 +895,11 @@ book.fill,Hacer carta al yo maestro
 book.fill,Hacer cosas de clase
 book.fill,Hacer deberes
 book.fill,Hacer examen Adams
+book.fill,Hacer formulario de fisica
 book.fill,Hacer khan academy
 book.fill,Hacer la lectura de Macroeconomía
 book.fill,Hacer lo de matematicas
+book.fill,Hacer los deberes
 book.fill,Hacer pp de investigación
 book.fill,Hacer tarea
 book.fill,Hacer tarea de artes plásticas
@@ -847,6 +908,7 @@ book.fill,Hacer trabajos con mi novia
 book.fill,Hell and Back
 book.fill,Higiene alimentaria
 book.fill,Historia
+book.fill,Historia conceptos
 book.fill,Historia tema 2
 book.fill,Historia: trabajo 2
 book.fill,Home-work Francés
@@ -855,6 +917,7 @@ book.fill,Imagen Mediática
 book.fill,Imprimir
 book.fill,Imprimir texto Céline Carrère
 book.fill,Ingles
+book.fill,Ingles tarea
 book.fill,Inglés
 book.fill,Inicio Examen Adams
 book.fill,Instalaciones
@@ -873,9 +936,11 @@ book.fill,LECTURA
 book.fill,LECTURAS LECTOPOLIS
 book.fill,LEER
 book.fill,LIT -Resumen sobre la Odisea e Iliada
+book.fill,La palabra
 book.fill,Laboratorio de análisis instrumental
 book.fill,Le misanthrope
 book.fill,Le misanthrope Acte I scène II
+book.fill,Leadership and comunication
 book.fill,Learn
 book.fill,Lectomed
 book.fill,Lectura
@@ -892,6 +957,7 @@ book.fill,Leer
 book.fill,Leer & Música
 book.fill,Leer 20 minutos
 book.fill,Leer 30 min
+book.fill,Leer Biblia
 book.fill,Leer Contabilidad
 book.fill,Leer Max Webber IP
 book.fill,"Leer Mouse, psicología"
@@ -938,9 +1004,12 @@ book.fill,Literatura
 book.fill,Llegir
 book.fill,Llibre angles
 book.fill,MA UC
+book.fill,Maldonado
 book.fill,Manual
+book.fill,Marketing
 book.fill,Martina
 book.fill,Martín
+book.fill,Martín 1
 book.fill,Masques
 book.fill,Matemáticas
 book.fill,Metodología del taller
@@ -952,6 +1021,7 @@ book.fill,Montaigne
 book.fill,Máster
 book.fill,Nacionalismos
 book.fill,Natalia👩🏻‍🏫
+book.fill,Negotiation
 book.fill,Nutrition hw
 book.fill,ORAR
 book.fill,Operation y logistics
@@ -962,6 +1032,7 @@ book.fill,Organizar agenda
 book.fill,Organizar mis libretas ★・
 book.fill,Organizar notion
 book.fill,Organizar temas de estudio
+book.fill,Organizarme
 book.fill,Ortografía
 book.fill,P2 Tisu añadir imágenes a ME
 book.fill,PA1
@@ -973,12 +1044,14 @@ book.fill,PA6
 book.fill,PF III textos
 book.fill,PPT TYP 1
 book.fill,PREU HISTORIA
+book.fill,Pasar apuntes MQ04-Composites
 book.fill,Pasar materia
 book.fill,Pasar materia en limpio
 book.fill,Piero
 book.fill,Planear día siguiente
 book.fill,Ponerme a Estudiar
 book.fill,Post test( TOP)
+book.fill,Practica carlos
 book.fill,Preguntar a Anna si quiere dar la clase
 book.fill,Preparar Atalaya
 book.fill,Preparar Opos
@@ -1001,6 +1074,7 @@ book.fill,Rehacer apuntes de sociales
 book.fill,Relectura de la colección
 book.fill,Religión
 book.fill,Relire livre de Français
+book.fill,Repasar
 book.fill,Repasar LA REPÚBLICA
 book.fill,Repasar Sociales
 book.fill,Repasar T20-26 / T37-40
@@ -1025,23 +1099,27 @@ book.fill,Revisar libreta fyq
 book.fill,Revisar libros de BA
 book.fill,Réviser (évaluation) Français
 book.fill,Réviser Texte Théâtre
+book.fill,STC Consti
 book.fill,Sala estudio
 book.fill,Sans paroles Éli
 book.fill,School
 book.fill,Seguridad Social
 book.fill,Service
 book.fill,Sexenio Democrático
+book.fill,Sistema cardiovascular
 book.fill,Sistema física
 book.fill,Sociología
 book.fill,Solemne Litigación
 book.fill,Start Script Project
 book.fill,Steph
+book.fill,Strategic Management
 book.fill,Study
 book.fill,Study date Arielita
 book.fill,Subrayar ASP
 book.fill,Supuesto refugiados
 book.fill,"Séptima Clase (Lengua Española, Arte y Literatura)"
 book.fill,TAREA Jueves
+book.fill,TASCA FINAL
 book.fill,TASCA MEITAT PERIODE
 book.fill,TASCA REFLEXIVA FINAL PERIODE
 book.fill,TCP Gonza
@@ -1063,12 +1141,14 @@ book.fill,Tema 5 respi
 book.fill,Teoría y Autores Psicoanalíticos
 book.fill,Teoría y materialización
 book.fill,Terminar examen
+book.fill,Tesis
 book.fill,Texto diario
 book.fill,Texto gestion
 book.fill,Tiempo libre
 book.fill,Todo ló que llevaré a clase
 book.fill,Trabajar
 book.fill,Trabajo AP
+book.fill,Trabajo Analisis
 book.fill,Trabajo ILE
 book.fill,Trabajo Per Inter l
 book.fill,Trabajo de preguntas psicología
@@ -1103,6 +1183,7 @@ book.fill,estudiar francés
 book.fill,estudiar historia
 book.fill,estudiar solfeo
 book.fill,hacer bitácora
+book.fill,historia
 book.fill,inscripción a la U
 book.fill,institut
 book.fill,investigar educ. física
@@ -1144,7 +1225,9 @@ book.fill,😷instituto🤢
 bookmark.fill,Barrer y ordenar
 bookmark.fill,CASTELÁN LIBROS
 bookmark.fill,CRS
+bookmark.fill,Campo Voluntariado
 bookmark.fill,Diario
+bookmark.fill,EXAMEN INGLÉS
 bookmark.fill,Entregar mis tareas
 bookmark.fill,Enviar tarea herra…
 bookmark.fill,Hablar con Cris
@@ -1171,6 +1254,7 @@ briefcase.fill,COORD. A.R. HdeDia
 briefcase.fill,Clases
 briefcase.fill,Clases de costura
 briefcase.fill,Cole
+briefcase.fill,Cole Sansueña
 briefcase.fill,Colegio
 briefcase.fill,Contactar HostGator por baja de correo y hosting
 briefcase.fill,Crear página web
@@ -1191,9 +1275,11 @@ briefcase.fill,Hacer bolso
 briefcase.fill,Hacer bulto
 briefcase.fill,Hacer maleta
 briefcase.fill,Imputar horas ICN2
+briefcase.fill,Institute
 briefcase.fill,Ir a buscar 🎒
 briefcase.fill,Ir a clase
 briefcase.fill,Ir a trabajar
+briefcase.fill,Ir al banco
 briefcase.fill,Ir de compras
 briefcase.fill,Jobs
 briefcase.fill,La Voltereta
@@ -1235,6 +1321,7 @@ briefcase.fill,Récupérer contrôle Histoire Littéraire I
 briefcase.fill,Scène double classe libre
 briefcase.fill,Sephora SOL
 briefcase.fill,Subir fotos agendas
+briefcase.fill,TRABAJO
 briefcase.fill,Tareas urgentes
 briefcase.fill,Tederas
 briefcase.fill,Tema 3 Realizar actividades del curso de inclusión
@@ -1265,16 +1352,20 @@ bubble.left.fill,Contactar prospectos
 bubble.left.fill,Contestar mensajes
 bubble.left.fill,Decirle a mi equipo de Maya
 bubble.left.fill,Descansar
+bubble.left.fill,Eatica
+bubble.left.fill,Enviar mensaje Silvia inmobiliaria
 bubble.left.fill,Escribir a Rut
 bubble.left.fill,Fonética
 bubble.left.fill,Formulario Connectas
 bubble.left.fill,Hacer DuoLingo
+bubble.left.fill,Ingles
 bubble.left.fill,Ingles repasar
 bubble.left.fill,Llamar a Tomás
 bubble.left.fill,Mandar CV
 bubble.left.fill,Mensajería concreto 360
 bubble.left.fill,PSI - Finish Midmap
 bubble.left.fill,Pomodoros
+bubble.left.fill,Practice presentation
 bubble.left.fill,Predicar
 bubble.left.fill,Preparar la presentación de COW
 bubble.left.fill,Práctica Pronuncación
@@ -1282,12 +1373,14 @@ bubble.left.fill,Recup cl Fonetica
 bubble.left.fill,Seminario IMEX 10am
 bubble.left.fill,Teories: Oral Presentation
 bubble.left.fill,Terapia
+bubble.left.fill,Text everyone
 bubble.left.fill,Tiempo libre
 bubble.left.fill,Vorstellungsgespräch üben
 bubble.left.fill,entrevista
 bubble.left.fill,hablar hermanas
 bubble.left.fill,"redactar cto, etica y politica de platon"
 burn,Apagar boiler
+burn,Azufre de cobre
 burn,Desinfectar platos y soporte
 burn,Fregar
 burn,Lavar ropa
@@ -1326,6 +1419,7 @@ calendar,Organizar agenda
 calendar,Organizar calendario
 calendar,Organizar documentos
 calendar,Organizar día
+calendar,Organizar día de mañana
 calendar,Organizar día siguiente
 calendar,Organizar días
 calendar,Organizar el día
@@ -1335,6 +1429,7 @@ calendar,Organizar estudio
 calendar,Organizar la semana entrante
 calendar,Organizar material
 calendar,Organizar mi semana
+calendar,Organizar plan de contenido dé vapbunny
 calendar,Organizar proyecto 🗓
 calendar,Organizar semana
 calendar,Organizarme
@@ -1393,6 +1488,7 @@ calendar,planificar
 calendar,revisar notion
 camera.fill,Avanzar mi curso
 camera.fill,Averiguar impresión foto libro
+camera.fill,Borrar fotos
 camera.fill,Celular
 camera.fill,Crear TikTok
 camera.fill,DAR UNHA VOLTA (CT)
@@ -1418,6 +1514,7 @@ camera.fill,PASAR FOTOS DEL IPAD AL ORDENADOR
 camera.fill,Photo pixeden estudio ale lopez
 camera.fill,Revisar bandeja de entrada
 camera.fill,SERTRACEN
+camera.fill,Sacar fotos del material de filosofía
 camera.fill,Tomar fotos
 camera.fill,Tomar fotos de los productos para el local
 camera.fill,Tomar fotos para el local
@@ -1472,6 +1569,7 @@ car.fill,Go to the gym
 car.fill,Go to work
 car.fill,Hacer test
 car.fill,Hacer test coche
+car.fill,Hacer test de coche 🚘
 car.fill,Hacer tests
 car.fill,"Haz tests de la autoescuela, boba"
 car.fill,ITV
@@ -1503,6 +1601,7 @@ car.fill,Ir al super
 car.fill,Ir al trabajo
 car.fill,Ir uni
 car.fill,Irme a la u
+car.fill,LA GALIANA GOLF RESORT
 car.fill,La Sènia
 car.fill,Lavar auto
 car.fill,Lavar coche
@@ -1521,6 +1620,7 @@ car.fill,Manejo
 car.fill,Mecánico
 car.fill,Metro
 car.fill,Mérida
+car.fill,Pagar SAT jockey
 car.fill,Pasar ITV
 car.fill,Pedir Uber
 car.fill,Practica
@@ -1559,6 +1659,7 @@ car.fill,Taxi al hotel
 car.fill,Tenencia de la camioneta
 car.fill,Test autoescuela
 car.fill,Test conducir
+car.fill,Trabajo
 car.fill,Transporte
 car.fill,Transporte a Nois
 car.fill,Transporte a PGIC
@@ -1596,6 +1697,7 @@ car.fill,drive to angela’s
 car.fill,drive to church
 car.fill,drive to college
 car.fill,drive to dad’s concert
+car.fill,drive to graggy’s
 car.fill,drive to haircut
 car.fill,drive to london
 car.fill,drive to meet up
@@ -1606,6 +1708,7 @@ car.fill,drive to southampton
 car.fill,drive to the cinema
 car.fill,drive to the hospital
 car.fill,get drivers license
+car.fill,lavar carro
 car.fill,lavar coche
 car.fill,lavar coche y ventanas
 car.fill,llamar a itv para preguntar el fallo del sensor de presión.
@@ -1619,6 +1722,7 @@ cart.fill,Aldi
 cart.fill,Anar a comprar
 cart.fill,Buy protein bars
 cart.fill,Buy toothbrush and nail limes
+cart.fill,CAMPAÑA ADIDAS
 cart.fill,COMPRA
 cart.fill,Carrefour
 cart.fill,Centro Comercial
@@ -1645,11 +1749,14 @@ cart.fill,Compras
 cart.fill,Compras Carrefour
 cart.fill,Compras pendientes
 cart.fill,Compras plaza
+cart.fill,Costco
+cart.fill,Cremas
 cart.fill,Dax aceite para cabello
 cart.fill,Despensa
 cart.fill,"Día: 🥔 5kg,🥕, 🍫, crema 🥜"
 cart.fill,Erosketak
 cart.fill,Footlocker
+cart.fill,Go to Swords
 cart.fill,Groceries
 cart.fill,Groceries (mery)
 cart.fill,HACER COMPRA
@@ -1659,6 +1766,7 @@ cart.fill,Hacer la compra
 cart.fill,Hacer las compras
 cart.fill,Hacer súper
 cart.fill,Ikea
+cart.fill,Invisibles
 cart.fill,Ir a Mercadona
 cart.fill,Ir a Metro
 cart.fill,Ir a comprar
@@ -1666,10 +1774,12 @@ cart.fill,Ir a hacer vueltas
 cart.fill,Ir al Stock Center
 cart.fill,Ir al super
 cart.fill,Ir al supermercado
+cart.fill,Ir al súper
 cart.fill,Ir de comprar
 cart.fill,Ir de compras
 cart.fill,Ir súper
 cart.fill,Jumbo
+cart.fill,La Comer
 cart.fill,Lista de Súper
 cart.fill,Lista de compras
 cart.fill,Lista de la compra
@@ -1705,6 +1815,7 @@ cart.fill,"comprar agujas máquina, hilo celeste y brillis"
 cart.fill,comprar auriculares
 cart.fill,comprar carpeta de folios
 cart.fill,comprar comida session mañana
+cart.fill,comprar corrector nº 3
 cart.fill,"comprar corrector, lápiz de ojos"
 cart.fill,comprar cosas beca ERIS
 cart.fill,"comprar eyeliner, makeup y pendientes gradución"
@@ -1787,6 +1898,7 @@ chart.pie.fill,Tiempo de desarollo
 chart.pie.fill,Trabajo
 chart.pie.fill,Trabajo fundamentos
 chart.pie.fill,Trade vs aid
+chart.pie.fill,geografía
 chart.pie.fill,pedir apuntes estadística
 chart.pie.fill,voley
 chart.pie.fill,¡ Medicación !
@@ -1806,6 +1918,7 @@ chevron.left.slash.chevron.right,Practicar Flutter
 chevron.left.slash.chevron.right,Programación
 chevron.left.slash.chevron.right,Reporte PBI GD
 chevron.left.slash.chevron.right,Revisar Web
+chevron.left.slash.chevron.right,SOC - Multicliente
 chevron.left.slash.chevron.right,Trabajar
 chevron.left.slash.chevron.right,Trabajar (Bloque I)
 chevron.left.slash.chevron.right,Trabajo
@@ -1815,6 +1928,7 @@ clock.fill,Colación
 clock.fill,Coordinar Meet Work Los Pinos
 clock.fill,Daily
 clock.fill,Descanso
+clock.fill,Despertar
 clock.fill,Despertarme
 clock.fill,Estudiar Neuro
 clock.fill,Examen
@@ -1861,6 +1975,7 @@ cloud.snow.fill,Minoxidil y Melatonina
 comb.fill,ALISTARME
 comb.fill,Alistarme
 comb.fill,Alistarme para el dia
+comb.fill,Alistarse
 comb.fill,Arreglarme
 comb.fill,Arreglarse
 comb.fill,Arréglate
@@ -1881,6 +1996,7 @@ comb.fill,Echarse  Crema
 comb.fill,Fernanda
 comb.fill,Get Ready
 comb.fill,Get ready
+comb.fill,Haircare
 comb.fill,Lavar el pelo
 comb.fill,MASCARILLA LILA
 comb.fill,Masaje pelo
@@ -1919,6 +2035,7 @@ comb.fill,"disinfect nail tools + clean hair/makeup brushes, breast self-exam, c
 comb.fill,do my hair :3
 comb.fill,get ready
 comb.fill,peinado y maquillaje
+comb.fill,peinarme
 comb.fill,prepararme
 comb.fill,prepararse
 comb.fill,vestirme
@@ -1942,6 +2059,7 @@ creditcard.fill,Farmacia
 creditcard.fill,Ir al banco
 creditcard.fill,Ir al súper
 creditcard.fill,Llamar a Santander
+creditcard.fill,Líquido de lentes
 creditcard.fill,Pagar
 creditcard.fill,Pagar ECTS
 creditcard.fill,Pagar HSBC
@@ -1955,6 +2073,7 @@ creditcard.fill,Preparar tarjeta prepago
 creditcard.fill,Sacar dinero
 creditcard.fill,TKK – Karte da?
 creditcard.fill,Vender mis entradas de Louis
+creditcard.fill,Ver carnet
 creditcard.fill,botas altas
 creditcard.fill,buy tonios gifts
 creditcard.fill,cobro cinepolis
@@ -1967,8 +2086,10 @@ custom.ball,Basketbol
 custom.ball,Basquetball
 custom.ball,El Masnou Bàsquet
 custom.ball,Fit x
+custom.ball,Fut
 custom.ball,Futbol
 custom.ball,Fútbol
+custom.ball,Gym
 custom.ball,Mirar atletico madrid
 custom.ball,Mirar barça
 custom.ball,Mirar real madrid
@@ -1977,6 +2098,7 @@ custom.ball,Prepararse para la escuela
 custom.ball,Voley
 custom.ball,barça💙❤️
 custom.ball,entrenamiento
+custom.ball,europaleague🏆 frankfurt V rangers
 custom.ball,futbol
 custom.ball,hockey uruguay vs corea
 custom.ball,partido ibero
@@ -1997,6 +2119,7 @@ custom.cat,Dar de comer a los gatos
 custom.cat,Descansar
 custom.cat,Descanso
 custom.cat,Desparasitar gatos
+custom.cat,Dinner 🐱💊💊🍏
 custom.cat,Documentar y organizar código
 custom.cat,Filtros gatas fuente
 custom.cat,Gatitas
@@ -2004,6 +2127,7 @@ custom.cat,Gato
 custom.cat,Gyda veterinario
 custom.cat,Hacerme las uñas
 custom.cat,Ir a la peluquería
+custom.cat,Ir a olesa
 custom.cat,Jugando w/ Nora
 custom.cat,Jugar Gatos
 custom.cat,Jugar con Cleo
@@ -2039,6 +2163,7 @@ custom.cat,Yoga
 custom.cat,ir a ver a mis perritos
 custom.cat,relax
 custom.cat,see episode:3
+custom.chemistry,Apuntes Equilibrio
 custom.chemistry,Apuntes de química
 custom.chemistry,Apuntes videos #3
 custom.chemistry,BIOQ EXP II
@@ -2046,12 +2171,16 @@ custom.chemistry,Bases Moleculares
 custom.chemistry,Bio
 custom.chemistry,Bio oil 🧴
 custom.chemistry,Biología
+custom.chemistry,Bioquimica
 custom.chemistry,Cajero + examen + inyección
+custom.chemistry,Colegio
 custom.chemistry,Cooperativa
 custom.chemistry,Creatina
 custom.chemistry,Desatrasarme lab
 custom.chemistry,Electivo (B)
+custom.chemistry,Estudiar
 custom.chemistry,Estudiar Ciencias
+custom.chemistry,Estudiar Eno ll
 custom.chemistry,Estudiar LAB QUI
 custom.chemistry,Estudiar biología
 custom.chemistry,Estudiar para el quiz
@@ -2061,6 +2190,7 @@ custom.chemistry,Estudiar química
 custom.chemistry,Estudio
 custom.chemistry,Examen de física
 custom.chemistry,Examen global bioquímica
+custom.chemistry,Física
 custom.chemistry,Hacer trabajo
 custom.chemistry,IMEX
 custom.chemistry,Informe #2
@@ -2094,15 +2224,19 @@ custom.chemistry,Tarea química
 custom.chemistry,Tareas y guías química
 custom.chemistry,Trabaja como nunca nena
 custom.chemistry,Trabajo RCMC
+custom.chemistry,Trabajo tarde
+custom.chemistry,Vacuna Cuarta Dosis
 custom.chemistry,Ver arroces
 custom.chemistry,Video #3
 custom.chemistry,Videos bebi
 custom.chemistry,ej química
+custom.chemistry,estudiar química
 custom.chemistry,formulación inorgánica
 custom.chemistry,informe de laboratorio
 custom.chemistry,informes laboratorio
 custom.chemistry,leer repartido química
 custom.chemistry,pre practico quimica
+custom.chemistry,quimica
 custom.chemistry,química
 custom.chemistry,química: examen
 custom.chemistry,tema novo química
@@ -2110,6 +2244,7 @@ custom.chemistry,trabajo química
 custom.cooking,"10024525 FUNDACIÓ JESUÏTES DE SARRIÁ 0,5-2,5K"
 custom.cooking,"10078367 DOS TORRES 0,5-2,5K"
 custom.cooking,"10078868 LES ARCADIES 0,5-2,5K"
+custom.cooking,ARROSSERIA XÀTIVA
 custom.cooking,Almorzar
 custom.cooking,Almuerzo
 custom.cooking,Almuerzo🍝
@@ -2145,6 +2280,7 @@ custom.cooking,Dinner
 custom.cooking,Fermentar kefir
 custom.cooking,Galletas
 custom.cooking,HNOS TORRES10H
+custom.cooking,Hace manjar blanco
 custom.cooking,Hacer Desayuno
 custom.cooking,Hacer almuerzo
 custom.cooking,Hacer betún
@@ -2153,6 +2289,7 @@ custom.cooking,Hacer comida
 custom.cooking,Hacer de cenar con vic
 custom.cooking,Hacer de comer
 custom.cooking,Hacer desayuno
+custom.cooking,Hacer desayuno saludable
 custom.cooking,Hacer el bizcochuelo👩🏻‍🍳
 custom.cooking,Hacer el desayuno
 custom.cooking,Hacer figuras conejo
@@ -2161,6 +2298,7 @@ custom.cooking,Hacer la comida
 custom.cooking,Hacer lunch
 custom.cooking,Hacer masa clásica
 custom.cooking,Hacer natillas
+custom.cooking,Hervir agua
 custom.cooking,Hotel AC sants
 custom.cooking,Inicio de almuerzo
 custom.cooking,Ir a comer
@@ -2199,6 +2337,7 @@ custom.cooking,Preparar snack para el día 🙄
 custom.cooking,Prepare lunch
 custom.cooking,Puchero
 custom.cooking,Receta panqueques
+custom.cooking,"Rest.Raó-De les Sitges,3"
 custom.cooking,Snack
 custom.cooking,Sopar Feina
 custom.cooking,Tapa canalla
@@ -2250,18 +2389,25 @@ custom.dog,Jugar con Roma
 custom.dog,Kira
 custom.dog,Lavar patio
 custom.dog,Lavar perros
+custom.dog,Limpiar Cira
 custom.dog,Limpiar arenero
 custom.dog,Limpieza
 custom.dog,Llevar a Nala al parque
 custom.dog,Luna y Noa
 custom.dog,Mascotas
 custom.dog,Nala
+custom.dog,Noa Veterinario
+custom.dog,Nora pastilla
 custom.dog,Nymeria
+custom.dog,Otto 🐶
 custom.dog,Pasear Coco
 custom.dog,Pasear a Gertha
 custom.dog,Pasear a Hanny
 custom.dog,Pasear a Lisa
 custom.dog,Pasear a Luna
+custom.dog,Pasear a Mía
+custom.dog,Pasear a Rey 🐶
+custom.dog,Pasear a Spot
 custom.dog,Pasear a Stoli
 custom.dog,Pasear a kobu
 custom.dog,Pasear a lola
@@ -2270,6 +2416,7 @@ custom.dog,Pasear perros
 custom.dog,Paseo
 custom.dog,Paseo Anouk
 custom.dog,Paseo Indi
+custom.dog,Paseo Marina
 custom.dog,Paseo Oli
 custom.dog,Paseo bosque
 custom.dog,Paseo de Koda y Sophia
@@ -2290,6 +2437,7 @@ custom.dog,Sacar a Balto
 custom.dog,Sacar a Dingo
 custom.dog,Sacar a Frida
 custom.dog,Sacar a Haki
+custom.dog,Sacar a Konan
 custom.dog,Sacar a Kyran
 custom.dog,Sacar a Mila
 custom.dog,Sacar a Naira
@@ -2310,6 +2458,7 @@ custom.dog,Sacar al perro
 custom.dog,Sacar perro
 custom.dog,Sacar perros
 custom.dog,Salida Canela
+custom.dog,Salir a dar una vuelta con kurama
 custom.dog,TRABAJO ZOO 17DIC
 custom.dog,Veterinario
 custom.dog,Walk 🐶
@@ -2318,6 +2467,7 @@ custom.dog,Zipyran perrito
 custom.dog,Zoo de Avestruces
 custom.dog,alimentar bebes
 custom.dog,bañar a gala
+custom.dog,bañar perros
 custom.dog,care for butta girl
 custom.dog,nueva camita scott
 custom.dog,pasear a gordo
@@ -2340,6 +2490,7 @@ custom.dumbbell,2 días GYM semana
 custom.dumbbell,8W Summer SC - DÍA 1
 custom.dumbbell,A darle!
 custom.dumbbell,Abdom. + glúteo 50 + cardio
+custom.dumbbell,Abdomen
 custom.dumbbell,Abdominales
 custom.dumbbell,Abs workout
 custom.dumbbell,Academia
@@ -2401,6 +2552,7 @@ custom.dumbbell,Ejercicio (glúteos y piernas)
 custom.dumbbell,Ejercicio en casa
 custom.dumbbell,Ejercicio matutino
 custom.dumbbell,Ejercicio y trote
+custom.dumbbell,Ejercicio 🏃🏻‍♀️
 custom.dumbbell,Ejercicio 💥
 custom.dumbbell,Ejercicios
 custom.dumbbell,Ejercicio💪🏻
@@ -2424,6 +2576,7 @@ custom.dumbbell,Escalada
 custom.dumbbell,Estiramiento
 custom.dumbbell,Estiramientos
 custom.dumbbell,Exercise
+custom.dumbbell,FUNCIONALLL
 custom.dumbbell,Foam roller
 custom.dumbbell,Fortalecer piernas
 custom.dumbbell,Free time
@@ -2441,6 +2594,7 @@ custom.dumbbell,Gimnasia
 custom.dumbbell,Gimnasio
 custom.dumbbell,Gimnasio brazos + 🚲 10:30
 custom.dumbbell,Gimnasio brazos + 🚲 11:30
+custom.dumbbell,Gluteos
 custom.dumbbell,Gym
 custom.dumbbell,Gym (lift and abs)
 custom.dumbbell,Gym (lift and cardio)
@@ -2461,6 +2615,7 @@ custom.dumbbell,Hacer ejercicio
 custom.dumbbell,Hacer ejercicio 45 min rutina de chloe
 custom.dumbbell,Hacer ejercicios
 custom.dumbbell,Hacer fisico
+custom.dumbbell,Hacer las tareas
 custom.dumbbell,Hacer mochilas e historia Pau
 custom.dumbbell,Hacer yoga
 custom.dumbbell,Haz ejercicio!
@@ -2480,6 +2635,7 @@ custom.dumbbell,Mancuernas y liga
 custom.dumbbell,Nadar
 custom.dumbbell,Natación
 custom.dumbbell,No jumping full body and lower body
+custom.dumbbell,Nutricionista
 custom.dumbbell,Pagar internet BiFit
 custom.dumbbell,Party Jordan
 custom.dumbbell,Pesas
@@ -2502,6 +2658,7 @@ custom.dumbbell,Preparar kit de efi
 custom.dumbbell,Prepárame
 custom.dumbbell,RESSET
 custom.dumbbell,Realizar rutina cardio
+custom.dumbbell,Resistencia de los materiales
 custom.dumbbell,Rutina Abs
 custom.dumbbell,Rutina abs
 custom.dumbbell,Rutina completa 2
@@ -2552,6 +2709,8 @@ custom.dumbbell,glutes @ gym
 custom.dumbbell,glutes @ the gym
 custom.dumbbell,glutes strength
 custom.dumbbell,gym
+custom.dumbbell,hacer 200 abs
+custom.dumbbell,"hacer 200 abs, 200 sentadillas y 100 puñetazos"
 custom.dumbbell,hacer 600 abs
 custom.dumbbell,hacer ejercicio
 custom.dumbbell,hipopresivos.
@@ -2562,6 +2721,7 @@ custom.dumbbell,rutina de abs.
 custom.dumbbell,saltar
 custom.dumbbell,tenis
 custom.dumbbell,tennis
+custom.dumbbell,volei
 custom.dumbbell,workout
 custom.dumbbell,yoga
 custom.dumbbell,¡Entrena duro!
@@ -2612,6 +2772,7 @@ custom.hairdryer,Tomar banho
 custom.hairdryer,Uñas
 custom.hairdryer,Vestirme
 custom.hairdryer,Vestirme y accesorios
+custom.hairdryer,Vístete para el gym
 custom.hairdryer,get ready
 custom.hairdryer,secadora
 custom.hairdryer,secar pelo
@@ -2623,6 +2784,9 @@ custom.language,Animu
 custom.language,Apuntes francés
 custom.language,Assignment 31 al 7
 custom.language,Aula - Maitena
+custom.language,Avanzar ALP
+custom.language,Avanzar diapos de mi Camotito
+custom.language,Bach
 custom.language,Buscar información proyecto inglés
 custom.language,Chatear al prof de italiano
 custom.language,Clase - Español
@@ -2640,8 +2804,11 @@ custom.language,English class
 custom.language,English homework
 custom.language,Estudiar
 custom.language,Estudiar B2
+custom.language,Estudiar Chino
 custom.language,Estudiar Inglés
+custom.language,Estudiar Verbos Inglés
 custom.language,Estudiar francés
+custom.language,Estudiar gallego
 custom.language,Estudiar ingles
 custom.language,Estudiar inglés
 custom.language,Estudiar inglés: Open English
@@ -2651,6 +2818,9 @@ custom.language,Francés clase
 custom.language,Francés deberes
 custom.language,"Francés, la meteo"
 custom.language,French lessons
+custom.language,G1
+custom.language,G2
+custom.language,G3
 custom.language,Hacer el Duolingo
 custom.language,Hacer tarea de inglés
 custom.language,Idazlana
@@ -2661,10 +2831,13 @@ custom.language,Inglés
 custom.language,Inglés (worksheets)
 custom.language,Inglés academia
 custom.language,Inglés de la academia
+custom.language,Inglés gramática
 custom.language,Inglés particular
+custom.language,Inglés writing
 custom.language,Instagram al día
 custom.language,Japanese - G by Shinobu Nagashima
 custom.language,Japanese Classes
+custom.language,Key 🗝 for English
 custom.language,Koreano
 custom.language,Language learning
 custom.language,Lengua meta
@@ -2688,6 +2861,8 @@ custom.language,Resumen grammar
 custom.language,Resumen inglés
 custom.language,Ruso lenguaje
 custom.language,Réviser Anglais
+custom.language,S2
+custom.language,S3
 custom.language,Spanish IRP
 custom.language,TELETRABAJO
 custom.language,TELETRABAJO:
@@ -2722,6 +2897,7 @@ custom.lipstick,Cambiarse
 custom.lipstick,Cejas
 custom.lipstick,Chapa y pintura💄💋
 custom.lipstick,Compras
+custom.lipstick,Cumple Laura Barbie
 custom.lipstick,Depilacion
 custom.lipstick,Depilación
 custom.lipstick,Depilarme
@@ -2774,6 +2950,7 @@ custom.lipstick,Prepararme para salir
 custom.lipstick,Prueba de vestido
 custom.lipstick,Rutina facial
 custom.lipstick,Sacar ropa de invierno
+custom.lipstick,Self-care mañana
 custom.lipstick,Skin care
 custom.lipstick,Skin care PM
 custom.lipstick,Skin care y crema corporal
@@ -2797,6 +2974,7 @@ custom.lipstick,maquillaje
 custom.lipstick,mask time!
 custom.lipstick,peinarme
 custom.lipstick,preparar cena killian
+custom.lipstick,prepararme + cama
 custom.lipstick,shower + get sexy
 custom.lipstick,skincare
 custom.lipstick,uñas
@@ -2810,6 +2988,7 @@ custom.razor,Bodycare
 custom.razor,Ceja 12:15
 custom.razor,Cuchilla
 custom.razor,Depilación
+custom.razor,Depilar
 custom.razor,Depilar brazos
 custom.razor,Depilarme
 custom.razor,Depilarse
@@ -2825,6 +3004,7 @@ custom.shower,(P) BAÑO
 custom.shower,.
 custom.shower,5:30 - 6:00
 custom.shower,A bañarse!
+custom.shower,AM skincare
 custom.shower,Abuela
 custom.shower,Adiós pijama
 custom.shower,Arreglarme
@@ -2846,6 +3026,7 @@ custom.shower,Bañarme + Skincare
 custom.shower,Bañarme y Arreglarme
 custom.shower,Bañarme y Organizarme 🧴🤍
 custom.shower,Bañarme y alistarme
+custom.shower,Bañarme y hacerme trenzas
 custom.shower,Bañarme y necesidades
 custom.shower,Bañarme y skincare
 custom.shower,Bañarme ଘ(˵╹-╹)━☆
@@ -2877,6 +3058,7 @@ custom.shower,DUTXA
 custom.shower,Depi
 custom.shower,Depilación
 custom.shower,Depilar
+custom.shower,Depilar a mamá
 custom.shower,Depilarme a epileidi
 custom.shower,Desayuno y arreglarme
 custom.shower,Descanso
@@ -2894,11 +3076,13 @@ custom.shower,Ducha relajante
 custom.shower,Ducha time
 custom.shower,Ducha y aseo
 custom.shower,Ducha y desayuno
+custom.shower,Ducha y pelo
 custom.shower,Ducha y skincare AM
 custom.shower,Ducha y vestimenta
 custom.shower,Ducha 🚿
 custom.shower,Ducha 🛀
 custom.shower,Ducha 🧼 de Mañana
+custom.shower,"Ducha, hidratación, vestirme."
 custom.shower,Duchar
 custom.shower,Duchar a Maureen
 custom.shower,Ducharme
@@ -2919,6 +3103,7 @@ custom.shower,Hair+body
 custom.shower,Higiene
 custom.shower,Hot shower ♨️
 custom.shower,Hoy: Mascarilla de cabello
+custom.shower,Hygiene
 custom.shower,Ir al baño
 custom.shower,Laundry
 custom.shower,Lavado de pelo
@@ -2926,10 +3111,12 @@ custom.shower,Lavar cabello
 custom.shower,Lavar pelo
 custom.shower,Lavar ropa
 custom.shower,Lavar toallas de baño
+custom.shower,Lavar trastes
 custom.shower,Lavarme el cabello
 custom.shower,Lavarme el pelo
 custom.shower,Lavarme pelo
 custom.shower,Lavarse la cara
+custom.shower,Levantarme
 custom.shower,Limpiar
 custom.shower,Limpiar Baños
 custom.shower,Limpiar baño
@@ -2985,6 +3172,7 @@ custom.shower,shower
 custom.shower,shower (wash your hair)
 custom.shower,shower + do face mask + shave + wipe ears + massage breasts
 custom.shower,shower + hygiene
+custom.shower,shower 💦
 custom.shower,shower:3
 custom.shower,tortugas
 custom.shower,¡ Ducharme !
@@ -2998,6 +3186,8 @@ custom.sit,Análisis y track
 custom.sit,Break
 custom.sit,Cactuchidad
 custom.sit,Cambiar zapatos
+custom.sit,Castellano
+custom.sit,Cita María F Px
 custom.sit,Clase Eider
 custom.sit,Clases CV
 custom.sit,Colegio
@@ -3012,8 +3202,10 @@ custom.sit,Estudiar
 custom.sit,Friendsgiving
 custom.sit,Interview of French
 custom.sit,Investigación proyecto grado
+custom.sit,Ir al baño
 custom.sit,Ir al colegio 🥰
 custom.sit,Logosfera
+custom.sit,Meditacion
 custom.sit,Meditación
 custom.sit,Mi cole
 custom.sit,Misa
@@ -3030,18 +3222,21 @@ custom.sit,Respiración
 custom.sit,Reunió
 custom.sit,Reunión
 custom.sit,Reunión orientadora familiar
+custom.sit,Revisar cosas
 custom.sit,Ropa deportiva
 custom.sit,School
 custom.sit,Tarea farma
 custom.sit,Terminar casos pediatría
 custom.sit,Tesis
 custom.sit,Testzentrum
+custom.sit,Tomar un descanso
 custom.sit,Trabajar
 custom.sit,Trabajo
 custom.sit,estudiar mat 2
 custom.sit,meditate
 custom.sit,pedicure
 custom.sit,pedir cita pelu gradu
+custom.sit,psicóloga
 custom.sit,¡Almuerzo!
 custom.sit,🚾
 custom.sit,🚾 Hacer 💩
@@ -3078,10 +3273,12 @@ custom.toothbrush,Ir al baño
 custom.toothbrush,LAVAR DIENTES🪥
 custom.toothbrush,LAVARSE LA CARA
 custom.toothbrush,Lavar Dientes
+custom.toothbrush,Lavar cara
 custom.toothbrush,Lavar cara y dientes
 custom.toothbrush,Lavar dientes
 custom.toothbrush,Lavar dientes 🦷
 custom.toothbrush,Lavar los dientes
+custom.toothbrush,Lavar tenis
 custom.toothbrush,Lavarme los dientes
 custom.toothbrush,Lavarse la cara
 custom.toothbrush,Lavarse los dientes
@@ -3137,6 +3334,7 @@ desktopcomputer,Academia
 desktopcomputer,Actualizar toda la laptop
 desktopcomputer,Adelantar tarea
 desktopcomputer,Analizar estas apps
+desktopcomputer,Aplicar al trabajo
 desktopcomputer,Apuntes
 desktopcomputer,BACH DUAL
 desktopcomputer,Bac
@@ -3144,12 +3342,16 @@ desktopcomputer,Bajar prest Ligthroom
 desktopcomputer,Bazar
 desktopcomputer,CILTA IG
 desktopcomputer,CISFA
+desktopcomputer,Calcular gastos mensuales
 desktopcomputer,Cambiar Mail Amazon
+desktopcomputer,Cambio internet TC consulta finanzas
 desktopcomputer,Cecas módulo 5 (convalidada)
+desktopcomputer,Certamen Analisis
 desktopcomputer,Charla
 desktopcomputer,Cibeles: Correo seguimiento
 desktopcomputer,Clase
 desktopcomputer,Clase Cámara Comercio
+desktopcomputer,Clase de dibujo aplicado
 desktopcomputer,Clases
 desktopcomputer,Clases Contabilidad
 desktopcomputer,Clases Métodos III
@@ -3162,10 +3364,13 @@ desktopcomputer,D.
 desktopcomputer,DDII
 desktopcomputer,DW Clientes Consulta
 desktopcomputer,DW Sanación Esencial
+desktopcomputer,Declaración de la renta
 desktopcomputer,Defensa de Proyecto
 desktopcomputer,Descanso
 desktopcomputer,Descarga libros.
+desktopcomputer,Descargar Kit de Diseñadores
 desktopcomputer,Design for Pablo
+desktopcomputer,Diapositivas iluminación
 desktopcomputer,EDU. FÍSICA
 desktopcomputer,Edición Intro Mariana
 desktopcomputer,Education
@@ -3173,17 +3378,20 @@ desktopcomputer,English class
 desktopcomputer,Entrar a clase
 desktopcomputer,Entretenimiento
 desktopcomputer,Entrevista
+desktopcomputer,Entrevista Agencia Digital Colombia
 desktopcomputer,Estudiar
 desktopcomputer,Estudiar tecnología
 desktopcomputer,Estudio
 desktopcomputer,Excel
 desktopcomputer,Experiencia con alex
+desktopcomputer,FUJI imprimir fotos
 desktopcomputer,Feina uni
 desktopcomputer,Firmar contrato
 desktopcomputer,Fix plans
 desktopcomputer,Free time
 desktopcomputer,"Hacer el piedra, papel o tijera"
 desktopcomputer,Hacer infografia
+desktopcomputer,Homeoffice
 desktopcomputer,ICPNA
 desktopcomputer,Idiomas
 desktopcomputer,Info intercambio
@@ -3192,6 +3400,9 @@ desktopcomputer,Inglés
 desktopcomputer,Investigar cómo se crea un blog
 desktopcomputer,Investigar para página web gratis
 desktopcomputer,Investigar proyecto
+desktopcomputer,Investigar redireccionamiento de mi Hosting al de Emmanuel
+desktopcomputer,Irme al trabajo
+desktopcomputer,JEM Media
 desktopcomputer,Jugar
 desktopcomputer,Jugar los sims 4
 desktopcomputer,Leer Interrogation
@@ -3210,8 +3421,10 @@ desktopcomputer,Oficina
 desktopcomputer,Ordenar rack
 desktopcomputer,Pandora
 desktopcomputer,Planificaciones
+desktopcomputer,Presentación
 desktopcomputer,Procesar pedidos
 desktopcomputer,Programas TH
+desktopcomputer,Proyecto
 desktopcomputer,Práctica Estasdistica
 desktopcomputer,Psico Social
 desktopcomputer,Psicofisio
@@ -3229,6 +3442,7 @@ desktopcomputer,Revisar cuentas Ohana
 desktopcomputer,Revisar impresiones
 desktopcomputer,Revisar si salen fechas OPEs
 desktopcomputer,Revisar y descargar correo
+desktopcomputer,Revisión AMM23-21
 desktopcomputer,SDG
 desktopcomputer,Sala comedor
 desktopcomputer,School
@@ -3289,6 +3503,7 @@ desktopcomputer,homeworks
 desktopcomputer,keystone
 desktopcomputer,ptt grupo artes graf
 desktopcomputer,tarea
+desktopcomputer,terminar memoria
 desktopcomputer,trabajo final cine español
 desktopcomputer,vaciar fotos al disco duro
 desktopcomputer,ver ayudantía
@@ -3296,6 +3511,7 @@ desktopcomputer,ver fashion shows
 desktopcomputer,ver un serie
 desktopcomputer,𝙼𝚊𝚜𝚝𝚎𝚛𝚌𝚕𝚊𝚜𝚜
 desktopcomputer,👀
+doc.fill,Acabar + entregar ejercicios FOL
 doc.fill,Acabar Dosier PA
 doc.fill,Acción teatral
 doc.fill,Albaranes
@@ -3306,6 +3522,7 @@ doc.fill,Apuntes TRAUMA 1-5
 doc.fill,Apuntes TRAUMA 1-6
 doc.fill,Apuntes URO
 doc.fill,Apuntes materiales
+doc.fill,Apuntes patología
 doc.fill,Apuntes química
 doc.fill,Apuntes seminario
 doc.fill,Apuntes tema 7.2 (A)
@@ -3322,13 +3539,16 @@ doc.fill,Clase teoria musical
 doc.fill,Comprar carpetas + organizar
 doc.fill,Comprar maquillaje
 doc.fill,Comunicación
+doc.fill,Construir ANS
 doc.fill,Contabilidad Tema 1 y 2
+doc.fill,Contabilidad Tema 4
 doc.fill,Contestar mails
 doc.fill,Coordinación Pastoral
 doc.fill,"Coordinación Pastoral (Asuntos de la semana, Godly Play e Historias Bíblicas"
 doc.fill,Copiar apuntes de DDHH
 doc.fill,Corregir autocad
 doc.fill,Corregir writings + Mel
+doc.fill,Cover letter
 doc.fill,Cultura Visual
 doc.fill,Curso Mindfulness
 doc.fill,David
@@ -3345,6 +3565,7 @@ doc.fill,Entregar ensayo core
 doc.fill,Enviar facturas ARELL
 doc.fill,Enviar mails
 doc.fill,Enviar papeles pasaporte Mikaella
+doc.fill,Esborrany TFG
 doc.fill,Escribir
 doc.fill,Escribir solicitud para Crochet
 doc.fill,Esquemas historia
@@ -3360,13 +3581,18 @@ doc.fill,Estudiar “la economía española”
 doc.fill,Estudiar “la sociedad española”
 doc.fill,Examen
 doc.fill,Excel tarea
+doc.fill,Fisiología
+doc.fill,Formulario Proyecto. TI
 doc.fill,Fundamentos
 doc.fill,HACER CUADERNOS PORTADAS
 doc.fill,HISTORIA
 doc.fill,Hacer Manualidades
+doc.fill,Hacer Tareas
 doc.fill,Hacer apuntes de física y química
+doc.fill,Hacer apuntes tema 2
 doc.fill,Hacer apuntes variedades
 doc.fill,Hacer deberes
+doc.fill,Hacer escrito de Oscar
 doc.fill,Hacer esquema de processal
 doc.fill,Hacer horario
 doc.fill,Hacer los ejercicios de gramática
@@ -3391,6 +3617,7 @@ doc.fill,Leer capítulo 1 histología
 doc.fill,Leer libro conducción
 doc.fill,Leer tesis
 doc.fill,Lista de niños
+doc.fill,Llegada de productos
 doc.fill,Llenar beneficio económico
 doc.fill,Llenar formatos del ss
 doc.fill,Llenar mi ingreso del trabajo
@@ -3410,6 +3637,7 @@ doc.fill,Pasar a limpio
 doc.fill,Pasar apuntes de la facultad
 doc.fill,Planificar TFG
 doc.fill,Planificar libro mates
+doc.fill,Poema lengua
 doc.fill,Precios bebidas para HERMANOS BLANCO
 doc.fill,Prepanet Recursos S6
 doc.fill,Prepanet actividad S3 Problemas
@@ -3432,6 +3660,7 @@ doc.fill,Resum T3 Finances
 doc.fill,Resumir 2do cap de Bioquímica
 doc.fill,Retirar certificado U
 doc.fill,Revisa y asigna pendientes al equipo
+doc.fill,Revisar apuntes
 doc.fill,Revisar contraseñas
 doc.fill,Revise
 doc.fill,Salir
@@ -3445,6 +3674,7 @@ doc.fill,Tarea mat
 doc.fill,Tareas
 doc.fill,Tareas pendientes
 doc.fill,Tareas pendientes (Clínica)
+doc.fill,Tecnología del hormigón
 doc.fill,Terminar pendientes
 doc.fill,Terminar tarea
 doc.fill,Trabajo Historia UE
@@ -3454,6 +3684,7 @@ doc.fill,Trabajos de hoy
 doc.fill,Ver Notas
 doc.fill,Vocabulario inglés
 doc.fill,cuaderno arts
+doc.fill,eBiz case skill cup
 doc.fill,estudiar
 doc.fill,estudiar educación ciudadana
 doc.fill,estudiar matemáticas
@@ -3479,6 +3710,7 @@ doc.fill,pasar apuntes historia
 doc.fill,pasar apuntes historia 01 y 02
 doc.fill,pasar apuntes historia 03 y 04
 doc.fill,pasar tipografía
+doc.fill,sintaxis
 doc.fill,tareas
 doc.richtext,Acabar PAE
 doc.richtext,Agenda
@@ -3495,6 +3727,7 @@ doc.richtext,CUADRO TEMA 18.2. SUMARIO Y JURADO
 doc.richtext,CUADRO TEMA 19 CONTENCIOSO-ADMINISTRATIVO
 doc.richtext,Conciliación de Inventarios
 doc.richtext,Corregir retículas
+doc.richtext,Crucigramas
 doc.richtext,Crucigramas cama
 doc.richtext,Crucigramas fisico
 doc.richtext,Crucigramas fisicos
@@ -3503,11 +3736,13 @@ doc.richtext,Deberes
 doc.richtext,Diseñar nueva página
 doc.richtext,Diálogo alemán
 doc.richtext,Do art work ฅ^•ﻌ•^ฅ
+doc.richtext,ESTUDIAR
 doc.richtext,EXÁMENES
 doc.richtext,Empezar el examen de ANTRO
 doc.richtext,Estudiar
 doc.richtext,Estudiar lengua tres primeros pretéritos
 doc.richtext,Expo Psoriasis
+doc.richtext,Ficha L.A
 doc.richtext,Ficha mates
 doc.richtext,Hacer ejercicios
 doc.richtext,Hacer el trabajo de Juan
@@ -3549,6 +3784,8 @@ doc.richtext,Registrar día
 doc.richtext,Repaso
 doc.richtext,Resúmenes para globales
 doc.richtext,Reunión ARELL
+doc.richtext,Revisar casos Econopresto y generar estrategia
+doc.richtext,Revisar informe de asesoría legal
 doc.richtext,Revisar libreta fyq
 doc.richtext,Revise
 doc.richtext,Sesión
@@ -3569,6 +3806,7 @@ doc.richtext,hora de ir a la escuelita
 doc.richtext,tarea
 doc.richtext,tarea/repaso
 dollarsign.circle.fill,1- VIP
+dollarsign.circle.fill,"72,50€ a tere"
 dollarsign.circle.fill,Administración y supervisión
 dollarsign.circle.fill,Averiguar precios BancoVacunas
 dollarsign.circle.fill,Banco
@@ -3616,6 +3854,7 @@ dollarsign.circle.fill,Let’s work!
 dollarsign.circle.fill,Mirar cómo devolver RAM
 dollarsign.circle.fill,Mirar si me han devuelto dinero Chaqueta
 dollarsign.circle.fill,Operación 128€
+dollarsign.circle.fill,Organizar finanzas
 dollarsign.circle.fill,Outing
 dollarsign.circle.fill,Pagar CEA
 dollarsign.circle.fill,Pagar Luz
@@ -3645,6 +3884,7 @@ dollarsign.circle.fill,Venta
 dollarsign.circle.fill,Ver si hay carne de los perros
 dollarsign.circle.fill,create
 dollarsign.circle.fill,create outside
+dollarsign.circle.fill,iborra
 dollarsign.circle.fill,pagar universidad
 dollarsign.circle.fill,proyecto estudios eco
 drop.fill,Agua con cebolla y ajo gallinas
@@ -3676,6 +3916,7 @@ drop.fill,Lavar ropa y ordenar
 drop.fill,Lavarme la cara
 drop.fill,Limpiar
 drop.fill,Limpiar piercings
+drop.fill,Limpieza
 drop.fill,Natacion
 drop.fill,Poner agua
 drop.fill,Poner lavadora
@@ -3688,6 +3929,7 @@ drop.fill,Toma agua
 drop.fill,Tomar 2 litros de agua
 drop.fill,Tomar 2 vasos de agua
 drop.fill,Tomar agua
+drop.fill,Tomar agua 500ml
 drop.fill,Tomar agua y lavarme la cara.
 drop.fill,Tomar mucha agua y desayunar rápido
 drop.fill,Tomar un vaso de agua
@@ -3701,6 +3943,7 @@ drop.fill,water
 drop.fill,🐟 Peix.cat
 ear,Biología
 ear,CASTELLANO T5
+ear,Escuchar podcast
 ear,Examen Biología
 ear,Foro Micro
 ear,Ingles
@@ -3741,8 +3984,10 @@ envelope.fill,Mandar baja prevención
 envelope.fill,Mensaje
 envelope.fill,Mensaje Familia
 envelope.fill,Mensaje Mami Rodika
+envelope.fill,Pedidos Stairs
 envelope.fill,Planning Daily Follow Up
 envelope.fill,Predicación
+envelope.fill,Representantes
 envelope.fill,Responder correo Lucía Caro
 envelope.fill,Revisar correo
 envelope.fill,Servicio
@@ -3763,6 +4008,8 @@ exclamationmark.triangle.fill,Clases inglés B2
 exclamationmark.triangle.fill,Comprar tacones
 exclamationmark.triangle.fill,Entregar flyers Hernan
 exclamationmark.triangle.fill,Examen de Derecho
+exclamationmark.triangle.fill,Exposición informativa
+exclamationmark.triangle.fill,Hacer presentación jueves
 exclamationmark.triangle.fill,Incapacidades
 exclamationmark.triangle.fill,Last Call
 exclamationmark.triangle.fill,Pagar
@@ -3776,6 +4023,9 @@ exclamationmark.triangle.fill,comprar una mascarilla
 exclamationmark.triangle.fill,estudiar TDisñ
 exclamationmark.triangle.fill,estudiar TLI
 exclamationmark.triangle.fill,estudiar examen Teo disñ
+exclamationmark.triangle.fill,صبح و وظيڢة.
+exclamationmark.triangle.fill,ضحى
+exclamationmark.triangle.fill,عصر و وظيڢة.
 eyedropper,Antibiótico Álvaro
 eyedropper,Body beauty food welcome
 eyedropper,Edición Twitch
@@ -3799,6 +4049,7 @@ eyedropper,skincare
 eyedropper,vacuna COVID 13:58
 eyeglasses,Apuntes ECE
 eyeglasses,Biblioteca
+eyeglasses,Bloque psicoanálisis 2
 eyeglasses,Clases
 eyeglasses,Comprar lentes
 eyeglasses,Cultivar la mente
@@ -3807,6 +4058,7 @@ eyeglasses,Estudiar contabilidad
 eyeglasses,Estudiar empresas
 eyeglasses,Estudiar lengua
 eyeglasses,Estudiar nomenclatura inorgánica
+eyeglasses,Estudiar prueba de inglés
 eyeglasses,Estudiar renal y trauma
 eyeglasses,Estudio
 eyeglasses,Expo Co.merr
@@ -3815,7 +4067,9 @@ eyeglasses,Glasses
 eyeglasses,Hacer los platos
 eyeglasses,Hacer tareas
 eyeglasses,Hacer test de reli
+eyeglasses,Harry Potter oral oratoria
 eyeglasses,INFORMACIÓN PRESENTACIÓN CRECIMIENTO Y EQUIDAD
+eyeglasses,Ir a óptica
 eyeglasses,LEER
 eyeglasses,Lectura
 eyeglasses,Leer
@@ -3824,6 +4078,7 @@ eyeglasses,Leer propositos y proyectarlo
 eyeglasses,Leer un libro
 eyeglasses,Lentillas
 eyeglasses,Materia UCIJ
+eyeglasses,Nuevas recetas y planes Giulia
 eyeglasses,Organización
 eyeglasses,Ponerme a estudiar
 eyeglasses,Proteja junta
@@ -3855,6 +4110,7 @@ eyeglasses,lectura comprensiva
 eyeglasses,leer lite
 eyeglasses,pedir los lentes
 eyeglasses,reading
+eyeglasses,trabajo
 eyeglasses,wattpad
 figure.walk,(1) Salir a correr // Series ejercicios // Yoga // Meditación
 figure.walk,A Túcume
@@ -3879,6 +4135,7 @@ figure.walk,Cardio en ayunas
 figure.walk,Carval
 figure.walk,Casita
 figure.walk,Comprar Materiales
+figure.walk,Comprar bajar
 figure.walk,Comprar materiales(prepa)  ⟡ ࣪ .
 figure.walk,Comprar pasajes para Mancora
 figure.walk,Dar de alta elephas en imss
@@ -3890,11 +4147,13 @@ figure.walk,Entrenar
 figure.walk,Estiramiento
 figure.walk,Estudiar Anato
 figure.walk,Examen de Educa
+figure.walk,Fitting
 figure.walk,GYM
 figure.walk,Go for a walk
 figure.walk,Gyjns Mt
 figure.walk,Gym
 figure.walk,Higiene
+figure.walk,HomeDepot
 figure.walk,IR A LA ESCUELA
 figure.walk,IR POR LOS GATITOS
 figure.walk,Iglesia San Nicolás
@@ -3921,6 +4180,7 @@ figure.walk,Ir de compras
 figure.walk,Ir de la abuela
 figure.walk,Ir gym
 figure.walk,Ir y volver del Faro Nuevo Media Luna
+figure.walk,Irme del trabajo
 figure.walk,Jardin Eloisa
 figure.walk,Korenmarkt
 figure.walk,Levantarme
@@ -3941,6 +4201,7 @@ figure.walk,Pasear a kelpie
 figure.walk,Pasear a las perras
 figure.walk,Pasear a nala
 figure.walk,Pasear a oacho
+figure.walk,Pasear gasper
 figure.walk,Pasear por el lugar
 figure.walk,Pasear por el pueblo
 figure.walk,Paseo
@@ -3986,14 +4247,19 @@ figure.walk,al trabajo
 figure.walk,atletismo
 figure.walk,big exercise :3
 figure.walk,butta walk
+figure.walk,caminando con gianna
 figure.walk,caminar hasta el centro
 figure.walk,go out
 figure.walk,gym
+figure.walk,ir a casa
 figure.walk,ir a comprar ingredientes para el desayuno 🍳
 figure.walk,ir a depositar
 figure.walk,ir a preguntar fto dni
+figure.walk,mendia
+figure.walk,outfits
 figure.walk,pato
 figure.walk,take butta wetlands
+figure.walk,ver casas
 figure.walk,voley
 figure.walk,walk
 figure.walk,¡Salir a andar!
@@ -4022,6 +4288,7 @@ figure.wave,Familia!
 figure.wave,Finde mama
 figure.wave,Flamenco
 figure.wave,Hacer Outfits
+figure.wave,Inglés
 figure.wave,Invisaling
 figure.wave,Ir al gym
 figure.wave,Marcos
@@ -4031,6 +4298,7 @@ figure.wave,Mental break inglés
 figure.wave,Outfit
 figure.wave,Practicar modelaje
 figure.wave,Quedada
+figure.wave,Recordatorio: Jugos
 figure.wave,Sacar turno peluqueria
 figure.wave,Salida
 figure.wave,Stretches
@@ -4039,10 +4307,12 @@ figure.wave,Tarea de tutoría
 figure.wave,Tiempo Libre
 figure.wave,Vestirme
 figure.wave,Yoga
+figure.wave,interrail
 figure.wave,pijama
 figure.wave,probar oufits
 figure.wave,reunión con amelia
 figure.wave,ss welcome bash
+film.fill,2da clase BioMol
 film.fill,Anime Time
 film.fill,CA the winter soldier
 film.fill,Cine
@@ -4062,6 +4332,7 @@ film.fill,Reels con correas
 film.fill,Serie
 film.fill,Trabajo
 film.fill,Ver peli
+film.fill,Ver una serie
 film.fill,ZAÏ ZAÏ ZAÏ ZAÏ
 film.fill,disertación Psicoterapia salas
 film.fill,exam + video
@@ -4072,6 +4343,7 @@ flag.fill,Clase formación ciudadana
 flag.fill,Día de la Bandera
 flag.fill,Estudiar biología
 flag.fill,Factura borrador SIDOR
+flag.fill,GHC
 flag.fill,Lavar ropa
 flag.fill,Pago Celular
 flag.fill,Tarea comercio int
@@ -4089,6 +4361,7 @@ flame.fill,Comprar tabaco
 flame.fill,"Correo, whatsapp y redes"
 flame.fill,Correr
 flame.fill,Encender boiler
+flame.fill,Estadio ciudad málaga
 flame.fill,Examen!!!!!!
 flame.fill,Gimnasio
 flame.fill,Grabación
@@ -4121,15 +4394,18 @@ folder.fill,Actualizar Registros
 folder.fill,Apuntes
 folder.fill,Arreglar papeles
 folder.fill,BBVA
+folder.fill,Base de renovación
 folder.fill,Cambiar carpeta operaciones
 folder.fill,Check-list presentación sec pegado en oficina
 folder.fill,Comprar materiales colegio
 folder.fill,Cuotas tarjeta
 folder.fill,Digishmehta
+folder.fill,ENTREGA TP LITERATURA
 folder.fill,Estudiar
 folder.fill,Estudiar lengua
 folder.fill,Filtro Adri
 folder.fill,Filtros
+folder.fill,Hacer apuntes oraciones compuestas
 folder.fill,Hacer excel
 folder.fill,Hacer filosofía
 folder.fill,IM con Caro
@@ -4180,6 +4456,7 @@ gamecontroller.fill,Robloxito
 gamecontroller.fill,Tarde de videojuegos
 gamecontroller.fill,Tiempo libre
 gamecontroller.fill,Toca boca
+gamecontroller.fill,Ver películas - ocio
 gamecontroller.fill,Videojuegos
 gamecontroller.fill,do my hobby (o´∪｀o)
 gamecontroller.fill,video juegos
@@ -4207,6 +4484,7 @@ gearshape.2.fill,Pagar recibo alcantarillado
 gearshape.2.fill,Recoger
 gearshape.2.fill,Recoger algunas cosas
 gearshape.2.fill,Repaso Anki / Mapas
+gearshape.2.fill,TBA
 gearshape.2.fill,Techos
 gearshape.2.fill,Tecnico Vodafone
 gearshape.2.fill,"Tiempo libre para estudiar, cosas que hacer o divertirme"
@@ -4231,6 +4509,7 @@ gift.fill,Envolver regalos
 gift.fill,Felicitación Erika
 gift.fill,Fiesta en casa de mami
 gift.fill,Hacer gift Fato
+gift.fill,Julia Dice
 gift.fill,Llista regals
 gift.fill,Mi cumple
 gift.fill,Portar flors Ariel
@@ -4278,8 +4557,10 @@ globe,Web CIUQ
 globe,hacer contenido redes JDJ
 globe,mirar trabajo baldosa
 globe,pensar trabajo final TLI
+guitars,Cepeda
 guitars,Clases luciano
 guitars,Cosmos🥳
+guitars,Fiesta
 guitars,Guitarra
 guitars,Libre
 guitars,Maroon 5
@@ -4295,12 +4576,14 @@ guitars,Tocar la guitarra
 guitars,Ukelele
 guitars,Urban Jungle
 guitars,paellas
+hammer.fill,365 do not fear
 hammer.fill,Armar escritorios
 hammer.fill,Arreglar Apple watch
 hammer.fill,Fix estanteria
 hammer.fill,Hacer aseo
 hammer.fill,La otra Bandita Talacha
 hammer.fill,Llevar aspirador a reparar
+hammer.fill,Mineros
 hammer.fill,Montar mesita
 hammer.fill,Ordenar cuarto
 hammer.fill,Organizar
@@ -4318,6 +4601,7 @@ hammer.fill,hacer servidor minecraft
 hammer.fill,poner lámpara
 hammer.fill,recoger tumbona patio
 hammer.fill,tidy up
+hand.raised.fill,Aperitivo
 hand.raised.fill,Cambiarse de ropa
 hand.raised.fill,Cuaderno Prácticas Lofoscopia
 hand.raised.fill,DESCANSO
@@ -4328,12 +4612,14 @@ hand.raised.fill,Filosofía repasar
 hand.raised.fill,Gestionar Tras Los Fogones
 hand.raised.fill,Hacer informe pericial Lofoscopia
 hand.raised.fill,Hacerme las Uñas
+hand.raised.fill,Hipopresivos
 hand.raised.fill,Lavar ropa
 hand.raised.fill,Limpiar cuarto
 hand.raised.fill,Luis: Cobrar el préstamo de la semana pasada
 hand.raised.fill,MANICURA
 hand.raised.fill,Manicura
 hand.raised.fill,Manicure
+hand.raised.fill,Masajes
 hand.raised.fill,Modelar a Wawa
 hand.raised.fill,Persona y Sociedad
 hand.raised.fill,Rattrapage cours masques
@@ -4365,6 +4651,7 @@ hand.thumbsup.fill,Gym
 hand.thumbsup.fill,Hobby
 hand.thumbsup.fill,Lavar trastes
 hand.thumbsup.fill,Libre
+hand.thumbsup.fill,Limpiar
 hand.thumbsup.fill,Limpiar ropero
 hand.thumbsup.fill,Limpiar/Servir
 hand.thumbsup.fill,MDPBoss
@@ -4378,15 +4665,18 @@ hand.thumbsup.fill,Repasar Álgebra
 hand.thumbsup.fill,TAREA
 hand.thumbsup.fill,Terminar detalles
 hand.thumbsup.fill,Tiempo libre
+hand.thumbsup.fill,Trabajo
 hand.thumbsup.fill,Vacuum
 hand.thumbsup.fill,Ver pasos de Semana Santa
 hand.thumbsup.fill,WUR
 hand.thumbsup.fill,check off 75 HARD
 hand.thumbsup.fill,check off 75 HARD + shut off electronics
+hand.thumbsup.fill,fc
 hand.thumbsup.fill,shut off electronics
 hare.fill,Agua binnie
 hare.fill,Alistar ropa y maleta para mañana
 hare.fill,Análisis de Circuitos analógicos
+hare.fill,Biología
 hare.fill,Campo
 hare.fill,Cardio
 hare.fill,Ciencias básicas
@@ -4448,6 +4738,7 @@ headphones,🎧✨
 headphones,📖🧏🏻‍♀️ - Terra Alta
 headphones,🧏🏻‍♀️📖 - Agatha Christie - Cadaver biblioteca
 headphones,🧏🏻‍♀️📖 - Blue detective inmortal
+headphones,🧏🏻‍♀️📖 - La víctima n°11
 heart.fill,' Lode si empire
 heart.fill,100 abdom
 heart.fill,4:30 - 5:00
@@ -4496,6 +4787,7 @@ heart.fill,Cumpleaños mamá
 heart.fill,Date with Boo✨
 heart.fill,Date 👀
 heart.fill,David
+heart.fill,Dear diary
 heart.fill,Desayuno $
 heart.fill,Desayuno con el ñeñe
 heart.fill,Desayuno favorito
@@ -4533,6 +4825,7 @@ heart.fill,Honda / cambio soporte de motor
 heart.fill,Hora
 heart.fill,Hora Katerin Nuche
 heart.fill,Ibizavana
+heart.fill,Intentional Nurturing
 heart.fill,Ir a SB y pasar la tarde con Papa
 heart.fill,Ir al ballet con las bbs
 heart.fill,Ir de papá
@@ -4541,6 +4834,7 @@ heart.fill,Isha
 heart.fill,Japones
 heart.fill,Javi
 heart.fill,Jornal😻
+heart.fill,Jugar con bebé
 heart.fill,LEYDELAATRACCIÓN
 heart.fill,LIBRE
 heart.fill,La casa de papel
@@ -4583,10 +4877,12 @@ heart.fill,Personal
 heart.fill,Pestañas Javi
 heart.fill,Ponte guapa
 heart.fill,Practico neuroanato
+heart.fill,Pray
 heart.fill,Predica Mi Evangelio
 heart.fill,Preparar mochila Ju 🌸
 heart.fill,Prepararme
 heart.fill,Psicologa
+heart.fill,Psicòleg
 heart.fill,Psicóloga
 heart.fill,Psicólogo
 heart.fill,Quedada Elena
@@ -4647,6 +4943,8 @@ heart.fill,coti
 heart.fill,disney
 heart.fill,do whatever you want <3
 heart.fill,día de madres
+heart.fill,graggy :)
+heart.fill,gym
 heart.fill,hablarle a mi amor
 heart.fill,hacer carta SV
 heart.fill,journal
@@ -4663,6 +4961,7 @@ heart.fill,reflect on day
 heart.fill,remove current nail polish
 heart.fill,remove your nail polish
 heart.fill,rest & recharge <3
+heart.fill,sacar a fenris
 heart.fill,"self care (uñas,perfilado)"
 heart.fill,skincare
 heart.fill,stradivarius
@@ -4674,6 +4973,7 @@ heart.fill,votar people’s choice awards
 heart.fill,wish list
 heart.fill,yoga
 heart.fill,Ángel
+heart.fill,عائلتي المحبوبة.
 heart.fill,❤️
 heart.fill,🅿️ + MINUTO H.
 heart.fill,🅿️ EXAMEN GP
@@ -4716,6 +5016,7 @@ hourglass,Prepararme y salir
 hourglass,Ser inspirado
 hourglass,Tiempo libre
 hourglass,Trabajar
+hourglass,Ver proceso para docentes
 hourglass,Zapatería
 hourglass,brain break
 hourglass,brain break!
@@ -4757,6 +5058,7 @@ house.fill,Construcción
 house.fill,Cosas de hogar
 house.fill,Cuarto
 house.fill,Culto
+house.fill,Depto Macul
 house.fill,Descanso
 house.fill,Dinner
 house.fill,Doblar ropa
@@ -4765,12 +5067,14 @@ house.fill,Entregar sillon
 house.fill,Enviar vídeo a Francisco
 house.fill,Fira de la Candelera
 house.fill,Freetime
+house.fill,Fregar
 house.fill,Guardar ropa
 house.fill,Hacer Limpieza ✨
 house.fill,Hacer aseo
 house.fill,Hacer el quehacer
 house.fill,Hacer la colada
 house.fill,Home
+house.fill,House stuff
 house.fill,Iglesia
 house.fill,Inmueble Mamita
 house.fill,Ir a casa
@@ -4778,11 +5082,13 @@ house.fill,Ir a casa y comer
 house.fill,Ir al mall
 house.fill,Jugar con muñecas
 house.fill,Juntar cosas Casa
+house.fill,LIMPIAR casa papa
 house.fill,Laundry
 house.fill,Lava tu ropa neni
 house.fill,Lavadora
 house.fill,Lavar
 house.fill,Lavar Ropa
+house.fill,Lavar los platos
 house.fill,Lavar los servicios
 house.fill,Lavar piso
 house.fill,Lavar ropa
@@ -4808,8 +5114,10 @@ house.fill,Limpiar piso
 house.fill,Limpiar polvo
 house.fill,Limpiar polvo abajo
 house.fill,Limpiar sala
+house.fill,Limpiar y acomodar
 house.fill,Limpiar y ordenar
 house.fill,Limpieza
+house.fill,Limpieza General
 house.fill,Limpieza de Casa
 house.fill,Llamar Ana vecina
 house.fill,Llegar a casa
@@ -4817,6 +5125,7 @@ house.fill,Llegar de la escuela
 house.fill,M to Madrid. N&I at home 🏠🐶
 house.fill,Misa
 house.fill,Mopa + polvo
+house.fill,Mudanza
 house.fill,Mueble auxiliar sillon
 house.fill,Netejar lavabo
 house.fill,Normi
@@ -4830,21 +5139,25 @@ house.fill,Ordenar el mueble de las pastas
 house.fill,Ordenar ropa
 house.fill,Organitzar armari
 house.fill,Organizar
+house.fill,PSMM
 house.fill,PT
 house.fill,Pagar FNA
 house.fill,Pagar Mantenimiento
 house.fill,Pagar la luz
+house.fill,Pagar muebles
 house.fill,Pago AGuA
 house.fill,Patio
 house.fill,Planchar
 house.fill,Poner lavadora
 house.fill,Poner lavadora blanco
 house.fill,Poner lavadoras
+house.fill,Poner secadora
 house.fill,Preparar lonche
 house.fill,Prepararse para el cole
 house.fill,Recoger
 house.fill,Recoger casa + niñas
 house.fill,Recoger casa y Ambientador
+house.fill,Recoger comedor
 house.fill,Recoger cuarto
 house.fill,Recoger el comedor
 house.fill,Recoger el cuarto
@@ -4872,12 +5185,14 @@ house.fill,Tarea: Pagar
 house.fill,Tarea: Planear ejercicio semana y proxima
 house.fill,Tareas
 house.fill,Tareas del día
+house.fill,Tareas domesticas
 house.fill,Tender cama
 house.fill,Tender camas
 house.fill,Tender casa
 house.fill,Tender ropa
 house.fill,Tiempo libre
 house.fill,Tirar basura
+house.fill,Trapear
 house.fill,Ursula Alfaro/ Buen Retiro
 house.fill,Visitar a los padrinos
 house.fill,Visitar tía de Luisa
@@ -4890,6 +5205,7 @@ house.fill,casita
 house.fill,clases con lucía
 house.fill,comprar mercadería
 house.fill,hacer citas senses
+house.fill,lavar
 house.fill,lavar ropa
 house.fill,lavar trastes de abajo
 house.fill,limpiar
@@ -4899,13 +5215,19 @@ house.fill,llegar a casa
 house.fill,pre eliminares SENSES
 house.fill,spring cleaning - fung shui room
 house.fill,tidy up
+house.fill,wi fi red house
 house.fill,🎧✨🏡
+icloud.and.arrow.up.fill,Creatividad
 icloud.and.arrow.up.fill,Deploy Imalive
 icloud.and.arrow.up.fill,Ir a correos
 icloud.and.arrow.up.fill,liberar espacio móvil
 icloud.and.arrow.up.fill,mover personaje pen drive
+icloud.and.arrow.up.fill,nuevo insta
 icloud.and.arrow.up.fill,pasar foto dni y cartel pen drive
 icloud.and.arrow.up.fill,relax
+icloud.and.arrow.up.fill,subir ai TPGII drive
+icloud.and.arrow.up.fill,subir carpeta comprimida TPGII
+icloud.and.arrow.up.fill,subir cosas ILU
 key.fill,Hacer almuerzo y orden de casa
 key.fill,Limpiar cuarto
 key.fill,Llaves mami
@@ -4971,6 +5293,7 @@ keyboard,Transcribir ikaskuntza
 keyboard,Ver material clase progra
 keyboard,Videojuegos
 keyboard,Work
+keyboard,Work on Long Tim
 keyboard,bibliografia tr
 keyboard,check phone notifications + messages
 keyboard,estudiar
@@ -4986,9 +5309,11 @@ leaf.fill,Ayudantía Biología
 leaf.fill,Bases biológicas y bioquímicas (laboratorio) (A)
 leaf.fill,Bio
 leaf.fill,Biología
+leaf.fill,Biología célula
 leaf.fill,Comer algo ligero
 leaf.fill,Cosas pendientes
 leaf.fill,Descansar
+leaf.fill,Descanso
 leaf.fill,Estiramiento
 leaf.fill,Estudiar
 leaf.fill,Estudiar biologia
@@ -5002,12 +5327,14 @@ leaf.fill,Journaling + Vaso de Agua
 leaf.fill,Jugo verde
 leaf.fill,Jugo verde y desayuno
 leaf.fill,Jundo Dah
+leaf.fill,Lavar ropa
 leaf.fill,Limpiar patio
 leaf.fill,Limpieza
 leaf.fill,Mascarilla
 leaf.fill,Meditacion
 leaf.fill,Meditar
 leaf.fill,Paper CS Apicultura: Reunión
+leaf.fill,Patio
 leaf.fill,Planta
 leaf.fill,Plantas
 leaf.fill,Procesal Orgánico
@@ -5028,16 +5355,19 @@ leaf.fill,Snack
 leaf.fill,Spa facial
 leaf.fill,Stretch
 leaf.fill,Terapia
+leaf.fill,Think
 leaf.fill,Tiempo libre
 leaf.fill,Time to my face
 leaf.fill,Tomar agua
 leaf.fill,Tomaten vereinzeln
 leaf.fill,Trasplantar el teléfono
 leaf.fill,Trekking tami
+leaf.fill,Ver gastos y ahorro diario
 leaf.fill,Yoga
 leaf.fill,Yoga en cama
 leaf.fill,descanso
 leaf.fill,herbario
+leaf.fill,my moment
 leaf.fill,preu biologia
 leaf.fill,test biología
 leaf.fill,🧴Rutina
@@ -5051,6 +5381,7 @@ lightbulb.fill,Meditar
 lightbulb.fill,Organizarme
 lightbulb.fill,PENSAR posibles
 lightbulb.fill,Pensar posibles
+lightbulb.fill,Proyecto BID Jóvenes
 lightbulb.fill,Proyectos: pensar agregación
 lightbulb.fill,Psicóloga
 lightbulb.fill,Reflexión
@@ -5068,6 +5399,7 @@ link,Tecnologías de la información
 link,Trabajar
 location.fill,Barcelona 🏙
 location.fill,Clase de Oportunidad de Negocios: Semana 1
+location.fill,Investigación
 location.fill,Ir a buscar ropa c/a agu
 location.fill,Lancha al Hotel Sauce Resort
 location.fill,Vestirse
@@ -5089,6 +5421,7 @@ magnifyingglass,Revisar cuentas
 magnifyingglass,Rezar Salmos
 magnifyingglass,Sourcing Vidjet
 magnifyingglass,Sourcing Xceed
+magnifyingglass,bolsa paltas
 map.fill,Enviar información Dra. Cano
 map.fill,Hacer vision board
 map.fill,Historia
@@ -5106,8 +5439,10 @@ mdi.airplane.landing,Aeropuerto
 mdi.airplane.landing,Aeropuerto🛫
 mdi.airplane.landing,Hacer maletas viaje
 mdi.airplane.landing,Inglaterra!
+mdi.airplane.landing,Trabajo EDT
 mdi.airplane.landing,Vuelo Santiago
 mdi.airplane.landing,aeropuerto
+mdi.airplane.takeoff,.
 mdi.airplane.takeoff,Averigua sobre W&T
 mdi.airplane.takeoff,BCN - MAD
 mdi.airplane.takeoff,Bye bye rulis bebe
@@ -5125,7 +5460,9 @@ mdi.airplane.takeoff,Vuelo Malaga
 mdi.airplane.takeoff,Vuelo a Bologna
 mdi.airplane.takeoff,Yosneiker Flug buchen
 mdi.airplane.takeoff,tarde
+mdi.alcohol,Apelaciones y varietales
 mdi.alcohol,Bar
+mdi.alcohol,Bodega
 mdi.alcohol,Caja Sobre Tabaco Monedas
 mdi.alcohol,Chupito
 mdi.alcohol,Cumpleaños Caro
@@ -5169,7 +5506,9 @@ mdi.bike,exercise bike
 mdi.bike,first half on exercise bike
 mdi.bike,second half on exercise bike
 mdi.bike,work out
+mdi.bike,¡Salir a correr!
 mdi.bike,🚲
+mdi.bike,🚲Go
 mdi.birthday,22🥳
 mdi.birthday,Aniversari papa
 mdi.birthday,Carta a Dani
@@ -5220,7 +5559,9 @@ mdi.buggy,Pastillas
 mdi.buggy,Trabajo
 mdi.bus,Agencia Ittsa
 mdi.bus,Autobus
+mdi.bus,Autobús
 mdi.bus,BUS 7:10
+mdi.bus,Bajar a sc
 mdi.bus,Bus
 mdi.bus,Bus de vuelta a casa
 mdi.bus,Bus hasta la uni
@@ -5235,8 +5576,11 @@ mdi.bus,Dejar a bebé en el Kinder
 mdi.bus,Desayunar y salir de casa para la vacuna
 mdi.bus,Entrega bolsas compostables
 mdi.bus,Go to school
+mdi.bus,Home
+mdi.bus,Igualadina
 mdi.bus,Ir a Clases de Ingles
 mdi.bus,Ir a Villahermosa
+mdi.bus,Ir a casa
 mdi.bus,Ir a la uni
 mdi.bus,Metropolitano
 mdi.bus,Micro
@@ -5265,6 +5609,7 @@ mdi.bus,Vuelta a casa
 mdi.bus,go home
 mdi.bus,preparar maleta con lo q me vaya a poner
 mdi.bus,rellenar bono titsa
+mdi.bus,san diego padres
 mdi.bus,¡Bus!🚍
 mdi.couch,Abuelos
 mdi.couch,Alistarse y descansar
@@ -5276,6 +5621,7 @@ mdi.couch,Descansar
 mdi.couch,Descanso
 mdi.couch,Dormir siesta
 mdi.couch,Día del Padre
+mdi.couch,Leer
 mdi.couch,Leer fundación
 mdi.couch,Limpiar
 mdi.couch,Limpiar espacio
@@ -5292,6 +5638,7 @@ mdi.couch,Sofá en familia
 mdi.couch,Tiempo libre
 mdi.couch,ordenar
 mdi.couch,🧹🧺💧
+mdi.ev.station,Revise
 mdi.ev.station,Tiempo con Ber
 mdi.gas.station,Cargar gasolina
 mdi.gas.station,Echar gasolina
@@ -5329,6 +5676,7 @@ mdi.instagram,Plaza de Armas de Chachapoyas
 mdi.instagram,Plaza de armas y Chabuca Granda
 mdi.instagram,Publicar
 mdi.instagram,Publicar en Arauzdraw
+mdi.instagram,Publicar historias insta JC
 mdi.instagram,Publicar post del día
 mdi.instagram,Pueblo de Chachapoyas
 mdi.instagram,Puente de los Suspiros
@@ -5341,6 +5689,7 @@ mdi.instagram,Revisa tu bandeja de entrada
 mdi.instagram,Revisar bandeja de entrada
 mdi.instagram,Subir contenido
 mdi.instagram,Subir foto cielo post ansiedad
+mdi.instagram,Subir fotos
 mdi.instagram,Tiempo libre
 mdi.instagram,Tour Laguna 69 / Paron
 mdi.instagram,Trekking Catarata Pucayacu
@@ -5362,6 +5711,7 @@ mdi.mountain,Ciudadela de Kuélap
 mdi.mountain,DESARROLLO PERSONAL
 mdi.mountain,Descansar y disfrutar del hotel
 mdi.mountain,Excursió i calçotada Masnou
+mdi.mountain,Extremers
 mdi.mountain,Ficha Geología
 mdi.mountain,Formato medico Lanzate
 mdi.mountain,Geo
@@ -5374,6 +5724,7 @@ mdi.mountain,estirar
 mdi.mountain,examen historia
 mdi.pharmacy,0-0-0
 mdi.pharmacy,1/4-0-0
+mdi.pharmacy,1/4-1/4-0
 mdi.pharmacy,APEC
 mdi.pharmacy,APS ~ Cátedra
 mdi.pharmacy,Aceite esencial + lavanda en herida brazo
@@ -5389,6 +5740,7 @@ mdi.pharmacy,Clínica
 mdi.pharmacy,Colon plus
 mdi.pharmacy,Comprar medicinas
 mdi.pharmacy,Consalud cambio de plan
+mdi.pharmacy,Curacion
 mdi.pharmacy,Devocional
 mdi.pharmacy,Dr. Frauendorf
 mdi.pharmacy,Entender quimica
@@ -5397,6 +5749,7 @@ mdi.pharmacy,Fisio
 mdi.pharmacy,Gine
 mdi.pharmacy,Ginecologo
 mdi.pharmacy,Hospiten
+mdi.pharmacy,Inalador
 mdi.pharmacy,Ir al cesfam
 mdi.pharmacy,Ir al médico
 mdi.pharmacy,MEDICINA FAMILIAR
@@ -5408,6 +5761,7 @@ mdi.pharmacy,Predialex
 mdi.pharmacy,Preguntar análisis ASISA - centro médico Plaza
 mdi.pharmacy,Prueba COVID
 mdi.pharmacy,Remedios toffy 🤍
+mdi.pharmacy,Sacar sangre
 mdi.pharmacy,Tomar medicamentos
 mdi.pharmacy,Tomar pastilla
 mdi.pharmacy,Tomar pastillas
@@ -5446,9 +5800,11 @@ mdi.relax,Descansar
 mdi.relax,Descanso
 mdi.relax,Descanso 🧘‍♀️
 mdi.relax,Estirar
+mdi.relax,Estudiar Mates
 mdi.relax,Estudiar francés
 mdi.relax,Estudio bíblico y crochet
 mdi.relax,Examen de biología
+mdi.relax,Get ready
 mdi.relax,Ginecóloga
 mdi.relax,Gym
 mdi.relax,Hablar con silvia
@@ -5463,6 +5819,7 @@ mdi.relax,Lunch
 mdi.relax,MEDITAR
 mdi.relax,Mascarilla cara
 mdi.relax,Maureen
+mdi.relax,Medita
 mdi.relax,Meditación
 mdi.relax,Meditar
 mdi.relax,Meditar 🧘‍♀️
@@ -5486,6 +5843,7 @@ mdi.relax,Prender vela
 mdi.relax,Programar lavadora y secadora para las 00h
 mdi.relax,Proteína
 mdi.relax,Psicóloga
+mdi.relax,Quiropráctico
 mdi.relax,Reflexión
 mdi.relax,Regar
 mdi.relax,Regar plantas
@@ -5507,6 +5865,7 @@ mdi.relax,Shower & Skincare
 mdi.relax,Skin care
 mdi.relax,Skincare
 mdi.relax,Snack
+mdi.relax,Spa
 mdi.relax,Tai-chi
 mdi.relax,Terminar los volantes ☆% ㅎ_ㅎ
 mdi.relax,Texto filosofia
@@ -5540,6 +5899,7 @@ mdi.running,(X)+(H) TRASLADO
 mdi.running,A trabajar
 mdi.running,Acaba plazo juez
 mdi.running,Academia
+mdi.running,Attività Fisica
 mdi.running,Ayudar madre
 mdi.running,Baile
 mdi.running,Bajar toppers cocina
@@ -5553,6 +5913,7 @@ mdi.running,Cardio💓
 mdi.running,Carrera
 mdi.running,Cdv
 mdi.running,Chicago Run
+mdi.running,Chiki
 mdi.running,Cinta
 mdi.running,Clase movimiento
 mdi.running,Cobrar dinero
@@ -5570,6 +5931,7 @@ mdi.running,Entrenamiento
 mdi.running,Entrenamiento futbol
 mdi.running,Entrenar
 mdi.running,Entreno
+mdi.running,Examen
 mdi.running,Fisiología ~ Cátedra
 mdi.running,Freeletics
 mdi.running,GYM
@@ -5595,6 +5957,7 @@ mdi.running,Ir al mercadito
 mdi.running,Ir al pueblo
 mdi.running,Ir al trabajo
 mdi.running,Ir de viaje
+mdi.running,LIBRE para salirrr
 mdi.running,Lavar ropa
 mdi.running,Llegar a casa
 mdi.running,Nadar
@@ -5610,6 +5973,7 @@ mdi.running,Recoger a la gorda del cole!!
 mdi.running,Regresar blusa ross
 mdi.running,Regresar paquetes Amazon
 mdi.running,Relajarme o hacer deberes
+mdi.running,Retorno trabajo
 mdi.running,Run - Day 1
 mdi.running,Run - Day 10
 mdi.running,Run - Day 11
@@ -5678,13 +6042,16 @@ mdi.running,correr
 mdi.running,entreno futbol
 mdi.running,get ready
 mdi.running,glute strength
+mdi.running,gym
 mdi.running,hacer ejercicio
+mdi.running,limpiar cuarto
 mdi.running,partido
 mdi.running,salir a correr
 mdi.running,take butter wetlands or bike
 mdi.running,thread mill
 mdi.running,voleibol
 mdi.running,workout time
+mdi.running,yoga
 mdi.running,𝙚𝙟𝙚𝙧𝙘𝙞𝙘𝙞𝙤 🥊
 mdi.school,ACADEMIA
 mdi.school,Abogado oma
@@ -5693,6 +6060,7 @@ mdi.school,Academia francés
 mdi.school,Administración
 mdi.school,Administración contemporánea
 mdi.school,Advisor
+mdi.school,Alberto
 mdi.school,Anato
 mdi.school,Anatomia
 mdi.school,Anglès
@@ -5731,6 +6099,7 @@ mdi.school,Civismo
 mdi.school,Clase
 mdi.school,Clase Magistral
 mdi.school,Clase Nefro
+mdi.school,Clase PreTesis
 mdi.school,Clase Quimimica
 mdi.school,Clase Taller
 mdi.school,Clase de Mates
@@ -5840,6 +6209,7 @@ mdi.school,Estudiar algo
 mdi.school,Estudiar biología
 mdi.school,Estudiar biología (solemne)
 mdi.school,Estudiar biológicas
+mdi.school,Estudiar con la Clari
 mdi.school,Estudiar cristianismo
 mdi.school,Estudiar estos temas de psicología
 mdi.school,Estudiar estética
@@ -5870,6 +6240,7 @@ mdi.school,Estudio 📚
 mdi.school,Estética presencial
 mdi.school,Examen Anatomía - Aparato Digestivo
 mdi.school,Examen creatividad
+mdi.school,Examen de inglés
 mdi.school,Examen lengua
 mdi.school,Examenes telematicos
 mdi.school,Exámen Lofoscopia
@@ -5881,12 +6252,14 @@ mdi.school,Filo
 mdi.school,Filosofia
 mdi.school,Filosofía
 mdi.school,Fisica
+mdi.school,Fisio II
 mdi.school,Fonética
 mdi.school,Formación
 mdi.school,Frances clase
 mdi.school,Frances toxico
 mdi.school,Física
 mdi.school,GP Estimulación A
+mdi.school,GRADUACIÓN
 mdi.school,Garantía Juvenil
 mdi.school,Geometría
 mdi.school,Gestión de marca
@@ -5910,6 +6283,7 @@ mdi.school,Historia Contemporánea
 mdi.school,Historia bloqué 2
 mdi.school,Historia exámen
 mdi.school,"Historia pag 111 act 1,2 y 3"
+mdi.school,Historieta
 mdi.school,Humanitas
 mdi.school,ICS
 mdi.school,INICIO SEGUNDO AÑO DISEÑO GRÁFICO
@@ -5940,7 +6314,9 @@ mdi.school,Ir al instituto
 mdi.school,Jardin Valen
 mdi.school,Jornada colegio
 mdi.school,Kindle
+mdi.school,LITERATURA
 mdi.school,Lab Bromato
+mdi.school,Leavers assembly
 mdi.school,Lectura
 mdi.school,Leer
 mdi.school,Leer TSC lll
@@ -5958,6 +6334,7 @@ mdi.school,Mates
 mdi.school,Mathe
 mdi.school,Matrícula
 mdi.school,Memorizar
+mdi.school,Memorizar Intro
 mdi.school,Microeconomía
 mdi.school,Minimo común múltiplo 🧎🏻‍♂️
 mdi.school,Mirar lo que cae de historia
@@ -5991,12 +6368,15 @@ mdi.school,Pensamiento - Entregar Portfolio
 mdi.school,Persona erstellen
 mdi.school,Photography
 mdi.school,Planificar estudio semanal
+mdi.school,Poner sello TNE ‼︎
 mdi.school,Portafolios
 mdi.school,Portes obertes Vall d'Hebron
+mdi.school,Practicar B2
 mdi.school,Practicar Dúo
 mdi.school,Pre
 mdi.school,Prepa
 mdi.school,Preparar Proyecto
+mdi.school,Preparar mi parte de la actividad
 mdi.school,Preparar mochila
 mdi.school,Preparar para hablar con Cèsar
 mdi.school,Prepararte par ala escuela
@@ -6013,6 +6393,7 @@ mdi.school,Psicoterapia
 mdi.school,Química
 mdi.school,Raul
 mdi.school,Rechnungswesen
+mdi.school,Repasar EDO
 mdi.school,Repàs
 mdi.school,Revisar Unidades 6 y 7 - 6:00
 mdi.school,Revisar correo de RECATEGORIZACIÓN USIL
@@ -6025,6 +6406,8 @@ mdi.school,School
 mdi.school,Sección RJMCMC
 mdi.school,Semana 7 diario
 mdi.school,Seminario
+mdi.school,Sesión estudio 1
+mdi.school,Sesión estudio 2
 mdi.school,Sociología reunión
 mdi.school,Solicitar informe pericial en topografía
 mdi.school,Study
@@ -6048,6 +6431,7 @@ mdi.school,Tareas de biología /estudiar
 mdi.school,Tarjeta de navidad
 mdi.school,Tasca 1
 mdi.school,Terapéutica Vocal
+mdi.school,Terminar el reporte
 mdi.school,Termodinámica
 mdi.school,Tesis
 mdi.school,Test
@@ -6069,6 +6453,7 @@ mdi.school,Transcribir la entrevista
 mdi.school,Treball Deontologia
 mdi.school,Trimestral lengua
 mdi.school,Trámites tesis
+mdi.school,Tutorial WP Bakery
 mdi.school,Tutoría
 mdi.school,UE
 mdi.school,Uni
@@ -6097,11 +6482,14 @@ mdi.school,estadística
 mdi.school,estudiar
 mdi.school,estudiar anatomía (control teo viernes)
 mdi.school,estudiar histología
+mdi.school,fc
+mdi.school,física
 mdi.school,get everything ready for school
 mdi.school,haz resumen de 90 palabras
 mdi.school,in the car — work
 mdi.school,inglés again
 mdi.school,instituto
+mdi.school,ir al colegio
 mdi.school,japonés
 mdi.school,organizar cuadernolas
 mdi.school,period five — biology
@@ -6180,6 +6568,7 @@ mdi.ticket,San movi
 mdi.ticket,Sopar Calàndria & Dr Strange
 mdi.ticket,Stream de Ibai surprise
 mdi.ticket,Teatro
+mdi.ticket,Tiempo libre
 mdi.ticket,Viaje Andorra
 mdi.ticket,poner la euromillones e ingresar dinero
 mdi.ticket,streaming con nikon 3400
@@ -6215,10 +6604,12 @@ moon.fill,Ir A Dormir
 moon.fill,Masaje
 moon.fill,Melatonina y a mimir
 moon.fill,Night Routine
+moon.fill,Night Routine 🪥🐟🖱🧏🏻‍♀️
 moon.fill,Night routine
 moon.fill,Night routine✨
 moon.fill,Night skin routine
 moon.fill,Puerta abierta
+moon.fill,Repasar
 moon.fill,Rutina de Skincare Nocturna
 moon.fill,Rutina de noche
 moon.fill,Rutina noche
@@ -6227,6 +6618,7 @@ moon.fill,Schlaf gut!
 moon.fill,Sleep
 moon.fill,Sleep :)))
 moon.fill,Sleep Well!
+moon.fill,Turno de noche
 moon.fill,bona nit
 moon.fill,dormir
 moon.fill,good night
@@ -6240,8 +6632,11 @@ moon.fill,rutina nocturna
 moon.fill,sleep well!
 moon.fill,turn electronics off!!
 moon.fill,¡A dormir!
+moon.fill,¡Descansa ♥️!
 moon.fill,¡Descansa!
+moon.fill,¡Despierta!
 moon.fill,¡Duerme Bien!
+moon.fill,¡Sleep! 💤
 moon.fill,𓇽𝐻𝑂𝑅𝐴 𝐷𝐸 𝐷𝑂𝑅𝑀𝐼𝑅𓇽
 moon.fill,🌙☁️
 moon.zzz.fill,A Dormir
@@ -6272,14 +6667,18 @@ moon.zzz.fill,Mimir
 moon.zzz.fill,Mimir🧸
 moon.zzz.fill,Night Routine
 moon.zzz.fill,Planner día siguiente.
+moon.zzz.fill,Ponerse ropa de dormir
 moon.zzz.fill,Rutina de noche
 moon.zzz.fill,Rutina de noche familiar
 moon.zzz.fill,Rutina nocturna
 moon.zzz.fill,Siesta
 moon.zzz.fill,Sleep
+moon.zzz.fill,descansa
 moon.zzz.fill,dormir
+moon.zzz.fill,night routine
 moon.zzz.fill,skin routine 🌙
 moon.zzz.fill,¡A dormir!
+moon.zzz.fill,¡Descansa!
 moon.zzz.fill,¡Duerme Bien!
 moon.zzz.fill,¡Duerme bien!
 moon.zzz.fill,잘자
@@ -6300,10 +6699,12 @@ music.mic,S’entraîner nouvelles chansons grp de musique
 music.mic,Telegram
 music.mic,grabar regalo pia
 music.mic,grabar sos más
+music.mic,manuel medrano
 music.mic,práctica canto
 music.note,Baile
 music.note,Baile social de Swing
 music.note,Basic4
+music.note,Bateria
 music.note,Clarinete
 music.note,Clase de swing
 music.note,Concierto Elena
@@ -6360,6 +6761,7 @@ mustache.fill,Preparar oral y estudiar
 mustache.fill,Teatro
 mustache.fill,Vestida
 mustache.fill,Vestirme
+mustache.fill,Vestirse
 mustache.fill,filosofía: estudiar hume
 mustache.fill,filosofía: pasar a limpio
 mustache.fill,hacerse cejas
@@ -6398,6 +6800,7 @@ newspaper.fill,ESCRITO FÍSICA
 newspaper.fill,Elaborar materiales post PP
 newspaper.fill,Entrar a Clases
 newspaper.fill,Entrevista
+newspaper.fill,Epígrafes cortos historia
 newspaper.fill,Escribir
 newspaper.fill,Escritura artículo actual
 newspaper.fill,Esquemas castellano
@@ -6416,8 +6819,10 @@ newspaper.fill,Hacer resumen
 newspaper.fill,Hacer tarea
 newspaper.fill,Hacer trabajo historia
 newspaper.fill,Hacer transcripciones
+newspaper.fill,Historia
 newspaper.fill,IGO Libro artículo mujeres
 newspaper.fill,Imprimir etiqueta y plan alimentación
+newspaper.fill,Inventario
 newspaper.fill,Investigación E3
 newspaper.fill,LIBRO GALEGO
 newspaper.fill,Lectura
@@ -6436,6 +6841,7 @@ newspaper.fill,Pc MATEBA- martes
 newspaper.fill,Peso:
 newspaper.fill,Peso: 82.8kilos
 newspaper.fill,Portar currículum
+newspaper.fill,Practicar Tema 1 y 2
 newspaper.fill,Preparación Maribí
 newspaper.fill,Preparar mi asignación
 newspaper.fill,Preparar presentación literatura
@@ -6456,6 +6862,7 @@ newspaper.fill,Revise
 newspaper.fill,SUBRAYADO TEMA 18.2. SUMARIO Y JURADO
 newspaper.fill,SUBRAYADO TEMA 20 PROCEDIMIENTO LABORAL
 newspaper.fill,Sacar ficha de pago
+newspaper.fill,Seminario Consentino
 newspaper.fill,Seminario de Tesis
 newspaper.fill,Simulador renta
 newspaper.fill,Sorteo IPad
@@ -6466,9 +6873,11 @@ newspaper.fill,Subrayar Teoría 1
 newspaper.fill,Taller
 newspaper.fill,Tarea
 newspaper.fill,Tarea :)
+newspaper.fill,Tarea de historia
 newspaper.fill,Tarea educación ciudadana
 newspaper.fill,Tareas
 newspaper.fill,Tareas de la mañana
+newspaper.fill,Tema 1 lengua
 newspaper.fill,Ticket bombillos
 newspaper.fill,Tiempo de estudio de Meteorología
 newspaper.fill,Trabajando
@@ -6476,6 +6885,7 @@ newspaper.fill,Trabajo latín
 newspaper.fill,Valoración crítica
 newspaper.fill,Valoración crítica 1
 newspaper.fill,Veterinaria. Cita para Kobu
+newspaper.fill,castelán
 newspaper.fill,corregir revelados
 newspaper.fill,ensayo filosofía
 newspaper.fill,estudiar
@@ -6538,6 +6948,7 @@ noun.coffee,Cafetería
 noun.coffee,Café
 noun.coffee,Café con Andy
 noun.coffee,Café con David
+noun.coffee,Café con el bad bunny de dos metros 💀
 noun.coffee,Café con pollo
 noun.coffee,Café rápido ☕️
 noun.coffee,Café y Journal
@@ -6548,6 +6959,7 @@ noun.coffee,Cena con el papá
 noun.coffee,Cenar
 noun.coffee,Cocinar
 noun.coffee,Coffe break ☕️
+noun.coffee,Coffee Time 📔💊🚰🐟🍏
 noun.coffee,Comer
 noun.coffee,Comer algo
 noun.coffee,Comer desa desa
@@ -6555,6 +6967,7 @@ noun.coffee,Comer tortitas
 noun.coffee,Comer un batido
 noun.coffee,Comer y Viki
 noun.coffee,Comer y descanso
+noun.coffee,DESAYUNO
 noun.coffee,Darle desayuno a Julieta
 noun.coffee,Des
 noun.coffee,Desayuna
@@ -6568,6 +6981,7 @@ noun.coffee,Desayunar en el hotel
 noun.coffee,Desayunar saludable
 noun.coffee,Desayunar sano
 noun.coffee,Desayunar y preparar todo
+noun.coffee,Desayunar 📖
 noun.coffee,Desayunar/ leer
 noun.coffee,Desayuno
 noun.coffee,Desayuno <3
@@ -6581,14 +6995,18 @@ noun.coffee,Desayuno 🍳🥞
 noun.coffee,Desayuno 🍽
 noun.coffee,Desayuno 🥞
 noun.coffee,Desayuno 🥞🍳
+noun.coffee,Desayuno+estudio🫡
 noun.coffee,Descanso
 noun.coffee,Despierta tu estómago
+noun.coffee,Desyunar
 noun.coffee,Dinner
 noun.coffee,Domi Baeta i Paulita
 noun.coffee,Drink water
 noun.coffee,Esmorzar
 noun.coffee,Estudiar ghc/biología
 noun.coffee,Estudiar programación
+noun.coffee,Estudio🫡
+noun.coffee,Evento AJA
 noun.coffee,Go get my bagel!
 noun.coffee,Grace
 noun.coffee,Hacer desayuno
@@ -6608,6 +7026,7 @@ noun.coffee,Mate
 noun.coffee,Me tomaré un té y descansaré
 noun.coffee,Media mañana
 noun.coffee,Mema
+noun.coffee,Menjador
 noun.coffee,Mercadillo de Tarapoto
 noun.coffee,Mercado Central
 noun.coffee,Merendar
@@ -6649,18 +7068,22 @@ noun.coffee,Recreo
 noun.coffee,Reposar la comida
 noun.coffee,Reunion Sprint con Dani
 noun.coffee,Reunión MARÍA ELENA TFG
+noun.coffee,Riflessioni
 noun.coffee,Sinergia
 noun.coffee,Sister
 noun.coffee,Snack
 noun.coffee,Snack time🤍
 noun.coffee,Snack time🤎
+noun.coffee,Tapita: Snakin’ fuet + picos
 noun.coffee,Te
 noun.coffee,Teatime and exercise
 noun.coffee,Teresita
 noun.coffee,Tiempo libre
 noun.coffee,Tomar 5gr. Creatina
+noun.coffee,Tomar Once
 noun.coffee,Tomar agua
 noun.coffee,Tomar agüita con limón (^｡^)
+noun.coffee,Tomar algo con estos
 noun.coffee,Tomar desayuno
 noun.coffee,Tomar once
 noun.coffee,Té
@@ -6672,6 +7095,7 @@ noun.coffee,breakfast and wake up
 noun.coffee,café frío
 noun.coffee,cena
 noun.coffee,cenar
+noun.coffee,change of clothes
 noun.coffee,colación
 noun.coffee,comer
 noun.coffee,desayunar
@@ -6697,9 +7121,11 @@ noun.coffee,¡Desayunar!
 noun.coffee,𝙲𝚘𝚖𝚎𝚛
 noun.coffee,🍋💧🎶🧠☕️🍳🥞
 noun.coffee,🍞☕️
+noun.coffee,🫕 Eat
 noun.meal,1 alma
 noun.meal,20kcal 🇺🇸
 noun.meal,8a Gastro Mkt
+noun.meal,Alimentación
 noun.meal,Alistar Lonchera
 noun.meal,Almorzan
 noun.meal,Almorzar
@@ -6708,6 +7134,7 @@ noun.meal,Almorzar en el hotel
 noun.meal,Almorzar en el hotel?
 noun.meal,Almorzar(proporcional/medir con mini pote)
 noun.meal,Almorço
+noun.meal,Almoçar
 noun.meal,Almuerza
 noun.meal,Almuerza saludable
 noun.meal,Almuerzo
@@ -6761,6 +7188,7 @@ noun.meal,Comer ?
 noun.meal,Comer Manuel Carmona “Solis”
 noun.meal,Comer algo
 noun.meal,Comer en casa de la abuela
+noun.meal,Comer fruta y ensalada
 noun.meal,Comer plátano
 noun.meal,Comer sano
 noun.meal,Comer y bañarse
@@ -6773,10 +7201,12 @@ noun.meal,Comer 🥳😍
 noun.meal,Comer.
 noun.meal,Comida
 noun.meal,Comida + Descanso
+noun.meal,Comida 1
 noun.meal,Comida familia ale
 noun.meal,Comida gallinas
 noun.meal,Comida 🍝
 noun.meal,Comidita Álvarez
+noun.meal,Comprar comida
 noun.meal,Compras viaje
 noun.meal,DESAYUNO
 noun.meal,DESAYUNO + VESTIRME
@@ -6788,6 +7218,7 @@ noun.meal,Desayunar
 noun.meal,Desayunar + H2o
 noun.meal,Desayunar huevo con espárragos y espinacas
 noun.meal,Desayunar-subir todo al carro
+noun.meal,Desayunar.
 noun.meal,Desayuno
 noun.meal,Desayuno Rápido
 noun.meal,Desayuno saludable
@@ -6799,6 +7230,7 @@ noun.meal,Desayuno.
 noun.meal,Desayuno🥞
 noun.meal,Desayuno🥞☕️
 noun.meal,Descanso
+noun.meal,Desyunar
 noun.meal,Dinar
 noun.meal,Dinar Corbera
 noun.meal,Dinar Lorita&Sanchis
@@ -6813,6 +7245,7 @@ noun.meal,"Ebéd (rizs,"
 noun.meal,"Ebéd (tejberizs, 2 körte, baracklekvár)"
 noun.meal,Fira de la Candelera
 noun.meal,Food
+noun.meal,Fregar
 noun.meal,Hacer albóndigas y solomillo
 noun.meal,Hacer almuerzo
 noun.meal,Hacer cena
@@ -6836,6 +7269,7 @@ noun.meal,Iftar
 noun.meal,Ir a comer
 noun.meal,IÑAUTERI BAZKARIA
 noun.meal,Kávé
+noun.meal,Lavar los platos
 noun.meal,Lavar platos
 noun.meal,Lavar trastes
 noun.meal,Lavarse platos
@@ -6865,6 +7299,7 @@ noun.meal,Oncecita 🍳
 noun.meal,Ordenar
 noun.meal,Pausa
 noun.meal,Picar verduras
+noun.meal,Preparar Lunch
 noun.meal,Preparar almuerzo
 noun.meal,Preparar cena
 noun.meal,Preparar comida
@@ -6882,6 +7317,7 @@ noun.meal,Restaurant Thibaut
 noun.meal,Snack
 noun.meal,Snack🍏
 noun.meal,Sopar
+noun.meal,Spargel Zeit
 noun.meal,Tidy up girl
 noun.meal,To get ready
 noun.meal,Tomar batido
@@ -6903,6 +7339,8 @@ noun.meal,c o m i d a
 noun.meal,cena
 noun.meal,cena con alba chaparro
 noun.meal,cena 😸
+noun.meal,cenar
+noun.meal,cenar + netflix
 noun.meal,cenar con la abuela
 noun.meal,comer
 noun.meal,comer (sopa)
@@ -6916,6 +7354,7 @@ noun.meal,d e s a y u n o
 noun.meal,desayuna
 noun.meal,desayunar
 noun.meal,desayunar y leer
+noun.meal,desayuno 🥞
 noun.meal,dinar
 noun.meal,eat breakfast
 noun.meal,eat breakfast<3
@@ -6927,6 +7366,7 @@ noun.meal,hacer torrijas
 noun.meal,have dinner
 noun.meal,lavar trastes
 noun.meal,lunch
+noun.meal,registrar calorías 🥞
 noun.meal,snack
 noun.meal,sopar
 noun.meal,¡A comer!🤤
@@ -6948,6 +7388,7 @@ noun.party,Cumpleaños Dani
 noun.party,DWYW(do whatever u want)
 noun.party,Descanso
 noun.party,Evento Terrabambino
+noun.party,FIESTA SOFI
 noun.party,Festivo
 noun.party,Fiesta
 noun.party,Fiesta CloudGaia
@@ -6958,6 +7399,8 @@ noun.party,ITA
 noun.party,Inauguración Pequod Co.
 noun.party,Libre
 noun.party,Navidad
+noun.party,Party
+noun.party,Party Arielita
 noun.party,Pedir bengala
 noun.party,Playa osiosi🌸
 noun.party,Poner lavadora y tender
@@ -6968,14 +7411,17 @@ noun.party,Salir con Amigo 🍺🍻
 noun.party,San Solterín Iguala
 noun.party,Tirar petardos 🧨
 noun.party,XMAS
+noun.party,comprar traje maga
 noun.party,cumpleaños
 noun.party,jewelry change @ ad astra
+noun.party,party :)
 noun.party,🕯Tiempo para Amar  🎐
 number,Cálculo diferencial
 number,Día a día
 number,Irme al cole
 number,Mercar
 number,Programación
+number,Sacar cosas del entretecho
 number,Sacar frazadas
 number,Taller de oratoria
 number,¡tareas x hacer!
@@ -6997,6 +7443,7 @@ paintbrush.fill,make katrina gift
 paintbrush.fill,ordenar
 paintbrush.fill,ordenar el cuarto
 paintbrush.fill,ordenar estantes cocina
+paintbrush.fill,ordenar la habitación
 paintbrush.fill,paint/make stuff with hands/learn to
 paintbrush.fill,paint/make stuff with hands/learn to/music
 paintbrush.fill,seguir ordenando
@@ -7017,6 +7464,7 @@ paintbrush.pointed.fill,Crema en piernas
 paintbrush.pointed.fill,Cuadros
 paintbrush.pointed.fill,Curso retrato renacentista
 paintbrush.pointed.fill,Dar la cera a las sillas
+paintbrush.pointed.fill,Descanso
 paintbrush.pointed.fill,Dibuixar
 paintbrush.pointed.fill,Dibujar
 paintbrush.pointed.fill,Dibujar diseños Julieta hermana Camila
@@ -7030,6 +7478,7 @@ paintbrush.pointed.fill,Ilustrar
 paintbrush.pointed.fill,Ir a comprar
 paintbrush.pointed.fill,Japan weekend
 paintbrush.pointed.fill,Journal
+paintbrush.pointed.fill,LIBRO TAREA DE LUNA
 paintbrush.pointed.fill,La Michoacana / Material semanal
 paintbrush.pointed.fill,Lettering
 paintbrush.pointed.fill,Manicure
@@ -7057,6 +7506,7 @@ paintbrush.pointed.fill,Proyectos
 paintbrush.pointed.fill,Repre
 paintbrush.pointed.fill,Retorneo
 paintbrush.pointed.fill,Sintaxis Adverbiales
+paintbrush.pointed.fill,Taller pintura
 paintbrush.pointed.fill,Tornear
 paintbrush.pointed.fill,Trabajo musica
 paintbrush.pointed.fill,Uñas
@@ -7076,6 +7526,7 @@ paintbrush.pointed.fill,hacer muestrario papel
 paintbrush.pointed.fill,hacer poema objeto
 paintbrush.pointed.fill,paint katrina gifts or make music
 paintbrush.pointed.fill,pintar
+paintbrush.pointed.fill,pintar CD TPGII
 paintbrush.pointed.fill,pintar espejos
 paintbrush.pointed.fill,pintarse las uñas
 paintbrush.pointed.fill,uñas + netflix
@@ -7085,6 +7536,7 @@ paperclip,Alistar maleta
 paperclip,Applications
 paperclip,Apuntes embriología cap 1 y 2 a mano
 paperclip,Bulletjournal
+paperclip,CEPAL FR: Tomar notas entrevistas
 paperclip,Enviar paquete
 paperclip,Estudiar
 paperclip,Estudiar mates
@@ -7150,6 +7602,7 @@ pencil.and.outline,Darle un papel de la escuela a my papá para que lo firme
 pencil.and.outline,Descanso
 pencil.and.outline,Dessin
 pencil.and.outline,Dibujar
+pencil.and.outline,Dibujar algo
 pencil.and.outline,Dibujar mutual twitter
 pencil.and.outline,Dibujo Antonio terminado😎
 pencil.and.outline,Dibujo Técnico
@@ -7192,6 +7645,7 @@ pencil.and.outline,Leer sílabos y rellenar agenda
 pencil.and.outline,Logo SUBIR
 pencil.and.outline,Maquetar ANKI
 pencil.and.outline,Marketing
+pencil.and.outline,Mates
 pencil.and.outline,Mensaje Whats Jaqui
 pencil.and.outline,Microensayo
 pencil.and.outline,Notion
@@ -7203,6 +7657,7 @@ pencil.and.outline,Periodo de prueba
 pencil.and.outline,Pintar escultura
 pencil.and.outline,Productividad Aleatoria
 pencil.and.outline,Quiz inmunología
+pencil.and.outline,Recados autoescuela/correos
 pencil.and.outline,Recreo
 pencil.and.outline,Repasar lenguaje
 pencil.and.outline,Repaso
@@ -7221,6 +7676,7 @@ pencil.and.outline,Tatuaje
 pencil.and.outline,Terminar gráficos
 pencil.and.outline,Tocar contrabajo
 pencil.and.outline,Trabajo
+pencil.and.outline,Viticultura y vinicultura
 pencil.and.outline,Vuelta 3 dibujo técnico
 pencil.and.outline,draw tattoos
 pencil.and.outline,empezar resumen caste
@@ -7230,8 +7686,11 @@ pencil.and.outline,hacer mono gradu
 pencil.and.outline,hacer soporte tacones
 pencil.and.outline,hacer tanga
 pencil.and.outline,hacer tarea.
+pencil.and.outline,journal
+pencil.and.outline,leer textos
 pencil.and.outline,lengua: hacer frases sintaxis
 pencil.and.outline,make wallpaper (matching phone & ipad)
+pencil.and.outline,ocio
 pencil.and.outline,practicar lettering
 pencil.and.outline,tema 1 bio
 person.2.fill,ADORACIÓN en FAMILIA
@@ -7239,6 +7698,7 @@ person.2.fill,Abuela
 person.2.fill,Actividad JAS
 person.2.fill,Adoración en familia
 person.2.fill,Amigos
+person.2.fill,Audición
 person.2.fill,Ayudantía
 person.2.fill,BNP Bitácora Seguimiento
 person.2.fill,Cine
@@ -7246,11 +7706,13 @@ person.2.fill,Cita psicóloga
 person.2.fill,Clase Teoría e Historia
 person.2.fill,Clase actuación
 person.2.fill,Clase de Simulación
+person.2.fill,Clases de mates y química
 person.2.fill,Comis
 person.2.fill,Compartir post
 person.2.fill,Comunicación
 person.2.fill,Conceptos Fiscales Fundamentales
 person.2.fill,Cristina
+person.2.fill,Curso Carisma
 person.2.fill,Célula
 person.2.fill,Date con Vane
 person.2.fill,Decir Antonio no subdireccion
@@ -7258,6 +7720,7 @@ person.2.fill,Definición marca
 person.2.fill,Demografía
 person.2.fill,Descanso
 person.2.fill,Dia de pareja
+person.2.fill,Dinar papa
 person.2.fill,Diseño de herramientas Fase II
 person.2.fill,Distráete un rato
 person.2.fill,ESCUELA
@@ -7268,6 +7731,8 @@ person.2.fill,Escuela
 person.2.fill,Fabiana
 person.2.fill,Familia
 person.2.fill,Fiesta Álvaro
+person.2.fill,Foto chaqueta mamá
+person.2.fill,Grabar videos RH
 person.2.fill,Hablar con Antonio ppaa
 person.2.fill,Inglés ordinaria
 person.2.fill,Instituto
@@ -7324,8 +7789,11 @@ person.2.fill,Tiempo libre
 person.2.fill,Trabajo
 person.2.fill,Tutoría
 person.2.fill,Visitar a Lita
+person.2.fill,XV SOL
 person.2.fill,clase
 person.2.fill,decirle a PA de colocar perchas y preguntar por lámpara
+person.2.fill,ensayo
+person.2.fill,hablar tienda compra-venta
 person.2.fill,hacer piercings VICTOR
 person.2.fill,mariana
 person.2.fill,organizar trabajo familia dupla
@@ -7336,7 +7804,9 @@ person.2.fill,psicoloxía
 person.2.fill,psicóloga
 person.2.fill,quedar
 person.2.fill,quedar con ERIS
+person.2.fill,seminario
 person.2.fill,Ávila
+person.2.fill,Ética
 person.2.fill,Ética 2
 person.2.fill,ética
 person.3.fill,13h Inés y Ernesto
@@ -7344,16 +7814,19 @@ person.3.fill,Amigas
 person.3.fill,Amigos
 person.3.fill,Antropología
 person.3.fill,Atender
+person.3.fill,Auto Bribón
 person.3.fill,Basket Pineda de Mar Rodaje
 person.3.fill,Cena India
 person.3.fill,Cenita con amigas
 person.3.fill,Ciclo de vida: infancia & adolescencia
 person.3.fill,Cine
+person.3.fill,Comité
 person.3.fill,Compartir post
 person.3.fill,Crecimiento y desarrollo
 person.3.fill,Cumple Moni
 person.3.fill,Descanso
 person.3.fill,Disertación microbiología
+person.3.fill,Disfrutar con mi novia!
 person.3.fill,Día de los Caídos
 person.3.fill,Economía III
 person.3.fill,Emprende c/propósito
@@ -7382,9 +7855,11 @@ person.3.fill,Morfofisiología renal
 person.3.fill,Morning work
 person.3.fill,Ocio
 person.3.fill,Pasar el día en un parque de atracciones
+person.3.fill,Poner la mesa
 person.3.fill,Preparar exposición de informática
 person.3.fill,Presentación biología
 person.3.fill,Primeros Auxilios
+person.3.fill,Proceso Político USA
 person.3.fill,Project follow up
 person.3.fill,Protocolo de seguridad taller gráfica
 person.3.fill,Proyecto
@@ -7398,10 +7873,14 @@ person.3.fill,Recopilación de influencers
 person.3.fill,Recreo
 person.3.fill,Regresar a Bi-fit
 person.3.fill,Religión
+person.3.fill,Representantes
+person.3.fill,Reproducción humana
+person.3.fill,Resolver incidencias (SAT)
 person.3.fill,Responder comentarios en IG
 person.3.fill,Reu Caps
 person.3.fill,Reunión
 person.3.fill,Reunión F política
+person.3.fill,Reunión day school
 person.3.fill,Reunión putillas
 person.3.fill,Revisar Redes Sociales
 person.3.fill,Réunion
@@ -7425,6 +7904,7 @@ person.3.fill,Unt jóvenes
 person.3.fill,Videollamada Kouta
 person.3.fill,Viene Steven
 person.3.fill,W/M&D at kitchen
+person.3.fill,Work
 person.3.fill,Workers Education
 person.3.fill,Yeya
 person.3.fill,descanso
@@ -7493,6 +7973,7 @@ phone.fill,Fallo Apparkya
 phone.fill,Felicitar a mi hermano
 phone.fill,IMPORTE  M. JESUS
 phone.fill,Jiu-Jitsu
+phone.fill,Llamada Dakxxx
 phone.fill,Llamada agustina
 phone.fill,Llamada con Tine & Marike
 phone.fill,Llamadas
@@ -7500,6 +7981,7 @@ phone.fill,Llamar Cruz Roja acogimiento
 phone.fill,Llamar Mafre papel psiquiatra
 phone.fill,Llamar Prime Invest
 phone.fill,Llamar Villa Las Brisas
+phone.fill,Llamar a Alex Merlos
 phone.fill,Llamar a Jorge Cisneros
 phone.fill,Llamar a Jorge Olano
 phone.fill,Llamar a Pedro Villa Valera
@@ -7525,12 +8007,14 @@ phone.fill,Llamar eoi Tgn
 phone.fill,Llamar luz Marina y negro
 phone.fill,Llamar para cita eco 5D
 phone.fill,Llamar para cita ginecólogo
+phone.fill,Llamar ultima
 phone.fill,Llamar uoc
 phone.fill,Marcar APÁ UADY
 phone.fill,Nose
 phone.fill,Orla
 phone.fill,Pedido My outfit Ecuador
 phone.fill,Pedir Cita Exámenes
+phone.fill,Pedir hora ginecóloga o matron
 phone.fill,Peluquería van
 phone.fill,Pistola Ma Rodika
 phone.fill,Reprogramar cita VMT
@@ -7583,11 +8067,14 @@ photo.fill,Closing day
 photo.fill,Closing news analisis
 photo.fill,Comprar cuadros
 photo.fill,Decoración room
+photo.fill,Galeria Wu
+photo.fill,Geografía vídeo
 photo.fill,Iconografia
 photo.fill,Limpiar la Galería
 photo.fill,Media Day
 photo.fill,Pinturas hermanos
 photo.fill,Planear Fotos
+photo.fill,Preparación Excursión
 photo.fill,Read
 photo.fill,Recoger
 photo.fill,Vision Board
@@ -7601,14 +8088,17 @@ photo.fill,sort through your photos
 photo.fill,subir fotos ILU
 pianokeys,Análisis Contemporáneo
 pianokeys,BREAK😮‍💨
+pianokeys,Clase Aurora
 pianokeys,Estudiar piano
 pianokeys,Inscripción RCSMM Puertas abiertas
 pianokeys,Piano
 pianokeys,Piano clase
+pianokeys,Practicar Piano
 pianokeys,Taller Prod.Musical (Media)
 pianokeys,Tocar el piano
 pianokeys,Tocar piano
 pianokeys,práctica piano
+pills.fill,4life clásico y brucamol
 pills.fill,ATENOLOL
 pills.fill,Analítica
 pills.fill,Antibiótico
@@ -7623,6 +8113,7 @@ pills.fill,Deberes de biología
 pills.fill,Desarrollar  Módulo 5 ICA 084
 pills.fill,Desayuno + vit
 pills.fill,Desayuno medicina Fer
+pills.fill,Dexabetamizona
 pills.fill,Enantyum
 pills.fill,Eutirox/Casembiotic/Esoprazol
 pills.fill,Farmacia
@@ -7635,6 +8126,7 @@ pills.fill,Inyección anticonceptiva
 pills.fill,Ir a buscar examen
 pills.fill,Klonopin
 pills.fill,Lacosamida y Rivotril
+pills.fill,Levotiroxina
 pills.fill,Llamar hospitales para pastillas
 pills.fill,Medicación
 pills.fill,Medicamento
@@ -7644,6 +8136,8 @@ pills.fill,Medicina CVS
 pills.fill,Medicina de mamita
 pills.fill,Medicinas
 pills.fill,Meds
+pills.fill,Motilium
+pills.fill,PASTILLA
 pills.fill,PASTILLA N2
 pills.fill,PASTILLA N3
 pills.fill,PASTILLAS N1
@@ -7653,12 +8147,14 @@ pills.fill,Pastillas
 pills.fill,Pedidos de laboratorio
 pills.fill,Perampanel
 pills.fill,Prepara pastillas
+pills.fill,Prueba de Sangre
 pills.fill,Prácticas fisiología II
 pills.fill,Psiquiatra
 pills.fill,Píldora anticonceptiva
 pills.fill,Quinta Clase (Salud y Sociedad)
 pills.fill,Recordarle a mi novia tomar su medicamento💗
 pills.fill,Releer capítulo 2 embriología
+pills.fill,Remedio
 pills.fill,Remedios
 pills.fill,Resonancia
 pills.fill,Rivotril/ Paracetamol/ Furosemida/ Buscapina
@@ -7713,14 +8209,17 @@ pin.fill,Ayuda a guardar lo de la cocina
 pin.fill,Belinda
 pin.fill,Bici con Ceci
 pin.fill,COGER FOLIOS PARA PREPARAR LA POSIBLE TRAMPA EN EL MAPA DE AMERICA
+pin.fill,CONPIN
 pin.fill,Cita Neurócirujano Miramar
 pin.fill,Cita Nutriologa
 pin.fill,Comprar
 pin.fill,Dejar Liam curso vacacional
+pin.fill,Enviar COMPIN
 pin.fill,Estudiar historia
 pin.fill,Hacer Excel de TIC
 pin.fill,Hacer tarea intro a las ciencias cognitivas
 pin.fill,Joaquín Tec
+pin.fill,Junta taller
 pin.fill,Lavandería
 pin.fill,Lavar
 pin.fill,Limpiar mi mat
@@ -7736,6 +8235,7 @@ pin.fill,Simulacro Fase 2
 pin.fill,Trabajo plástica
 pin.fill,bbva
 pin.fill,estudiar
+pin.fill,hacer aseo
 pin.fill,ponerse al día
 pin.fill,resumo tema 10
 play.rectangle.fill,Analytic Techniques 2 Lecture
@@ -7791,6 +8291,7 @@ play.rectangle.fill,Yoga Facial
 play.rectangle.fill,YouTube
 play.rectangle.fill,editar
 play.rectangle.fill,mirar tutoriales coser
+play.rectangle.fill,película
 play.rectangle.fill,subir soc de los poetas
 play.rectangle.fill,venom 2 let there be carnage
 play.rectangle.fill,ver algo
@@ -7801,6 +8302,7 @@ play.rectangle.fill,🖥🍿
 power,Apagar teléfono
 power,Cargar aparatos
 power,Cargar teléfono
+power,Colocar contraseña laptop
 power,Comer
 power,Descansar
 power,Descansar y cenar
@@ -7817,15 +8319,20 @@ printer.fill,Excel curso
 printer.fill,Impresion area kids KFC
 printer.fill,Imprimir calendarios
 printer.fill,Imprimir curriculum
+printer.fill,Imprimir: Bosquejó exposición y análisis auditorio
 printer.fill,Ir a imprimir
 printer.fill,Lectura
 printer.fill,Librería
+printer.fill,Print out work
+printer.fill,Stampare Graficos Storia dell’arte
+printer.fill,imprimir filo
 questionmark,Buscar tenis regalo navidad
 questionmark,DESGLOSES
 questionmark,Decidir máquinas negocio
 questionmark,Dejar minerales donde Rito
 questionmark,Escribir sueños
 questionmark,Estudiar T1-4 + T17.1 (hasta lesiones)
+questionmark,Libre
 questionmark,Lo que falte
 questionmark,Magistral
 questionmark,PA
@@ -7845,6 +8352,7 @@ questionmark,T18-19 / T41-44
 questionmark,T20-26 / T37-40
 questionmark,Temas del viernes: T10-12
 questionmark,Temas del viernes: T32-36
+questionmark,Toefl ibt en Campeche hablar con papá
 questionmark,Vuelta 3 filosofia
 questionmark,actividad filosofía
 questionmark,get roller skates or find where to get some
@@ -7872,6 +8380,7 @@ scanner.fill,Hacer dieta
 scanner.fill,Hacer factura borrador Sidor
 scanner.fill,Lavar la ropa
 scanner.fill,Química
+scanner.fill,Snack
 scanner.fill,Trabajo
 scanner.fill,cocina
 scanner.fill,hacer cama
@@ -7883,7 +8392,9 @@ scanner.fill,imprimir envases y comprar pegamento
 scanner.fill,"imprimir envases, pag y comprar pegamento"
 scanner.fill,imprimir libro
 scanner.fill,imprimir libro y comprar goma
+scanner.fill,imprimir maqueta TPGII
 scanner.fill,imprimir personaje TPGII
+scissors,3 preguntas rápidas
 scissors,Actividades mensuales
 scissors,Alisar pelo
 scissors,Arreglarme el cabello
@@ -7923,6 +8434,8 @@ scissors,cejas
 scissors,cortarme el pelo
 scissors,coser pantalón azul
 scissors,hacer collage
+scissors,hacer maqueta TPGII
+scissors,hacer prototipo TPGII
 scissors,hacer remeras
 scissors,haircut
 scissors,haircut + brow threading
@@ -7935,6 +8448,7 @@ scissors,ver coser vestido MA
 scissors,Ⓜ️ CERVEZA
 shield.fill,Cambiar una (1) contraseña
 shield.fill,Concours Liberté d’Expression
+shield.fill,SELECTIVIDAD
 shippingbox.fill,2 sillas OFICINA
 shippingbox.fill,Anar a correus
 shippingbox.fill,Comprar carne
@@ -8015,6 +8529,7 @@ smiley.fill,Adapaleno
 smiley.fill,Agradecer y afirmaciones
 smiley.fill,Alonso
 smiley.fill,Amigos INE
+smiley.fill,Anime
 smiley.fill,Arregla pulsera abuela
 smiley.fill,Arreglarme
 smiley.fill,Bachata
@@ -8025,7 +8540,9 @@ smiley.fill,Crecimiento personal
 smiley.fill,Crema M
 smiley.fill,Cuenta cuentos
 smiley.fill,Cuidar Niña
+smiley.fill,Cumple Bodoque
 smiley.fill,Curso
+smiley.fill,DESCANSO / studiar
 smiley.fill,Danis (wpp) 50%
 smiley.fill,Descanso
 smiley.fill,Descanso 💛
@@ -8062,9 +8579,11 @@ smiley.fill,Llamadas
 smiley.fill,Lolla
 smiley.fill,MERY!!!!
 smiley.fill,Marca todas tus metas antes de dormir
+smiley.fill,Mascarilla comprar
 smiley.fill,Mascarilla facial
 smiley.fill,Merienda facu y juan 17h
 smiley.fill,Meter ropa a lavar
+smiley.fill,Montar
 smiley.fill,Morning routine
 smiley.fill,Nana time
 smiley.fill,Night routine
@@ -8087,6 +8606,7 @@ smiley.fill,Psicóloga
 smiley.fill,Quedar con Carla
 smiley.fill,Recados
 smiley.fill,Registrar marcas con Saris
+smiley.fill,Rutina Mattutina
 smiley.fill,Rutina facial
 smiley.fill,Rutina fácil
 smiley.fill,Salida a la montaña
@@ -8103,6 +8623,7 @@ smiley.fill,Sábado
 smiley.fill,Tatuaje
 smiley.fill,Te con la abuela
 smiley.fill,Teatro
+smiley.fill,Tiempo con Dios
 smiley.fill,Tiempo con mamá y organizar día siguiente
 smiley.fill,Tiempo libre
 smiley.fill,Uñas
@@ -8126,11 +8647,13 @@ smiley.fill,🆙🛏🙏🚽✨🧘🏼‍♀️
 smiley.fill,👗👛✨🎮
 speedometer,Clase de manejo
 speedometer,Dejar cosas listas para el gym
+speedometer,Descanso
 speedometer,Empiezo Dieta para perder 4-5 kg
 speedometer,Física
 speedometer,Física - Dinámica
 speedometer,Física Resumen T.1
 speedometer,Maleta
+speedometer,Meditar!
 speedometer,Organizar el día de mañana
 speedometer,Selectividad
 speedometer,Tiempo Libre
@@ -8146,6 +8669,7 @@ sportscourt.fill,Sequences practice
 sportscourt.fill,Tenis
 sportscourt.fill,Volleyball training
 sportscourt.fill,fútbol
+sportscourt.fill,unisantos
 star.fill,5:00 - 5:30
 star.fill,Administración
 star.fill,Agradecer 💖
@@ -8200,15 +8724,19 @@ star.fill,llegir
 star.fill,tini
 stethoscope,Alergólogo
 stethoscope,AliExpress fonendo
+stethoscope,Analitica
 stethoscope,Analítica
 stethoscope,Anatomía I
 stethoscope,Análisis
 stethoscope,Cesarea Hospital Lomas Dr Reyther
 stethoscope,Cita Médica
 stethoscope,Cita Psicologa
+stethoscope,Cita con Susy dentista
+stethoscope,Cita con ginecólogo
 stethoscope,Cita dermatólogo
 stethoscope,Cita médica
 stethoscope,Cita médico
+stethoscope,Cita nutrióloga
 stethoscope,Conducta humana almendros 3.7
 stethoscope,Consulta Otorrino
 stethoscope,Consulta Raúl Vázquez
@@ -8220,6 +8748,7 @@ stethoscope,EVALUACIOON Semiología
 stethoscope,EVALUACIÓN Semiología
 stethoscope,Ensayo EUNACOM
 stethoscope,Entrar a curso
+stethoscope,Enviar tarea de CE
 stethoscope,Estudiar
 stethoscope,Esófago. Disfagia
 stethoscope,Etación de prueba
@@ -8227,12 +8756,15 @@ stethoscope,Exámenes
 stethoscope,Exámenes nutrición
 stethoscope,Farmacología
 stethoscope,Fisio med I
+stethoscope,Foro histologia
 stethoscope,GINECÓLOGA
 stethoscope,Ginecologo
 stethoscope,Ginecóloga
 stethoscope,Ginecólogo
 stethoscope,HOSPITAL
+stethoscope,Hacer foro
 stethoscope,Hacer registro
+stethoscope,Hospital
 stethoscope,Infografia microscopio
 stethoscope,Ir al dermatólogo
 stethoscope,Ir al hospital
@@ -8291,6 +8823,7 @@ stethoscope,covid test
 stethoscope,exámenes de sangre
 stethoscope,horario visitas médicas
 stethoscope,medico
+stethoscope,médico
 stethoscope,peso
 stethoscope,physio
 stethoscope,study x next
@@ -8302,6 +8835,7 @@ stopwatch.fill,Despertar a mamá
 stopwatch.fill,Inicio del horario de verano
 stopwatch.fill,Leer
 stopwatch.fill,Levantarme
+stopwatch.fill,Levantarse
 stopwatch.fill,MADRID
 stopwatch.fill,Moliere
 stopwatch.fill,Prepararme
@@ -8322,10 +8856,12 @@ sun.max.fill,Bebes al Parque!
 sun.max.fill,Bloqueador
 sun.max.fill,Bloqueador solar
 sun.max.fill,Buenos días
+sun.max.fill,Buenos días estrellitas!☀️
 sun.max.fill,Buenos días ⚡️
 sun.max.fill,Buenos días!
 sun.max.fill,Buzo
 sun.max.fill,Cambiarme
+sun.max.fill,Caña
 sun.max.fill,Colgar ropa
 sun.max.fill,Comenzar (texto plano Google Docs)
 sun.max.fill,Desayuno
@@ -8336,6 +8872,7 @@ sun.max.fill,Despierta!
 sun.max.fill,"Despierta, es un gran día"
 sun.max.fill,Ejercicio
 sun.max.fill,Entrega taller de planta
+sun.max.fill,Estirar
 sun.max.fill,FAJA
 sun.max.fill,FAJA - DIA 3
 sun.max.fill,Fajr
@@ -8351,7 +8888,9 @@ sun.max.fill,"Lavar edredones, sabana y fundas de almohada"
 sun.max.fill,Lavar ropa
 sun.max.fill,Lavarme rostro y cambiarme
 sun.max.fill,Levantarme a las 5:30am
+sun.max.fill,Llegar a casa y ponerme cómoda
 sun.max.fill,Luis Mendoza
+sun.max.fill,Luri UwU
 sun.max.fill,MEDITAR 🧘🏽‍♀️
 sun.max.fill,Mataró
 sun.max.fill,Mañana
@@ -8359,11 +8898,14 @@ sun.max.fill,Me arreglo visto y festejo
 sun.max.fill,Meditación rápida
 sun.max.fill,Meditar
 sun.max.fill,Mercadona + GV2 + casa avis
+sun.max.fill,Michtav M’Eliyahu
 sun.max.fill,Morning Routine
 sun.max.fill,Morning routine
 sun.max.fill,Nuevo día
 sun.max.fill,Parque
+sun.max.fill,Pasaje Indonesia + café
 sun.max.fill,Paseo Dante
+sun.max.fill,Piscina
 sun.max.fill,Playa
 sun.max.fill,Prepararse para ir a la playita 🏖
 sun.max.fill,Protector solar
@@ -8373,7 +8915,9 @@ sun.max.fill,Quedo con Inés
 sun.max.fill,Recoger ropa
 sun.max.fill,Recoger ropa seca
 sun.max.fill,Reponer flores
+sun.max.fill,Resumir fisio
 sun.max.fill,Riega el jardín
+sun.max.fill,Rutina Matutina
 sun.max.fill,Rutina al despertar
 sun.max.fill,Rutina am
 sun.max.fill,Rutina de día
@@ -8395,16 +8939,19 @@ sun.max.fill,Tiempo de pareja
 sun.max.fill,Todo lo necesario para irnos?
 sun.max.fill,Tomar el sol
 sun.max.fill,Tomar sol
+sun.max.fill,Turno de día
 sun.max.fill,VILLAMARTIN
 sun.max.fill,Vacaciones
 sun.max.fill,Wake up
 sun.max.fill,Yoga
+sun.max.fill,avisar cumpleaños
 sun.max.fill,caliso 🐥
 sun.max.fill,casa ZENSES
 sun.max.fill,descanso
 sun.max.fill,meditate + open blinds
 sun.max.fill,meditate outside
 sun.max.fill,morning abs
+sun.max.fill,morning routine
 sun.max.fill,mourning
 sun.max.fill,out
 sun.max.fill,quemartinez
@@ -8414,6 +8961,7 @@ sun.max.fill,surf am
 sun.max.fill,surf pm
 sun.max.fill,tomar el sol
 sun.max.fill,tomar sol
+sun.max.fill,voluntariado alzheimer
 sun.max.fill,wake up sunshine
 sun.max.fill,¡Buenos días!
 sun.max.fill,¡Despierta!
@@ -8425,6 +8973,7 @@ sunrise.fill,Despertar y agradecer
 sunrise.fill,Despertar 🩸
 sunrise.fill,Despetar
 sunrise.fill,Despierta!
+sunrise.fill,Empieza bien el día
 sunrise.fill,Günaydın ☀️Bonjour
 sunrise.fill,Hacer bolso
 sunrise.fill,Levantarme
@@ -8440,7 +8989,9 @@ sunrise.fill,Morning ✨
 sunrise.fill,Nutrirme
 sunrise.fill,Organizarme para el día siguiente
 sunrise.fill,Persiana
+sunrise.fill,Prepararme
 sunrise.fill,Puerta abierta
+sunrise.fill,Retiro
 sunrise.fill,Rutina AM
 sunrise.fill,Rutina Matutina
 sunrise.fill,Rutina Mañana
@@ -8454,6 +9005,7 @@ sunrise.fill,Wake up - Day starts
 sunrise.fill,despertar
 sunrise.fill,despertar 🌤
 sunrise.fill,get ready & get dressed
+sunrise.fill,good morning andy!
 sunrise.fill,journal
 sunrise.fill,read
 sunrise.fill,rutina de dia
@@ -8461,10 +9013,12 @@ sunrise.fill,teach fitness class
 sunrise.fill,yoga
 sunrise.fill,yoga / workout
 sunrise.fill,¡Despierta!
+sunset.fill,4:20 🌴
 sunset.fill,Candle lighting
 sunset.fill,Despertar arreglarse
 sunset.fill,Dormir
 sunset.fill,Elegir ropa para los videos
+sunset.fill,Evening Routine 🛏🧹🦴🐶
 sunset.fill,Future
 sunset.fill,Get ready
 sunset.fill,Kitchen Day
@@ -8491,6 +9045,7 @@ tag.fill,Buy a TeleTalk sim for android phone
 tag.fill,Compra de gel Nivea
 tag.fill,Comprar
 tag.fill,Compras
+tag.fill,Compras Ropa
 tag.fill,Devolver ropa
 tag.fill,Get dressed
 tag.fill,Manicura
@@ -8526,6 +9081,8 @@ text.badge.checkmark,Anotar gastos
 text.badge.checkmark,Análisis de prospectos
 text.badge.checkmark,"Análisis, discusión, abstract"
 text.badge.checkmark,Apuntes tema 2
+text.badge.checkmark,Arreglar 3D y MOODBOARD
+text.badge.checkmark,Avanzar marketing
 text.badge.checkmark,Biología
 text.badge.checkmark,Bitácora
 text.badge.checkmark,Bitácora Japón
@@ -8581,6 +9138,7 @@ text.badge.checkmark,Habit tracker
 text.badge.checkmark,Hacer agenda del día siguiente
 text.badge.checkmark,Hacer encuestas de la uni
 text.badge.checkmark,Hacer tareas
+text.badge.checkmark,Hacer test
 text.badge.checkmark,Hacer trabajo paisajismo
 text.badge.checkmark,Imprimir Apuntes
 text.badge.checkmark,Imprimir Contabilidad
@@ -8590,6 +9148,7 @@ text.badge.checkmark,Informe SEO
 text.badge.checkmark,Introducción a la economía
 text.badge.checkmark,Ir al medico
 text.badge.checkmark,Ir por la costancia
+text.badge.checkmark,Kikita
 text.badge.checkmark,Lavar ropa
 text.badge.checkmark,Leer
 text.badge.checkmark,Leer sociología
@@ -8619,10 +9178,13 @@ text.badge.checkmark,Metas 2022<3
 text.badge.checkmark,Modelo CANVAS
 text.badge.checkmark,Mármol: Seguimiento
 text.badge.checkmark,New museum
+text.badge.checkmark,ORG. TRABAJO
 text.badge.checkmark,Objetivos cumplidos
 text.badge.checkmark,Orden y outfit
+text.badge.checkmark,Ordenar
 text.badge.checkmark,Ordenar cuadernos
 text.badge.checkmark,Ordenar el cuarto
+text.badge.checkmark,Ordenar escritorio
 text.badge.checkmark,Ordenar mi cuarto
 text.badge.checkmark,Ordenar mi día
 text.badge.checkmark,Organitzar GTD notion
@@ -8634,13 +9196,16 @@ text.badge.checkmark,Organizar clase
 text.badge.checkmark,Organizar día siguiente
 text.badge.checkmark,Organizar semana
 text.badge.checkmark,Otras tareas
+text.badge.checkmark,PED URGENTES
 text.badge.checkmark,Pasar a limpio ampliación
 text.badge.checkmark,Pasar a limpio esquemas Biología
 text.badge.checkmark,Pasar clase 3
 text.badge.checkmark,Pendientes
+text.badge.checkmark,Penientes Lincoln
 text.badge.checkmark,Pesar
 text.badge.checkmark,Pestañas suegra
 text.badge.checkmark,Plan del día siguiente y mochila
+text.badge.checkmark,"Plan sig, mochila, EMMO y Reflectly"
 text.badge.checkmark,Planchar ropa
 text.badge.checkmark,Planeación diaria
 text.badge.checkmark,Planear el día
@@ -8658,6 +9223,7 @@ text.badge.checkmark,Preparar las cosas para estudiar
 text.badge.checkmark,Preparar todo para el día siguiente
 text.badge.checkmark,Preparar todo para el siguiente día
 text.badge.checkmark,Prepararme para ir a trabajar
+text.badge.checkmark,Prepare my Day
 text.badge.checkmark,Prepare tomorrow’s workday
 text.badge.checkmark,Prepárame para la exposición
 text.badge.checkmark,Presentación
@@ -8719,6 +9285,7 @@ text.badge.checkmark,escribir 22 decretos
 text.badge.checkmark,filosofía
 text.badge.checkmark,form in backpack
 text.badge.checkmark,hacer agenda
+text.badge.checkmark,iPhone
 text.badge.checkmark,lengua
 text.badge.checkmark,manifestación
 text.badge.checkmark,matemáticas
@@ -8726,6 +9293,7 @@ text.badge.checkmark,menesteres
 text.badge.checkmark,ordenar mi cuarto
 text.badge.checkmark,organitzar filo
 text.badge.checkmark,participación y argumentación
+text.badge.checkmark,religión
 text.badge.checkmark,semana 21 febrero
 text.badge.checkmark,valenciano
 thermometer,Consultation de médecine générale
@@ -8736,6 +9304,7 @@ thermometer,Realizar Guía de Física
 thermometer,Reparar termómetro
 thermometer,Segunda dosis
 thermometer,T Shirt
+thermometer,Temperatura
 thermometer,preu química
 timer,Estudiar mates
 timer,Lavar platos
@@ -8754,11 +9323,15 @@ tortoise.fill,Descanso
 tortoise.fill,Estiramiento
 tortoise.fill,Libre
 tortoise.fill,Limpiar a los ratones
+tortoise.fill,Mi nft
+tortoise.fill,Natación
 tortoise.fill,Pereza
 tortoise.fill,Piscina
 tortoise.fill,Sacar a mico
 tortoise.fill,Sairel
 tortoise.fill,manchita’s routine
+tortoise.fill,realizar bosquejos de materia
+tortoise.fill,recoger cuarto
 tortoise.fill,skincare
 tortoise.fill,yoga
 tortoise.fill,yoga + pranayama
@@ -8777,6 +9350,7 @@ tram.fill,Traslado a Siemens
 tram.fill,Tren
 tram.fill,Valencia
 tram.fill,Viaje
+tram.fill,barcelona!
 tram.fill,ir a buscar la tarjeta sanitaria
 tram.fill,llegada madrid
 tram.fill,organizar tigre
@@ -8794,6 +9368,7 @@ trash.fill,Limpiar roomba
 trash.fill,Limpieza
 trash.fill,Limpieza general
 trash.fill,Nueva papelera
+trash.fill,Patio
 trash.fill,Sacar Basura
 trash.fill,Sacar basura
 trash.fill,"Sacar basura patio, cuarto y baño"
@@ -8824,6 +9399,7 @@ tv.fill,Clases 📚
 tv.fill,Comenzar presentación
 tv.fill,Crear tarjetas Tincho
 tv.fill,Cuento Filosofía 💻
+tv.fill,Desayunar 🍿
 tv.fill,Descansar
 tv.fill,Descanso
 tv.fill,Diseñar caja Pedrawnie
@@ -8838,6 +9414,7 @@ tv.fill,FaceTime Emi
 tv.fill,Finish atdmv
 tv.fill,Formación
 tv.fill,Fuwu
+tv.fill,Hacer tarjeta israe
 tv.fill,Hacer todas las playas
 tv.fill,Hacer una carrd
 tv.fill,Hacer/ terminar resumen síntesis histórica
@@ -8848,6 +9425,7 @@ tv.fill,Inglés prac
 tv.fill,Instalar tv
 tv.fill,Instituto
 tv.fill,Ir al banco
+tv.fill,Jugar
 tv.fill,Laptop
 tv.fill,Leer
 tv.fill,Limpiar computador
@@ -8872,7 +9450,9 @@ tv.fill,Práctica ARQTEL
 tv.fill,Prácticas tic
 tv.fill,Relajarse
 tv.fill,Render
+tv.fill,Reseña
 tv.fill,Resintonizar TV
+tv.fill,Resolver incidencias (ZON)
 tv.fill,Responder
 tv.fill,Reunión con Jessica
 tv.fill,Revisar AV
@@ -8927,8 +9507,10 @@ tv.fill,watch tick tick boom
 tv.fill,𝙷𝚘𝚖𝚎𝚠𝚘𝚛𝚔
 tv.fill,👩🏻‍💻 Clase
 umbrella.fill,Piscina
+umbrella.fill,Shemirat HaLashon
 video.fill,2 movies (Profesora Historia y Fedora)
 video.fill,Bienestar del paciente.
+video.fill,Cambiar la contraseña de Disney
 video.fill,Cine
 video.fill,Clase derecho
 video.fill,Clases online.
@@ -8944,6 +9526,7 @@ video.fill,Grabar contenido
 video.fill,Grabar contenido TikTok
 video.fill,Grabar el vídeo de francés
 video.fill,Grabar study with me
+video.fill,Grabar vídeo
 video.fill,Grabar vídeo para LSE
 video.fill,Hacer lista de tipo de en vivos
 video.fill,Historia Instagram
@@ -8973,12 +9556,14 @@ video.fill,Zoom alaitz
 video.fill,aprender vídeo mmd
 video.fill,create video for class
 video.fill,llamada estudio Teo
+video.fill,películas
 video.fill,video class
 video.fill,💻 Follow up
 wand.and.stars,(P) ARREGLARSE
 wand.and.stars,5 vueltas suéter lanaverde
 wand.and.stars,AM
 wand.and.stars,Acomodar
+wand.and.stars,Alistarme
 wand.and.stars,Amaneser
 wand.and.stars,Arrange
 wand.and.stars,Arreglarme
@@ -9002,8 +9587,10 @@ wand.and.stars,Clean and tidy up
 wand.and.stars,Cleaning
 wand.and.stars,Comprar + visitar a Perico
 wand.and.stars,Comprar eyeliner.
+wand.and.stars,Cosmeatría
 wand.and.stars,Craft
 wand.and.stars,Creación tríptico filosofía
+wand.and.stars,Crear
 wand.and.stars,Crema mans
 wand.and.stars,Cuenta de Canva nueva
 wand.and.stars,Cumple lo ordenado Ronny
@@ -9021,6 +9608,7 @@ wand.and.stars,Dibujar o escribir
 wand.and.stars,Diseñar
 wand.and.stars,Doing dishes
 wand.and.stars,Dormir
+wand.and.stars,Ducha y arreglarse
 wand.and.stars,Editar fotos joyería
 wand.and.stars,Elegir outfit
 wand.and.stars,Escribir mi año ideal
@@ -9038,15 +9626,19 @@ wand.and.stars,Hacer invitación fiesta 14 feb
 wand.and.stars,Hacer porritos y tomar fotos
 wand.and.stars,Hacerme las uñas
 wand.and.stars,Ingles
+wand.and.stars,Ir al baño a orinar
 wand.and.stars,Journaling
 wand.and.stars,LIMPIAR PATIO
 wand.and.stars,LIMPIEZA
 wand.and.stars,Lavadora y tender
 wand.and.stars,Lavar brochas
+wand.and.stars,Lavar cara
 wand.and.stars,Lavar esponja maquillaje
 wand.and.stars,Lavar ropa
+wand.and.stars,Lavar trastes
 wand.and.stars,Leer
 wand.and.stars,Limpiar
+wand.and.stars,Limpiar abajo
 wand.and.stars,Limpiar baño
 wand.and.stars,Limpiar cocina🥸
 wand.and.stars,Limpiar la cocina
@@ -9054,6 +9646,7 @@ wand.and.stars,Limpiar los baños
 wand.and.stars,Limpiar piso
 wand.and.stars,Limpiar pisos
 wand.and.stars,Limpiar ps5
+wand.and.stars,Limpiar sábanas
 wand.and.stars,Limpiar y ordenar
 wand.and.stars,Limpiar zapatillas blancas
 wand.and.stars,Limpieza
@@ -9093,6 +9686,7 @@ wand.and.stars,Prepararme para salir.
 wand.and.stars,Prepararme…
 wand.and.stars,Prepararse
 wand.and.stars,Prepararse para clase
+wand.and.stars,Prioridades (Mayo-Junio)
 wand.and.stars,Propuestas Get Moving
 wand.and.stars,Quehacer
 wand.and.stars,Receso
@@ -9111,12 +9705,14 @@ wand.and.stars,Skin care y necesidades
 wand.and.stars,Skincare
 wand.and.stars,Skincare día
 wand.and.stars,Sudaderas colgadas armario 🧘🏻‍♀️
+wand.and.stars,Tiempo para Dios
 wand.and.stars,Tríptico filosofía
 wand.and.stars,Uñas
 wand.and.stars,Uñas Susi
 wand.and.stars,Vestirse
 wand.and.stars,Vídeo cris
 wand.and.stars,Wax
+wand.and.stars,arreglarme
 wand.and.stars,aseo + lavar
 wand.and.stars,ayudar a cocinar
 wand.and.stars,choose outfits for day/get ready + pack bag
@@ -9129,6 +9725,7 @@ wand.and.stars,limpiar
 wand.and.stars,limpiar cocina
 wand.and.stars,limpiar mi cuarto
 wand.and.stars,limpieza
+wand.and.stars,meditacion
 wand.and.stars,momento creativo
 wand.and.stars,ordenar armarios
 wand.and.stars,ordenar armatios
@@ -9141,6 +9738,7 @@ wand.and.stars,skincare
 wand.and.stars,tiempo libre
 wand.and.stars,¡ Mimarme !
 wand.and.stars,¡Vístete!
+wand.and.stars,⚡️⚡️🍇
 wifi,#CompDigEdu
 wifi,Celular!
 wifi,Drive - Agatha Christie - Cadaver biblioteca
@@ -9151,6 +9749,7 @@ wifi,Ocio
 wifi,Pagar Izzi Oficina
 wifi,buscar locales de ropa de hombre en flores
 wind,Abrir zoom de Pulir y escuchar la escritura
+wind,Barrer
 wind,Bañarme
 wind,Breath work
 wind,Bundle
@@ -9159,6 +9758,7 @@ wind,Desconexión
 wind,Diviértete
 wind,Dress
 wind,Filosofía
+wind,Hacer popó
 wind,Hipopresivos
 wind,Limpiar
 wind,Limpiar alberca
@@ -9176,6 +9776,7 @@ wind,Tender ropa
 wind,Tesis
 wind,Viajar
 wind,Yoga
+wind,airear el cuarto
 wind,big clean
 wind,bike/walk to wetlands/swim
 wind,clean & finish weekly reset
@@ -9218,10 +9819,12 @@ x.squareroot,Control Física 🌎
 x.squareroot,Crear style sheet
 x.squareroot,Cuentas carrete
 x.squareroot,Curso
+x.squareroot,Curso finanzas Coursera
 x.squareroot,Cálculo I
 x.squareroot,Deberes de mate
 x.squareroot,Derivadas
 x.squareroot,EXAME 1 MATE
+x.squareroot,Ecuaciones diferenciales
 x.squareroot,Ejercicios de eco - fichas
 x.squareroot,Ensayo Matemáticas
 x.squareroot,Entrega Sagemath
@@ -9237,6 +9840,7 @@ x.squareroot,Estudiar matemática
 x.squareroot,Estudiar matemáticas
 x.squareroot,Estudiar mates
 x.squareroot,Estudiar mates (geometria analítica)
+x.squareroot,Examen mates
 x.squareroot,Examen tresoreria
 x.squareroot,Fee
 x.squareroot,Fisica
@@ -9257,6 +9861,7 @@ x.squareroot,Matemática tema 10
 x.squareroot,Matemáticas
 x.squareroot,Matemáticas 1
 x.squareroot,Matemáticas tema 1
+x.squareroot,Mates ccss
 x.squareroot,Mates clase telemática
 x.squareroot,Math
 x.squareroot,Mathe
@@ -9295,10 +9900,12 @@ x.squareroot,Update finanzas
 x.squareroot,Ver Clase Análisis Estructúrales
 x.squareroot,Ver FILLRATE SOFRUCO
 x.squareroot,clase mate
+x.squareroot,ej. mates
 x.squareroot,ejercicios mat 1
 x.squareroot,ejercicios mat 2
 x.squareroot,ejercicios matrices
 x.squareroot,entender matrices
+x.squareroot,estudiar
 x.squareroot,estudiar mat 2
 x.squareroot,estudiar mates
 x.squareroot,estudiar para el examen de matemáticas mañana
@@ -9337,13 +9944,16 @@ zzz,Meditación para dormir
 zzz,Migdiada
 zzz,Night routine
 zzz,Ritual de sueño
+zzz,Set Up
 zzz,Siesta
 zzz,Siesta emi
 zzz,Siesta Ángel
 zzz,Tarea lectores
 zzz,Tomar descanso
+zzz,Tomar siesta
 zzz,descansar
 zzz,descanso
 zzz,dormir
+zzz,levantarme
 zzz,siesta
 zzz,¡Duerme Bien!

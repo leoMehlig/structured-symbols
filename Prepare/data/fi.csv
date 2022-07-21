@@ -13,9 +13,11 @@ archivebox.fill,Pakkaus
 at,Katso koulukirjat netistä valmiiksi
 at,Soita/sposti staffpointille hyllytysvuoroista
 at,Vastaa Sähköposteihin/viestiin postiin
+at,Vastaa sähköposteihin
 at,Yhteys harkkapaikkaan
 bag.fill,Hacer maleta para la playa
 bag.fill,Kauppa
+bag.fill,Työ
 bag.fill,Töitä
 bag.fill,kassin pakkaaminen
 bandage.fill,lääkäri
@@ -24,6 +26,7 @@ battery.25,Koe harjottelu
 bed.double.fill,Felix päikkärit
 bed.double.fill,Herätys!
 bed.double.fill,Petaa sänky
+bell.fill,Hoida vuokra ja kuukausimatkalippu
 bell.fill,Iltapala ja jouluvalmistelut
 bitcoinsign.circle.fill,Maksa futis
 bitcoinsign.circle.fill,Nordnet
@@ -51,6 +54,7 @@ book.fill,Talouspolitiikka
 book.fill,Yhteishengaus
 book.fill,Yhteislukeminen
 book.fill,kirjan lukeminen
+book.fill,koulu
 book.fill,lue bilsaa
 book.fill,läksyt
 book.fill,school
@@ -66,6 +70,7 @@ briefcase.fill,Valmistaudu
 briefcase.fill,Work Appointment
 briefcase.fill,koulujutut
 briefcase.fill,työvalmistelut
+calendar,Hoitokokous
 calendar,Sunnuntain iltakoonti
 calendar,koulu
 calendar,kouluhommia
@@ -79,6 +84,7 @@ car.fill,autokoulu
 car.fill,back to home
 car.fill,duuniin
 car.fill,hae lumilauta
+car.fill,hamppilaan
 car.fill,kotiin
 car.fill,mamalle
 car.fill,matka lääkäriin
@@ -120,6 +126,7 @@ custom.dog,Koirien ulkoilutus
 custom.dog,Lenkille
 custom.dog,Lenkki
 custom.dog,S. yksinolotreeni
+custom.dog,Yksinolotreeni
 custom.dog,romeon aamulenkki
 custom.dog,vie martta
 custom.dumbbell,Gym
@@ -137,6 +144,7 @@ custom.dumbbell,Sali
 custom.dumbbell,Salille
 custom.dumbbell,Treeni
 custom.dumbbell,Treeni (bb)
+custom.dumbbell,Treeni b
 custom.dumbbell,Treeni sb w
 custom.dumbbell,Treeni sbw
 custom.dumbbell,Treeni sbw ja la
@@ -149,6 +157,8 @@ custom.dumbbell,gym
 custom.dumbbell,sali
 custom.dumbbell,treenaamaan
 custom.dumbbell,treeni
+custom.dumbbell,treenit
+custom.hairdryer,Iltatoimet
 custom.hairdryer,Pese hiukset
 custom.language,Finska
 custom.language,luku f
@@ -198,6 +208,7 @@ doc.fill,Töitä
 dollarsign.circle.fill,Työt
 drop.fill,Aamupala
 envelope.fill,Kela Clarification of Attendance
+eyeglasses,Hoida kasvot
 figure.walk,..
 figure.walk,Aerobinen + vatsat
 figure.walk,Koulumatka
@@ -217,10 +228,12 @@ gearshape.2.fill,Työt
 globe,Haastattelu
 hammer.fill,Erityistä huomioitavaa:…
 hammer.fill,Hieronta @Silja
+hammer.fill,Työt
 hand.raised.fill,Jooga
 hand.raised.fill,Tauko
 hand.raised.fill,kerää kamat!
 hand.thumbsup.fill,vaatteiden miettiminen
+hare.fill,Aamurituaali: lähtö
 hare.fill,Kassu treeniohjelma loppuun
 heart.fill,Juhon kaa
 heart.fill,Koulua
@@ -261,6 +274,7 @@ house.fill,tarjalle joulupukkikamat
 house.fill,tavarat valmiiksi lääkäriin
 keyboard,Täydennä CV
 keyboard,Töitä
+leaf.fill,Iltalenkki
 leaf.fill,Kastele kasvit
 lightbulb.fill,AT PEG VAIHTO
 lightbulb.fill,Muu sähläys
@@ -276,6 +290,7 @@ mdi.bus,bussi kotiin
 mdi.bus,bussi kuntosalille
 mdi.bus,bussi töihin
 mdi.bus,duuniin
+mdi.bus,hamppilaan
 mdi.bus,koululle
 mdi.couch,Vapaa-aikaa
 mdi.instagram,Instagram
@@ -291,6 +306,7 @@ mdi.relax,Iltalenkki & kauppa
 mdi.relax,Jooga
 mdi.relax,Luovaa tekemistä
 mdi.relax,Omaa aikaa
+mdi.relax,Silmu-jutut
 mdi.relax,Silmulle ruoka
 mdi.relax,siivous
 mdi.running,Cardio 🏃🏸🥊
@@ -346,6 +362,7 @@ mdi.wheelchair,laskettelua
 mdi.wheelchair,luistelua
 moon.fill,Good Night 💕
 moon.fill,Illan vietto
+moon.fill,Iltarituaali
 moon.fill,Iltatoimet
 moon.fill,Iltatoimet II
 moon.fill,Nuku hyvin!
@@ -421,6 +438,7 @@ photo.fill,Töihin
 pianokeys,Piano
 pianokeys,Pianotunti
 pianokeys,Soita pianoa
+pills.fill,Aamukahvi ja -vitamiinit
 pills.fill,Aamutabut
 pills.fill,Aamuvitamiinit
 pills.fill,Iltatoimet
@@ -441,6 +459,7 @@ questionmark,Lähtövalmistelut
 questionmark,"english, opiskellu"
 questionmark,kurssitarjotin mietintää
 questionmark,pankkijutut
+scissors,Iltatoimet
 scissors,Leikkaa kynnet
 scissors,Leikkaa otsatukkaa
 scissors,Ompelua
@@ -477,12 +496,14 @@ sun.max.fill,Talli
 sun.max.fill,kesätöiden haku
 sun.max.fill,morning
 sunrise.fill,Aamupala 🍏🍊🍉
+sunrise.fill,Aamurituaali
 sunrise.fill,Aamutoimet
 sunrise.fill,Herätys
 sunrise.fill,herää
 sunset.fill,Iltajooga
 sunset.fill,Iltalenkki
 sunset.fill,Iltapala
+sunset.fill,Unirituaali
 tag.fill,Ounce & kauppa
 text.badge.checkmark,Asennukset
 text.badge.checkmark,DanskeBank viesti
@@ -509,6 +530,7 @@ video.fill,Etäluennot
 video.fill,Skype: Kela-tyyppi
 video.fill,soita oonalle
 wand.and.stars,Iltajärjestely
+wand.and.stars,Konffaus
 wand.and.stars,Kämpän siivous
 wand.and.stars,Lankkaa diskomaiharit
 wand.and.stars,Pyykit

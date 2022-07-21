@@ -23,11 +23,13 @@ atom,Shalat Tahajud
 atom,Yoga
 bag.fill,Belanja
 bag.fill,Kerja
+bag.fill,Packing
 bag.fill,jaga toko
 bag.fill,jaga toko lagi
 battery.25,Istirahat
 bed.double.fill,Bangun
 bed.double.fill,Bersih” kamar + dengerin rekaman/video ESN
+bed.double.fill,Membersihkan kamar
 bolt.car.fill,Lanjutin produksi
 bolt.car.fill,Lanjutin produksi keripik
 bolt.fill,Masak + bersih bersih
@@ -39,11 +41,13 @@ book.fill,Baca buku dan Alquran
 book.fill,Baca buku novel
 book.fill,Baca buku self improvement
 book.fill,Belajar
+book.fill,Belajar Duolingo
 book.fill,Belajar bahasa
 book.fill,Bersihkan Lemari Buku
 book.fill,Hapalan Al-Quran
 book.fill,Journaling
 book.fill,Kampung Inggris - Tugas Asking Direction
+book.fill,Kelas HMS
 book.fill,Kerjain Tugas 1 Sesi 3
 book.fill,Mengerjakan tugas FM
 book.fill,Mengerjakan tugas uas
@@ -54,6 +58,7 @@ book.fill,Ngaji
 book.fill,Praktikum Mobile2
 book.fill,Praktikum Web3
 book.fill,Prepare kantor
+book.fill,Read a book
 book.fill,Read book
 book.fill,SIMULASI
 book.fill,STUDY
@@ -83,14 +88,18 @@ calendar,HSI
 car.fill,Antar Rimo
 car.fill,Berangkat RS
 car.fill,Berangkat kerja
+car.fill,Cuci Mobil
 car.fill,Go To Home
 car.fill,Go to school
 car.fill,Go work
 car.fill,Jemput Rimo
 car.fill,Prepare + Otw SDA
+cart.fill,Belanja
 cart.fill,Co Shopee cari kado buat Andre
 cart.fill,Liat” orderan & co Shopee
 cart.fill,Salad groceries🥗
+cart.fill,belanja ke tiara
+cart.fill,belanja kebutuhan
 chart.bar.fill,Satu Persen
 cloud.snow.fill,Cuci baju dan mandi jumat
 comb.fill,Skincare
@@ -114,10 +123,12 @@ custom.dumbbell,Olahraga
 custom.dumbbell,Olahraga yukk biar awet muda!
 custom.dumbbell,Workout
 custom.dumbbell,Yoga
+custom.dumbbell,work out
 custom.dumbbell,workout
 custom.dumbbell,🏋️Sport
 custom.hairdryer,Skincare
 custom.language,Kursus Prancis
+custom.lipstick,PAKAI MASKER
 custom.lipstick,Pakaian
 custom.lipstick,Skincare
 custom.lipstick,macakkk
@@ -133,11 +144,14 @@ custom.shower,Mandi keramas
 custom.shower,Mandi pagi
 custom.shower,Mandi sore
 custom.shower,Mandi soree lah biar wangiiiii
+custom.shower,"Mandi, mandiin adik pagi"
+custom.shower,Mandiin adik sore
 custom.shower,Morning routine
 custom.shower,Persiapan Kuliah
 custom.shower,Persiapan tidur
 custom.shower,Prepare kantor
 custom.shower,Shower
+custom.shower,Take a shower
 custom.shower,Wash face
 custom.shower,cuci muka + wudhu’
 custom.shower,mandi
@@ -164,7 +178,10 @@ desktopcomputer,belajar buku go
 desktopcomputer,input Out 12/11/21 ke master stock
 desktopcomputer,lihat tutorial menghafal
 desktopcomputer,update out AMO ke list AMO dan master stock
+doc.fill,Addendum II
+doc.fill,Adendum III
 doc.fill,Buddyku
+doc.fill,Laporan Harian
 doc.fill,Mapping Toko AmertaShop
 dollarsign.circle.fill,Ambil uang di Atm Bri dan masukin lagi ke Atm bank Jatim
 dollarsign.circle.fill,ESN
@@ -176,6 +193,7 @@ envelope.fill,Bersurat terkait Lb3
 envelope.fill,Email pengajuan Safety atribut WH
 envelope.fill,"Kirim nomor PR hella, dioda, VDO"
 exclamationmark.triangle.fill,Sholat SUBUH
+exclamationmark.triangle.fill,sholat dan baca alquran
 figure.walk,Olah raga
 figure.walk,Olahraga
 figure.walk,beberess
@@ -184,6 +202,7 @@ film.fill,Nonton film
 flag.fill,Weekly Report to Pak Ishak
 flame.fill,Setrika baju suami
 folder.fill,Declutter Files
+folder.fill,Iket buku
 gamecontroller.fill,Main genshin
 gamecontroller.fill,Mainan sama Qia
 gamecontroller.fill,Temani Main Shidqia
@@ -199,6 +218,7 @@ heart.fill,Family Time
 heart.fill,Ibadah
 heart.fill,Keluar + beliin bapak & ibu barang
 heart.fill,Selfcare
+heart.fill,Shalat dzuhur
 heart.fill,Sholat
 heart.fill,Sholat Tahajud
 heart.fill,Sholat Tahajud & Hajat
@@ -209,8 +229,11 @@ heart.fill,sholat dzuhur
 heart.fill,sholat subuh
 hifispeaker.fill,bersih HP
 hourglass,Free time
+hourglass,Rileks
+house.fill,Beberes
 house.fill,Beberes Rumah
 house.fill,Bersih - Bersih
+house.fill,Bersih2
 house.fill,Cleaning Home
 house.fill,Dirumah
 house.fill,Home
@@ -227,18 +250,23 @@ key.fill,Shalat
 key.fill,Shalat jamak
 key.fill,Taraweh
 key.fill,Zikir
+keyboard,Cek Stok Toko
 keyboard,Kantor
 keyboard,Skripsi
+leaf.fill,Main hp
 leaf.fill,Sholat Dhuha
 lightbulb.fill,Cari ide kreatif terus! Pelajari tentang youtuber gih biar ilmu makin nambah🤗
 lightbulb.fill,Hafalan At-Taghabun 11-17✨
 mdi.alcohol,Cuci Piring
 mdi.alcohol,minum air putih
+mdi.bike,Belanja
 mdi.bike,Koli ketinggalan SMA
 mdi.bike,Sepeda
+mdi.bike,olah raga
 mdi.birthday,Ambil balon angka di J&T
 mdi.birthday,Cari balon angka buat ultah
 mdi.couch,Hiburan
+mdi.couch,Istirahat
 mdi.couch,Kebersihan
 mdi.couch,Rehat
 mdi.couch,nyapu
@@ -247,7 +275,9 @@ mdi.instagram,Main HP
 mdi.instagram,Main hp
 mdi.instagram,post spillhere!
 mdi.pharmacy,Kontrol Kehamilan
+mdi.relax,Cari outfit buat pergi
 mdi.relax,Me time
+mdi.relax,Mencuci baju
 mdi.relax,Resalatul fajr sholat shubuh
 mdi.relax,Solat subuh
 mdi.running,Berangkat ke RS + kirim paket
@@ -259,6 +289,7 @@ mdi.running,OTW Warehouse with team
 mdi.running,Olahraga
 mdi.running,Prepare Berangkat Kerja
 mdi.running,prepare pulang
+mdi.running,skipping
 mdi.school,BELAJAR
 mdi.school,Belajar
 mdi.school,Cpns
@@ -276,12 +307,16 @@ mic.fill,Interview ECJ
 moon.fill,Sholat Isya'
 moon.fill,Sholat Subuh
 moon.fill,Sleep Well!
+moon.fill,Tidur
+moon.fill,Tidur siang
 moon.fill,Tidur yang nyenyak❤️
 moon.fill,Tidur!!
 moon.zzz.fill,SKINCARE & CHILL
 moon.zzz.fill,Sleep
 moon.zzz.fill,Tidor
+moon.zzz.fill,Tidur yang nyenyak❤️
 music.mic,Membuat vn an berisi jawaban pertanyaan wawancara seputar olshopku & mengirim ke Lavita
+newspaper.fill,Buat literasi
 newspaper.fill,Ke Notaris
 newspaper.fill,Kerja
 newspaper.fill,Selesain rangkuman
@@ -324,13 +359,16 @@ paperclip,Mandi + prepare kerja
 paperplane.fill,Pos berkas wisuda
 paperplane.fill,kursus asp
 pencil.and.outline,BUAT TUGAS
+pencil.and.outline,Ngantor
 pencil.and.outline,Revisi Junario
 pencil.and.outline,Tulis Blush
 pencil.and.outline,buat tugas
 person.2.fill,Rapat Akli
 person.3.fill,ESN SIDOARJO
 person.3.fill,FREE TIME
+person.3.fill,Kerkel IBC
 person.3.fill,Meeting
+person.3.fill,Mendengarkan Kajian
 person.3.fill,Sosiologi Bab 1
 person.fill,Pray
 person.fill,TUGAS
@@ -405,6 +443,7 @@ trash.fill,Bersih kamar
 trash.fill,Cuci piring
 trash.fill,Rapikan Area Pallet Preparation area
 trash.fill,Rapikan Gudang
+tv.fill,Nonton yt (a day in my life)
 tv.fill,PKBJJ
 tv.fill,Work
 video.fill,KELAS PRAGMATICS ZOOM
@@ -412,9 +451,14 @@ video.fill,Kelas Online
 wand.and.stars,Bersih-bersih yukk!
 wand.and.stars,Rapihkan Baju
 wand.and.stars,Skincare
+wand.and.stars,body care
 wand.and.stars,me time
 wifi,Bayar indihome
 wifi,Tadarrus
+wind,Cuci Baju
+wrench.fill,Ganti popok 1
+wrench.fill,Ganti popok 2
+wrench.fill,Memperbaiki iphone
 wrench.fill,nyuruh nopil sekolah
 x.squareroot,Belajar
 x.squareroot,mtk

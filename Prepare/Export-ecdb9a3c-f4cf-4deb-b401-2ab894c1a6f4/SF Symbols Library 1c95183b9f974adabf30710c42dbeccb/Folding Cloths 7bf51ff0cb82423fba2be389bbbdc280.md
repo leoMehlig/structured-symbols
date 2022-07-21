@@ -1,3 +1,0 @@
-# Folding Cloths
-
-Status: Requested

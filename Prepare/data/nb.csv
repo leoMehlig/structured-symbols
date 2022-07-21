@@ -82,6 +82,7 @@ bed.double.fill,Vaske sengetøy
 bed.double.fill,bytte på senga
 bed.double.fill,re opp senga
 bolt.car.fill,Oppkjøring
+bolt.fill,Bytte skinnbukser og bånd
 bolt.fill,Finn ut med Norges energi
 bolt.fill,Get dressed
 bolt.fill,Handle på Sains/Argos
@@ -95,6 +96,7 @@ book.fill,Bio 2 oppgaver
 book.fill,Biologi
 book.fill,Div adm
 book.fill,EXAM: CND Pathology
+book.fill,Eksamen
 book.fill,Eksamenslesing - vandrehjemmet
 book.fill,Engelsk Presentasjon
 book.fill,FVN
@@ -117,13 +119,17 @@ book.fill,Les
 book.fill,Les bok
 book.fill,Lese
 book.fill,Lese 10 min
+book.fill,Lese hvis Media/Society blir ledig
 book.fill,Lese!
+book.fill,"Lese: Intro 1, McQuail kap.1"
+book.fill,Lese: Introduksjon
 book.fill,Lese: sosialkunnskap
 book.fill,Lesesal
 book.fill,Leseøkt
 book.fill,Levere bok
 book.fill,Manga
 book.fill,Matematikk
+book.fill,Matte øving
 book.fill,Naturfag
 book.fill,Norsk
 book.fill,Podcast om Fosen-dommen
@@ -156,7 +162,10 @@ bookmark.fill,Pocket
 bookmark.fill,Wikipedia
 briefcase.fill,ADMINISTRASJON
 briefcase.fill,Arbeidernes dag
+briefcase.fill,Dra til jobb
+briefcase.fill,F2f jobb
 briefcase.fill,Fleip eller fakta
+briefcase.fill,Gyldig fravær pga s.abort
 briefcase.fill,Jobb
 briefcase.fill,Kle på meg og alt det der
 briefcase.fill,Ordne alt til biblioteket
@@ -179,9 +188,14 @@ bubble.left.fill,Psykiater
 bubble.left.fill,Ringe Jens ang påske
 bubble.left.fill,Snakke med mamma om det å snakke med noen
 burn,Avfallslevering
+burn,M Tine fotballskole 10-14
+burn,M Tine fotbalskole 10-14
+calendar,Andre påskedag
 calendar,Arbeidernes dag
 calendar,Budsjett - sameiet - Ring Vestbo
+calendar,Fjerde søndag i advent
 calendar,Første påskedag
+calendar,Første søndag i advent
 calendar,Gjør klar planer for neste uke
 calendar,Langfredag
 calendar,Oversikt datoer innlevering og eksamen
@@ -192,8 +206,10 @@ calendar,Planlegge neste uke
 calendar,Påskeaften
 calendar,Refleksjon
 calendar,Ring Pappa
+calendar,Siste skoledag
 calendar,Skjærtorsdag
 calendar,Skole
+calendar,Uke 23
 camera.fill,Tise
 car.fill,BikBok metro
 car.fill,Bil
@@ -202,6 +218,7 @@ car.fill,Bytte bil / kjøre til trening
 car.fill,Dra hjem
 car.fill,Dra i amfin/gjøre meg klar på sparta
 car.fill,Dra til Sandefjord
+car.fill,Haugesund med mamma
 car.fill,Hente bil
 car.fill,Hente sofa
 car.fill,Hjemmmmm
@@ -297,6 +314,7 @@ comb.fill,Klargjøring
 comb.fill,Kle på meg
 comb.fill,Krølle håret
 comb.fill,Kveldsstell
+comb.fill,Skincare/get ready
 comb.fill,Stelle meg
 creditcard.fill,Dra på butikken
 creditcard.fill,Handle
@@ -306,6 +324,7 @@ creditcard.fill,RUSTA
 creditcard.fill,Sette inn penger i banken med farmor
 creditcard.fill,Være litt i byn?
 custom.ball,Fotball
+custom.ball,Fotball trening
 custom.ball,Fotballtrening
 custom.ball,Håndballtrening
 custom.ball,Kretssamling
@@ -355,6 +374,7 @@ custom.cooking,Ukesmeny 7
 custom.cooking,guacamole
 custom.cooking,jobb
 custom.cooking,lage middag
+custom.cooking,middag med hannah
 custom.cooking,sette inn focaccia
 custom.dog,Billies morgen del 1
 custom.dog,Billies morgen del 2
@@ -418,6 +438,7 @@ custom.dumbbell,trene
 custom.dumbbell,trening rygg / overkropp
 custom.dumbbell,Økt #3
 custom.dumbbell,Øvelser/trene
+custom.hairdryer,Fiks håret ditt!
 custom.hairdryer,Frisørtime
 custom.hairdryer,Føne håret
 custom.hairdryer,Modell — Stine Auen
@@ -454,6 +475,7 @@ custom.shower,Bade
 custom.shower,Bade shorts
 custom.shower,Badet
 custom.shower,Dusj
+custom.shower,Dusj?
 custom.shower,Dusja
 custom.shower,Dusje
 custom.shower,Dusje etter trening
@@ -464,6 +486,7 @@ custom.shower,Dusje og skifte
 custom.shower,"Dusje, sminke, hår"
 custom.shower,Dysj
 custom.shower,Get ready
+custom.shower,Gå i dusjen!
 custom.shower,Kveldsstell
 custom.shower,Lett dusj
 custom.shower,Liten dusj
@@ -522,6 +545,7 @@ custom.toothbrush,pusse tenner
 desktopcomputer,Admin arbeid
 desktopcomputer,Biblioteket
 desktopcomputer,Busjett
+desktopcomputer,Fylle inn i CF
 desktopcomputer,Hjemmeskole
 desktopcomputer,Jobb
 desktopcomputer,Jobbe
@@ -539,6 +563,7 @@ desktopcomputer,Skole
 desktopcomputer,Slappe av
 desktopcomputer,Spille
 desktopcomputer,Webprogrammering
+desktopcomputer,Øve til spanskprøve
 doc.fill,Gjøre lekser
 doc.fill,HIS fagartikkel
 doc.fill,Politimøtet
@@ -548,6 +573,7 @@ doc.richtext,Handleliste uke 6
 doc.richtext,Jobbe med arbeidskrav i norsk
 doc.richtext,Jobbe med eksamen
 doc.richtext,Svar på vaslinger og sett på alarm
+dollarsign.circle.fill,Basic husarbeid
 dollarsign.circle.fill,Betale regninger
 dollarsign.circle.fill,Handle
 dollarsign.circle.fill,Jobb
@@ -568,6 +594,7 @@ drop.fill,Vaske
 drop.fill,Vaske klær
 drop.fill,skincare
 ear,høre på intervjuet med HR i østerrike
+envelope.fill,Hente pakke
 envelope.fill,Post
 envelope.fill,Postkontoret
 envelope.fill,Sjekke Mail
@@ -591,6 +618,7 @@ figure.walk,Gå til Lundefuglen
 figure.walk,Gå til Yasmine
 figure.walk,Gå til barnehagen
 figure.walk,Gå til bussen
+figure.walk,Gå til byen
 figure.walk,Gå til jobb
 figure.walk,Gå til kontoret
 figure.walk,Gå til skolen
@@ -599,6 +627,7 @@ figure.walk,Gå tur
 figure.walk,Gå tur i skogen
 figure.walk,Gå tur!
 figure.walk,"Gå tur, bilder til insta"
+figure.walk,Gåtur
 figure.walk,Hent Grace
 figure.walk,Jobb MV
 figure.walk,Jogge
@@ -610,6 +639,7 @@ figure.walk,Trene
 figure.walk,Tur
 figure.walk,Tur?
 figure.walk,Tøye
+figure.walk,dra hjem
 figure.walk,gå til eh
 figure.walk,gå til gate
 figure.walk,stolpejakt med mamma & pappa + anita & audun
@@ -618,6 +648,7 @@ figure.wave,Besøk av Eva
 figure.wave,Jon hjem fra jobb
 figure.wave,Klippe negler
 figure.wave,Legday
+figure.wave,M til oss
 figure.wave,Scoliosis / Water
 film.fill,Film
 film.fill,Heks on the beach
@@ -673,7 +704,9 @@ headphones,Podkast
 headphones,Rydd
 headphones,Rydde/vaske
 heart.fill,Affirmations og bena på veggen
+heart.fill,Begravelse
 heart.fill,Berlin
+heart.fill,Carina?
 heart.fill,Dagvakt med Linn
 heart.fill,Dansing
 heart.fill,Fikse senga
@@ -710,6 +743,7 @@ heart.fill,Stretch
 heart.fill,Strikke
 heart.fill,Talk with friends
 heart.fill,✨
+hourglass,"Dusje, sminke og kle på"
 hourglass,Fysikk prøve
 hourglass,Oppoverpusten
 hourglass,Strikke
@@ -722,10 +756,13 @@ house.fill,Hytta
 house.fill,Kjøre hjem
 house.fill,Klargjøre lekehus for vinteren
 house.fill,Klesvask
+house.fill,Limpar cozinha
+house.fill,Limpeza casa
 house.fill,Mål opp huset
 house.fill,Nyttårs rydding
 house.fill,På vei til skolen
 house.fill,Rengjøre
+house.fill,Rotina casa
 house.fill,Rydd kottet
 house.fill,Rydd rommet
 house.fill,Rydde
@@ -793,6 +830,11 @@ mdi.airplane.takeoff,Morgenrutine
 mdi.alcohol,Bowling
 mdi.alcohol,Caroline
 mdi.alcohol,Ella melk
+mdi.alcohol,Ella melk 100ml
+mdi.alcohol,Ella melk 130ml
+mdi.alcohol,Ella melk 140ml
+mdi.alcohol,Ella melk 170ml
+mdi.alcohol,Ella melk 190ml
 mdi.alcohol,Fylla
 mdi.alcohol,Middag med Marie
 mdi.alcohol,Vors hos Andrea
@@ -817,6 +859,7 @@ mdi.bus,Bus🚌
 mdi.bus,Dra hjem
 mdi.bus,Dra på trening
 mdi.bus,Dra til Horten
+mdi.bus,Gjør Meg klar til skolen
 mdi.bus,Kjøre til jobb
 mdi.bus,Reise til kontoret (Edwin-morgen)
 mdi.bus,Reise til kontoret (hente-uke + Edwin-morgen)
@@ -878,6 +921,7 @@ mdi.running,Gå en tur
 mdi.running,Håndball trening
 mdi.running,Intervaller 6 min x 5
 mdi.running,Jogge
+mdi.running,Joggetur
 mdi.running,Joggetur/sporty
 mdi.running,Løpe
 mdi.running,Løpetur
@@ -911,6 +955,7 @@ mdi.school,Geografi
 mdi.school,Gresk gloser
 mdi.school,Gymtøy
 mdi.school,Gå til skolen
+mdi.school,Hindi
 mdi.school,Historie (Skole)
 mdi.school,IDS | skrive Mail KS
 mdi.school,Jobbe med eksamen
@@ -930,6 +975,7 @@ mdi.school,Matte
 mdi.school,Møte
 mdi.school,Norsk
 mdi.school,Norsk oppgave
+mdi.school,NØ
 mdi.school,Oppgave IDS
 mdi.school,Praksis plass
 mdi.school,R T S
@@ -937,6 +983,7 @@ mdi.school,SAK PowerPoint
 mdi.school,School
 mdi.school,Skole
 mdi.school,Skole og Est
+mdi.school,Skole/lese
 mdi.school,Skolearbeid
 mdi.school,Skolearbeid - Historie
 mdi.school,Skolearbeid!
@@ -957,6 +1004,7 @@ mdi.school,skule
 mdi.school,Øve på underveis matte
 mdi.subway,T-bane
 mdi.subway,Tog
+mdi.ticket,Movie? PF
 mdi.ticket,Ring Daniel
 mdi.twitter,sjekke mobilen
 mdi.twitter,sjekke mobilen & planlegge dagen
@@ -964,6 +1012,7 @@ mdi.wheelchair,Strikke
 mic.fill,Duolingo
 mic.fill,Intervju | Hinna-barnehagene
 mic.fill,Intervju | Mulvarpen bhg.
+moon.fill,Gjør meg klar til og sove
 moon.fill,Kveldsrutine
 moon.fill,Legge seg
 moon.fill,Leggetid
@@ -978,6 +1027,7 @@ moon.zzz.fill,Hvile
 moon.zzz.fill,Kveldsrutine
 moon.zzz.fill,Kveldstell/legging Arian
 moon.zzz.fill,Leggetid Hanna
+moon.zzz.fill,Sleep
 moon.zzz.fill,Sov godt
 moon.zzz.fill,Sove
 moon.zzz.fill,Vekke Ella
@@ -1016,6 +1066,7 @@ noun.coffee,Lunsj
 noun.coffee,Morgenrutine
 noun.coffee,Møte Marie
 noun.coffee,Night time
+noun.coffee,Spis middag
 noun.coffee,Spise frokost
 noun.coffee,Strikke
 noun.coffee,Ta medisiner
@@ -1027,12 +1078,14 @@ noun.meal,Bake ut rundstykker
 noun.meal,Breakfast
 noun.meal,Dieta
 noun.meal,Dinner
+noun.meal,Ella Grøt og vann
 noun.meal,Ella middag&melk
 noun.meal,Ete
 noun.meal,Ete middag
 noun.meal,Food
 noun.meal,Frokost
 noun.meal,Frokost // Lunsj
+noun.meal,Fruktpuré
 noun.meal,Handle frokost (julefokost)
 noun.meal,Hente kake
 noun.meal,Kvelds
@@ -1054,17 +1107,22 @@ noun.meal,Mellombar
 noun.meal,Mellommåltid
 noun.meal,Middag
 noun.meal,Middag m Ems
+noun.meal,Middag med Frida
+noun.meal,Middag og chill
 noun.meal,Middag — Heim
 noun.meal,Middag- ???
 noun.meal,Pizza i Tromsdalen
 noun.meal,Snack
 noun.meal,Sopra Steria
+noun.meal,Spis frokost!
 noun.meal,"Spis frokost, gjør klar"
+noun.meal,Spis lunsj
 noun.meal,Spise
 noun.meal,Spise frokost
 noun.meal,Spise lunsj
 noun.meal,Spise m/ Eesha
 noun.meal,Spise middag
+noun.meal,Spise noe
 noun.meal,Spise ute
 noun.meal,Spise/lage mat
 noun.meal,bits & pretzels: introduction to munich and bayern
@@ -1077,6 +1135,7 @@ noun.party,Fastelavn
 noun.party,Fest
 noun.party,Handla te Aurora å Nora
 noun.party,Handle til 17.mai
+noun.party,Hanna bursdag til Marielle og Ingvil
 noun.party,Hannas konf
 noun.party,Karneval på jobb
 noun.party,Nyttårsaften
@@ -1152,9 +1211,11 @@ phone.fill,Ringe Hudlege klinikken
 phone.fill,Ringe K5 klinikken
 phone.fill,"Ringe Tomina og høre angående priser, ift om jeg skal ta konsultasjonstimen eller ikke"
 phone.fill,Ringe Ving ang fly og bilsete
+phone.fill,Ringe pappa
 phone.fill,Telefonmøte med Hege (Sats)
 phone.fill,Telefonmøte med sjefen på Sats
 phone.fill,snakke med bjørn
+photo.fill,Sette opp bildevegg
 pianokeys,Kjøpe keyboard
 pills.fill,Abonnere på Medeasy
 pills.fill,Apotek
@@ -1201,6 +1262,7 @@ shippingbox.fill,Pakke ut
 shippingbox.fill,Posten
 shippingbox.fill,Prøve på Zara klær
 shippingbox.fill,Sende pakke
+shippingbox.fill,Stuff delivered by Matt & Crew
 shippingbox.fill,hente pakke fra helthjem
 signature,Gjøre en matte eksamen
 signature,Lekser
@@ -1211,11 +1273,15 @@ smiley.fill,Slappe av
 smiley.fill,rydde rommet
 star.fill,Drikke vann🤍
 star.fill,Enkle ting jeg klarer å gjøre
+star.fill,Fikse neglene til Ragnhild
+star.fill,Før leggetid
 star.fill,Gjøre klar for morgendagen
 star.fill,Møte jentene
+star.fill,Ny mobil
 star.fill,Resten av dagen
 star.fill,Russeball
 star.fill,Sjakk
+star.fill,Sjekke ut klinikker som driver med kvinnehelse - med Nora!
 star.fill,Spørre Hilde om fredager + stille dager ift skole
 star.fill,Strömstad
 star.fill,Støtekontakt 🥰
@@ -1237,6 +1303,7 @@ sun.max.fill,Butikken (støttestrømper)
 sun.max.fill,Dagsrutine (Pause)
 sun.max.fill,Ferie
 sun.max.fill,Fres
+sun.max.fill,Fri
 sun.max.fill,Gamalost festival
 sun.max.fill,Gamalostfestival
 sun.max.fill,Gå morgentur
@@ -1253,6 +1320,7 @@ sun.max.fill,Shop in Town
 sun.max.fill,Skole!
 sun.max.fill,Sol
 sun.max.fill,Solarium
+sun.max.fill,Stall/middag/familietid/øvelseskjøring
 sun.max.fill,Stå opp
 sun.max.fill,Tur
 sun.max.fill,Yoga
@@ -1302,6 +1370,7 @@ text.badge.checkmark,Ta igjen alt jeg ikke ble ferdig med dagen før
 text.badge.checkmark,Terapia
 text.badge.checkmark,Vask klær
 text.badge.checkmark,Våkne!
+text.badge.checkmark,finne leadership-bok til eksamen
 text.badge.checkmark,kap 10
 text.badge.checkmark,kap 11
 text.badge.checkmark,minne mamma på å ta med koffert
@@ -1318,11 +1387,13 @@ tram.fill,Tog
 tram.fill,dra hjem
 trash.fill,Djupvik
 trash.fill,Rydde litt på kjøkkenet
+trash.fill,Rydde på rommet
 trash.fill,Søppel
 tuningfork,Musikkaktivitet
 tuningfork,Musikkøkt
 tuningfork,Varme opp
 tv.fill,Coffee & work
+tv.fill,Eventuellmedisin
 tv.fill,FINPUSS ALLE FASENE
 tv.fill,Gå til skolen
 tv.fill,Lekser
@@ -1337,6 +1408,7 @@ tv.fill,The fallout
 tv.fill,delvis bli ferdig med rapport
 tv.fill,lage cv
 umbrella.fill,Vaske klær
+video.fill,Chill snakk me folk Idk?
 video.fill,FaceTime
 video.fill,Norsk video
 video.fill,Tv
@@ -1373,6 +1445,7 @@ wind,Båten til Sandefjord
 wind,S / H
 wind,Støvsuge
 wind,Yoga
+wrench.fill,Jobb
 x.squareroot,Formlikhet
 x.squareroot,Gjøre matte oppgaver til 10.1
 x.squareroot,Julian lekser
@@ -1385,8 +1458,10 @@ x.squareroot,Matteprøve
 x.squareroot,Plenumsregning Matte 2
 x.squareroot,jobbe med R1
 zzz,Kveldsrutine
+zzz,Kveldsstell
 zzz,Legg deg tidlig!!!!
 zzz,Legge rutine
 zzz,Powernap
+zzz,Sov
 zzz,Sov godt
 zzz,Sove

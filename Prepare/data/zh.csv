@@ -5,10 +5,12 @@ airplane,UA 857 SFO－PVG
 airplane,交通
 airplane,出发去福州
 airplane,動森
+airplane,弹琴
 airplane,新護照
 airplane,概率
 airplane,测核酸
 airplane,清点+调整
+airplane,直接練槍
 airplane,看小说
 airplane,看电影
 airplane,週一取件新護照
@@ -37,6 +39,7 @@ alarm.fill,ᴍᴏʀɴɪɴɢ ♡
 alarm.fill,☀️
 alarm.fill,一节生理
 alarm.fill,上堂
+alarm.fill,上班
 alarm.fill,交作业
 alarm.fill,出發
 alarm.fill,出門了！
@@ -51,6 +54,7 @@ alarm.fill,听力特殊训练
 alarm.fill,成他人所愿
 alarm.fill,打卡
 alarm.fill,执行周五计划
+alarm.fill,整理半周计划表
 alarm.fill,新的一天起床啦～
 alarm.fill,早上好
 alarm.fill,早功
@@ -66,6 +70,7 @@ alarm.fill,检查todo清单
 alarm.fill,洗澡
 alarm.fill,準備出門
 alarm.fill,睡覺
+alarm.fill,睡觉
 alarm.fill,管综练题
 alarm.fill,美女起床啦！
 alarm.fill,背单词+晨读
@@ -73,11 +78,13 @@ alarm.fill,英语单词
 alarm.fill,记账
 alarm.fill,语文实践
 alarm.fill,起床
+alarm.fill,起床/整理
 alarm.fill,起床、健身、刷牙
 alarm.fill,起床了
 alarm.fill,起床了！
 alarm.fill,起床到图书馆
 alarm.fill,起床化妆
+alarm.fill,起床吃早饭
 alarm.fill,起床啦
 alarm.fill,起床啦⏰
 alarm.fill,起床啦！
@@ -95,6 +102,7 @@ alarm.fill,起床啦！🌻🌻🌻
 alarm.fill,起床洗漱
 alarm.fill,起床洗漱吃早饭
 alarm.fill,起床！
+alarm.fill,起床，早饭
 alarm.fill,起身啦！
 alarm.fill,迎接美好一天
 alarm.fill,运动
@@ -110,6 +118,7 @@ ant.fill,生物
 ant.fill,生物解難時間
 ant.fill,生物课
 ant.fill,英语单词
+archivebox.fill,Bring consolidation exercise (L&S)
 archivebox.fill,Prepare clothing
 archivebox.fill,作业：IDP Essay
 archivebox.fill,取干洗衣服
@@ -155,6 +164,7 @@ arrow.3.trianglepath,回想複習10分鐘即可
 arrow.3.trianglepath,回收業者
 arrow.3.trianglepath,回邮件、提付款、审稿、处理法务
 arrow.3.trianglepath,国际投资
+arrow.3.trianglepath,导图+记忆
 arrow.3.trianglepath,巩固单词
 arrow.3.trianglepath,巩固单词&打卡
 arrow.3.trianglepath,护士执业证和照片
@@ -162,8 +172,10 @@ arrow.3.trianglepath,掃地拖地
 arrow.3.trianglepath,数学
 arrow.3.trianglepath,新书人设+开头
 arrow.3.trianglepath,洗澡🛁
+arrow.3.trianglepath,洗衣服
 arrow.3.trianglepath,清点+调整
 arrow.3.trianglepath,生物
+arrow.3.trianglepath,英语课
 arrow.3.trianglepath,言语理解
 arrow.3.trianglepath,资料分析
 arrow.3.trianglepath,阿生
@@ -218,6 +230,7 @@ atom,CaiXin
 atom,Heap & BFS 1 ➕2
 atom,MIT
 atom,Math
+atom,Meditation
 atom,Phys151 Lec 3/21、23、25
 atom,Physics tests
 atom,Physics: Circuit (math&phy tutor)
@@ -226,8 +239,10 @@ atom,Post 運勢post
 atom,Review [3122]
 atom,Revise Physics
 atom,Revising suggestion
+atom,Study
 atom,TE｜CaiXin
 atom,YouTube ｜每日听力
+atom,solitude Exploration
 atom,下周的艺术史作业
 atom,专业课复习
 atom,中国文化翻译 外文a404
@@ -253,6 +268,7 @@ atom,学习使用Cubox
 atom,学习使用新下载的app
 atom,学习时间
 atom,学画画
+atom,小红书
 atom,巩固单词
 atom,巩固单词（看一遍Change
 atom,心流修練
@@ -263,6 +279,7 @@ atom,悦读
 atom,悦读｜SLEEPING
 atom,扎实基础（背框架和知识点）
 atom,托福
+atom,抓重点，不要总是被次要事件耽误正事！Math
 atom,抽新月牌
 atom,拉💩
 atom,收衣服
@@ -272,10 +289,12 @@ atom,数学两道题
 atom,整块时间
 atom,整理2022乐吞思路
 atom,昨天的翻译复盘｜洗衣日
+atom,检查&看学生
 atom,法语动词变位
 atom,洗衣服
 atom,烘干衣服
 atom,物理
+atom,物理 第12&13章
 atom,物理5
 atom,物理仿真实验
 atom,物理作业
@@ -290,6 +309,7 @@ atom,瑜伽🧘‍♀️
 atom,画画
 atom,皮肤
 atom,看清华导师论文
+atom,看物理课
 atom,知识复习
 atom,祝壽
 atom,科学A本
@@ -308,6 +328,7 @@ atom,论文
 atom,论文写作-引言
 atom,论文写作-第二部分
 atom,起床
+atom,轻松一刻 ｜YouTube
 atom,道
 atom,闪过
 atom,電子衣櫥
@@ -325,11 +346,13 @@ bag.fill,work time
 bag.fill,三興上班
 bag.fill,上班
 bag.fill,交貨
+bag.fill,出門前整理
 bag.fill,出门常备
 bag.fill,加班
 bag.fill,去车站
 bag.fill,台中整理
 bag.fill,名片排版&字體測試
+bag.fill,團購取貨
 bag.fill,备课
 bag.fill,工作
 bag.fill,开会
@@ -385,7 +408,9 @@ battery.25,sleep
 battery.25,三言两语杂货社+整理
 battery.25,上帝時間
 battery.25,休息
+battery.25,休憩
 battery.25,借书！
+battery.25,做实验
 battery.25,傅雷家书
 battery.25,充电
 battery.25,充電
@@ -407,6 +432,7 @@ battery.25,游泳
 battery.25,焦点访谈+整理
 battery.25,王琢阅读1-2
 battery.25,玩手机
+battery.25,看书
 battery.25,睡觉
 battery.25,自由时间
 battery.25,英语小说阅读
@@ -449,6 +475,7 @@ bed.double.fill,好好生活
 bed.double.fill,宿舍休息
 bed.double.fill,小憩
 bed.double.fill,小憩一会
+bed.double.fill,小睡
 bed.double.fill,换床单
 bed.double.fill,整理房間
 bed.double.fill,早间休息
@@ -513,10 +540,12 @@ bell.fill,计划明天
 bell.fill,起床
 bell.fill,起床啦！
 bell.fill,轉堂小休
+bell.fill,通知&备忘录&要做的事
 bell.fill,醒醒觉
 bitcoinsign.circle.fill,A: 工作
 bitcoinsign.circle.fill,BBQ品鉴官当一下吧
 bitcoinsign.circle.fill,NTF学习一分钟
+bitcoinsign.circle.fill,买东西
 bitcoinsign.circle.fill,交煤氣費
 bitcoinsign.circle.fill,听六分钟英语
 bitcoinsign.circle.fill,家教
@@ -551,6 +580,7 @@ bolt.fill,Gospel
 bolt.fill,Gym
 bolt.fill,Rest
 bolt.fill,Stretch
+bolt.fill,Swimming
 bolt.fill,Take a Break
 bolt.fill,Take a break
 bolt.fill,Take a break !
@@ -561,6 +591,7 @@ bolt.fill,午休
 bolt.fill,历史课
 bolt.fill,双码&淘宝&疫情通
 bolt.fill,地理课
+bolt.fill,地科
 bolt.fill,墨墨&淘宝&疫情通
 bolt.fill,學習
 bolt.fill,政工
@@ -574,11 +605,15 @@ bolt.fill,电子信息-作业2
 bolt.fill,电工电子学
 bolt.fill,瘦腿
 bolt.fill,練琴
+bolt.fill,背单词
+bolt.fill,背背背背传播学
 bolt.fill,背诵七下古诗
 bolt.fill,英语口语
 bolt.fill,英语课
 bolt.fill,语文课
 bolt.fill,运动
+bolt.fill,運動
+bolt.fill,阅读
 bolt.fill,阅读分析一篇
 bolt.fill,阅读听力考试
 bolt.fill,雜務☕️
@@ -594,6 +629,8 @@ book.fill,1/26笔记
 book.fill,109會考-社會(70)
 book.fill,11
 book.fill,11+12
+book.fill,110會考-社會
+book.fill,110會考-自然
 book.fill,12
 book.fill,13
 book.fill,14
@@ -633,6 +670,7 @@ book.fill,BUS111
 book.fill,"Bio 2007, 2008 pp mc"
 book.fill,Biology
 book.fill,Biology ( memorize )
+book.fill,Block 1 : General physics
 book.fill,CPA 战略 征鸿
 book.fill,CPA 税法 王颖/刘颖/马兆瑞
 book.fill,CPA 税法 第二轮
@@ -645,6 +683,7 @@ book.fill,CPA审计 第二轮
 book.fill,CPA审计 金鑫松
 book.fill,CSE搜索
 book.fill,CSS
+book.fill,CYC精读
 book.fill,Ch.2咖啡店筆記
 book.fill,Chemistry
 book.fill,Chi Test
@@ -663,6 +702,7 @@ book.fill,ECO308 T4
 book.fill,ECON SB
 book.fill,ECON: Start reading for M1
 book.fill,ENG Paper 3 B2 Highlight
+book.fill,ENG class
 book.fill,ENGL 131 READING
 book.fill,Econ notes
 book.fill,Econ1002 week2课程
@@ -696,6 +736,7 @@ book.fill,History
 book.fill,Homework
 book.fill,ICP 论文 Part 1 修改
 book.fill,IELTS学习
+book.fill,IELTS｜Reading *3
 book.fill,IGCSE(Edexcel) Revision Note
 book.fill,IR 复习+Transform
 book.fill,IR 閱讀
@@ -726,6 +767,7 @@ book.fill,N2 文法
 book.fill,N3试题一半
 book.fill,N3试题一半+订正
 book.fill,NU8
+book.fill,OS閱讀
 book.fill,P&P 原著阅读
 book.fill,PCR网课
 book.fill,PMP_M2
@@ -763,12 +805,14 @@ book.fill,Sino - American Relations
 book.fill,Stat 学习
 book.fill,Study
 book.fill,Study Chinese
+book.fill,Study SS
 book.fill,Study reader quiz
 book.fill,Study spelling words
 book.fill,Study-個經
 book.fill,Study📖
 book.fill,Sueña 習作95 ①
 book.fill,TED学习
+book.fill,TOEFL HW
 book.fill,TOEIC
 book.fill,The Cinematic Landscape Chapter 10
 book.fill,The Last Battle阅读
@@ -806,6 +850,9 @@ book.fill,topik真题
 book.fill,turn in TKAM theme brainstorm
 book.fill,writing刷题计划✏️
 book.fill,《人类简史》📖！
+book.fill,《传播学原理》增补笔记
+book.fill,《传播学原理》整理笔记
+book.fill,《传播学原理》笔记
 book.fill,《古文观止》
 book.fill,《如何阅读一本书》P55-87
 book.fill,《平凡的世界》
@@ -869,8 +916,10 @@ book.fill,中會
 book.fill,中級會計學：現金p1-p36
 book.fill,中纪委两篇
 book.fill,中药anki
+book.fill,书
 book.fill,买书
 book.fill,买菜
+book.fill,交心理学control assessment
 book.fill,京东读书
 book.fill,亲子阅读
 book.fill,代谢
@@ -894,14 +943,17 @@ book.fill,保险学
 book.fill,信号处理网课1小时
 book.fill,修改卒業論文
 book.fill,修改论文
+book.fill,做“数学广场-数苹果”的一课一练
 book.fill,做作业
 book.fill,做功課
+book.fill,做学而思补充题（第二页）
 book.fill,做學校功課
 book.fill,做室内空间设计作业
 book.fill,做申论题
 book.fill,做第一章数学卷子
 book.fill,做练习册
 book.fill,做语料库&背阅读考点词
+book.fill,做课外作业、预习
 book.fill,做阅读
 book.fill,做題目
 book.fill,做题
@@ -918,6 +970,9 @@ book.fill,公基
 book.fill,公民
 book.fill,公民B1~B4
 book.fill,公民B3
+book.fill,公民複習
+book.fill,公民講義
+book.fill,公民講義L3 L4
 book.fill,六级英语
 book.fill,六级英语阅读
 book.fill,六级黄皮书（每天做一套➕订正）
@@ -937,6 +992,7 @@ book.fill,写日记
 book.fill,写点作业
 book.fill,写论文
 book.fill,写量表+发给老师
+book.fill,军理论文完善
 book.fill,军队文职
 book.fill,出门去咖啡厅读书
 book.fill,分析化学
@@ -964,6 +1020,7 @@ book.fill,化学生物批改
 book.fill,化学自习
 book.fill,化學
 book.fill,化學 複習
+book.fill,化學 預習
 book.fill,医用基础化学
 book.fill,午自习
 book.fill,单词
@@ -994,6 +1051,7 @@ book.fill,听录音
 book.fill,听物理高一下第9⃣️节网课
 book.fill,听课
 book.fill,听课半小时
+book.fill,吸走頂尖OG 成果
 book.fill,咨询
 book.fill,品牌手册
 book.fill,哲學反思W9
@@ -1031,6 +1089,7 @@ book.fill,國文默寫（捷運上）
 book.fill,國考上課
 book.fill,圖書館
 book.fill,圖書館取書／還書
+book.fill,圖書館看書
 book.fill,地理
 book.fill,地理 C3 L2
 book.fill,地理B3
@@ -1052,6 +1111,7 @@ book.fill,复习zk chem
 book.fill,复习专业课
 book.fill,复习中医儿科学
 book.fill,复习中医内科学
+book.fill,复习中医外科学
 book.fill,复习中文
 book.fill,复习之前内容
 book.fill,复习二建法规
@@ -1140,6 +1200,7 @@ book.fill,学习数学
 book.fill,学习日语
 book.fill,学习时间
 book.fill,学习流行病学
+book.fill,学习物权法
 book.fill,学习物理
 book.fill,学习生物
 book.fill,学习看书
@@ -1155,6 +1216,7 @@ book.fill,学习论文
 book.fill,学习高数
 book.fill,学习！
 book.fill,学习：MOOC
+book.fill,学习｜实务｜固定资产
 book.fill,学前儿童健康教育
 book.fill,学完list3
 book.fill,学政治
@@ -1169,8 +1231,10 @@ book.fill,學校
 book.fill,學習
 book.fill,學習英文拼音
 book.fill,學習英文拼音 （1.5小時）
+book.fill,學英文
 book.fill,學術討論
 book.fill,學西班牙
+book.fill,孺子弟
 book.fill,完形一篇
 book.fill,完成21黄浦数学二模
 book.fill,完成一套A级题目 订正错题并知晓原因
@@ -1207,6 +1271,7 @@ book.fill,师弟为何那样
 book.fill,常识
 book.fill,建筑设计
 book.fill,开始读书啦
+book.fill,弄PSY240视频
 book.fill,弄语文复习卷（订正）
 book.fill,弱勢兒童翻譯
 book.fill,形式政策作业。
@@ -1273,6 +1338,7 @@ book.fill,数字复习
 book.fill,数学
 book.fill,数学作业
 book.fill,数学练习
+book.fill,数学练习册
 book.fill,数学考试
 book.fill,数学试卷
 book.fill,数学课
@@ -1285,6 +1351,7 @@ book.fill,整理strategy C3笔记
 book.fill,整理帳目
 book.fill,整理笔记
 book.fill,整理英国文学笔记
+book.fill,整理课堂笔记
 book.fill,整理错题
 book.fill,整笔记
 book.fill,數2-1～2-2習題
@@ -1293,6 +1360,9 @@ book.fill,數38
 book.fill,數卷
 book.fill,數學
 book.fill,數學 2D三角學 溫故知新
+book.fill,數學 past paper 1
+book.fill,數學 past paper 2
+book.fill,數學 練習
 book.fill,數學 複習
 book.fill,數學106
 book.fill,數學107
@@ -1312,6 +1382,7 @@ book.fill,文學地景（3/25）筆記
 book.fill,文學地景（4/22）筆記
 book.fill,新一单元单词
 book.fill,新月许愿
+book.fill,新课➕导图
 book.fill,日文
 book.fill,日语
 book.fill,日语作业
@@ -1347,6 +1418,7 @@ book.fill,會計5張
 book.fill,會計作業
 book.fill,有空的话就做一点作业吧
 book.fill,朗读
+book.fill,朗读英文
 book.fill,期末复习
 book.fill,期末考试
 book.fill,李常受文集
@@ -1373,6 +1445,8 @@ book.fill,歷史筆記3-1
 book.fill,歷史筆記3-2
 book.fill,歷史筆記4-1
 book.fill,歷史習作3-1～3-2
+book.fill,歷史複習
+book.fill,歷史講義
 book.fill,歷史！
 book.fill,段考
 book.fill,每日学习
@@ -1403,6 +1477,7 @@ book.fill,温書
 book.fill,游戏论
 book.fill,準備PPT
 book.fill,溝通與表達
+book.fill,"溫健經by topic, t/13 mins"
 book.fill,溫書
 book.fill,漂亮朋友
 book.fill,漫画
@@ -1430,7 +1505,11 @@ book.fill,生物
 book.fill,生物化学
 book.fill,生物化学与分子生物学
 book.fill,生物学 複習
+book.fill,生物學 看筆記
+book.fill,生物學 複習
+book.fill,生物學 預習
 book.fill,生物統計
+book.fill,生物藥劑
 book.fill,生物複講U3 重點3+沒念完的
 book.fill,生物课
 book.fill,生理学
@@ -1461,6 +1540,7 @@ book.fill,看书📖
 book.fill,看人造板
 book.fill,看全英文书记笔记
 book.fill,看公文
+book.fill,看原子時間
 book.fill,看外刊
 book.fill,看外国文化史 ch 4-5
 book.fill,看小說
@@ -1484,6 +1564,7 @@ book.fill,看课
 book.fill,看资料
 book.fill,看雅思阅读
 book.fill,看離散
+book.fill,看點論文
 book.fill,睇書
 book.fill,睇英文補習片
 book.fill,睡前阅读
@@ -1500,11 +1581,14 @@ book.fill,社會110 訂正
 book.fill,社會題本
 book.fill,社課
 book.fill,神经
+book.fill,神经系统（总论
+book.fill,神经系统（总论 中枢 周围
 book.fill,离散数学
 book.fill,科目一
 book.fill,科目二
 book.fill,积累
 book.fill,程式W9
+book.fill,笔记
 book.fill,笔试
 book.fill,第七節體育
 book.fill,第二性
@@ -1521,6 +1605,7 @@ book.fill,綜合
 book.fill,綜合所得稅
 book.fill,網路概論
 book.fill,線性代數
+book.fill,總複習（社 數 國)
 book.fill,繼承
 book.fill,纠错
 book.fill,红宝书单词
@@ -1540,6 +1625,8 @@ book.fill,经济师
 book.fill,经济法
 book.fill,经济法基础
 book.fill,结构
+book.fill,继续做一课一练语文“火烧云”
+book.fill,继续做作业（完成）
 book.fill,综合1.2
 book.fill,综合英语
 book.fill,网络安全技术
@@ -1575,6 +1662,7 @@ book.fill,背单词红宝书Unite 12
 book.fill,背单词红宝书Unite 13
 book.fill,背单词红宝书Unite 14
 book.fill,背单词红宝书Unite 15
+book.fill,背单词红宝书Unite 15-16
 book.fill,背单词红宝书Unite 16
 book.fill,背单词红宝书Unite 18
 book.fill,背单词红宝书Unite 20
@@ -1585,9 +1673,12 @@ book.fill,背单词红宝书Unite 25
 book.fill,背单词红宝书Unite 26
 book.fill,背单词红宝书Unite 26-27
 book.fill,背单词红宝书Unite 27-28
+book.fill,背单词红宝书Unite 3-4
 book.fill,背单词红宝书Unite 5
+book.fill,背单词红宝书Unite 5-6
 book.fill,背单词红宝书Unite 6
 book.fill,背单词红宝书Unite 7
+book.fill,背单词红宝书Unite 7-8
 book.fill,背单词红宝书Unite 8
 book.fill,背单词红宝书Unite 9
 book.fill,背单词📑
@@ -1654,8 +1745,10 @@ book.fill,英文雜誌2篇
 book.fill,英文！
 book.fill,英模題本
 book.fill,英汉对比研究
+book.fill,英語 lit ’Funeral Blues‘
 book.fill,英語 lit複習
 book.fill,英語 poetry 溫習
+book.fill,英語 背單詞
 book.fill,英语
 book.fill,英语(阅读)
 book.fill,英语+政治+单词
@@ -1664,6 +1757,7 @@ book.fill,英语专项冲刺计划
 book.fill,英语中考辅导
 book.fill,英语作业
 book.fill,英语作文
+book.fill,英语写作学习
 book.fill,英语刷题一基础语法
 book.fill,英语单词
 book.fill,英语单词（80个）
@@ -1695,9 +1789,16 @@ book.fill,蓝宝书
 book.fill,蓝海战略｜形策论文
 book.fill,薄荷阅读
 book.fill,藝術概論
+book.fill,藥化
+book.fill,藥化3/22
 book.fill,藥化3/29
 book.fill,藥化4/12
 book.fill,藥化4/26
+book.fill,藥化5/10
+book.fill,藥化5/2
+book.fill,藥化5/3
+book.fill,藥化5/9
+book.fill,藥理
 book.fill,血糖瘦身飲食解密
 book.fill,行政法
 book.fill,行政法複習
@@ -1731,18 +1832,22 @@ book.fill,补课（9号答疑）
 book.fill,補習
 book.fill,複習
 book.fill,複習化學 1-5元素性質的週期性
+book.fill,複習國文
 book.fill,複習國文科
 book.fill,複習數學科
 book.fill,複習數學科+補習班作業
 book.fill,複習文選
+book.fill,複習社會
 book.fill,複習社會科
 book.fill,複習自然+社會科
+book.fill,複習自然+英文科
 book.fill,複習自然科
 book.fill,複習英文
 book.fill,複習英文科
 book.fill,複習📓
 book.fill,西方文论
 book.fill,西方美學史
+book.fill,西游记
 book.fill,視覺
 book.fill,视频课程学习
 book.fill,解剖
@@ -1751,8 +1856,10 @@ book.fill,言语20 20 10
 book.fill,言语40
 book.fill,言语40-50题
 book.fill,言语排序20 文段30-40
+book.fill,訂正多益閱讀
 book.fill,訂正社會題本
 book.fill,計概
+book.fill,試閱
 book.fill,詩：月下獨酌
 book.fill,課後複習
 book.fill,課程1+2複習+刷題
@@ -1765,6 +1872,7 @@ book.fill,讀史記
 book.fill,讀史記卷八
 book.fill,讀國導
 book.fill,讀國文
+book.fill,讀地理
 book.fill,讀地科
 book.fill,讀多益
 book.fill,讀教檢
@@ -1795,6 +1903,7 @@ book.fill,论文
 book.fill,论文阅读
 book.fill,语文
 book.fill,语文 预习
+book.fill,语文/英语
 book.fill,语文作业
 book.fill,语文古文
 book.fill,语文同步
@@ -1817,6 +1926,8 @@ book.fill,读《自我肯定的力量》
 book.fill,读《衣柜》
 book.fill,读《鬼吹灯》
 book.fill,读《鬼吹灯：云南虫谷》
+book.fill,读一点东西不然如何做一个博学的男人？🤔
+book.fill,读专业课书
 book.fill,读书
 book.fill,读书 学习
 book.fill,读书ERCP，造口
@@ -1884,6 +1995,7 @@ book.fill,阅读文献14
 book.fill,阅读文献14：3-8
 book.fill,阅读普心
 book.fill,阅读理解精做
+book.fill,阅读英文书
 book.fill,阅读论文｜国企
 book.fill,阅读课
 book.fill,阅读课外书-一切镜
@@ -1901,6 +2013,7 @@ book.fill,電路學第二章
 book.fill,靈修
 book.fill,靈活如豹
 book.fill,青年大学习
+book.fill,面試考古題
 book.fill,韩语入门
 book.fill,音乐史
 book.fill,音樂
@@ -1948,11 +2061,18 @@ bookmark.fill,CHIST_北朝融和 (溫習)
 bookmark.fill,ENG_do 2014 DSE PP A
 bookmark.fill,Reference Guidelines Learning
 bookmark.fill,Void FPN
+bookmark.fill,priority list
 bookmark.fill,script
 bookmark.fill,一套阅读
+bookmark.fill,专业课
+bookmark.fill,做作业
+bookmark.fill,做学校作业
+bookmark.fill,做必做作业
 bookmark.fill,做每周表
 bookmark.fill,入职文件整理
 bookmark.fill,兴趣爱好学习
+bookmark.fill,写字A “慢性子.....急性子”
+bookmark.fill,制定食谱
 bookmark.fill,古代文学
 bookmark.fill,周总结
 bookmark.fill,地理課
@@ -2001,13 +2121,16 @@ briefcase.fill,Do work
 briefcase.fill,Edit Resume
 briefcase.fill,FB11
 briefcase.fill,Face trade
+briefcase.fill,Focus Work
 briefcase.fill,Go work
 briefcase.fill,Line 優惠
 briefcase.fill,PMH-O
 briefcase.fill,PMH-P(1545-2230@AE)
+briefcase.fill,Prepare for go out
 briefcase.fill,Reading Words
 briefcase.fill,School
 briefcase.fill,Sent CI to Glory
+briefcase.fill,Veronica讲座
 briefcase.fill,Work
 briefcase.fill,go
 briefcase.fill,work
@@ -2018,6 +2141,7 @@ briefcase.fill,上班💼
 briefcase.fill,上課
 briefcase.fill,上课
 briefcase.fill,上课、开会或处理公司事务
+briefcase.fill,下班
 briefcase.fill,不要偷懶，工作吧！
 briefcase.fill,中级审计
 briefcase.fill,人社入库申请
@@ -2036,6 +2160,7 @@ briefcase.fill,四级阅读
 briefcase.fill,國文課
 briefcase.fill,國際TA
 briefcase.fill,報告
+briefcase.fill,处理旺旺分流
 briefcase.fill,外出办事
 briefcase.fill,外出工作对接
 briefcase.fill,外出工作对接：宣传部
@@ -2047,6 +2172,7 @@ briefcase.fill,寫成果
 briefcase.fill,專案測試
 briefcase.fill,工作
 briefcase.fill,工作下班跟催
+briefcase.fill,工作任务things检查
 briefcase.fill,工作时间
 briefcase.fill,建材课
 briefcase.fill,开会
@@ -2063,6 +2189,7 @@ briefcase.fill,收拾行李
 briefcase.fill,收软件工程作业
 briefcase.fill,整理明天东西
 briefcase.fill,整理明日上学所需
+briefcase.fill,整理會考所需物品
 briefcase.fill,整理行李
 briefcase.fill,整理词汇
 briefcase.fill,整理课本
@@ -2070,6 +2197,7 @@ briefcase.fill,日报
 briefcase.fill,早會
 briefcase.fill,星期账
 briefcase.fill,晚班
+briefcase.fill,梳理、总结工作
 briefcase.fill,沛米科技
 briefcase.fill,牛津见面会
 briefcase.fill,百萬行領獎信息
@@ -2084,6 +2212,8 @@ briefcase.fill,规划每日中作
 briefcase.fill,解ISSUE
 briefcase.fill,課輔培訓（還不確定時間）
 briefcase.fill,課輔月會（還不確定時間）
+briefcase.fill,返工
+briefcase.fill,返现
 briefcase.fill,送孩子上学、去上班
 briefcase.fill,送物料去仓库
 briefcase.fill,面试
@@ -2102,12 +2232,14 @@ bubble.left.fill,休息时间
 bubble.left.fill,休息（读书）
 bubble.left.fill,做作业英语语文数学
 bubble.left.fill,回瀨
+bubble.left.fill,回覆訊息
 bubble.left.fill,复习u16
 bubble.left.fill,学德语
 bubble.left.fill,學習回顧測驗
 bubble.left.fill,完成稿件
 bubble.left.fill,心理咨询
 bubble.left.fill,打卡
+bubble.left.fill,排练poster
 bubble.left.fill,改日语复试模版
 bubble.left.fill,泛听cuatro minutos
 bubble.left.fill,测试直播复盘
@@ -2124,6 +2256,7 @@ bubble.left.fill,英语课
 bubble.left.fill,覆人
 bubble.left.fill,討論研究paper
 bubble.left.fill,诗稿整理
+bubble.left.fill,開會
 bubble.left.fill,面试
 bubble.left.fill,面试-张嘉诚
 burn,Physics structure questions
@@ -2133,6 +2266,7 @@ burn,下午轮回学习
 burn,做核酸
 burn,化学
 burn,周复盘
+burn,复盘
 burn,实验．
 burn,打羽毛球
 burn,期中测试
@@ -2170,6 +2304,7 @@ calendar,初三：毛怡珊
 calendar,初三：江欣怡
 calendar,初三：白馨茜
 calendar,初三：赵凌
+calendar,初三：陈艾佳
 calendar,初二：陈可仁
 calendar,初级会计
 calendar,制定计划
@@ -2199,6 +2334,8 @@ calendar,整理备忘录&安排日程
 calendar,整理计划
 calendar,新生培训
 calendar,日記
+calendar,日计划
+calendar,日记
 calendar,旧文更新1w字
 calendar,明日计划
 calendar,晚餐、领快递
@@ -2220,6 +2357,7 @@ calendar,规划明天
 calendar,課程
 calendar,计划
 calendar,计划明天
+calendar,语文试卷
 calendar,追剧、追综艺、刷视频
 calendar,連假
 calendar,邮寄shein
@@ -2232,19 +2370,23 @@ camera.fill,nikon拍片
 camera.fill,制作考勤表
 camera.fill,去背法语
 camera.fill,学习一下怎么用新相机拍vlog
+camera.fill,学习剪辑
 camera.fill,学习静物拍摄——做笔记+练习（拍有水的玻璃杯等）
 camera.fill,学信网照片计划
 camera.fill,影相
 camera.fill,拍微電影
 camera.fill,拍照
 camera.fill,拍照片
+camera.fill,拍照📷
 car.fill,10:00
 car.fill,C&B ride
 car.fill,Driving Lesen Exam
 car.fill,GEICO 设置
 car.fill,Go自习室
+car.fill,Meet
 car.fill,One day trip with 大姐姐
 car.fill,Quick Wash
+car.fill,Uber
 car.fill,crossover
 car.fill,上学路上
 car.fill,上班
@@ -2258,6 +2400,7 @@ car.fill,准备打车出发
 car.fill,出发
 car.fill,出发自习室
 car.fill,出發
+car.fill,出發囉
 car.fill,出租车
 car.fill,出門
 car.fill,出門-台銀中科
@@ -2268,6 +2411,7 @@ car.fill,出门
 car.fill,北車解約+北辦撤場
 car.fill,去公司
 car.fill,去外婆家
+car.fill,去学校
 car.fill,去阿和咖啡店
 car.fill,去顺丰网点邮寄宝马发票&MA合同
 car.fill,发动汽车
@@ -2304,9 +2448,11 @@ car.fill,科目二考试
 car.fill,租汽車
 car.fill,移動
 car.fill,练车
+car.fill,考駕照
 car.fill,聊天和唱歌
 car.fill,計程車 到ALTA
 car.fill,路
+car.fill,車程🚗
 car.fill,載明慧
 car.fill,轉臺鐵
 car.fill,车签合同
@@ -2321,6 +2467,7 @@ car.fill,開車_崙腳
 car.fill,開車_新亞東
 car.fill,開車載桓下班
 car.fill,限行
+car.fill,雅阁车年检
 car.fill,駕訓班
 car.fill,驾照课M10
 car.fill,驾车
@@ -2329,6 +2476,7 @@ cart.fill,Asos return
 cart.fill,Buy Type C Charger
 cart.fill,Buy美瞳
 cart.fill,Costco
+cart.fill,H Mart
 cart.fill,Harbor City
 cart.fill,Marché Bonichoix 🥕🍎
 cart.fill,Pick up
@@ -2373,6 +2521,7 @@ cart.fill,盒马 买菜
 cart.fill,盒马买东西
 cart.fill,盒马购物
 cart.fill,秒杀杯子
+cart.fill,粒上皇小程序兑换栗子
 cart.fill,芒果匯款
 cart.fill,萊爾富拿包裹、全家買午餐
 cart.fill,要做7個事行
@@ -2410,6 +2559,7 @@ chart.bar.fill,做调查问卷和试题
 chart.bar.fill,图书馆
 chart.bar.fill,外刊
 chart.bar.fill,常用办公室软件应用
+chart.bar.fill,彈性時間
 chart.bar.fill,拿快递 问快递
 chart.bar.fill,摘抄
 chart.bar.fill,政治选择
@@ -2439,7 +2589,9 @@ chart.pie.fill,schedule for tomorrow
 chart.pie.fill,专业课
 chart.pie.fill,今日复盘
 chart.pie.fill,回家作业
+chart.pie.fill,回家作业，预习与复习
 chart.pie.fill,学习
+chart.pie.fill,定目标
 chart.pie.fill,家务及琐事
 chart.pie.fill,工數night
 chart.pie.fill,异常订单数据库实现进度
@@ -2447,6 +2599,7 @@ chart.pie.fill,收拾收拾
 chart.pie.fill,政治
 chart.pie.fill,数学
 chart.pie.fill,有录网二面调查
+chart.pie.fill,经济先修课程
 chart.pie.fill,自由活動
 chart.pie.fill,自评互评
 chart.pie.fill,舍
@@ -2469,8 +2622,10 @@ chevron.left.slash.chevron.right,Master Draft Plan
 chevron.left.slash.chevron.right,Performance enhancement
 chevron.left.slash.chevron.right,Program Learning [C++]
 chevron.left.slash.chevron.right,Python
+chevron.left.slash.chevron.right,Update AutoBoost
 chevron.left.slash.chevron.right,[SP] Check Related ASIN
 chevron.left.slash.chevron.right,[SP] Check User#756 Velocity
+chevron.left.slash.chevron.right,codecademy
 chevron.left.slash.chevron.right,to Do List 程式碼練習
 chevron.left.slash.chevron.right,✅推理判断
 chevron.left.slash.chevron.right,中数课
@@ -2502,6 +2657,7 @@ clock.fill,Work - I.T. (Double Park/ Fingercroxx)
 clock.fill,schedule
 clock.fill,《寻欢作乐》
 clock.fill,《毛姆传》
+clock.fill,上班
 clock.fill,上课
 clock.fill,今日规划
 clock.fill,休息
@@ -2526,6 +2682,7 @@ clock.fill,物理
 clock.fill,睡觉
 clock.fill,第一节课
 clock.fill,第三节课
+clock.fill,管会22
 clock.fill,管会24
 clock.fill,练功
 clock.fill,翻译长难句
@@ -2533,8 +2690,10 @@ clock.fill,背单词
 clock.fill,自习
 clock.fill,自行分配
 clock.fill,芭蕾和编舞补课
+clock.fill,西游记
 clock.fill,調解資料整理好
 clock.fill,语文
+clock.fill,读书
 clock.fill,起床
 clock.fill,起床温水
 clock.fill,领学生卡
@@ -2544,6 +2703,8 @@ cloud.bolt.fill,地科麻辣L3
 cloud.bolt.fill,收拾收拾
 cloud.bolt.fill,来点编程
 cloud.bolt.fill,核酸
+cloud.bolt.fill,洗衣服收衣服
+cloud.bolt.fill,编程
 cloud.bolt.fill,英语课
 cloud.drizzle.fill,地理题
 cloud.drizzle.fill,复习英语
@@ -2578,10 +2739,15 @@ cloud.fill,補覺😴
 cloud.fill,起床🌤
 cloud.fill,韩老师课程｜综合回顾
 cloud.fill,韩老师课程｜翻译综合Buff
+cloud.fog.fill,6/3前交世界文明分組檢視表
 cloud.fog.fill,做早餐
 cloud.fog.fill,学习一下http协议
+cloud.fog.fill,寶寶做蛋糕
+cloud.fog.fill,寶寶煮飯
 cloud.fog.fill,工作
 cloud.fog.fill,晚餐
+cloud.fog.fill,晚饭+新导图
+cloud.fog.fill,煮飯
 cloud.fog.fill,買菜
 cloud.snow.fill,学校直播
 cloud.snow.fill,洗澡
@@ -2631,6 +2797,7 @@ comb.fill,起床洗漱
 comb.fill,面部护理
 comb.fill,💇‍♂️理发
 creditcard.fill,10:30-20:00
+creditcard.fill,Buy dinner
 creditcard.fill,Check卡數
 creditcard.fill,HSBC 入數
 creditcard.fill,Membership Card
@@ -2649,6 +2816,8 @@ creditcard.fill,复习早上背过的闪卡
 creditcard.fill,存 1k
 creditcard.fill,学习
 creditcard.fill,找卡數
+creditcard.fill,整理照片和文件
+creditcard.fill,整理硬盘和文件
 creditcard.fill,查詢一銀的帳戶餘額
 creditcard.fill,背单词
 creditcard.fill,记账
@@ -2660,6 +2829,7 @@ custom.ball,keep
 custom.ball,乒乓球
 custom.ball,休息
 custom.ball,休息時間
+custom.ball,体育课
 custom.ball,打排球
 custom.ball,打篮球
 custom.ball,更换图标
@@ -2696,8 +2866,11 @@ custom.cat,Tesco
 custom.cat,Writing
 custom.cat,Writing & Reading
 custom.cat,Writing｜Reading
+custom.cat,《呼啸山庄》汇报
+custom.cat,上清华雅思7.5，达到了吗｜精通翻译
 custom.cat,专业课阅读
 custom.cat,专业阅读
+custom.cat,买猫粮
 custom.cat,休息
 custom.cat,休息♨️
 custom.cat,健身
@@ -2712,6 +2885,7 @@ custom.cat,加班or路上
 custom.cat,午休
 custom.cat,厕所
 custom.cat,去吃酸菜鱼
+custom.cat,口腔综合
 custom.cat,吃饭
 custom.cat,哄孩子睡觉
 custom.cat,喂猫
@@ -2729,6 +2903,7 @@ custom.cat,市中心
 custom.cat,师门阅读第二周任务
 custom.cat,强大是任何时候坚持做对达成目标有利的事，即便困难｜精通翻译
 custom.cat,待命
+custom.cat,微積分
 custom.cat,微观经济
 custom.cat,我就廢
 custom.cat,打扫卫生
@@ -2777,6 +2952,8 @@ custom.cat,种棵树&梳头&洗漱
 custom.cat,种棵树（看一遍Change
 custom.cat,精通翻译
 custom.cat,經濟
+custom.cat,總經上課#1
+custom.cat,總經上課#3
 custom.cat,练舞
 custom.cat,翻译
 custom.cat,翻译 考研英语
@@ -2784,9 +2961,11 @@ custom.cat,翻译考研作文
 custom.cat,翻译：CATTI 真题
 custom.cat,翻译：CATTI+六级
 custom.cat,翻译：六级翻译+CATTI
+custom.cat,考研英语真题技巧训练
 custom.cat,考研英语练习+整理
 custom.cat,考研阅读
 custom.cat,考虫英语网课
+custom.cat,背单词
 custom.cat,背历史
 custom.cat,背政治
 custom.cat,能量｜运动锻炼
@@ -2813,6 +2992,7 @@ custom.cat,馒头喷泉换水
 custom.cat,高数课
 custom.cat,高等土力学
 custom.cat,高等路基路面设计原理
+custom.cat,🛀晚间清洁
 custom.chemistry,Ask his parents for help to take taobao
 custom.chemistry,Bio PP (genetic )
 custom.chemistry,Biology chapter 18 & 19
@@ -2821,6 +3001,7 @@ custom.chemistry,Chemistry
 custom.chemistry,DNA浓度测定
 custom.chemistry,ELISA预实验
 custom.chemistry,El-017 preparation
+custom.chemistry,Experiment
 custom.chemistry,IWV-leg7
 custom.chemistry,LPS刺激raw cell
 custom.chemistry,Lab
@@ -2841,6 +3022,8 @@ custom.chemistry,五個單字
 custom.chemistry,作业
 custom.chemistry,保養
 custom.chemistry,做实验
+custom.chemistry,写化学单项题目
+custom.chemistry,写化学第三and四单元题目
 custom.chemistry,分析qPCR数据
 custom.chemistry,化学
 custom.chemistry,化学《同类题手册》
@@ -2886,6 +3069,7 @@ custom.chemistry,测核磁
 custom.chemistry,温水&温柠檬水🍋&制作西芹汁
 custom.chemistry,物理
 custom.chemistry,物理笔记
+custom.chemistry,理化
 custom.chemistry,理化：題本③
 custom.chemistry,理综
 custom.chemistry,电泳
@@ -2929,13 +3113,16 @@ custom.cooking,做午饭
 custom.cooking,做午饭吃饭
 custom.cooking,做晚饭
 custom.cooking,做英文可悲PPT
+custom.cooking,做蒜泥
 custom.cooking,做蛋糕
 custom.cooking,做飯
+custom.cooking,做餐點
 custom.cooking,做饭
 custom.cooking,做饭 吃饭
 custom.cooking,做饭+吃饭
 custom.cooking,做饭吃饭
 custom.cooking,做饭吃饭洗碗
+custom.cooking,做麵包
 custom.cooking,健康早餐
 custom.cooking,冒菜日｜一食堂套饭日｜智慧餐厅
 custom.cooking,准备&吃晚餐
@@ -2958,6 +3145,8 @@ custom.cooking,吃午餐
 custom.cooking,吃午饭
 custom.cooking,吃早餐
 custom.cooking,吃早饭
+custom.cooking,吃早饭、上厕所、关闭音频
+custom.cooking,吃早饭、关闭音频
 custom.cooking,吃早饭记录卡路里
 custom.cooking,吃晚餐
 custom.cooking,吃晚饭
@@ -2968,6 +3157,7 @@ custom.cooking,吃饭
 custom.cooking,吃饭time
 custom.cooking,吃饭休息
 custom.cooking,吃饭洗漱
+custom.cooking,吃饭饭
 custom.cooking,吃饭🥣
 custom.cooking,回复邮件
 custom.cooking,回家做早饭
@@ -2979,6 +3169,7 @@ custom.cooking,外科胃肠
 custom.cooking,大姐家准备火锅
 custom.cooking,宠物零食制作 鸡胸肉缠胡萝卜
 custom.cooking,家务
+custom.cooking,家政
 custom.cooking,工作
 custom.cooking,干饭
 custom.cooking,干饭+杂物
@@ -2988,7 +3179,9 @@ custom.cooking,早午饭 味增汤+纳豆拌饭
 custom.cooking,早餐
 custom.cooking,早餐/刷牙
 custom.cooking,早餐时间
+custom.cooking,早餐！
 custom.cooking,早饭
+custom.cooking,早饭/午餐/晚餐/早午餐
 custom.cooking,晚间休息
 custom.cooking,晚餐
 custom.cooking,晚餐及預備
@@ -3038,6 +3231,8 @@ custom.dog,Pet Shop
 custom.dog,cat care
 custom.dog,pet care
 custom.dog,soso
+custom.dog,一篇阅读
+custom.dog,专业课马理论
 custom.dog,休息
 custom.dog,休息&娱乐
 custom.dog,休息＆娱乐
@@ -3082,6 +3277,7 @@ custom.dog,練球
 custom.dog,肉圆梳毛
 custom.dog,背单词
 custom.dog,芭芭农场
+custom.dog,英语单词100个
 custom.dog,跟陈陈狗连麦💗
 custom.dog,运动
 custom.dog,遛狗
@@ -3102,8 +3298,10 @@ custom.dumbbell,K1: 锻炼
 custom.dumbbell,Keep
 custom.dumbbell,Keep训练
 custom.dumbbell,Muscle
+custom.dumbbell,PYPX
 custom.dumbbell,Physical exercise
 custom.dumbbell,STRETCH & RELAX
+custom.dumbbell,StepN+運動
 custom.dumbbell,Work UP
 custom.dumbbell,Work out
 custom.dumbbell,Workout
@@ -3119,6 +3317,7 @@ custom.dumbbell,keep
 custom.dumbbell,keep - exercises
 custom.dumbbell,keep运动
 custom.dumbbell,training
+custom.dumbbell,work out
 custom.dumbbell,workout
 custom.dumbbell,workouttttt
 custom.dumbbell,一遍 帕梅拉
@@ -3142,6 +3341,7 @@ custom.dumbbell,健身房
 custom.dumbbell,健身环
 custom.dumbbell,健身环15min
 custom.dumbbell,健身环大冒险
+custom.dumbbell,健身環
 custom.dumbbell,健身環+ fitness training
 custom.dumbbell,健身環運動
 custom.dumbbell,健身（工作室）
@@ -3162,10 +3362,12 @@ custom.dumbbell,吉尼瘦后背
 custom.dumbbell,吉尼瘦肚子
 custom.dumbbell,哑铃
 custom.dumbbell,帕梅拉
+custom.dumbbell,帕梅拉/尊巴/泡沫轴等等等
 custom.dumbbell,帕梅拉10min大腿内侧
 custom.dumbbell,常规健身
 custom.dumbbell,康复锻炼➕上肢
 custom.dumbbell,打拳練習
+custom.dumbbell,打球
 custom.dumbbell,打羽毛球
 custom.dumbbell,拉伸
 custom.dumbbell,拉伸运动+科目一
@@ -3204,6 +3406,7 @@ custom.dumbbell,私教
 custom.dumbbell,私教课
 custom.dumbbell,私教课体验
 custom.dumbbell,空腹有氧
+custom.dumbbell,空腹燃脂
 custom.dumbbell,空腹运动
 custom.dumbbell,美丽芭蕾手臂
 custom.dumbbell,肩颈
@@ -3213,7 +3416,10 @@ custom.dumbbell,芭蕾课-苗苗
 custom.dumbbell,蝴蝶袖運動
 custom.dumbbell,课间锻炼
 custom.dumbbell,跑步
+custom.dumbbell,跳操
 custom.dumbbell,跳操+腿部塑形（试一试）
+custom.dumbbell,跳操（30m周六野+30m帕梅拉）
+custom.dumbbell,跳操（劉畊宏）
 custom.dumbbell,跳繩
 custom.dumbbell,跳绳
 custom.dumbbell,跳绳1小时举重各150个
@@ -3222,13 +3428,16 @@ custom.dumbbell,跳绳加运动
 custom.dumbbell,跳绳加运动and吃饭and洗澡
 custom.dumbbell,跳舞
 custom.dumbbell,运动
+custom.dumbbell,运动+洗澡
 custom.dumbbell,运动1h
 custom.dumbbell,运动20分钟
 custom.dumbbell,运动一下
 custom.dumbbell,运动和自由时间
+custom.dumbbell,运动（背部小红帽）
 custom.dumbbell,运动💪
 custom.dumbbell,运动🚴‍♀️
 custom.dumbbell,迪卡侬健身
+custom.dumbbell,选定健身动作
 custom.dumbbell,運動
 custom.dumbbell,運動（無氧）
 custom.dumbbell,運動（跑步）
@@ -3242,6 +3451,7 @@ custom.dumbbell,锻炼肩颈
 custom.dumbbell,锻炼身体
 custom.dumbbell,阳光后弯-秋秋
 custom.dumbbell,領取IFBBPRO教材
+custom.dumbbell,體能訓練
 custom.hairdryer,get ready
 custom.hairdryer,no qu a rrel ，be happy
 custom.hairdryer,no qu a rrel ，be happy，do trust
@@ -3263,6 +3473,7 @@ custom.hairdryer,洗头日
 custom.hairdryer,洗洗睡觉
 custom.hairdryer,洗漱
 custom.hairdryer,洗漱泡脚敷面膜
+custom.hairdryer,洗漱美容
 custom.hairdryer,洗澡
 custom.hairdryer,洗澡洗澡
 custom.hairdryer,洗澡🛁
@@ -3287,6 +3498,7 @@ custom.language,5.12英语作业
 custom.language,99班
 custom.language,ABCMouse +小火箭+洪恩识字+叽里呱啦+我找新客户
 custom.language,Amber
+custom.language,Chinese
 custom.language,Copy 3 CHIN Writing
 custom.language,Deutsch
 custom.language,Eng Test
@@ -3301,6 +3513,7 @@ custom.language,JianJian补习课
 custom.language,Mandarin
 custom.language,Nina：謝SC
 custom.language,Review
+custom.language,Review+不背单词
 custom.language,Stacey 英语作业
 custom.language,TED英语演讲学习
 custom.language,W16-20複習
@@ -3320,6 +3533,7 @@ custom.language,伊朗媒体报告
 custom.language,休息
 custom.language,俄语
 custom.language,信工英语
+custom.language,做TED笔记
 custom.language,做一套六级阅读
 custom.language,做功課——English Listening P.23-24
 custom.language,做听力和错题分析📝
@@ -3346,6 +3560,7 @@ custom.language,唸英文
 custom.language,国际投资
 custom.language,國文
 custom.language,基础法语4 M612
+custom.language,墨墨背单词
 custom.language,复习上课内容
 custom.language,复习日语
 custom.language,复习第八课
@@ -3434,6 +3649,7 @@ custom.language,英文堂 Day D
 custom.language,英文學習
 custom.language,英文文法
 custom.language,英文文章
+custom.language,英文課
 custom.language,英文雜誌
 custom.language,英语
 custom.language,英语itest
@@ -3456,12 +3672,14 @@ custom.language,英语练习卷M8
 custom.language,英语翻译
 custom.language,英语试卷
 custom.language,英语语法
+custom.language,英语语法或阅读课
 custom.language,英语课
 custom.language,英语错题近三套
 custom.language,英语阅读
 custom.language,补所有的错题分析📝
 custom.language,补课
 custom.language,補英文
+custom.language,複習英文
 custom.language,视频发布及维护
 custom.language,語文Time
 custom.language,讀日文
@@ -3601,6 +3819,7 @@ custom.shower,洗漱与护肤
 custom.shower,洗漱休息
 custom.shower,洗漱准备休息
 custom.shower,洗漱护肤
+custom.shower,洗漱拉伸
 custom.shower,洗漱整理
 custom.shower,洗漱烧水
 custom.shower,洗漱讲故事睡觉
@@ -3666,6 +3885,7 @@ custom.sit,Rest
 custom.sit,School
 custom.sit,deutschkurs
 custom.sit,get ready to study
+custom.sit,office work（嘉实多
 custom.sit,ps
 custom.sit,《公共关系学》B3-401
 custom.sit,《创业基础》 C1-210
@@ -3685,6 +3905,7 @@ custom.sit,下午工作
 custom.sit,下课
 custom.sit,不背单词 学到今天的！
 custom.sit,专业课提升
+custom.sit,专注于做事
 custom.sit,休息
 custom.sit,休息一下
 custom.sit,使用习惯
@@ -3699,6 +3920,7 @@ custom.sit,冥想10分钟
 custom.sit,冥想🧘‍♀️
 custom.sit,创业管理
 custom.sit,到学校🚇
+custom.sit,到达自习室
 custom.sit,前往
 custom.sit,剪脚趾甲
 custom.sit,午休
@@ -3747,6 +3969,7 @@ custom.sit,環境管理及規劃
 custom.sit,環評
 custom.sit,眼保健操
 custom.sit,睡觉💤
+custom.sit,线代课
 custom.sit,网课
 custom.sit,职业答疑
 custom.sit,膜科學
@@ -3837,6 +4060,7 @@ custom.toothbrush,洗脸刷牙
 custom.toothbrush,洗面
 custom.toothbrush,洗面+早餐🥣
 custom.toothbrush,清潔口腔
+custom.toothbrush,準備出門
 custom.toothbrush,牙刷头
 custom.toothbrush,牙贴
 custom.toothbrush,盥洗
@@ -3864,6 +4088,7 @@ desktopcomputer,CCK Illustrator +午餐
 desktopcomputer,CCK 作业
 desktopcomputer,CCK作业
 desktopcomputer,CCSF L5: 讨论作业 (1)
+desktopcomputer,CS
 desktopcomputer,CS 10 HW 2
 desktopcomputer,CS 10 HW2
 desktopcomputer,CS 10 Lecture Notes
@@ -3924,6 +4149,7 @@ desktopcomputer,paper reading
 desktopcomputer,ppt
 desktopcomputer,python
 desktopcomputer,read position paper
+desktopcomputer,red博主思路整理
 desktopcomputer,txt
 desktopcomputer,work
 desktopcomputer,xind基本句型
@@ -3946,6 +4172,7 @@ desktopcomputer,休息
 desktopcomputer,休闲娱乐
 desktopcomputer,作业：计算机L7
 desktopcomputer,作文课
+desktopcomputer,信息 生物
 desktopcomputer,债法网课加油！！🏫🏫
 desktopcomputer,债法网课加油！🏫🏫
 desktopcomputer,值班
@@ -3954,6 +4181,7 @@ desktopcomputer,做作业
 desktopcomputer,做功課
 desktopcomputer,做实证
 desktopcomputer,做论文
+desktopcomputer,公司
 desktopcomputer,公文
 desktopcomputer,写case 胰腺转移瘤
 desktopcomputer,写互评
@@ -3965,6 +4193,7 @@ desktopcomputer,劳动教育网课
 desktopcomputer,化学网课
 desktopcomputer,化学课
 desktopcomputer,午整修
+desktopcomputer,古诗词考试
 desktopcomputer,吃饭
 desktopcomputer,吃饭时看【和我过一个高效的星期二】
 desktopcomputer,听一节网课
@@ -3979,6 +4208,7 @@ desktopcomputer,处理数据集
 desktopcomputer,备课
 desktopcomputer,复习
 desktopcomputer,复习SU
+desktopcomputer,多维度作业（本周）
 desktopcomputer,多邻国做英语题
 desktopcomputer,女童軍——集會綵排
 desktopcomputer,娱乐
@@ -3999,6 +4229,8 @@ desktopcomputer,学习
 desktopcomputer,学习Python
 desktopcomputer,学习SQL
 desktopcomputer,学习专业课
+desktopcomputer,学习剪辑
+desktopcomputer,学习时间
 desktopcomputer,学习物理
 desktopcomputer,学习生物
 desktopcomputer,学习研报
@@ -4016,6 +4248,7 @@ desktopcomputer,工作（cashflow）
 desktopcomputer,工讀生-任職教學
 desktopcomputer,幼儿园做账
 desktopcomputer,建模
+desktopcomputer,开会
 desktopcomputer,录游戏视频
 desktopcomputer,形势与政策调研报告
 desktopcomputer,征文
@@ -4038,8 +4271,10 @@ desktopcomputer,数据库
 desktopcomputer,数据库基础
 desktopcomputer,数据库实验
 desktopcomputer,数据结构
+desktopcomputer,整理7-12月的比赛信息
 desktopcomputer,整理MKT 300笔记
 desktopcomputer,整理SCM 373笔记
+desktopcomputer,整理电脑
 desktopcomputer,文學史
 desktopcomputer,文献阅读
 desktopcomputer,新闻
@@ -4077,6 +4312,7 @@ desktopcomputer,看《猎罪图鉴》
 desktopcomputer,看专业课网课
 desktopcomputer,看书
 desktopcomputer,看剧
+desktopcomputer,看化妆视频
 desktopcomputer,看手机
 desktopcomputer,看文献
 desktopcomputer,看新闻
@@ -4115,6 +4351,7 @@ desktopcomputer,英语作业
 desktopcomputer,英语网课
 desktopcomputer,英语课
 desktopcomputer,补修电视采访
+desktopcomputer,補習-數學+eat dinner
 desktopcomputer,製程MMR
 desktopcomputer,西方经济学
 desktopcomputer,見班主任Miss Chan
@@ -4138,6 +4375,7 @@ desktopcomputer,选课
 desktopcomputer,通識報告
 desktopcomputer,開會
 desktopcomputer,阅读网课p1
+desktopcomputer,青年尬科學
 desktopcomputer,韩语课
 desktopcomputer,项目工作ing
 desktopcomputer,项目管理
@@ -4158,6 +4396,9 @@ doc.fill,APSS1A08 Term Paper
 doc.fill,Biology
 doc.fill,CRASY.HK Excel
 doc.fill,Chinese
+doc.fill,Day 1 Slides
+doc.fill,Day 3 Slides
+doc.fill,ENG GC poem
 doc.fill,ENG3004 Final 1b
 doc.fill,ENG3004 Final 1c
 doc.fill,ENG3004 Final 1d
@@ -4182,6 +4423,7 @@ doc.fill,Physics
 doc.fill,Researching the primary resources
 doc.fill,Study Food Study Guide
 doc.fill,Writing papers-the furnitures of Qing Dynasty
+doc.fill,enrichment功課 準備
 doc.fill,ikea presentation
 doc.fill,kol内容质检标准梳理
 doc.fill,meeting 音檔
@@ -4198,7 +4440,9 @@ doc.fill,交谈话记录
 doc.fill,人格心理投稿
 doc.fill,供应链复习:5.12-5.17
 doc.fill,修改论文
+doc.fill,公民探究
 doc.fill,公民探究分析
+doc.fill,公民探究結論
 doc.fill,六级
 doc.fill,册
 doc.fill,写15练习
@@ -4208,6 +4452,7 @@ doc.fill,写英语阅读
 doc.fill,写论文
 doc.fill,出科资料
 doc.fill,分化
+doc.fill,分析社区考试试卷
 doc.fill,判断阶段梳理
 doc.fill,化学作业
 doc.fill,单词
@@ -4217,7 +4462,9 @@ doc.fill,去自习（天正）💪
 doc.fill,口语考试
 doc.fill,台大碩班英文
 doc.fill,唸書
+doc.fill,單字
 doc.fill,地理作业
+doc.fill,地理探究
 doc.fill,备考4月16-17
 doc.fill,备课
 doc.fill,复习
@@ -4262,6 +4509,7 @@ doc.fill,文献阅读
 doc.fill,文讀HW2
 doc.fill,日语背单词
 doc.fill,更新前程无忧简历
+doc.fill,會考
 doc.fill,梦阳作业
 doc.fill,概率论作业
 doc.fill,歐洲史
@@ -4298,13 +4546,16 @@ doc.fill,编辑cerence结算表格，添加新的人员报价，重置表格格�
 doc.fill,编辑未来城市2月份费用&整理对应材料
 doc.fill,网上确认第二次
 doc.fill,翻譯課文內容
+doc.fill,翻译
 doc.fill,考勤工作
 doc.fill,考研信息网上确认
 doc.fill,考研信息网上确认准备
 doc.fill,背单词
 doc.fill,背桃花源记
+doc.fill,背自我介紹
 doc.fill,背课文
 doc.fill,背课文（前赤壁赋）
+doc.fill,自主文献
 doc.fill,自习
 doc.fill,自行安排
 doc.fill,英语
@@ -4394,6 +4645,7 @@ doc.richtext,作品集笔记
 doc.richtext,修改论文
 doc.richtext,做CV
 doc.richtext,做作业
+doc.richtext,做作業
 doc.richtext,備課
 doc.richtext,公民3～4
 doc.richtext,写作业
@@ -4401,6 +4653,7 @@ doc.richtext,写党史论文
 doc.richtext,写日记
 doc.richtext,写论文
 doc.richtext,写读书笔记
+doc.richtext,准备好思修考试内容（5.22dl）
 doc.richtext,出單元
 doc.richtext,出走世界课件
 doc.richtext,刑法练习
@@ -4415,6 +4668,7 @@ doc.richtext,史記期末　　帶史記
 doc.richtext,國文
 doc.richtext,國文作文
 doc.richtext,國文考卷
+doc.richtext,國文課
 doc.richtext,在校园里继续学习专业课
 doc.richtext,复习
 doc.richtext,复习讲稿
@@ -4431,6 +4685,7 @@ doc.richtext,工作坊作業
 doc.richtext,成績單製作
 doc.richtext,扇贝单词
 doc.richtext,拓展简历内容
+doc.richtext,摘抄
 doc.richtext,政报
 doc.richtext,数学
 doc.richtext,数学【概率论】1/2
@@ -4472,6 +4727,7 @@ doc.richtext,看会书
 doc.richtext,看外刊
 doc.richtext,看手機
 doc.richtext,看新闻
+doc.richtext,看看看看看论文
 doc.richtext,看雜誌
 doc.richtext,研究社会实践报告
 doc.richtext,經濟17-40～（17-4）
@@ -4507,6 +4763,7 @@ doc.richtext,设计说明300字
 doc.richtext,话剧工作坊公众号推文
 doc.richtext,语文
 doc.richtext,语文文言文
+doc.richtext,语文练习
 doc.richtext,语文课
 doc.richtext,语文课堂
 doc.richtext,语法练习
@@ -4523,6 +4780,7 @@ doc.richtext,首播自我介绍PPT
 doc.richtext,高数
 doc.richtext,高等代数
 doc.richtext,📮 뉴스레터
+dollarsign.circle.fill,Account Balancing
 dollarsign.circle.fill,COSTCO逛街
 dollarsign.circle.fill,ETF指數型基金
 dollarsign.circle.fill,Econwk6
@@ -4535,6 +4793,7 @@ dollarsign.circle.fill,Whitty Tuition
 dollarsign.circle.fill,asia miles 88k > reinstate challenge
 dollarsign.circle.fill,as富婆@🧾记账&存钱：买房！
 dollarsign.circle.fill,notion日记
+dollarsign.circle.fill,paypoint存钱
 dollarsign.circle.fill,上班
 dollarsign.circle.fill,中租「MAM-6980」繳款
 dollarsign.circle.fill,主計室打工
@@ -4569,14 +4828,17 @@ dollarsign.circle.fill,理财
 dollarsign.circle.fill,股海研究
 dollarsign.circle.fill,記帳
 dollarsign.circle.fill,记账
+dollarsign.circle.fill,買午餐
 dollarsign.circle.fill,買東西
 dollarsign.circle.fill,轉帳
 dollarsign.circle.fill,选购椭圆机
 dollarsign.circle.fill,金融学第三章
+dollarsign.circle.fill,银行解冻账户
 dollarsign.circle.fill,🧾记账&存钱
 dollarsign.circle.fill,🧾记账&存钱：买房！
 drop.fill,5杯水
 drop.fill,90min番茄
+drop.fill,Dishes
 drop.fill,Doing Laundry
 drop.fill,Drop JA
 drop.fill,Genotyping PCR
@@ -4595,6 +4857,8 @@ drop.fill,喝一杯水&看一遍Change
 drop.fill,喝杯水&听一遍Change
 drop.fill,喝杯水&看一遍Change
 drop.fill,喝水
+drop.fill,喝水500
+drop.fill,喝水！！！
 drop.fill,护肤
 drop.fill,整理櫃子
 drop.fill,梳头50下（用左手
@@ -4638,6 +4902,7 @@ ear,听力
 ear,听力🎧改错➕精听
 ear,听昨天的课程录音
 ear,大鱼听说任务4
+ear,打电话
 ear,換耳環
 ear,收听播客
 ear,清洁耳道
@@ -4649,14 +4914,17 @@ ear,聽經《大方廣佛華嚴經》【1】0001    01:43:20
 ear,聽英文廣播
 ear,英语
 ear,英语听力
+ear,英语课
 ear,蒸汽眼罩护眼
 ear,证券投资分析
 ear,语料库
 ear,轻听英语
 ear,阅读
 envelope.fill,Commission
+envelope.fill,Create Form
 envelope.fill,Email Diliana all TA info
 envelope.fill,Letter of Interest
+envelope.fill,Prepare LS file yellow + another
 envelope.fill,上班
 envelope.fill,信封
 envelope.fill,健康日报及杂事
@@ -4664,12 +4932,15 @@ envelope.fill,公司野
 envelope.fill,写信
 envelope.fill,准备英语自我介绍
 envelope.fill,加班
+envelope.fill,发邮件
 envelope.fill,回复信息
 envelope.fill,回复消息
 envelope.fill,回复邮件
 envelope.fill,备课
+envelope.fill,完成接案回應
 envelope.fill,小作文要点复习一遍
 envelope.fill,提交一周汇报
+envelope.fill,整理郵件
 envelope.fill,方源科技采访提纲
 envelope.fill,檢查台大退款
 envelope.fill,联系赵晓萌复查
@@ -4678,6 +4949,7 @@ envelope.fill,處理郵件
 envelope.fill,语文信件作文
 envelope.fill,问凤霞论文大纲
 exclamationmark.triangle.fill,C语言作业
+exclamationmark.triangle.fill,Reading线上作业
 exclamationmark.triangle.fill,check待辦
 exclamationmark.triangle.fill,wasting time on phone
 exclamationmark.triangle.fill,作业
@@ -4712,6 +4984,7 @@ eyedropper,全市核酸
 eyedropper,写作业
 eyedropper,出門強檢
 eyedropper,化学
+eyedropper,化学学习
 eyedropper,听英语
 eyedropper,实验
 eyedropper,工作
@@ -4755,6 +5028,8 @@ eyeglasses,休息
 eyeglasses,做Leon 哥哥给我写的作业
 eyeglasses,做PAPER
 eyeglasses,做数学报纸📰2⃣️
+eyeglasses,公基法律前两节➕行测言语笔记
+eyeglasses,公文写作一篇
 eyeglasses,公民課+講3
 eyeglasses,六级听力技巧课 LHx 2
 eyeglasses,写作业
@@ -4762,6 +5037,7 @@ eyeglasses,写剧本
 eyeglasses,写论文
 eyeglasses,写语文
 eyeglasses,刷题
+eyeglasses,化妆💄
 eyeglasses,历史1
 eyeglasses,历史第10课
 eyeglasses,历史第3课
@@ -4837,6 +5113,7 @@ eyeglasses,第一节晚自习
 eyeglasses,第三节晚自习
 eyeglasses,第二节晚自习
 eyeglasses,線性代數02
+eyeglasses,线代课
 eyeglasses,编程
 eyeglasses,网传广告
 eyeglasses,背单词
@@ -4847,6 +5124,7 @@ eyeglasses,背诵实务
 eyeglasses,背诵资料
 eyeglasses,腦科學
 eyeglasses,英文
+eyeglasses,英文試上課
 eyeglasses,英语
 eyeglasses,英语试卷
 eyeglasses,英语课
@@ -4892,13 +5170,16 @@ figure.walk,下班
 figure.walk,下班&買晚餐
 figure.walk,下班啦！
 figure.walk,下班回家
+figure.walk,下班班！
 figure.walk,买/寄奶粉
 figure.walk,买菜
 figure.walk,休息
 figure.walk,体育
 figure.walk,体育功课
 figure.walk,体育打卡
+figure.walk,体育课
 figure.walk,做核酸
+figure.walk,做瑜珈
 figure.walk,做运动
 figure.walk,做運動
 figure.walk,健身
@@ -4933,6 +5214,7 @@ figure.walk,回寝室
 figure.walk,外出
 figure.walk,学习
 figure.walk,宿舍、买牛奶
+figure.walk,小三岁有乖乖做核酸哦
 figure.walk,帕梅拉
 figure.walk,归家
 figure.walk,户外玩耍
@@ -4945,10 +5227,12 @@ figure.walk,提交实习材料
 figure.walk,換衣服跑步
 figure.walk,收书包
 figure.walk,教練
+figure.walk,散散步
 figure.walk,散步
 figure.walk,散步&有成果的冥想
 figure.walk,散步休息
 figure.walk,散步运动
+figure.walk,散步🚶‍♀️
 figure.walk,早晨拉伸
 figure.walk,晨练
 figure.walk,晨跑
@@ -4958,6 +5242,7 @@ figure.walk,歩行至合作社
 figure.walk,歩行至小田急多摩センタ一駅
 figure.walk,歩行至阿佐ヶ谷神明宮
 figure.walk,民族传统体育
+figure.walk,洗漱
 figure.walk,洗碗/饭后站立
 figure.walk,準備出門
 figure.walk,溜达
@@ -4985,6 +5270,8 @@ figure.walk,运动🏃‍♀️
 figure.walk,通勤
 figure.walk,逛街
 figure.walk,運動
+figure.walk,遛弯/电影/音乐/独处休闲时间
+figure.walk,遛弯儿
 figure.walk,遛狗and買早餐
 figure.walk,银行卡-馄炖皮
 figure.walk,锻炼
@@ -5033,6 +5320,7 @@ figure.wave,练习瑜伽
 figure.wave,练舞
 figure.wave,给常三岁买西服
 figure.wave,给常景瑞买西服
+figure.wave,编辑公众号
 figure.wave,聊天消化食物
 figure.wave,联络感情
 figure.wave,苏老师
@@ -5078,6 +5366,7 @@ film.fill,物料
 film.fill,生化
 film.fill,电影
 film.fill,电视
+film.fill,电视剧
 film.fill,看TED演讲并摘抄好句
 film.fill,看《破产姐妹》
 film.fill,看书
@@ -5096,6 +5385,7 @@ film.fill,看電影
 film.fill,看鼠来宝电影意大利语
 film.fill,素養題本 形音義
 film.fill,纪录片
+film.fill,蝙蝠侠：月光骑士
 film.fill,蝙蝠俠
 film.fill,观赏电影
 film.fill,视频
@@ -5131,6 +5421,7 @@ flag.fill,团支部表格
 flag.fill,学习强国
 flag.fill,学经济1
 flag.fill,学经济笔记
+flag.fill,定本周目标
 flag.fill,專題
 flag.fill,專題實驗
 flag.fill,思政课
@@ -5152,12 +5443,15 @@ flame.fill,Exercise
 flame.fill,SEJ
 flame.fill,Work
 flame.fill,exercise
+flame.fill,work out
+flame.fill,休息
 flame.fill,做功課
 flame.fill,做晚餐
 flame.fill,吃午餐
 flame.fill,吃午饭
 flame.fill,吃早餐
 flame.fill,吃早饭
+flame.fill,吃饭
 flame.fill,吃饭饭
 flame.fill,周复习
 flame.fill,复习单词
@@ -5167,6 +5461,7 @@ flame.fill,学习
 flame.fill,学习数学 和 408
 flame.fill,寫加工HW3
 flame.fill,帕梅拉
+flame.fill,幫鄧揚勳繳交轉主修申請表
 flame.fill,广播体操
 flame.fill,廚男子煮咖喱
 flame.fill,排练
@@ -5193,10 +5488,12 @@ flashlight.on.fill,剪指甲
 flashlight.on.fill,地理
 flashlight.on.fill,整理补充学习内容
 flashlight.on.fill,起床
+folder.fill,Do dict corr + sign
 folder.fill,Down Notes
 folder.fill,Material4b210
 folder.fill,上課
 folder.fill,书稿扩展-5.9
+folder.fill,休息
 folder.fill,作业本整理
 folder.fill,修改cv
 folder.fill,债法录音
@@ -5241,6 +5538,7 @@ folder.fill,证据脑图
 folder.fill,语文课
 folder.fill,近代史 a403
 folder.fill,预算分解
+gamecontroller.fill,Free time
 gamecontroller.fill,GTA
 gamecontroller.fill,Hay day
 gamecontroller.fill,Play
@@ -5254,6 +5552,7 @@ gamecontroller.fill,relax，relax
 gamecontroller.fill,take a rest！
 gamecontroller.fill,ゲーム
 gamecontroller.fill,上床玩手机
+gamecontroller.fill,乐高
 gamecontroller.fill,休息
 gamecontroller.fill,休息娛樂
 gamecontroller.fill,休息玩一下
@@ -5273,6 +5572,7 @@ gamecontroller.fill,和yy打双人成行
 gamecontroller.fill,哈利波特
 gamecontroller.fill,坎特伯雷日常
 gamecontroller.fill,娱乐
+gamecontroller.fill,寶寶玩遊戲
 gamecontroller.fill,开展日常
 gamecontroller.fill,录游戏视频
 gamecontroller.fill,戀與製作人
@@ -5280,15 +5580,18 @@ gamecontroller.fill,打機
 gamecontroller.fill,打游戏
 gamecontroller.fill,打游戏/看戏
 gamecontroller.fill,披萨
+gamecontroller.fill,拼乐高
 gamecontroller.fill,摸鱼
 gamecontroller.fill,放松时间
 gamecontroller.fill,明日方舟
+gamecontroller.fill,明日方舟更新
 gamecontroller.fill,晚饭
 gamecontroller.fill,永劫无间
 gamecontroller.fill,游戏
 gamecontroller.fill,游戏恰饭看电视
 gamecontroller.fill,游戏放松
 gamecontroller.fill,游戏时间
+gamecontroller.fill,滑手機
 gamecontroller.fill,王者
 gamecontroller.fill,王者荣耀
 gamecontroller.fill,玩
@@ -5315,6 +5618,7 @@ gamecontroller.fill,電玩
 gamecontroller.fill,𝐆𝐀𝐌𝐄
 gearshape.2.fill,1.1.2 课后习题
 gearshape.2.fill,A: 工作
+gearshape.2.fill,App发版
 gearshape.2.fill,Cloudinary套用
 gearshape.2.fill,Python 作業
 gearshape.2.fill,Review实盘复盘
@@ -5352,14 +5656,19 @@ gearshape.2.fill,👀微观经济学课本
 gift.fill,Big Camera
 gift.fill,Q1 眼神發光補助
 gift.fill,Shopping
+gift.fill,买珍珠
 gift.fill,买礼物
 gift.fill,写eBF
 gift.fill,准备礼物
 gift.fill,包健健礼物🎁
+gift.fill,包貨（沒訂單更改為影集）
 gift.fill,拿快递
+gift.fill,整理衣物
 gift.fill,晚饭
 gift.fill,给领导办公室放纸
 gift.fill,逛淘宝
+globe,ABC booking
+globe,English
 globe,LS
 globe,Nina：MC
 globe,Relax time
@@ -5371,6 +5680,7 @@ globe,上课
 globe,刷抖音
 globe,副業時間
 globe,北京冬奥
+globe,历史刷题
 globe,听一些考公建议，逛粉笔圈激励自己
 globe,国际私法
 globe,國文
@@ -5417,6 +5727,7 @@ guitars,唱歌
 guitars,复习乐理、和声、曲式 做好笔记📒
 guitars,娱乐
 guitars,学习技能
+guitars,弹琴
 guitars,微观经济学看书
 guitars,快乐
 guitars,扎实基础
@@ -5444,12 +5755,15 @@ guitars,音乐课
 guitars,高数
 hammer.fill,16号之前交手工作业
 hammer.fill,WeChat menu
+hammer.fill,bim建模第四章
 hammer.fill,上班
 hammer.fill,修Wi-Fi
 hammer.fill,修灯泡
 hammer.fill,借手持式均質儀
 hammer.fill,公差勤务
+hammer.fill,力量训练
 hammer.fill,去工地
+hammer.fill,后背力量
 hammer.fill,国税
 hammer.fill,在corepage把已经完成的页面转成redline
 hammer.fill,复习物理
@@ -5457,6 +5771,8 @@ hammer.fill,复习电路笔记
 hammer.fill,学习强国
 hammer.fill,工作時間
 hammer.fill,巩固功课
+hammer.fill,抄作文表达✖️5
+hammer.fill,政务平台打卡
 hammer.fill,数学假期作业（1张）
 hammer.fill,整理行李收房間
 hammer.fill,智能制造创新设计与实践
@@ -5468,6 +5784,7 @@ hammer.fill,等人修空调
 hammer.fill,训练
 hammer.fill,训练/学习
 hammer.fill,论文 阅读
+hammer.fill,雅思听力c14
 hammer.fill,高效工作
 hand.raised.fill,Bafs
 hand.raised.fill,E304刑法学
@@ -5478,6 +5795,7 @@ hand.raised.fill,做模型
 hand.raised.fill,偷懶達咩的自由支配時刻
 hand.raised.fill,剪手指甲
 hand.raised.fill,剪指甲
+hand.raised.fill,印信箱鑰匙🔑
 hand.raised.fill,喝水5杯
 hand.raised.fill,拍照，填倒凹，做个托
 hand.raised.fill,按摩小腿
@@ -5494,6 +5812,7 @@ hand.raised.fill,类似复盘
 hand.raised.fill,继续加油
 hand.raised.fill,美甲
 hand.raised.fill,英语作业
+hand.raised.fill,还他妈是数学
 hand.thumbsdown.fill,上班
 hand.thumbsdown.fill,國文作業
 hand.thumbsdown.fill,实变函数
@@ -5517,6 +5836,7 @@ hand.thumbsup.fill,今天可以好好休息！！
 hand.thumbsup.fill,今日总结
 hand.thumbsup.fill,休息
 hand.thumbsup.fill,做分配
+hand.thumbsup.fill,做家事
 hand.thumbsup.fill,写中微：钟根元第九章
 hand.thumbsup.fill,写工作汇报
 hand.thumbsup.fill,冬奥
@@ -5535,7 +5855,9 @@ hand.thumbsup.fill,周六野
 hand.thumbsup.fill,喝水
 hand.thumbsup.fill,四级内容学习
 hand.thumbsup.fill,回家吃饭🏠
+hand.thumbsup.fill,国际投资
 hand.thumbsup.fill,墨墨单词
+hand.thumbsup.fill,复习单词
 hand.thumbsup.fill,复习（英数）
 hand.thumbsup.fill,大英
 hand.thumbsup.fill,大英真题
@@ -5577,6 +5899,7 @@ hand.thumbsup.fill,看电影
 hand.thumbsup.fill,知识点补充-呼吸
 hand.thumbsup.fill,精听ted
 hand.thumbsup.fill,红宝书unit1
+hand.thumbsup.fill,练习推片
 hand.thumbsup.fill,耍廢時間
 hand.thumbsup.fill,职测学习
 hand.thumbsup.fill,背单词
@@ -5624,6 +5947,7 @@ hare.fill,墨墨&淘宝&疫情通
 hare.fill,学习数据结构
 hare.fill,巨匠電腦課程
 hare.fill,拉伸
+hare.fill,操作视频
 hare.fill,改错；刷题；背诵
 hare.fill,政治刷题
 hare.fill,散步（+買食物）
@@ -5633,6 +5957,7 @@ hare.fill,有氧
 hare.fill,有氧（左旋）
 hare.fill,未来之光脑力训练
 hare.fill,泡脚
+hare.fill,游泳 Flow
 hare.fill,準備出門
 hare.fill,準備打工
 hare.fill,烧水冲咖啡
@@ -5646,6 +5971,7 @@ hare.fill,睡觉
 hare.fill,碎片时间
 hare.fill,结婚照试衣
 hare.fill,网课
+hare.fill,背上午的导图+复习昨天
 hare.fill,背单词
 hare.fill,背纸质核心单词，公式
 hare.fill,自由安排
@@ -5666,6 +5992,7 @@ hare.fill,铲屎，打扫卫生
 hare.fill,锻炼
 hare.fill,🍅番茄学习法🍅
 headphones,CET 6 听力课程
+headphones,CET-6 600
 headphones,English class(listen)
 headphones,English listening
 headphones,English-pod
@@ -5689,6 +6016,7 @@ headphones,倾听英语
 headphones,六级练习
 headphones,写作业
 headphones,午休
+headphones,单词之间day25
 headphones,吉他课程
 headphones,听力
 headphones,听力定位区间法
@@ -5714,10 +6042,12 @@ headphones,声乐学习
 headphones,复习笔记整理做题
 headphones,娱乐
 headphones,学习
+headphones,学习乐理
 headphones,学术英语视听说
 headphones,安排第二天+写点滴
 headphones,录歌
 headphones,扇贝单词
+headphones,数学复数直线笔记整理
 headphones,日语
 headphones,晚上学习时间
 headphones,每日听力
@@ -5731,6 +6061,8 @@ headphones,真题听力
 headphones,睡前休息
 headphones,精听
 headphones,精听练习
+headphones,网课
+headphones,聽Podcast
 headphones,背单词
 headphones,背诵550个单词（包括复习的200个）
 headphones,芝士派听力
@@ -5811,6 +6143,7 @@ heart.fill,写作
 heart.fill,写信
 heart.fill,冥想 Mediation 🧘🏽
 heart.fill,切片积累
+heart.fill,刷牙洗臉、保養、用早餐
 heart.fill,力量训练
 heart.fill,加餐
 heart.fill,化妆🪞
@@ -5833,6 +6166,7 @@ heart.fill,和bb约会
 heart.fill,和宝宝打电话
 heart.fill,和手機培養感情
 heart.fill,喝水
+heart.fill,回放巩固记忆&感恩
 heart.fill,回覆WhatsApp
 heart.fill,处理财务工作
 heart.fill,复盘维护
@@ -5847,6 +6181,7 @@ heart.fill,小红书-消化吸收+错题标注
 heart.fill,小红书-生殖+错题标注
 heart.fill,小红书-神经+错题标注
 heart.fill,小红书-能量+错题标注
+heart.fill,小红书2
 heart.fill,强化精讲课
 heart.fill,强化精讲课（桥）
 heart.fill,心得
@@ -5856,16 +6191,19 @@ heart.fill,情人節💗
 heart.fill,打原神
 heart.fill,打电话
 heart.fill,打羽毛球
+heart.fill,找爸媽
 heart.fill,抄言语两遍
 heart.fill,护肤
 heart.fill,披萨
 heart.fill,抹蛋糕
+heart.fill,排今日行程
 heart.fill,改制服
 heart.fill,教师资格证
 heart.fill,整块时间
 heart.fill,整理BB的礼物
 heart.fill,整理房间、拉伸
 heart.fill,整理资料
+heart.fill,日記
 heart.fill,早饭
 heart.fill,晚饭
 heart.fill,榮格心得
@@ -5876,9 +6214,11 @@ heart.fill,灵修 吃早餐
 heart.fill,烤蛋糕
 heart.fill,煮備菜
 heart.fill,營養心得
+heart.fill,爸爸生日
 heart.fill,玩手机
 heart.fill,瑜伽🧘‍♀️
 heart.fill,画图
+heart.fill,發薪日
 heart.fill,白血病
 heart.fill,眼保健操+学习舞蹈
 heart.fill,睇登神文
@@ -5886,6 +6226,7 @@ heart.fill,睡午覺
 heart.fill,碎片时间
 heart.fill,空腹有氧
 heart.fill,約會
+heart.fill,紅米mint
 heart.fill,约会
 heart.fill,给BB写信
 heart.fill,给大朋友织围巾
@@ -5907,6 +6248,7 @@ heart.fill,购物清单
 heart.fill,起床
 heart.fill,跟马老师聊天+打视频
 heart.fill,轉角金工
+heart.fill,运动
 heart.fill,週年禮物
 heart.fill,锻炼身体
 heart.fill,随时随地记录@摄影师/模特/速写
@@ -5921,6 +6263,7 @@ heart.fill,💃
 heart.fill,🪄
 hifispeaker.fill,INF110.午饭
 hifispeaker.fill,Podcast
+hifispeaker.fill,乐理课啦
 hifispeaker.fill,休息
 hifispeaker.fill,听播客
 hifispeaker.fill,打扑克
@@ -5938,6 +6281,7 @@ hourglass,備課
 hourglass,午休
 hourglass,午休break time.
 hourglass,午休一刻😪
+hourglass,午睡
 hourglass,去姑姑家
 hourglass,叫外卖
 hourglass,复习+学习 教资
@@ -5984,6 +6328,7 @@ house.fill,亲子时光
 house.fill,休息
 house.fill,修改原型和十问十答总结，打王者
 house.fill,做卫生
+house.fill,做家事
 house.fill,做家务
 house.fill,准备出发
 house.fill,出門
@@ -5997,6 +6342,7 @@ house.fill,回家
 house.fill,回家&买菜
 house.fill,回家+買菜+領貨
 house.fill,回家吧回到最初的美好
+house.fill,回家洗澡吃饭
 house.fill,回家！
 house.fill,回宿舍
 house.fill,图书馆二楼电子阅览室
@@ -6052,9 +6398,11 @@ house.fill,煮湯
 house.fill,煮飯
 house.fill,生活
 house.fill,看房
+house.fill,看房子
 house.fill,租房合同
 house.fill,行天宮
 house.fill,让圆圆打扫客厅&工作室
+house.fill,起床
 house.fill,配明天用到的液，准备东西
 house.fill,🧹打扫卫生
 icloud.and.arrow.up.fill,Manchester Archi Portfolio
@@ -6067,7 +6415,10 @@ icloud.and.arrow.up.fill,中考词10min
 icloud.and.arrow.up.fill,今日复盘（反思）
 icloud.and.arrow.up.fill,复盘
 icloud.and.arrow.up.fill,学习一下javascript
+icloud.and.arrow.up.fill,报税｜21年企业所得税汇算清缴
 icloud.and.arrow.up.fill,服务器
+icloud.and.arrow.up.fill,每日复盘专业课/英语/单词等
+icloud.and.arrow.up.fill,网报｜统计局4月报表
 icloud.and.arrow.up.fill,词语
 icloud.and.arrow.up.fill,读书会任务（第三周）
 icloud.and.arrow.up.fill,运动
@@ -6089,11 +6440,13 @@ keyboard,18岁成人礼活动策划书
 keyboard,Asia Assignment preparation
 keyboard,BC Explanation
 keyboard,C语言
+keyboard,Do hw (school
 keyboard,EAP writing course work
 keyboard,ENGL Workshop letters
 keyboard,Engl probe 2
 keyboard,Essay
 keyboard,Java视频学习
+keyboard,Learn program app&practiceOnline
 keyboard,LeetCode代码学习与整理
 keyboard,Module 3 Lab
 keyboard,NYU Application
@@ -6109,6 +6462,7 @@ keyboard,Writing
 keyboard,Zoom lessons
 keyboard,gp
 keyboard,news
+keyboard,office work
 keyboard,self learning
 keyboard,typing
 keyboard,video test with code
@@ -6134,14 +6488,18 @@ keyboard,回归分析数据处理
 keyboard,回覆Airbnb
 keyboard,塔羅牌開箱文 - Healing Wave
 keyboard,塔羅牌開箱文 -Majestic Earth
+keyboard,处理office 邮箱
 keyboard,备课
+keyboard,复习社心
 keyboard,复盘单词
 keyboard,外交実践講座 final paper
 keyboard,大氣汙染課設4:脫硫設計
+keyboard,大氣污染章節作業
 keyboard,学习
 keyboard,学习时间
 keyboard,学习编程
 keyboard,學習
+keyboard,审书稿
 keyboard,寫論文
 keyboard,小說
 keyboard,工作
@@ -6206,6 +6564,7 @@ keyboard,高数作业
 leaf.fill,13:00睡午觉⏰
 leaf.fill,GRE
 leaf.fill,MOODA
+leaf.fill,Reading
 leaf.fill,luzsolar
 leaf.fill,不背单词
 leaf.fill,中藥
@@ -6227,13 +6586,18 @@ leaf.fill,国经复习【运输】
 leaf.fill,学习／运动
 leaf.fill,扎实基础（背框架和知识点）
 leaf.fill,打扫卫生
+leaf.fill,打扫房间
 leaf.fill,折腾好久玫瑰🌹
 leaf.fill,拉伸
+leaf.fill,拉筋
+leaf.fill,接水&有氧运动
 leaf.fill,擦桌子浇花吸地
 leaf.fill,收拾出门&有氧运动
+leaf.fill,放空
 leaf.fill,整理卫生
 leaf.fill,整理法语课本
 leaf.fill,日记
+leaf.fill,晚安
 leaf.fill,晨兴
 leaf.fill,曬衣服
 leaf.fill,有氧运动
@@ -6251,6 +6615,7 @@ leaf.fill,环境与资源保护法
 leaf.fill,環境工程實作期初預告
 leaf.fill,環境工程實作期末報告
 leaf.fill,生物
+leaf.fill,睡前放空
 leaf.fill,简单报表合并
 leaf.fill,翻译复盘（昨天的）
 leaf.fill,背引论
@@ -6258,6 +6623,7 @@ leaf.fill,腿姐
 leaf.fill,腿腿子每日一题
 leaf.fill,语文
 leaf.fill,跟家里视频
+leaf.fill,跳个绳
 leaf.fill,转眼看右眼
 leaf.fill,运动、休息
 leaf.fill,锻炼
@@ -6321,8 +6687,10 @@ lightbulb.fill,老齐的财经课
 lightbulb.fill,聖經
 lightbulb.fill,背单词
 lightbulb.fill,自修
+lightbulb.fill,英语作文
 lightbulb.fill,覺察時分
 lightbulb.fill,言语强化提升1
+lightbulb.fill,语文背书
 lightbulb.fill,语法+阅读
 lightbulb.fill,選課
 lightbulb.fill,阅读
@@ -6334,6 +6702,7 @@ link,听力
 link,國習L4
 link,小記
 link,巩固功课
+link,巩固功课&预习
 link,整理笔记
 link,整理链接
 link,數課p.83-84+習2-2（-29）
@@ -6344,6 +6713,7 @@ link,物理打卡1
 link,理综选择
 link,生物线上模拟考试
 link,看文献
+link,真题周周练
 link,複習國L4小白
 location.fill,00-04
 location.fill,08-12
@@ -6365,6 +6735,7 @@ lock.fill,政治课
 lock.fill,背单词和语法（具体安排）
 lock.fill,逛超市
 lock.fill,🦅内部题库
+lock.fill,🦅内部题库-第1篇呼吸
 lock.fill,🦅内部题库-第一二章27-100
 lock.fill,🦅内部题库-第三章
 lock.fill,🦅内部题库-第三章17-100
@@ -6393,11 +6764,13 @@ lock.open.fill,逻辑第二节课
 lock.open.fill,长难句视频
 lock.open.fill,阅读视频
 lock.open.fill,폰
+lock.open.fill,🦅内部题库解答-第1篇呼吸
 lock.open.fill,🦅内部题库解答-第7、11、12章1-138
 lock.open.fill,🦅内部题库解答-第五章1-96
 lock.open.fill,🦅内部题库解答-第四章1-100
 magnifyingglass,Check if test cases generated executes faulty method
 magnifyingglass,Information t theory
+magnifyingglass,准备家园视频
 magnifyingglass,复习经营学
 magnifyingglass,复盘
 magnifyingglass,学术
@@ -6414,16 +6787,20 @@ magnifyingglass,訂正
 magnifyingglass,问老师问题
 map.fill,2000报告
 map.fill,2022
+map.fill,PM章节最后一课时
 map.fill,X3 地理堂 Day C
 map.fill,X3 地理堂 Day D
 map.fill,X3 地理堂 Day W
 map.fill,专八阅读
 map.fill,中国文学史
+map.fill,书
 map.fill,佟碩：對數
+map.fill,做作业
 map.fill,做冬奥会班级活动策划
 map.fill,六级备考
 map.fill,写材料作业
 map.fill,历史
+map.fill,图书馆
 map.fill,地理
 map.fill,地理：全球氣候
 map.fill,外国文学史
@@ -6482,6 +6859,7 @@ mdi.alcohol,吃晚饭
 mdi.alcohol,吃饭
 mdi.alcohol,咖啡
 mdi.alcohol,喝水
+mdi.alcohol,寶寶洗碗
 mdi.alcohol,早餐
 mdi.alcohol,早餐 洗漱
 mdi.alcohol,晚餐
@@ -6491,6 +6869,7 @@ mdi.alcohol,晚饭🥣
 mdi.alcohol,智慧餐厅日
 mdi.alcohol,智慧餐厅日｜TE
 mdi.alcohol,林約
+mdi.alcohol,校外套饭｜听力｜阅读
 mdi.alcohol,燕麦粥日｜六级
 mdi.alcohol,燕麦粥日｜泡面日
 mdi.alcohol,玩玩玩！！！🤪🤪🤪
@@ -6500,10 +6879,13 @@ mdi.alcohol,空腹喝一杯温开水
 mdi.alcohol,约饭
 mdi.alcohol,翻译
 mdi.alcohol,聚会
+mdi.alcohol,起床，早饭
 mdi.alcohol,🥃
+mdi.bike,PE
 mdi.bike,scenery
 mdi.bike,下班打卡
 mdi.bike,乒乓球隊體能
+mdi.bike,出发去自习室
 mdi.bike,出門
 mdi.bike,刷科四题目
 mdi.bike,动感单车
@@ -6518,6 +6900,7 @@ mdi.bike,我是一個身材勻稱的人
 mdi.bike,换衣服，开暖气
 mdi.bike,接小孩
 mdi.bike,有氧运动
+mdi.bike,有氧运动和塑形拉伸
 mdi.bike,有氧运动🚴‍♀️
 mdi.bike,核心運動、騎行
 mdi.bike,田徑體能
@@ -6569,6 +6952,7 @@ mdi.buggy,超市
 mdi.buggy,逛街
 mdi.buggy,遛狗
 mdi.buggy,陪原原看書
+mdi.bus,Bus
 mdi.bus,login金巴車票
 mdi.bus,上班路
 mdi.bus,下工
@@ -6607,15 +6991,18 @@ mdi.bus,路上
 mdi.bus,路程：去土瓜弯
 mdi.bus,通勤
 mdi.bus,通勤回家
+mdi.couch,Cleaning
 mdi.couch,Recess
 mdi.couch,Rest
 mdi.couch,Take a Break!
 mdi.couch,中午：做家务收拾清洁帮忙
 mdi.couch,休息
+mdi.couch,休息放鬆
 mdi.couch,做家务
 mdi.couch,午休
 mdi.couch,午睡
 mdi.couch,回家
+mdi.couch,家事
 mdi.couch,家务
 mdi.couch,小休一会儿later ～
 mdi.couch,小憩
@@ -6632,6 +7019,7 @@ mdi.couch,期初大會
 mdi.couch,歇会儿
 mdi.couch,洗床單
 mdi.couch,洗衣服
+mdi.couch,玩手机
 mdi.couch,看电视剧
 mdi.couch,看视频
 mdi.couch,等小么
@@ -6648,6 +7036,7 @@ mdi.ev.station,口语素材
 mdi.ev.station,回家吃饭午休
 mdi.ev.station,放空ing
 mdi.ev.station,流程图
+mdi.ev.station,睡觉
 mdi.ev.station,讀化學
 mdi.ev.station,讀國文
 mdi.ev.station,讀地理
@@ -6656,12 +7045,14 @@ mdi.ev.station,讀數學
 mdi.ev.station,讀歷史
 mdi.ev.station,讀英文
 mdi.ev.station,酸奶
+mdi.ev.station,아이유 노래 흐름 🐳
 mdi.gas.station,《如何阅读一本书》P222-254
 mdi.gas.station,休息
 mdi.gas.station,做饭视频
 mdi.gas.station,加油⛽️
 mdi.gas.station,学习新概念二
 mdi.gas.station,工作
+mdi.instagram,GLC prepare ad material 6月1日 post idea
 mdi.instagram,Online
 mdi.instagram,POST相
 mdi.instagram,po IG貼文
@@ -6693,17 +7084,20 @@ mdi.mountain,图书馆
 mdi.mountain,地理學習講義
 mdi.mountain,地理講義
 mdi.mountain,复习习概
+mdi.mountain,常识判断
 mdi.mountain,生物 笔记
 mdi.mountain,研路：引论、现汉
 mdi.mountain,野餐
 mdi.pharmacy,4/11去區公所
 mdi.pharmacy,4/7去看家醫科
+mdi.pharmacy,GP疫苗
 mdi.pharmacy,Receive medicine 14~23
 mdi.pharmacy,b超查胎心
 mdi.pharmacy,power time💪🏻
 mdi.pharmacy,上班
 mdi.pharmacy,不管打什么 一定不追单
 mdi.pharmacy,中日友好
+mdi.pharmacy,中醫
 mdi.pharmacy,买东西
 mdi.pharmacy,体检
 mdi.pharmacy,修脚
@@ -6721,6 +7115,7 @@ mdi.pharmacy,喝中药
 mdi.pharmacy,回学校做核酸
 mdi.pharmacy,填藥盒
 mdi.pharmacy,婦產科
+mdi.pharmacy,宝安人民医院
 mdi.pharmacy,应急情况
 mdi.pharmacy,打疫苗
 mdi.pharmacy,打針
@@ -6729,6 +7124,7 @@ mdi.pharmacy,果胶
 mdi.pharmacy,核酸
 mdi.pharmacy,核酸检测
 mdi.pharmacy,注册GP
+mdi.pharmacy,深圳市人民医院
 mdi.pharmacy,牙医
 mdi.pharmacy,牙齒
 mdi.pharmacy,疫苗護照
@@ -6749,9 +7145,12 @@ mdi.pharmacy,體檢
 mdi.pharmacy,🚶‍♀️去医院
 mdi.relax,1.18备46
 mdi.relax,Journaling
+mdi.relax,Pipal
 mdi.relax,RYT200
+mdi.relax,Summer Privi
 mdi.relax,yoga
 mdi.relax,上课
+mdi.relax,买土种菜
 mdi.relax,仙人掌
 mdi.relax,休息
 mdi.relax,休息 喝水
@@ -6764,6 +7163,7 @@ mdi.relax,吃东西
 mdi.relax,吃午饭
 mdi.relax,基本功练习：V大预科
 mdi.relax,学法
+mdi.relax,打扫寝室
 mdi.relax,护肤
 mdi.relax,拉伸
 mdi.relax,拉伸yyds
@@ -6811,6 +7211,7 @@ mdi.running,PE
 mdi.running,Run
 mdi.running,Running ｜CET6
 mdi.running,Stretching+洗漱
+mdi.running,Switch
 mdi.running,To tell everyone about Exercise
 mdi.running,Ubereats
 mdi.running,Work out
@@ -6865,6 +7266,7 @@ mdi.running,刷肖八
 mdi.running,前往光復車站
 mdi.running,加油加油锻炼身体！
 mdi.running,单词
+mdi.running,去7-11買牛奶，拿拿鐵
 mdi.running,去上班
 mdi.running,去健身！
 mdi.running,去咖啡厅
@@ -6882,6 +7284,7 @@ mdi.running,回寝+刷牙洗脸
 mdi.running,夜间锻炼
 mdi.running,寒假回访
 mdi.running,專項訓練
+mdi.running,帕梅拉/尊巴/泡沫轴
 mdi.running,帕梅拉WEEK跟练
 mdi.running,帕梅拉计划
 mdi.running,带小狗出门
@@ -6899,6 +7302,8 @@ mdi.running,拳擊運動-switch
 mdi.running,排球
 mdi.running,推主线
 mdi.running,放假日出去玩
+mdi.running,放學
+mdi.running,放學了！
 mdi.running,教育的基本规律
 mdi.running,教育规律
 mdi.running,散步
@@ -7058,6 +7463,7 @@ mdi.school,LEE滤波
 mdi.school,LS溫習
 mdi.school,Luka/Luna上課
 mdi.school,MATH溫習
+mdi.school,MB改
 mdi.school,Marketing Campaign课程
 mdi.school,Math
 mdi.school,Math 2A
@@ -7065,6 +7471,8 @@ mdi.school,Math 2A Lec
 mdi.school,Matrmatica
 mdi.school,Outline draft
 mdi.school,Outline：搭框架&找材料
+mdi.school,PM68 pricing
+mdi.school,PM69-69 pricing
 mdi.school,Paper1.0 M&M
 mdi.school,Paper1.0 introduction
 mdi.school,Paper2.0整理
@@ -7088,10 +7496,17 @@ mdi.school,Thesis🎓Literature review - 写PI/PI+SCM
 mdi.school,Thesis🎓Literature review - 读文献
 mdi.school,Thesis🎓Literature review整理
 mdi.school,Thesis🎓Method
+mdi.school,Thesis🎓Method+改LR
 mdi.school,Thesis🎓Part 2
 mdi.school,Thesis🎓Part 3+整理文献
+mdi.school,Thesis🎓制作调查问卷
 mdi.school,Thesis🎓改Intro
+mdi.school,Thesis🎓改LR
+mdi.school,Thesis🎓改LR+整理修改内容
+mdi.school,Thesis🎓改LR+调查问卷
 mdi.school,Thesis🎓改intro
+mdi.school,Thesis🎓改method+survey
+mdi.school,Thesis🎓整理问导师的问题
 mdi.school,Thesis🎓读文献*1
 mdi.school,Thesis🎓读文献*1+列intro框架
 mdi.school,Thesis🎓读文献*1+列框架
@@ -7102,6 +7517,7 @@ mdi.school,Thesis🎓读文献*3
 mdi.school,Thesis🎓读文献*3+Part 1
 mdi.school,Thesis🎓读文献*3+Part 2
 mdi.school,Thesis🎓读文献*3+列框架
+mdi.school,Thesis🎓调查问卷设计
 mdi.school,Toán
 mdi.school,Udemy课程
 mdi.school,collect book and tshirt
@@ -7165,6 +7581,7 @@ mdi.school,中药学学习
 mdi.school,丸子古汉课
 mdi.school,丸子外国文化
 mdi.school,丸子现汉课
+mdi.school,丸子现汉课*3
 mdi.school,丸子要略课
 mdi.school,丸子语纲课
 mdi.school,主科作业
@@ -7219,6 +7636,10 @@ mdi.school,准备造价师考试
 mdi.school,刑法
 mdi.school,刑法总论复习整理
 mdi.school,刑法第二章
+mdi.school,刑诉专题12（3）
+mdi.school,刑诉专题7练习
+mdi.school,刑诉专题8练习
+mdi.school,刑诉专题8（1）
 mdi.school,刘老师数学课
 mdi.school,创新创业课
 mdi.school,创新结课论文
@@ -7253,6 +7674,7 @@ mdi.school,刷题
 mdi.school,办公自动化课
 mdi.school,功課
 mdi.school,加密：找资料＆企划
+mdi.school,努力学习做一名优秀律师拯救世人
 mdi.school,化学课
 mdi.school,化粧品毒物學
 mdi.school,医学遗传学
@@ -7308,6 +7730,8 @@ mdi.school,复习
 mdi.school,复习u15
 mdi.school,复习u18
 mdi.school,复习今日所学
+mdi.school,复习优化方法
+mdi.school,复习优化方法2.2
 mdi.school,复习当日功课
 mdi.school,复习英语
 mdi.school,复习财务分析
@@ -7317,6 +7741,7 @@ mdi.school,外科
 mdi.school,外语
 mdi.school,外语新课
 mdi.school,外语讲评作业
+mdi.school,大创
 mdi.school,大学物理1补考
 mdi.school,大数据技术
 mdi.school,大英
@@ -7338,6 +7763,7 @@ mdi.school,学习时间
 mdi.school,学习法语
 mdi.school,学习英语单词
 mdi.school,学习运筹学第一章
+mdi.school,学习雅思写作
 mdi.school,学习：选修政治L8
 mdi.school,学前儿童健康教育
 mdi.school,学数学
@@ -7363,6 +7789,7 @@ mdi.school,工程材料选择题复习
 mdi.school,工程热力学
 mdi.school,巩固
 mdi.school,师门读书会
+mdi.school,常识判断
 mdi.school,幼儿园组织与管理
 mdi.school,形势与政策
 mdi.school,徐课
@@ -7372,6 +7799,7 @@ mdi.school,微观经济学BUFF或习题日
 mdi.school,德鲁克导读
 mdi.school,德鲁克导读第十二章
 mdi.school,思想汇报
+mdi.school,思维线
 mdi.school,总复习单词
 mdi.school,总结情感单词
 mdi.school,慕课：海洋与人类文明发展
@@ -7438,6 +7866,7 @@ mdi.school,毛泽东思想（六教206）
 mdi.school,民法
 mdi.school,民法总则最后两讲精讲课
 mdi.school,民法马工程理解+背
+mdi.school,沈阳现汉
 mdi.school,法律职业伦理
 mdi.school,法硕
 mdi.school,法考
@@ -7449,6 +7878,8 @@ mdi.school,热力学公式总结
 mdi.school,牙体组织
 mdi.school,牙体预备
 mdi.school,牙合学
+mdi.school,牙周病主要症状和临床病理
+mdi.school,牙周病检查和诊断
 mdi.school,物理
 mdi.school,物理作业
 mdi.school,物理大地论文  呜呜呜快写
@@ -7469,9 +7900,12 @@ mdi.school,申论/公安
 mdi.school,畢制
 mdi.school,番茄學習法
 mdi.school,病理生理学
+mdi.school,病理（心血管）
 mdi.school,病理（慢性炎症）
+mdi.school,病理（消化）
 mdi.school,病理（炎症）
 mdi.school,病理（肺2节）
+mdi.school,病理（肿瘤）
 mdi.school,看中药
 mdi.school,看书
 mdi.school,看学习强国
@@ -7502,10 +7936,13 @@ mdi.school,管理英文
 mdi.school,管综-数学高分指南-模块103绝对值
 mdi.school,管综写作
 mdi.school,箭头
+mdi.school,紧迫感、执行力清华分分钟｜高数
 mdi.school,組織行為
+mdi.school,絮凝沉淀池
 mdi.school,統計學
 mdi.school,綜合活動
 mdi.school,线代
+mdi.school,线代课
 mdi.school,线代，概率论
 mdi.school,线性代数课
 mdi.school,练硬笔字
@@ -7532,6 +7969,7 @@ mdi.school,背英單
 mdi.school,背英语
 mdi.school,背英语单词
 mdi.school,背语文
+mdi.school,背语文／英语作文（英／语 ）
 mdi.school,自主学习
 mdi.school,自主學習
 mdi.school,自习
@@ -7718,6 +8156,8 @@ mdi.subway,在路上
 mdi.subway,工作
 mdi.subway,搭車
 mdi.subway,火車
+mdi.subway,电路实验学习
+mdi.subway,编程
 mdi.subway,购买动车票
 mdi.subway,赶地铁
 mdi.subway,跑路
@@ -7731,6 +8171,7 @@ mdi.ticket,Label
 mdi.ticket,剪片
 mdi.ticket,剪離職vlog
 mdi.ticket,吉卜力動畫大師-高畑勳展
+mdi.ticket,听说视频制作
 mdi.ticket,娱乐+晚餐
 mdi.ticket,工作
 mdi.ticket,微处理器2
@@ -7742,7 +8183,9 @@ mdi.ticket,电影
 mdi.ticket,看《阳光普照》
 mdi.ticket,看典籍里的中国
 mdi.ticket,看剧
+mdi.ticket,看影片
 mdi.ticket,看电影
+mdi.ticket,看電影
 mdi.ticket,纪录片（一集）
 mdi.ticket,网易公开课
 mdi.ticket,西方古典建筑
@@ -7775,6 +8218,7 @@ mdi.twitter,桂林办竞品表收集
 mdi.twitter,每日一句
 mdi.twitter,流行病11.12
 mdi.twitter,海洋奇缘讲解
+mdi.twitter,溜达
 mdi.twitter,看番
 mdi.twitter,背单词
 mdi.twitter,读书
@@ -7799,6 +8243,7 @@ mdi.wheelchair,运动
 mdi.wheelchair,运动一下
 mdi.wheelchair,通勤
 mdi.wheelchair,钢琴
+mic.fill,CIAT逐字稿
 mic.fill,Vox：雜談
 mic.fill,休息
 mic.fill,口语7分素材
@@ -7826,9 +8271,11 @@ moon.fill,Sleep
 moon.fill,Sleep Well!
 moon.fill,Sleep Well! 今天你真的好棒!!🤩
 moon.fill,Sleep Well!😴
+moon.fill,sleep
 moon.fill,ɴɪᴛᴇ ♡
 moon.fill,下班
 moon.fill,休息
+moon.fill,刷牙
 moon.fill,午休
 moon.fill,午安！
 moon.fill,午睡
@@ -7838,6 +8285,7 @@ moon.fill,复盘
 moon.fill,夠個收皮啦！
 moon.fill,失眠😮‍💨
 moon.fill,小休
+moon.fill,拉伸放松
 moon.fill,早睡早起
 moon.fill,晚安
 moon.fill,晚安啦🌏
@@ -7927,6 +8375,7 @@ music.mic,ATS2141 预习T1
 music.mic,CCA
 music.mic,Enna：犬夜叉卡拉OK
 music.mic,Sing
+music.mic,shadow talking
 music.mic,wellbeing talk
 music.mic,上课
 music.mic,主修
@@ -7954,9 +8403,19 @@ music.mic,考虑《吃海鲜》视频文案
 music.mic,背单词
 music.mic,音乐课
 music.note,Choir
+music.note,Clyne
 music.note,Flute
 music.note,Gym
+music.note,Mendelssohn Symphony No.5
+music.note,Mozart Haffner
+music.note,Oboe
+music.note,Price Concerto
+music.note,Schubert No.8
+music.note,Vine
+music.note,Wagner Vorspiel
+music.note,Weir
 music.note,Worship（排练+礼拜）
+music.note,Zupko Blue Matter
 music.note,上主修課
 music.note,休息
 music.note,休息➕点外卖
@@ -7977,6 +8436,7 @@ music.note,抓歌
 music.note,放松😌
 music.note,柏仁
 music.note,柏仁 莫墨音樂教室
+music.note,梅校長音樂會 彩排
 music.note,歌剧六重唱
 music.note,段昇揚 莫墨音樂教室
 music.note,流行课
@@ -7987,6 +8447,7 @@ music.note,練大提琴
 music.note,練琴
 music.note,練舞
 music.note,练声
+music.note,练歌
 music.note,练琴
 music.note,舞蹈
 music.note,蔡鍇安
@@ -8025,6 +8486,7 @@ mustache.fill,拿制服
 mustache.fill,拿衣服
 mustache.fill,日文
 mustache.fill,洗漱
+mustache.fill,洗漱&接水&上厕所
 mustache.fill,洗衣服，敷面膜
 mustache.fill,烘衣服
 mustache.fill,爬回宿舍洗澡澡洗衣服
@@ -8040,6 +8502,7 @@ mustache.fill,运动
 mustache.fill,配饰（张若含）
 newspaper.fill,21天核心单词
 newspaper.fill,500字愛情觀
+newspaper.fill,827
 newspaper.fill,ATS Quiz1
 newspaper.fill,Annotated Bi
 newspaper.fill,Apply for Emma Sleep and foodpanda Internship
@@ -8048,6 +8511,7 @@ newspaper.fill,Chinese Lesson
 newspaper.fill,EAL 作业
 newspaper.fill,Ekonomi
 newspaper.fill,Englische Wörter
+newspaper.fill,English vocabs (unit 5 vocab list )
 newspaper.fill,Everyday Summary
 newspaper.fill,Fieldwork-Transfiguration
 newspaper.fill,IB
@@ -8063,6 +8527,7 @@ newspaper.fill,Modify paper P11-15
 newspaper.fill,Morning News+
 newspaper.fill,Ms Wong story lesson
 newspaper.fill,N3试题一半
+newspaper.fill,News
 newspaper.fill,Notion
 newspaper.fill,PSSE scanning
 newspaper.fill,PolSci 21A Dis
@@ -8076,6 +8541,7 @@ newspaper.fill,homework
 newspaper.fill,khan
 newspaper.fill,paper #4
 newspaper.fill,w6 blog
+newspaper.fill,一整套六级试卷
 newspaper.fill,上傳補助申請
 newspaper.fill,上手法课
 newspaper.fill,上课
@@ -8094,6 +8560,8 @@ newspaper.fill,作业do homework
 newspaper.fill,作文
 newspaper.fill,保持 预习
 newspaper.fill,信创台账整理
+newspaper.fill,做中医儿科学习题册
+newspaper.fill,做中医外科学习题册
 newspaper.fill,做作业
 newspaper.fill,做作业刷题
 newspaper.fill,做學習歷程
@@ -8106,7 +8574,9 @@ newspaper.fill,做阅读
 newspaper.fill,做题
 newspaper.fill,備課
 newspaper.fill,六级听力
+newspaper.fill,六级试卷
 newspaper.fill,写作业
+newspaper.fill,写学校作业study.
 newspaper.fill,写日记
 newspaper.fill,写英文稿子
 newspaper.fill,写英语作业
@@ -8117,6 +8587,7 @@ newspaper.fill,刷题
 newspaper.fill,刷题(化学)
 newspaper.fill,刷题(数学)
 newspaper.fill,刷题(物理)
+newspaper.fill,刷题writing.
 newspaper.fill,办理第一阶段证书
 newspaper.fill,功課
 newspaper.fill,加班：写新闻和读书笔记电子稿
@@ -8158,6 +8629,7 @@ newspaper.fill,复习list1 背list2
 newspaper.fill,复习仪表
 newspaper.fill,复习写作业
 newspaper.fill,复习四
+newspaper.fill,复习数分
 newspaper.fill,复习物理力学第三章节
 newspaper.fill,复习英语
 newspaper.fill,复变函数作业
@@ -8167,6 +8639,7 @@ newspaper.fill,大學入門讀書心得
 newspaper.fill,媒体矩阵规划
 newspaper.fill,学习
 newspaper.fill,学习刷题
+newspaper.fill,学日语
 newspaper.fill,完成心得、ICL report
 newspaper.fill,完成英语听力作业
 newspaper.fill,实变函数作业
@@ -8178,6 +8651,7 @@ newspaper.fill,导论第五章
 newspaper.fill,小剧场#01脚本
 newspaper.fill,工伤人员保险缴纳
 newspaper.fill,工作
+newspaper.fill,常识判断
 newspaper.fill,年常
 newspaper.fill,开he预习
 newspaper.fill,形策论文
@@ -8208,6 +8682,7 @@ newspaper.fill,数学试卷
 newspaper.fill,数学难题攻克及改错
 newspaper.fill,整理fake news的作者观点
 newspaper.fill,整理實習成績
+newspaper.fill,整理微信读书“心理学”书单
 newspaper.fill,整理笔记
 newspaper.fill,整理经济笔记
 newspaper.fill,數學
@@ -8237,20 +8712,25 @@ newspaper.fill,温中文
 newspaper.fill,熟悉演讲稿
 newspaper.fill,燒賣小組討論
 newspaper.fill,物理
+newspaper.fill,物理作业
 newspaper.fill,现汉笔记
 newspaper.fill,理经济知识点
 newspaper.fill,申报书
 newspaper.fill,申报书任务
 newspaper.fill,申报书完成
 newspaper.fill,申论
+newspaper.fill,男生班讲新概念
 newspaper.fill,目标2～美学课完成
 newspaper.fill,看专业相关知识
 newspaper.fill,看书
 newspaper.fill,看实习面试资料
+newspaper.fill,看文献
 newspaper.fill,看消息
 newspaper.fill,看英语笔记
 newspaper.fill,看课
+newspaper.fill,研究社團、成功者
 newspaper.fill,算法作业
+newspaper.fill,红宝书
 newspaper.fill,练字
 newspaper.fill,练笔控
 newspaper.fill,经济法
@@ -8258,6 +8738,7 @@ newspaper.fill,继续化学卷
 newspaper.fill,考前对策
 newspaper.fill,背中国音乐史
 newspaper.fill,背单词
+newspaper.fill,背單字
 newspaper.fill,背诗
 newspaper.fill,背语文
 newspaper.fill,背诵
@@ -8278,7 +8759,9 @@ newspaper.fill,英语真题
 newspaper.fill,英语笔记
 newspaper.fill,英语阅读
 newspaper.fill,英语阅读时间
+newspaper.fill,藥理lab結報心得
 newspaper.fill,行测
+newspaper.fill,行銷報告講稿
 newspaper.fill,补齐土耳其旅行✈️的手帐
 newspaper.fill,計劃書
 newspaper.fill,誊写作文
@@ -8300,6 +8783,7 @@ newspaper.fill,语文 小学必刷题
 newspaper.fill,语文作业
 newspaper.fill,语文卷子
 newspaper.fill,语文古诗词背诵
+newspaper.fill,语文复习
 newspaper.fill,语文拓展卷
 newspaper.fill,语文练习册
 newspaper.fill,语文课
@@ -8314,6 +8798,7 @@ newspaper.fill,资料强化2网课
 newspaper.fill,通識作業（一）
 newspaper.fill,通識作業（三）
 newspaper.fill,道法
+newspaper.fill,邏輯思考的本質
 newspaper.fill,部门规划
 newspaper.fill,金榜扫文
 newspaper.fill,问数学题
@@ -8332,6 +8817,7 @@ newspaper.fill,预习概率论
 newspaper.fill,食品工程测试
 newspaper.fill,食品工艺学
 newspaper.fill,高数 D304
+newspaper.fill,點開Lofter
 newspaper.fill,ＬＡ
 newspaper.fill,📮 뉴스레터
 noun.coffee,15分钟速听
@@ -8410,6 +8896,8 @@ noun.coffee,吃早餐
 noun.coffee,吃早餐 + TED
 noun.coffee,吃早餐+确认今日工作计划
 noun.coffee,吃早饭
+noun.coffee,吃早饭+背单词
+noun.coffee,吃早饭+背导图
 noun.coffee,吃早饭～清晨一小时
 noun.coffee,吃晚饭
 noun.coffee,吃晚饭，洗澡
@@ -8435,11 +8923,13 @@ noun.coffee,喝一瓶保溫瓶的水
 noun.coffee,喝中药
 noun.coffee,喝中药&准备明早喝的水
 noun.coffee,喝咖啡
+noun.coffee,喝姜汤
 noun.coffee,喝水
 noun.coffee,喝水2500ml
 noun.coffee,喝水2L
 noun.coffee,喝水休息
 noun.coffee,喝水！
+noun.coffee,喝温水、吃养生粉、准备早餐和午餐、豆浆
 noun.coffee,喝茶
 noun.coffee,喝茶🍵
 noun.coffee,喝营养餐了不
@@ -8449,8 +8939,10 @@ noun.coffee,学习
 noun.coffee,学粤语
 noun.coffee,小憩
 noun.coffee,干饭
+noun.coffee,恰饭
 noun.coffee,扎实基础（背框架和知识点）
 noun.coffee,摸鱼
+noun.coffee,数学题
 noun.coffee,早餐
 noun.coffee,早餐+准备工作
 noun.coffee,早餐时间到！
@@ -8479,6 +8971,7 @@ noun.coffee,洗漱，吃早餐
 noun.coffee,準備出門
 noun.coffee,準備餐點
 noun.coffee,点外卖
+noun.coffee,烧饭
 noun.coffee,烧饭 恰饭
 noun.coffee,热牛奶
 noun.coffee,煮饭
@@ -8495,6 +8988,8 @@ noun.coffee,看剧
 noun.coffee,看漫画
 noun.coffee,看综艺
 noun.coffee,红楼梦➕早饭
+noun.coffee,网上学习
+noun.coffee,翻译5个
 noun.coffee,聚餐和臭熊媽媽
 noun.coffee,肉桂蘋果茶
 noun.coffee,背单词
@@ -8503,10 +8998,12 @@ noun.coffee,能量｜早餐🥣
 noun.coffee,自习
 noun.coffee,英语A4纸 艾宾浩斯
 noun.coffee,蝦皮收集蝦幣
+noun.coffee,补物理卷
 noun.coffee,记得喝水
 noun.coffee,课间，或处理工作时稍有闲暇
 noun.coffee,赤小豆薏米水
 noun.coffee,逛街 买东西
+noun.coffee,閱讀、下午茶
 noun.coffee,阅读
 noun.coffee,预防课本
 noun.coffee,𝐃𝐢𝐧𝐧𝐞𝐫
@@ -8529,6 +9026,7 @@ noun.meal,Dinner time
 noun.meal,Dinner with Kee
 noun.meal,Dinner with second year
 noun.meal,Dinner+YouTube MIT
+noun.meal,EAT LUNCH
 noun.meal,Eat breakfast !
 noun.meal,Eat dinner
 noun.meal,Eat lunch
@@ -8539,6 +9037,7 @@ noun.meal,Go out and hv lunch with parent
 noun.meal,Haidilao Hot Pot
 noun.meal,Have Dinner
 noun.meal,Have a lunch
+noun.meal,Have dinner
 noun.meal,Have dinner with Sister Shi & Ting
 noun.meal,Have lunch
 noun.meal,Js下午茶
@@ -8600,10 +9099,12 @@ noun.meal,做晚饭
 noun.meal,做饭
 noun.meal,做饭+吃饭
 noun.meal,做饭吃饭
+noun.meal,做饭吃饭洗碗
 noun.meal,做鸡蛋饼
 noun.meal,健康午餐
 noun.meal,健康晚餐
 noun.meal,健身房洗澡
+noun.meal,優格早餐🥣
 noun.meal,写完一份英语试卷📝
 noun.meal,准备制作&吃午饭
 noun.meal,准备吃饭
@@ -8633,6 +9134,8 @@ noun.meal,午餐🥣
 noun.meal,午餐🥣+午休
 noun.meal,午餐🥣+小休
 noun.meal,午饭
+noun.meal,午饭+午休
+noun.meal,午饭+背导图
 noun.meal,午饭gogogo
 noun.meal,午饭➕午休
 noun.meal,午饭休息
@@ -8649,11 +9152,14 @@ noun.meal,吃东西
 noun.meal,吃个早饭身体好
 noun.meal,吃中餐
 noun.meal,吃中饭
+noun.meal,吃個早餐、整理環境
 noun.meal,吃午飯
 noun.meal,吃午餐
 noun.meal,吃午餐 w ShopBack同事
 noun.meal,吃午餐+休息
+noun.meal,吃午餐打電動或看電影
 noun.meal,吃午饭
+noun.meal,吃午饭eating.
 noun.meal,吃午饭、看视频
 noun.meal,吃午饭！
 noun.meal,吃午饭🍛
@@ -8700,7 +9206,10 @@ noun.meal,吃饭啦🍲
 noun.meal,吃饭睡觉
 noun.meal,吃饭饭
 noun.meal,吃饭／睡会
+noun.meal,吃饭／睡会/练舞/赚钱
 noun.meal,吃饭🥗
+noun.meal,吃點心
+noun.meal,呷哺🤤
 noun.meal,和mia吃oeb
 noun.meal,回复邮件
 noun.meal,国创开会
@@ -8716,6 +9225,8 @@ noun.meal,干饭啦
 noun.meal,廚房幫忙&晚餐Time
 noun.meal,恰早餐！🥣
 noun.meal,恰饭
+noun.meal,恰饭饭
+noun.meal,恰饭，聊天
 noun.meal,我和猫猫的下午茶
 noun.meal,我和猫猫的午餐
 noun.meal,我和猫猫的早餐
@@ -8725,15 +9236,18 @@ noun.meal,收拾出门&吃早餐
 noun.meal,放萝卜
 noun.meal,早午餐
 noun.meal,早餐
+noun.meal,早餐+准备出门
 noun.meal,早餐+洗漱
 noun.meal,早餐-初好胖胖
 noun.meal,早餐、檢視今日、看新聞
 noun.meal,早餐时间
+noun.meal,早餐时间&接水
 noun.meal,早餐時間
 noun.meal,早餐：全麦 鸡蛋 豆浆
 noun.meal,早餐：香蕉花生酱全麦 生椰拿铁
 noun.meal,早餐｜水果
 noun.meal,早餐～
+noun.meal,早餐🤩🤩
 noun.meal,早餐🥣
 noun.meal,早餐🥣+科目一
 noun.meal,早餐🥣+科目一（黑咖啡）
@@ -8792,8 +9306,10 @@ noun.meal,洗漱＋早饭
 noun.meal,洗碗
 noun.meal,海底撈
 noun.meal,準備晚餐
+noun.meal,火锅
 noun.meal,炫饭
 noun.meal,点外卖
+noun.meal,烧饭（番茄焖饭 茭白炒辣椒 凉拌黄瓜
 noun.meal,热水 早饭
 noun.meal,热水 早饭（含往）
 noun.meal,热面条吃
@@ -8826,6 +9342,7 @@ noun.meal,跑步吃饭
 noun.meal,跑步签退
 noun.meal,跟教练吃饭
 noun.meal,辛殿
+noun.meal,辟谷
 noun.meal,进食
 noun.meal,进餐
 noun.meal,食午餐
@@ -8845,6 +9362,7 @@ noun.meal,🍚
 noun.meal,🥣
 noun.meal,🥣吃早饭
 noun.party,Free time！
+noun.party,Iphone mint
 noun.party,Mommy’s day
 noun.party,Research End-year party
 noun.party,break time！
@@ -8912,6 +9430,7 @@ noun.party,英语试卷
 noun.party,複習
 noun.party,走路回来：看画画教程
 noun.party,身体护理
+noun.party,运动
 noun.party,逛逛
 noun.party,阅读
 noun.party,除夕活动
@@ -8922,6 +9441,8 @@ number,C语言 第八章
 number,Elsee同人
 number,LISTS
 number,あんスタ
+number,ポルトガル語 試験
+number,上课
 number,二外
 number,催活动证明
 number,初会
@@ -8968,6 +9489,7 @@ paintbrush.fill,劳动教育
 paintbrush.fill,打扫卫生
 paintbrush.fill,打扫房间
 paintbrush.fill,洗漱
+paintbrush.fill,破ㄩ
 paintbrush.fill,設計衣服
 paintbrush.fill,🍓稿上色🎨
 paintbrush.pointed.fill,5/21微型課程油畫
@@ -8978,10 +9500,12 @@ paintbrush.pointed.fill,Alias-3
 paintbrush.pointed.fill,Art
 paintbrush.pointed.fill,Art Sketchbook filling space
 paintbrush.pointed.fill,B: 书法
+paintbrush.pointed.fill,Buddha
 paintbrush.pointed.fill,Draw sth
 paintbrush.pointed.fill,Drawing practice
 paintbrush.pointed.fill,Journal
 paintbrush.pointed.fill,K大板绘作业
+paintbrush.pointed.fill,PSY240论文框架
 paintbrush.pointed.fill,"Pencil drawing R,Y,B"
 paintbrush.pointed.fill,Practice my drawing skill
 paintbrush.pointed.fill,wireframing
@@ -9023,6 +9547,8 @@ paintbrush.pointed.fill,刷题
 paintbrush.pointed.fill,医考帮app-25年
 paintbrush.pointed.fill,医考帮app-25年血液循环
 paintbrush.pointed.fill,医考帮app呼吸
+paintbrush.pointed.fill,单词背诵
+paintbrush.pointed.fill,单词背诵（30个）
 paintbrush.pointed.fill,同人图绘制
 paintbrush.pointed.fill,国画课
 paintbrush.pointed.fill,复习功课
@@ -9053,6 +9579,7 @@ paintbrush.pointed.fill,教资材料分析
 paintbrush.pointed.fill,数学笔记
 paintbrush.pointed.fill,整理tutorial （MA2，Taxation）
 paintbrush.pointed.fill,整理错题➕写作业
+paintbrush.pointed.fill,新词+复习旧词
 paintbrush.pointed.fill,日记
 paintbrush.pointed.fill,星空 数学
 paintbrush.pointed.fill,星空 语文
@@ -9060,6 +9587,7 @@ paintbrush.pointed.fill,晚间运动
 paintbrush.pointed.fill,林同協電繪壓克力草圖
 paintbrush.pointed.fill,毛笔
 paintbrush.pointed.fill,油画
+paintbrush.pointed.fill,治疗打针
 paintbrush.pointed.fill,浮雕装饰画
 paintbrush.pointed.fill,營養
 paintbrush.pointed.fill,牙周9题
@@ -9089,6 +9617,7 @@ paintbrush.pointed.fill,经济法
 paintbrush.pointed.fill,绘画
 paintbrush.pointed.fill,绘画书教程学习
 paintbrush.pointed.fill,绘画练习
+paintbrush.pointed.fill,绘画🎨
 paintbrush.pointed.fill,继续毕设
 paintbrush.pointed.fill,美术
 paintbrush.pointed.fill,美术课
@@ -9137,6 +9666,7 @@ paperclip,学习强国
 paperclip,完成9月帳款開票
 paperclip,宏观规划
 paperclip,手帐➕读书心得
+paperclip,提交照片
 paperclip,收拾东西
 paperclip,整理笔记
 paperclip,整理辅修笔记
@@ -9150,8 +9680,10 @@ paperclip,第2⃣️章 第3⃣️章复盘
 paperclip,第2⃣️章 第3⃣️章复盘背诵
 paperclip,继续制作包装
 paperclip,英语课
+paperclip,设计新概念2检查方法
 paperclip,预习
 paperclip,高中英文
+paperplane.fill,6/22交化學筆記（6/ 23前）
 paperplane.fill,8:00
 paperplane.fill,Go!
 paperplane.fill,MOOC高等数学
@@ -9187,6 +9719,7 @@ pencil.and.outline,English-pod ^ perusing
 pencil.and.outline,FILM 21354 NOTES
 pencil.and.outline,Homework
 pencil.and.outline,Latin Day 53
+pencil.and.outline,Literature review
 pencil.and.outline,PSYCH 323 Final Paper Topic Proposal
 pencil.and.outline,PSYCH 323 Manual
 pencil.and.outline,RNA网课2
@@ -9211,6 +9744,8 @@ pencil.and.outline,专四
 pencil.and.outline,中文作文
 pencil.and.outline,书法
 pencil.and.outline,人体生理学
+pencil.and.outline,人文导论
+pencil.and.outline,人文导论数据库
 pencil.and.outline,会计作业
 pencil.and.outline,作业
 pencil.and.outline,作文
@@ -9220,6 +9755,7 @@ pencil.and.outline,做作业
 pencil.and.outline,做做数学题
 pencil.and.outline,做英文笔记
 pencil.and.outline,做题
+pencil.and.outline,六级
 pencil.and.outline,写五道数学题
 pencil.and.outline,写作业
 pencil.and.outline,写作业✏️
@@ -9231,6 +9767,7 @@ pencil.and.outline,写报告
 pencil.and.outline,写数学卷子3面
 pencil.and.outline,写日记
 pencil.and.outline,写生化实验报告
+pencil.and.outline,写课程总结
 pencil.and.outline,冥想
 pencil.and.outline,初中知识点
 pencil.and.outline,初级会计-
@@ -9287,6 +9824,7 @@ pencil.and.outline,初级会计-第四章 固定资产概述、外购固定资�
 pencil.and.outline,初级会计-第四章企业合并方式取得长期股权投资的初始和后续计量
 pencil.and.outline,初级会计-第四章练习
 pencil.and.outline,初级会计-计划成本核算、周转材料、委托加工物资（一）
+pencil.and.outline,制定社区考试学习计划
 pencil.and.outline,刷题
 pencil.and.outline,化学作业
 pencil.and.outline,医考帮（呼吸系统疾病）
@@ -9308,6 +9846,7 @@ pencil.and.outline,国际金融学
 pencil.and.outline,图书馆
 pencil.and.outline,地理L4
 pencil.and.outline,地理练习
+pencil.and.outline,地科講義4-1
 pencil.and.outline,复习
 pencil.and.outline,复习graph （两个）
 pencil.and.outline,复习九下三单元历史
@@ -9330,6 +9869,8 @@ pencil.and.outline,复盘25呼吸
 pencil.and.outline,复盘27呼吸
 pencil.and.outline,复盘29呼吸
 pencil.and.outline,复盘30呼吸
+pencil.and.outline,复盘4消化
+pencil.and.outline,复盘6消化
 pencil.and.outline,复盘消化吸收1-11
 pencil.and.outline,外国文化喜刷刷
 pencil.and.outline,外总练习
@@ -9372,6 +9913,7 @@ pencil.and.outline,数学
 pencil.and.outline,数学作业
 pencil.and.outline,数学基础全书
 pencil.and.outline,数学课外练习
+pencil.and.outline,数据库
 pencil.and.outline,数据库题
 pencil.and.outline,整体复习综合素质（查漏补缺）
 pencil.and.outline,整理BP带调整事宜
@@ -9409,6 +9951,7 @@ pencil.and.outline,精讲课
 pencil.and.outline,編列年度固定日程
 pencil.and.outline,练习巩固
 pencil.and.outline,练字
+pencil.and.outline,练题/作业/周考/月考/模拟考
 pencil.and.outline,经济学基础-第一章练习+整理
 pencil.and.outline,经济学基础-第四章刷题练习
 pencil.and.outline,经济学基础-第四章练习4+整理
@@ -9481,6 +10024,7 @@ pencil.and.outline,英语作文
 pencil.and.outline,英语写作
 pencil.and.outline,英语笔记
 pencil.and.outline,英语词汇练习册
+pencil.and.outline,英语阅读研读
 pencil.and.outline,英语题
 pencil.and.outline,行测
 pencil.and.outline,補足讀書進度
@@ -9491,6 +10035,7 @@ pencil.and.outline,讀數應U2 +筆記
 pencil.and.outline,讀書
 pencil.and.outline,计划
 pencil.and.outline,订正工数
+pencil.and.outline,论文
 pencil.and.outline,论文论文
 pencil.and.outline,设计 年报推送
 pencil.and.outline,设计 菜园项目
@@ -9507,6 +10052,7 @@ pencil.and.outline,逻辑判断
 pencil.and.outline,金融市场学
 pencil.and.outline,開始點書 每天2頁
 pencil.and.outline,阅读训练
+pencil.and.outline,阅读，日常任务
 pencil.and.outline,雅思-讀寫
 pencil.and.outline,顾家北作文翻译
 pencil.and.outline,高数
@@ -9514,6 +10060,7 @@ pencil.and.outline,點書2頁
 pencil.and.outline,點書4頁
 pencil.and.outline,📝大物笔记整理
 person.2.fill,5.16婚纱照
+person.2.fill,Gendream
 person.2.fill,Interview practice
 person.2.fill,Iven早會
 person.2.fill,Learning Support
@@ -9526,9 +10073,11 @@ person.2.fill,上学
 person.2.fill,上课
 person.2.fill,与张老师讨论新川小鼠
 person.2.fill,中宏
+person.2.fill,休息
 person.2.fill,会议 年报会议
 person.2.fill,例会
 person.2.fill,信息化排期达成情况
+person.2.fill,公民
 person.2.fill,准备周会
 person.2.fill,出遊
 person.2.fill,前往楊千霈家
@@ -9547,6 +10096,7 @@ person.2.fill,小组作业
 person.2.fill,工作会议
 person.2.fill,市场总监面试
 person.2.fill,开会
+person.2.fill,怡盈
 person.2.fill,我深度工作+可可游戏
 person.2.fill,打卡最后一天
 person.2.fill,招聘周例会
@@ -9569,6 +10119,7 @@ person.2.fill,离职 wow
 person.2.fill,約會
 person.2.fill,约见朋友
 person.2.fill,组会
+person.2.fill,聊天
 person.2.fill,聚餐（ktown）
 person.2.fill,自制社週會
 person.2.fill,見客
@@ -9625,12 +10176,14 @@ person.3.fill,上课
 person.3.fill,上课（化学
 person.3.fill,中医见面课
 person.3.fill,主日
+person.3.fill,以前work report
 person.3.fill,休息
 person.3.fill,会议 越秀种菜
 person.3.fill,传播学个人作业
 person.3.fill,供应链培训
 person.3.fill,做核酸
 person.3.fill,公民
+person.3.fill,公民課
 person.3.fill,军队文职
 person.3.fill,准备演讲
 person.3.fill,剧本杀
@@ -9643,6 +10196,7 @@ person.3.fill,周例会
 person.3.fill,商品运营审核
 person.3.fill,商城运营策略
 person.3.fill,团生活动
+person.3.fill,國文課
 person.3.fill,園藝會議
 person.3.fill,大班中班｜翻脸
 person.3.fill,大班｜翻脸
@@ -9668,10 +10222,12 @@ person.3.fill,抖音推书
 person.3.fill,接孩子
 person.3.fill,政治
 person.3.fill,教研室会议
+person.3.fill,數學課
 person.3.fill,文献研读课
 person.3.fill,文综
 person.3.fill,新川动物房培训
 person.3.fill,旌旗聚會
+person.3.fill,早點名
 person.3.fill,晚禮拜
 person.3.fill,晨会
 person.3.fill,晨會
@@ -9690,6 +10246,7 @@ person.3.fill,知到
 person.3.fill,研究方法讨论
 person.3.fill,社團
 person.3.fill,第七节课
+person.3.fill,策划部聚会
 person.3.fill,算法课
 person.3.fill,系學會面試
 person.3.fill,線上演講
@@ -9717,6 +10274,8 @@ person.3.fill,辯
 person.3.fill,返校
 person.3.fill,運動
 person.3.fill,過年休息
+person.3.fill,鏡像模仿
+person.3.fill,鏡像模仿（稻草人）
 person.3.fill,锻炼
 person.3.fill,開會
 person.3.fill,開會｜暑假醫學營
@@ -9765,6 +10324,7 @@ person.fill,沟通资源位
 person.fill,法语讲课
 person.fill,洗头
 person.fill,準備
+person.fill,牙齒矯正回診
 person.fill,瑜伽
 person.fill,看教材C3
 person.fill,睡觉啦
@@ -9774,6 +10334,7 @@ person.fill,耍廢
 person.fill,聊天谈心
 person.fill,背书
 person.fill,自主学习
+person.fill,花花要預先冰蛋糕
 person.fill,英语口语练习
 person.fill,英语复习12 13 14 18 19
 person.fill,菁菁-第一天上班
@@ -9815,6 +10376,7 @@ phone.fill,通话
 phone.fill,长影电话沟通
 phone.fill,電信易付卡
 photo.fill,J M帝国漫画
+photo.fill,Take photos
 photo.fill,Take photos with Sakura
 photo.fill,发布招标文件和招标要点
 photo.fill,吃貨制造所
@@ -9854,6 +10416,7 @@ pianokeys,旭甫
 pianokeys,練Esraj琴
 pianokeys,練琴
 pianokeys,練琴加油
+pianokeys,練琴🎹
 pianokeys,練鋼琴
 pianokeys,练专业
 pianokeys,练琴
@@ -9869,6 +10432,7 @@ pianokeys,钢琴课
 pianokeys,钢琴🎹
 pianokeys,钢琴🎹四小时
 pianokeys,阅读的逻辑5.1
+pianokeys,音樂課
 pills.fill,EVE Q
 pills.fill,Take medicine X3
 pills.fill,azil
@@ -9909,6 +10473,8 @@ pills.fill,服用阻断碳水药丸
 pills.fill,核酸
 pills.fill,核酸检测
 pills.fill,涂药
+pills.fill,消炎2
+pills.fill,營養食品
 pills.fill,生物Time
 pills.fill,白芸豆时间到⚠️
 pills.fill,看耳朵
@@ -9959,6 +10525,7 @@ pin.fill,核酸
 pin.fill,每日墨墨背单词400
 pin.fill,毛特3
 pin.fill,滴定
+pin.fill,研究生毕业登记表
 pin.fill,礼服连衣裙（立裁
 pin.fill,给任务排日期
 pin.fill,背单词，记账
@@ -10018,7 +10585,9 @@ play.rectangle.fill,冲刺课
 play.rectangle.fill,刷剧
 play.rectangle.fill,刷小视频
 play.rectangle.fill,刷视频
+play.rectangle.fill,剪视频
 play.rectangle.fill,動畫
+play.rectangle.fill,化学课堂检测
 play.rectangle.fill,化学课（两节）
 play.rectangle.fill,历史网课
 play.rectangle.fill,历史网课P27
@@ -10032,10 +10601,12 @@ play.rectangle.fill,复旦小姐姐的视频
 play.rectangle.fill,复试视频
 play.rectangle.fill,外国新闻事业史
 play.rectangle.fill,娱乐
+play.rectangle.fill,学pr
 play.rectangle.fill,学习数学
 play.rectangle.fill,完形
 play.rectangle.fill,帮高姐做微党课PPT
 play.rectangle.fill,广告学基础
+play.rectangle.fill,影集
 play.rectangle.fill,影音
 play.rectangle.fill,微光ft
 play.rectangle.fill,操作系统课
@@ -10043,6 +10614,7 @@ play.rectangle.fill,放松
 play.rectangle.fill,政治
 play.rectangle.fill,政治网课P4-5
 play.rectangle.fill,教资科二
+play.rectangle.fill,新课+ 导图
 play.rectangle.fill,新闻学概论
 play.rectangle.fill,明偵
 play.rectangle.fill,曼達洛人 S2
@@ -10107,8 +10679,10 @@ play.rectangle.fill,英语
 play.rectangle.fill,英语公开课
 play.rectangle.fill,英语双向
 play.rectangle.fill,英超世界
+play.rectangle.fill,补录播
 play.rectangle.fill,论语预习
 play.rectangle.fill,语文网课
+play.rectangle.fill,语法
 play.rectangle.fill,语法课一节
 play.rectangle.fill,课程学习
 play.rectangle.fill,豬玀之王第7集
@@ -10117,6 +10691,7 @@ play.rectangle.fill,走向共和
 play.rectangle.fill,追剧
 play.rectangle.fill,追剧 休息
 play.rectangle.fill,金灿荣视频《中国当代外交》一集并做笔记
+play.rectangle.fill,银行
 play.rectangle.fill,长难句+语法
 play.rectangle.fill,阅读
 play.rectangle.fill,面试视频
@@ -10141,6 +10716,7 @@ power,揾梁老師
 power,整理编程笔记
 power,盥洗+伸展
 power,睡觉
+power,结束学习
 power,起床
 power,起床了！
 power,🌟基本功练习：V大预科作业
@@ -10150,6 +10726,7 @@ power,🪴运早0.5h-有氧
 printer.fill,Remember
 printer.fill,上班
 printer.fill,中文鑑賞與應用
+printer.fill,写作业
 printer.fill,军事理论总结
 printer.fill,印字帖
 printer.fill,听力作业
@@ -10174,6 +10751,7 @@ printer.fill,背单词 200
 printer.fill,英语课教材中单词收集一下
 printer.fill,讀電路學U4
 printer.fill,讲题
+printer.fill,逻辑笔记
 questionmark,?
 questionmark,ACME Eng HW
 questionmark,♨️
@@ -10185,6 +10763,7 @@ questionmark,处理遗留问题
 questionmark,学习
 questionmark,學道路駕駛
 questionmark,密码学
+questionmark,悲伤组胚
 questionmark,拼贴创作
 questionmark,整理错题
 questionmark,生物计算
@@ -10196,6 +10775,7 @@ questionmark,艾宾浩斯遗忘曲线复习
 questionmark,解析试卷
 questionmark,諗我嘅理想每日流程
 questionmark,计划
+questionmark,语法题
 questionmark,農金問題
 questionmark,预习
 questionmark,高数
@@ -10250,6 +10830,7 @@ scissors,剪片
 scissors,剪頭髮
 scissors,北鼻剪髮
 scissors,大傳
+scissors,收拾屋子
 scissors,染頭髮
 scissors,注销工商信用卡
 scissors,洗头
@@ -10269,6 +10850,7 @@ shield.fill,去居委会问社保
 shield.fill,換床單
 shield.fill,数据库作业
 shield.fill,整理吧唧
+shield.fill,核酸
 shield.fill,民舞课
 shield.fill,洗牙
 shield.fill,自习一
@@ -10308,9 +10890,12 @@ shippingbox.fill,收拾东西
 shippingbox.fill,收拾房间
 shippingbox.fill,整理化妆品
 shippingbox.fill,文園領貨
+shippingbox.fill,新品上架
+shippingbox.fill,晚饭
 shippingbox.fill,洗衣服
 shippingbox.fill,熱水器安裝
 shippingbox.fill,物理作业
+shippingbox.fill,買生活用品
 shippingbox.fill,输出｜转写论述
 shippingbox.fill,退货
 shippingbox.fill,領貨
@@ -10333,7 +10918,9 @@ signature,teens
 signature,type1 预排版
 signature,“学语录·研思想”线上打卡活动
 signature,⚠️
+signature,〈到教室&背单词
 signature,《中国历史精神》第三节
+signature,上課
 signature,上课
 signature,交通大厦案件
 signature,交通大厦案件🤯
@@ -10346,6 +10933,7 @@ signature,做数学李老师
 signature,做题
 signature,写一单元英语寒假作业
 signature,写作业
+signature,写即刻
 signature,写地理作业
 signature,写政治试卷
 signature,写数学
@@ -10373,6 +10961,7 @@ signature,复习工数
 signature,复习整理数学
 signature,复习：信息论与编码理论
 signature,复盘
+signature,大数据＿文献阅读十综述
 signature,学习
 signature,完成作业
 signature,完成合同准备
@@ -10438,6 +11027,8 @@ signature,收拾房间
 signature,数学
 signature,数学习题
 signature,数学卷子
+signature,数学抛物线
+signature,数学椭圆 圆
 signature,数学网课
 signature,数学课
 signature,數學
@@ -10466,6 +11057,10 @@ signature,真题阅读-02text3做+对答案查词
 signature,真题阅读-02text4做+对答案查词
 signature,真题阅读-02text4楠姐阅读刷题
 signature,真题阅读-03text1做+对答案查词
+signature,真题阅读-03text2楠姐阅读刷题
+signature,真题阅读-03text3做+对答案查词
+signature,真题阅读-03text4楠姐阅读刷题
+signature,真题阅读-04text1做+对答案查词
 signature,研究如何有名气
 signature,线代
 signature,线代课
@@ -10551,28 +11146,37 @@ signature,高数学习1.2
 signature,高数学习1.3.2
 signature,高数学习1.5
 signature,高數一刷
+signature,高數一刷-宕機貓貓刷新點
 signature,高數一刷週總結
+smiley.fill,1️⃣手帳紀錄2️⃣規劃行程
 smiley.fill,23课+记笔记-呼吸25下午
 smiley.fill,23课+记笔记-呼吸27下午
 smiley.fill,23课+记笔记-呼吸29上午
 smiley.fill,23课+记笔记-呼吸30上午
 smiley.fill,23课+记笔记-呼吸30下午
+smiley.fill,23课+记笔记-消化2上午
+smiley.fill,23课+记笔记-消化2下午
+smiley.fill,23课+记笔记-消化6上午
+smiley.fill,23课+记笔记-消化6下午
 smiley.fill,Breakfast牛奶
 smiley.fill,Elsa聊天
 smiley.fill,Facial
 smiley.fill,Limerup
 smiley.fill,Marco聊天
+smiley.fill,kris pack
 smiley.fill,tired
 smiley.fill,《实验班》P3-6
 smiley.fill,《课课通》P62-65
 smiley.fill,三科一课一练各两课
 smiley.fill,上Figma課～
 smiley.fill,今天也要好好护肤呀
+smiley.fill,今天核酸了吗？
 smiley.fill,今天要敷toner
 smiley.fill,今天要敷面膜
 smiley.fill,休息
 smiley.fill,休息一下或者补作业 今天辛苦啦
 smiley.fill,休整😆
+smiley.fill,保湿面膜
 smiley.fill,保養
 smiley.fill,做手工
 smiley.fill,做操，做瑜伽
@@ -10589,7 +11193,9 @@ smiley.fill,吃午饭
 smiley.fill,吃晚饭
 smiley.fill,吃饭
 smiley.fill,吃饭➕休息
+smiley.fill,喝酒
 smiley.fill,图书馆
+smiley.fill,填寫感恩日誌
 smiley.fill,复盘
 smiley.fill,多米上课
 smiley.fill,娛樂
@@ -10604,7 +11210,9 @@ smiley.fill,拉伸
 smiley.fill,放松一下
 smiley.fill,政治
 smiley.fill,敷mask
+smiley.fill,敷臉去角質
 smiley.fill,敷面膜
+smiley.fill,敷面膜&滑手機
 smiley.fill,數學
 smiley.fill,日记
 smiley.fill,早饭
@@ -10620,6 +11228,7 @@ smiley.fill,玩耍
 smiley.fill,看影片、休息
 smiley.fill,看报
 smiley.fill,睡觉
+smiley.fill,社練
 smiley.fill,精神
 smiley.fill,练琴
 smiley.fill,美國留學必做
@@ -10670,6 +11279,8 @@ sportscourt.fill,跳绳
 sportscourt.fill,运动
 sportscourt.fill,運動
 star.fill,313背诵曲线
+star.fill,Anki
+star.fill,Anki 願景⭐️⭐️
 star.fill,News
 star.fill,REN 果酸+面膜
 star.fill,Sba idea
@@ -10686,6 +11297,7 @@ star.fill,做指甲
 star.fill,党会议
 star.fill,写下今年结束前要做的开心的事
 star.fill,写作业
+star.fill,冥想
 star.fill,刷牙！不吃晚饭！
 star.fill,单词
 star.fill,去雙囍領薪水
@@ -10704,10 +11316,12 @@ star.fill,微积分和C语言作业
 star.fill,微積分 13
 star.fill,微積分 14
 star.fill,微積分 24
+star.fill,微積分題目練習
 star.fill,快閃台南跨年去
 star.fill,托业备考
 star.fill,护肤
 star.fill,拿eco211卷子
+star.fill,擊倒Anki 演算法⭐️⭐️
 star.fill,政治
 star.fill,政治做真题➕知识点总结复习
 star.fill,日语
@@ -10766,6 +11380,7 @@ stethoscope,B: 晚饭
 stethoscope,Biology
 stethoscope,Diktat
 stethoscope,Family Mental care
+stethoscope,NOTES（SKILL TEST）
 stethoscope,Update TestExeComparor program
 stethoscope,上班
 stethoscope,中山醫看診
@@ -10788,6 +11403,7 @@ stethoscope,工伤药费
 stethoscope,工作
 stethoscope,打疫苗
 stethoscope,执医
+stethoscope,执医-操作流程
 stethoscope,接班
 stethoscope,早整修
 stethoscope,查房
@@ -10803,6 +11419,7 @@ stethoscope,疫苗
 stethoscope,病咗 休息一天吧！！！
 stethoscope,看书
 stethoscope,看牙
+stethoscope,看牙醫
 stethoscope,看耳朵
 stethoscope,看醫生
 stethoscope,美宣問問題
@@ -10816,6 +11433,7 @@ stopwatch.fill,上课
 stopwatch.fill,使用两种静态扫描方式接入测试
 stopwatch.fill,准备上学 + 午饭
 stopwatch.fill,午休
+stopwatch.fill,复习认知
 stopwatch.fill,專注
 stopwatch.fill,拿店到店貨
 stopwatch.fill,提醒🔔
@@ -10830,8 +11448,10 @@ stopwatch.fill,自习课时【2】
 stopwatch.fill,自习课时【3】
 stopwatch.fill,自习课时【4】
 stopwatch.fill,读书群打卡
+stopwatch.fill,课内罪业
 stopwatch.fill,起床
 stopwatch.fill,起床了
+stopwatch.fill,起床啦
 stopwatch.fill,起床啦！
 stopwatch.fill,金姓同志一辩稿
 stopwatch.fill,问题复盘
@@ -10872,6 +11492,7 @@ sun.max.fill,吃饭
 sun.max.fill,喝水&巩固单词&洗漱🫧
 sun.max.fill,喝水&晨间冥想&洗漱🫧
 sun.max.fill,喝水&洗漱🫧&护肤
+sun.max.fill,喝水&洗漱🫧&收拾出门
 sun.max.fill,地理
 sun.max.fill,墨墨100
 sun.max.fill,墨墨200
@@ -10884,6 +11505,8 @@ sun.max.fill,拿快递拿水果
 sun.max.fill,操场👭
 sun.max.fill,收衣服上去晾
 sun.max.fill,放首音樂洗漱一下
+sun.max.fill,整理床铺、打开音频、烧水、上厕所、刷牙洗脸、护肤
+sun.max.fill,整理床铺、打开音频、烧水、刷牙洗脸、护肤
 sun.max.fill,日语
 sun.max.fill,早上好
 sun.max.fill,早上好☀️
@@ -10905,6 +11528,7 @@ sun.max.fill,晨間保養
 sun.max.fill,晨间
 sun.max.fill,晨间routine✨
 sun.max.fill,晾衣服
+sun.max.fill,曬衣服
 sun.max.fill,核酸/洗头/吃饭
 sun.max.fill,洗漱
 sun.max.fill,洗漱 早饭
@@ -10925,6 +11549,7 @@ sun.max.fill,芳宇老師家 開新厝
 sun.max.fill,视天气情况决定是否看电影
 sun.max.fill,订正答案，复盘
 sun.max.fill,起床
+sun.max.fill,起床&洗漱
 sun.max.fill,起床+早饭+玩游戏
 sun.max.fill,起床morning!
 sun.max.fill,起床、背书、吃早饭
@@ -10951,12 +11576,15 @@ sunrise.fill,Wake Up
 sunrise.fill,Wake up!今天的妳要比昨天更進步
 sunrise.fill,morning routine
 sunrise.fill,上班通勤
+sunrise.fill,你要变得更好哦，加油
 sunrise.fill,冥想
 sunrise.fill,冥想练习10分钟
 sunrise.fill,到校
 sunrise.fill,吃早餐
 sunrise.fill,喝早茶
 sunrise.fill,地理
+sunrise.fill,地理限时训练
+sunrise.fill,复习导图
 sunrise.fill,学校作业
 sunrise.fill,早晨准备
 sunrise.fill,早晨瑜珈
@@ -10995,6 +11623,7 @@ sunset.fill,Working day
 sunset.fill,人生
 sunset.fill,休息
 sunset.fill,午休
+sunset.fill,吃饭
 sunset.fill,喝熱水！
 sunset.fill,完成300字感悟
 sunset.fill,接水&洗漱&上厕所
@@ -11020,12 +11649,14 @@ sunset.fill,起床啦！
 sunset.fill,除夕
 sunset.fill,🌃おやすみ—
 tag.fill,上中医儿科学课
+tag.fill,上中医外科学课
 tag.fill,上体格检查实训课
 tag.fill,上手法课
 tag.fill,上温病学课
 tag.fill,上针灸学实验课
 tag.fill,上针灸学课
 tag.fill,中医儿科学见习
+tag.fill,中医儿科学（见习）
 tag.fill,中医外科学（见习）
 tag.fill,作文素材
 tag.fill,单词
@@ -11067,6 +11698,7 @@ text.badge.checkmark,JA 1 Assignments
 text.badge.checkmark,Login健康驛站
 text.badge.checkmark,Lunch
 text.badge.checkmark,Notion習慣追蹤器
+text.badge.checkmark,PMA大纲
 text.badge.checkmark,Physics
 text.badge.checkmark,Prep
 text.badge.checkmark,Preply
@@ -11137,8 +11769,10 @@ text.badge.checkmark,复习
 text.badge.checkmark,复习SectionA➕长篇阅读
 text.badge.checkmark,复习mkt
 text.badge.checkmark,复习processing
+text.badge.checkmark,复盘
 text.badge.checkmark,学习
 text.badge.checkmark,学习刑法第二个视频
+text.badge.checkmark,学习用notion
 text.badge.checkmark,学习答辩相关问题
 text.badge.checkmark,学日语（背+学单词/语法）
 text.badge.checkmark,学英语
@@ -11162,6 +11796,7 @@ text.badge.checkmark,数据库课程设计文档
 text.badge.checkmark,整理衣服
 text.badge.checkmark,數學1-2
 text.badge.checkmark,文字写作
+text.badge.checkmark,日常打卡，回顾反思与迭代
 text.badge.checkmark,日记
 text.badge.checkmark,晚饭
 text.badge.checkmark,普普城
@@ -11176,6 +11811,7 @@ text.badge.checkmark,爸妈视频
 text.badge.checkmark,物理直播回放一遍过
 text.badge.checkmark,玩手机
 text.badge.checkmark,画画
+text.badge.checkmark,病理学
 text.badge.checkmark,看unit2视频
 text.badge.checkmark,社會工作管理1.2
 text.badge.checkmark,社會題本
@@ -11240,6 +11876,7 @@ timer,全家領包裹$109
 timer,公民 7
 timer,动作 上传部门培训文档
 timer,喝奶
+timer,喝左旋
 timer,地科 7 訂正
 timer,整理《西游记》读书笔记
 timer,數學 11
@@ -11273,6 +11910,7 @@ tortoise.fill,偷偷干饭
 tortoise.fill,再次歇息
 tortoise.fill,冥想
 tortoise.fill,出门
+tortoise.fill,刑法
 tortoise.fill,划水
 tortoise.fill,午休
 tortoise.fill,午饭；休息
@@ -11287,6 +11925,7 @@ tortoise.fill,学习
 tortoise.fill,学英语+复盘
 tortoise.fill,小憩
 tortoise.fill,工作
+tortoise.fill,工作时间
 tortoise.fill,打工
 tortoise.fill,散步
 tortoise.fill,数学
@@ -11308,6 +11947,7 @@ tortoise.fill,练琴
 tortoise.fill,综应学习
 tortoise.fill,考研单词
 tortoise.fill,考研单词1
+tortoise.fill,考研英语
 tortoise.fill,背单词
 tortoise.fill,背单词日语+英语
 tortoise.fill,自习
@@ -11455,6 +12095,7 @@ tv.fill,做学校作业
 tv.fill,做编程C++
 tv.fill,全校加退選
 tv.fill,公专网课
+tv.fill,公考-行测
 tv.fill,写《付款报销流程ppt》
 tv.fill,写会议通知
 tv.fill,写作
@@ -11467,6 +12108,7 @@ tv.fill,准备上课
 tv.fill,准备出师材料
 tv.fill,刑法学习
 tv.fill,刘畊宏
+tv.fill,判断推理课
 tv.fill,制作体质PPT
 tv.fill,制作推文
 tv.fill,刷会视频
@@ -11479,6 +12121,7 @@ tv.fill,化学课
 tv.fill,化學反應工程
 tv.fill,单词
 tv.fill,历史
+tv.fill,去品图扫描
 tv.fill,听万词班第一课
 tv.fill,听力课+练习
 tv.fill,听课
@@ -11487,6 +12130,7 @@ tv.fill,咪挺
 tv.fill,問雅絹12月聘僱薪水vs離校時間
 tv.fill,單元操作
 tv.fill,固体力学
+tv.fill,国际保护
 tv.fill,图书馆
 tv.fill,報名高分子年會
 tv.fill,填写prefect邮件
@@ -11502,6 +12146,7 @@ tv.fill,学习语法课
 tv.fill,学会儿
 tv.fill,学而思课（第四讲）捕课
 tv.fill,學校
+tv.fill,學習 Frontend
 tv.fill,完成电商运营方案draft
 tv.fill,宏观视频
 tv.fill,实习
@@ -11596,6 +12241,8 @@ tv.fill,背单词
 tv.fill,背英语
 tv.fill,英文课
 tv.fill,英语
+tv.fill,英语网课
+tv.fill,英语语法课
 tv.fill,英语课
 tv.fill,蝦皮面試！！
 tv.fill,补课
@@ -11624,6 +12271,7 @@ tv.fill,追劇ㄉ快樂時間
 tv.fill,鍛鍊 with 韓劇-名不虛傳
 tv.fill,银行会计
 tv.fill,阅读
+tv.fill,阅读文献/明白课题
 tv.fill,電影ㄉ快樂時間
 tv.fill,面试
 tv.fill,项目管理
@@ -11641,8 +12289,10 @@ video.fill,BIOLAB
 video.fill,Ptech
 video.fill,Yaxi Catch-up weekly
 video.fill,zoom!
+video.fill,《网络传播概论》带读
 video.fill,上堂time
 video.fill,上課
+video.fill,传播学春季网课
 video.fill,何 听力课1
 video.fill,傳技展檔期
 video.fill,典籍里的中国
@@ -11652,12 +12302,15 @@ video.fill,剪视频
 video.fill,剪辑视频
 video.fill,同frd傾計
 video.fill,君主论ppt
+video.fill,实务网课
 video.fill,密集成长班 5
 video.fill,專心上堂📖
 video.fill,录制参赛视频
 video.fill,找房
 video.fill,拍攝+服裝展示照 修圖上傳
 video.fill,教育目的和制度
+video.fill,新闻史网课
+video.fill,流星3
 video.fill,电影🎬
 video.fill,直播
 video.fill,看剧
@@ -11713,6 +12366,7 @@ wand.and.stars,23课+记笔记-血液循环28上午1-3
 wand.and.stars,3/16 金融市重大修改、經濟問題會嚴重
 wand.and.stars,Beauty
 wand.and.stars,Dream
+wand.and.stars,FA3
 wand.and.stars,Finish 30 days challenge :D
 wand.and.stars,Galenic护肤
 wand.and.stars,Google PM
@@ -11775,6 +12429,7 @@ wand.and.stars,拿甲片
 wand.and.stars,提醒Magen TBC BB RT 優惠
 wand.and.stars,收拾房间
 wand.and.stars,整理及消毒教具
+wand.and.stars,整理房間
 wand.and.stars,整理房间
 wand.and.stars,整甲
 wand.and.stars,敷面膜
@@ -11793,6 +12448,7 @@ wand.and.stars,洗漱整理
 wand.and.stars,洗澡
 wand.and.stars,洗澡+休息
 wand.and.stars,洗澡敷面膜身体护理
+wand.and.stars,洗澡洗头
 wand.and.stars,洗碗
 wand.and.stars,洗衣服
 wand.and.stars,洗頭
@@ -11804,12 +12460,14 @@ wand.and.stars,清洁
 wand.and.stars,清潔油污與鍋具
 wand.and.stars,準備出門
 wand.and.stars,点亮星星✨
+wand.and.stars,物理小灯泡电功率错题整理
 wand.and.stars,画图
 wand.and.stars,画图（必选）
 wand.and.stars,画画
 wand.and.stars,瘦腿Time
 wand.and.stars,皮膚護理
 wand.and.stars,看计算机的题目
+wand.and.stars,眼神训练
 wand.and.stars,睡前 放松｜整理
 wand.and.stars,私处脱毛
 wand.and.stars,稿
@@ -11883,6 +12541,7 @@ wind,赶路
 wind,锻炼
 wrench.fill,17:00
 wrench.fill,finsh copper sculpture
+wrench.fill,上班
 wrench.fill,个人账号开发
 wrench.fill,事业单位
 wrench.fill,伪基站
@@ -11890,6 +12549,7 @@ wrench.fill,修牙刷
 wrench.fill,做实验
 wrench.fill,執屋抺地
 wrench.fill,工作時間
+wrench.fill,技术
 wrench.fill,抄物理报告
 wrench.fill,搞键盘
 wrench.fill,整體粉光
@@ -11950,6 +12610,8 @@ x.squareroot,刘
 x.squareroot,初中知识点
 x.squareroot,初数-绝对值4
 x.squareroot,刷题
+x.squareroot,刻意練習
+x.squareroot,刻意練習🌲
 x.squareroot,動腦時間
 x.squareroot,十三章例题
 x.squareroot,历年真题
@@ -12028,7 +12690,11 @@ x.squareroot,數學週攻略
 x.squareroot,數學週計畫
 x.squareroot,數學：白卷𝟭𝟬𝟴
 x.squareroot,數講2-1
+x.squareroot,數講4 -1
+x.squareroot,數講4 -2
 x.squareroot,數講4-1
+x.squareroot,數講4-2
+x.squareroot,數講4-3
 x.squareroot,新东方数学课
 x.squareroot,无理不等式
 x.squareroot,查房
@@ -12047,6 +12713,7 @@ x.squareroot,看数学第“一课 回放
 x.squareroot,看数学视频做数学题
 x.squareroot,看数学课
 x.squareroot,线代
+x.squareroot,线代任务拆解
 x.squareroot,线性代数
 x.squareroot,练习
 x.squareroot,组织行为学
@@ -12076,6 +12743,7 @@ x.squareroot,逻辑-第一章5（定义）
 x.squareroot,阿数
 x.squareroot,随机过程
 x.squareroot,高数
+x.squareroot,高数习题
 x.squareroot,高数习题时间
 x.squareroot,高数作业
 x.squareroot,高数刷题
@@ -12090,6 +12758,8 @@ x.squareroot,高数基础课（15）
 x.squareroot,高数基础课（16）
 x.squareroot,高数基础课（17）
 x.squareroot,高数基础课（18）
+x.squareroot,高数基础课（19）
+x.squareroot,高数基础课（20）
 x.squareroot,高数基础课（5）
 x.squareroot,高数基础课（5）剩余
 x.squareroot,高数基础课（6）
@@ -12106,6 +12776,7 @@ x.squareroot,高数基础（8）作业
 x.squareroot,高数基础（9）作业
 x.squareroot,高数复习
 x.squareroot,高数学习
+x.squareroot,高数时间
 x.squareroot,高数第10章
 x.squareroot,高数：第一章
 x.squareroot,高等代数作业
@@ -12128,6 +12799,7 @@ zzz,ちょっと休み
 zzz,上午上班    下午休息
 zzz,中饭&午休
 zzz,今天你也辛苦啦晚安晚安~
+zzz,休假
 zzz,休息
 zzz,休息/吃饭
 zzz,休息一下
@@ -12136,6 +12808,7 @@ zzz,健康床
 zzz,充电
 zzz,冥想
 zzz,午休
+zzz,午休sleeping.
 zzz,午休啦
 zzz,午休时间
 zzz,午休时间到
@@ -12190,6 +12863,8 @@ zzz,网课「数学」
 zzz,老婆贴贴+哄老婆睡觉
 zzz,與床相擁
 zzz,补觉
+zzz,補眠
+zzz,複習社會科
 zzz,起床
 zzz,閉目養神
 zzz,闭目休息

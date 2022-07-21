@@ -1,3 +1,0 @@
-# Martial Arts
-
-Status: Requested

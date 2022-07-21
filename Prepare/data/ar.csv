@@ -80,10 +80,12 @@ book.fill,Study english .
 book.fill,Study for P M A
 book.fill,Study portfolio management
 book.fill,Studying
+book.fill,Studying for the test
 book.fill,chemistry exam
 book.fill,remembrance said in evining
 book.fill,restore arabic sha3r
 book.fill,studying
+book.fill,أكمل أدرس كيمياء
 book.fill,إقرأي ١٠ صفحات إنجليزي
 book.fill,ادرس الكتب المدرسيه
 book.fill,اذاكر
@@ -187,6 +189,7 @@ clock.fill,في المدرسه
 clock.fill,مذاكرة أساسيات الحاسب
 cloud.drizzle.fill,استيقظ!
 cloud.fill,mask peeling face
+cloud.fill,اقرأ قرآن
 cloud.fill,عدم النوم بعد الفجر
 cloud.fill,فيزياء/4📚💙
 cloud.fill,قواعد
@@ -204,6 +207,7 @@ comb.fill,شامبو
 comb.fill,غسل الشعر
 comb.fill,ماسك شعر و وجه
 comb.fill,ماسك وزيت
+creditcard.fill,أختيار نموذج السيرة الذاتية
 creditcard.fill,البنك
 custom.ball,أنتر vs ميلان
 custom.ball,إسبانيول vs برشلونة
@@ -326,6 +330,7 @@ custom.shower,تروشي💗💗
 custom.shower,ترويش ولبس
 custom.shower,حمام بارد.
 custom.shower,شاور
+custom.shower,شاور (التركيز على الوجه والرجل)
 custom.shower,شور
 custom.shower,شوور
 custom.shower,عناية صباحية 🛁🧖🏻‍♀️💕
@@ -385,6 +390,7 @@ desktopcomputer,انمي كونان
 desktopcomputer,تعلم برامج ادوبي
 desktopcomputer,حفظ الحاسوب
 desktopcomputer,دروس الأنقلش
+desktopcomputer,صمي لمدة ساعتين
 desktopcomputer,كلنا اموات ، bad and crazy
 desktopcomputer,مراجعه ماده التوحيد
 desktopcomputer,مسلسل
@@ -441,6 +447,7 @@ envelope.fill,تسميع حديث شريف
 envelope.fill,حسبي ١٠٠
 exclamationmark.triangle.fill,اختبار الفيزياا يوم الاثنين حضوريييي !💔
 eyedropper,Skincare
+eyedropper,التطعيم
 eyedropper,مراجعة الإحياء
 eyeglasses,ألماني
 eyeglasses,دوام
@@ -453,10 +460,12 @@ figure.walk,ابدأ بالمشي !
 figure.walk,اذهب للمشي !
 figure.walk,اذهب للمشي في الخارج
 figure.walk,اصلي
+figure.walk,التخرج
 figure.walk,الخروج و التجول
 figure.walk,الذهاب للمدرسة
 figure.walk,المشي
 figure.walk,امشي 10000 خطوة
+figure.walk,تمارين زينه
 figure.walk,رياضة (ربع ساعه)
 figure.walk,رياضة المشي
 figure.walk,رياضة مشي
@@ -470,6 +479,7 @@ figure.walk,مشي وتنظيف
 figure.walk,٧٠٠٠ خطوة
 figure.wave,Grandma House 👵🏻
 figure.wave,خلطة جسم كريم
+figure.wave,كوي
 film.fill,تصميم ومونتاج
 film.fill,مشاهدة فلم
 flame.fill,Acretin
@@ -483,6 +493,7 @@ gamecontroller.fill,اجمع بريموز واستكشف مناطق
 gamecontroller.fill,افرم ارتفاكت لفنتي
 gamecontroller.fill,العب
 gamecontroller.fill,العب العاب الفديو
+gamecontroller.fill,العب ماينكرافت ⚔️
 gearshape.2.fill,Uni
 gearshape.2.fill,العمل
 gearshape.2.fill,بريك ساعة
@@ -493,11 +504,13 @@ hammer.fill,Cleaning my room
 hand.raised.fill,Read Almolk+ remembrance Athkar a sleep
 hand.raised.fill,استراحة مقاتل
 hand.raised.fill,دعاء العهد
+hand.raised.fill,قص اظافر
 hand.thumbsup.fill,healthy day
 hand.thumbsup.fill,ابصم دخول واسجل لو تأخرت
 hand.thumbsup.fill,اضافة توصيات رئيس القسم على الافادة
 hand.thumbsup.fill,تطبيق لتعلمته برامج ادوبي
 hand.thumbsup.fill,مراجعه لاختبار القران
+hare.fill,مراجعة
 headphones,استماع لبودكاست
 headphones,توكيدات هندة
 headphones,خذها قاعدة 9 : الحلقة 3
@@ -562,6 +575,7 @@ house.fill,تنظيف
 house.fill,تنظيف المنزل
 house.fill,وصلت البيت !😄
 icloud.and.arrow.up.fill,حفظ القوانين
+key.fill,اذكار الصباح /قراءة سورة البقرة
 keyboard,تفريغ حلقة التلجرام
 keyboard,عمل على تصميم
 keyboard,كتابة يوميات
@@ -585,6 +599,7 @@ lightbulb.fill,قراءة من كتاب
 link,صلاة الفجر
 link,صلواتي الخمس.
 link,نزار
+location.fill,بترول الافالاون
 mdi.alcohol,عصير طبيعي
 mdi.alcohol,مذاكرة المصادر 1️⃣❤️‍🔥
 mdi.bike,Playing with Amal ⚽️🚴🏻‍♀️
@@ -670,6 +685,7 @@ moon.fill,Sleep Well!
 moon.fill,Sleep wall !
 moon.fill,Sleep!
 moon.fill,اصلي الفجر و اتوضى
+moon.fill,الصلاة
 moon.fill,صلاة العشاء
 moon.fill,صلاة الوتر
 moon.fill,صلاتي
@@ -717,6 +733,7 @@ noun.coffee,غداء
 noun.coffee,فطور
 noun.coffee,قهوة
 noun.coffee,قهوة العصر
+noun.coffee,قهوة وصحصحة
 noun.coffee,كوب السيراميك .
 noun.coffee,كوفي
 noun.coffee,وقت احتساء القهوه
@@ -757,6 +774,7 @@ noun.meal,غسل المواعين 🍽
 noun.meal,فطور
 noun.meal,فطور ، وجبة الغداء
 noun.meal,نتسحر
+noun.meal,وجبة الإفطار
 noun.meal,وجبة السحور
 noun.meal,وجبة العشاء
 noun.meal,وجبة الغداء
@@ -829,6 +847,7 @@ pin.fill,أذكاري 🏷
 pin.fill,المحاضرات🗣✍🏻
 pin.fill,تركيب رموش
 pin.fill,تعلمي الطرق
+pin.fill,دراسة
 pin.fill,طباعة اوراق القدرات
 pin.fill,قراءة قران
 play.rectangle.fill,Read novel / watch youtube/ watch kdrama
@@ -878,12 +897,16 @@ star.fill,تجهيز لمساحة تويتر لبصيرة
 star.fill,صلاة الفجر
 star.fill,قراءة جزء من القرآن في اليوم
 star.fill,كوفي و شيشه و فيلم
+stethoscope,UCAT webinar
 stethoscope,اكمل MCQs كلها
+stethoscope,دراسة
 stethoscope,دراسة🫀
 stethoscope,قياس ضغط الدم فترة الصباح
 stethoscope,‏ حفظ قواعد
 stopwatch.fill,الاستيقاظ
+sun.max.fill,Morning routine
 sun.max.fill,أذكار الصباح
+sun.max.fill,إفطار + إستعداد للدوام
 sun.max.fill,اذكار الصباح
 sun.max.fill,الافطار + الفيتامينات+ عصير
 sun.max.fill,صلاة الضحى
@@ -904,9 +927,11 @@ text.badge.checkmark,Arrange your next day
 text.badge.checkmark,Study
 text.badge.checkmark,اصلي
 text.badge.checkmark,دراسة
+text.badge.checkmark,شرب ماء
 text.badge.checkmark,عباداتي
 text.badge.checkmark,عبادتي
 text.badge.checkmark,مراجعه التفسير
+timer,المعاصر ٢
 tortoise.fill,احياء
 tram.fill,Drive to the metro 🚈
 trash.fill,تنظيف
@@ -919,14 +944,17 @@ tv.fill,Tv show
 tv.fill,اتابع مسلسل او انمي
 tv.fill,اصمم
 tv.fill,البوصلة
+tv.fill,دراسة مادة الحاسوب
 tv.fill,دروس الأنقلش
 tv.fill,شاهدة فلم
+tv.fill,صور جزء من فيلم 🎞
 tv.fill,قاتل الشياطين
 tv.fill,مشاهدة التلفاز
 tv.fill,مشاهدة رن بانقتان
 tv.fill,مقطع مفيد
 tv.fill,هجوم العمالقة
 umbrella.fill,اذكار المساء
+umbrella.fill,تحضير اغراض البحر
 video.fill,Class recorded lab KSB -project
 video.fill,اتفرج على حلقة
 video.fill,حلقات الاهرامات
@@ -942,6 +970,7 @@ wand.and.stars,Snapchat
 wand.and.stars,care routine after wake up
 wand.and.stars,اظافر
 wand.and.stars,اظافر اجرين
+wand.and.stars,الاهتمام بالجسم
 wand.and.stars,تجهيز المكان
 wand.and.stars,تنظيف الغرفه
 wand.and.stars,سناب شات
@@ -980,6 +1009,7 @@ zzz,أذكار ما قبل النوم
 zzz,الاستعداد لنوم
 zzz,القيلولة
 zzz,النوم
+zzz,راحة
 zzz,غفوة
 zzz,غفوه بعد الدوام
 zzz,قيلولة

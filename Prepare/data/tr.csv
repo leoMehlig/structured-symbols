@@ -1,5 +1,6 @@
 label,text
 alarm.fill,Aufwachen!
+alarm.fill,Oyan
 alarm.fill,Uyan
 alarm.fill,"Uyan ve Kahve yap! Guzel birgun olacak, ne olursa olsun!"
 alarm.fill,Uyan!
@@ -42,6 +43,7 @@ bandage.fill,Bel bandajını değiştir
 battery.25,Break
 battery.25,Dinlenme
 bed.double.fill,Lavabo + odanı topla
+bed.double.fill,Yatak toplama
 bell.fill,ATM
 bitcoinsign.circle.fill,Trade
 bolt.car.fill,Dinlen
@@ -55,6 +57,8 @@ book.fill,30 soru Paragraf çöz
 book.fill,4. Saat 1/C
 book.fill,4/B 1. Ders
 book.fill,40 paragraf çöz
+book.fill,5. Saat
+book.fill,9. Saat
 book.fill,Almanca
 book.fill,Ayt kimya
 book.fill,Ayt kimya tekrar sindir
@@ -63,6 +67,7 @@ book.fill,Coğrafya konu anlatımı çalışması
 book.fill,Deep Work
 book.fill,Ders
 book.fill,Ders 1. Periyot
+book.fill,Ders Çalış
 book.fill,Ders çalış
 book.fill,Ders 📚
 book.fill,Ders; Doğa ve İnsan konu tekrar+40 soru
@@ -92,13 +97,16 @@ book.fill,TYT Türkçe çalış
 book.fill,Tarih konu anlatımı çalışması
 book.fill,Tb3
 book.fill,Tekrar
+book.fill,Workbook Unit 8
 book.fill,edebiyat sinavi
 book.fill,oc2 ilk ders tekrar
 book.fill,Ödevlerini bitir
 book.fill,İngilizce çalış
 bookmark.fill,Ders Etütü
 bookmark.fill,Matematik-Silsilə test toplusu
+briefcase.fill,Okula git
 briefcase.fill,School
+briefcase.fill,Toplumsal CİNSİYET (TEZ ÖDEVİ). 6 SAYFA => 150 TL KAZANÇ
 briefcase.fill,Vakıfta kına
 briefcase.fill,İş
 briefcase.fill,İşe git
@@ -107,19 +115,26 @@ burn,BRUSELLOZ
 burn,Youtube
 calendar,"Kredi ödemesi yarın 1810,44 ₺"
 camera.fill,Asus laptop fotoğraflarını çek
+car.fill,Eve Git
 car.fill,Trene yetiş
 car.fill,Yola çık
+car.fill,İşe gidiş
 cart.fill,Alışveriş
 cart.fill,MARKET
 chart.bar.fill,Geometri
 chart.bar.fill,K4 English
+chart.bar.fill,K4 English 2.Adım
 chart.bar.fill,PRICE ACTION
 chevron.left.slash.chevron.right,Code
 chevron.left.slash.chevron.right,Consul
+chevron.left.slash.chevron.right,Kodlama
 chevron.left.slash.chevron.right,TPWD
+chevron.left.slash.chevron.right,Çalış
 cloud.bolt.fill,Uyu
 cloud.fill,Kendine zaman ayır
+comb.fill,Giyin
 comb.fill,HAZIRLANMA
+comb.fill,Hair/Anziehen 👗
 comb.fill,Kişisel Bakım
 comb.fill,Kuaför
 comb.fill,Kıyafetler
@@ -195,6 +210,7 @@ custom.shower,Duş al
 custom.shower,Duş al ve hazırlan
 custom.shower,Duşa gir
 custom.shower,Duşa hazırlık ve duşşşş
+custom.shower,E-postaları yanıtla
 custom.shower,Kişisel bakım
 custom.shower,Saç
 custom.shower,Shower
@@ -210,6 +226,7 @@ custom.sit,Okul
 custom.sit,Serif Boy
 custom.sit,Yarına Hazırlık
 custom.toothbrush,Bakım (Banyo)
+custom.toothbrush,Diş Fırçalama
 custom.toothbrush,Diş Temizliği
 custom.toothbrush,Diş fırçala
 custom.toothbrush,Diş ve Dil Temizliği
@@ -237,6 +254,7 @@ drop.fill,10 Yudum Su
 drop.fill,Su iç
 drop.fill,Water
 envelope.fill,Epostalarını kontrol et
+envelope.fill,På Svenska/ Indirekt tal..uttal
 eyedropper,cilt bakımı yap!🧖🏻‍♀️
 eyeglasses,Ayt kimya vaf bul
 eyeglasses,Kitap oku
@@ -252,6 +270,7 @@ film.fill,Doctor Strange 2
 film.fill,Kalan herigilo izlegil
 film.fill,✨İroş Film Time!
 flag.fill,Boş zaman
+flag.fill,På Svenska Grammatik/ Substantiv/Adjektiv/Adverb
 flame.fill,Kuran
 gamecontroller.fill,Oyun
 gamecontroller.fill,Oyun Oyna
@@ -269,11 +288,13 @@ hare.fill,Yataktan çıkış
 headphones,Ara
 headphones,Dinlenme
 headphones,Muzo dinlegol
+headphones,Radyo dinle
 heart.fill,Bildirimleri cevapla
 heart.fill,Free Time
 heart.fill,Günlük sadaka
 heart.fill,Kişisel Bakım Yap
 heart.fill,Kuran Zikir
+heart.fill,Kırmızı Sınıf
 heart.fill,LOVE
 heart.fill,Masa lambası ve kitap gelecek
 heart.fill,Mola
@@ -287,8 +308,10 @@ house.fill,Odaları süpür
 house.fill,Çamaşır yıka
 house.fill,Ütü yap
 keyboard,Bilgisayar işleri hallet💻
+keyboard,Dualingo
 leaf.fill,Biyoloji (konu)
 leaf.fill,Sabah Sporunu Yap
+leaf.fill,Sukulentleri sula
 leaf.fill,Yemek ye
 leaf.fill,Yoga
 leaf.fill,orgu/ podcast
@@ -300,6 +323,7 @@ magnifyingglass,Fizik Çöz
 map.fill,Günün ve Yemeğin Planlaması
 map.fill,Günün ve Yemeğin Planlanması
 map.fill,Valiz Hazırla
+map.fill,İşe git
 mdi.alcohol,Boş zaman
 mdi.alcohol,Zencefil shot iç
 mdi.bike,Bisiklet
@@ -309,9 +333,11 @@ mdi.couch,Dinlenme
 mdi.couch,EV/ODA İŞLERİ
 mdi.couch,Ev süpürme
 mdi.couch,Evin Toplanması
+mdi.couch,Rahatlama
 mdi.couch,Temizlik
 mdi.ev.station,Duş/kahvaltı
 mdi.gas.station,Tuvtürk maslak
+mdi.instagram,Fotoğraf çekimi
 mdi.instagram,Sosyal Medya Paylaşmımlarını Kontrol Et
 mdi.pharmacy,Dişçiye gidilecek
 mdi.pharmacy,Kan kontrolü
@@ -328,6 +354,7 @@ mdi.relax,Strech
 mdi.relax,Tohum siparişi
 mdi.relax,cilt bakımı yap!🧖🏻‍♀️
 mdi.running,10 Dakika Yürü
+mdi.running,Dışarıda oyna ve boş zaman
 mdi.running,Hazırlan
 mdi.running,Hit Kardiyo
 mdi.running,Koşu
@@ -368,6 +395,7 @@ mdi.school,Öğle Arası
 mdi.school,Üni
 mdi.subway,Okula Git
 mdi.subway,Okula git.
+mdi.twitter,Sabah Namazı
 mdi.twitter,Yatsı Namazı
 mdi.twitter,Öğle Namazı
 moon.fill,5. Saat 1/B
@@ -465,6 +493,7 @@ pencil.and.outline,Edebiyat Soru Çözümü
 pencil.and.outline,Fonksiyonlarda uygulamalar test çöz
 pencil.and.outline,Geometri
 pencil.and.outline,Gunu Duzenle
+pencil.and.outline,Journaling
 pencil.and.outline,Makale
 pencil.and.outline,Paragraf
 pencil.and.outline,Soriyel yab
@@ -531,7 +560,12 @@ smiley.fill,Uyan-Tuvalet-Su İç
 smiley.fill,Yüz bakımı
 smiley.fill,Zsófia’yla zaman geçirmek
 speedometer,Mola
+speedometer,Pomodoro
+speedometer,Pomodoro AA
 speedometer,Öğün hazırlama
+star.fill,If types
+star.fill,På Svenska Avsnitt/6/7
+star.fill,TYT deneme çöz.
 star.fill,canta hazirla
 star.fill,is basvuru (yildizli)
 stethoscope,Bel bandajını değiştir
@@ -540,11 +574,13 @@ stethoscope,Biyoloji çalış
 stethoscope,Klinik
 stopwatch.fill,Mola
 stopwatch.fill,Paragraf çöz
+sun.max.fill,Rehberlik
 sun.max.fill,Serbest Zaman
 sun.max.fill,Spor
 sun.max.fill,Uyan
 sun.max.fill,Uyan!
 sun.max.fill,uyan🧡
+sunrise.fill,HATIRLATMA
 sunrise.fill,Sabah Namazı
 sunrise.fill,Sabah Rutini
 sunrise.fill,Sabah Sporunu Yap
@@ -587,6 +623,7 @@ video.fill,Kombinleri yap çek mağazada
 wand.and.stars,Giyin
 wand.and.stars,Hazırlan
 wand.and.stars,Led Lamba tamir verilecek
+wand.and.stars,Tarih Etütü
 wand.and.stars,Yatmaya hazırlan
 wand.and.stars,mat proje + ing konu sec
 wand.and.stars,mutfağı topla!🧽

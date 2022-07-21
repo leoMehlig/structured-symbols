@@ -1,3 +1,0 @@
-# Washing Machine
-
-Status: Ordered
